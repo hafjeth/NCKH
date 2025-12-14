@@ -1,0 +1,1339 @@
+EN EN EUROPEAN
+COMMISSION
+Brussels, 26.2.2025 SWD(2025) 58 final COMMISSION STAFF WORKING DOCUMENT
+Accompanying the document
+Proposal for a Regulation of the European Parliament and of the Council
+amending Regulation (EU) 2023/956 as regards simplifying and strengthening the
+carbon border adjustment mechanism {COM(2025) 87 final} 1
+1. Introduction The European Union has set itself the legal objective of becoming a climate-neutral and
+climate resilient continent by 2050 as enshrined in Regulation (EU) 2021/1119 on the
+European Climate Law1. These binding goals were specified in the Communications on
+the European Green Deal2 and on A Strong Social Europe for Just Transitions3, in which
+the Commission set the ambition to upgrade Europe’s social market economy to achieve a just
+transition to sustainability. In his report on ‘The Future of European Competitiveness’, Mario Draghi emphasised the
+need for Europe to create a regulatory landscape which facilitates competitiveness and
+resilience.4 In the Budapest Declaration on the New European Competitiveness Deal, EU
+Heads of State and Government called for ‘a simplification revolution, ensuring a clear,
+simple and smart regulatory framework for businesses and drastically reducing administrative,
+regulatory and reporting burdens, in particular for SMEs’.5 Multiple companies and
+stakeholders have voiced their concerns about the administrative burden resulting from a
+number of EU acts, including Regulation (EU) 2023/956 establishing a Carbon Border
+Adjustment Mechanism (‘CBAM Regulation’)6. In its Communication on the Competitive Compass for the EU, the Commission confirmed
+that it would deliver an unprecedented simplification effort to achieve the agreed policy
+objectives in the simplest, most targeted, most effective and least burdensome way. In its
+Communication entitled ‘A simpler and faster Europe: Communication on implementation
+and simplification’, the Commission set out an implementation and simplification agenda that
+delivers fast and visible improvements for people and business on the ground, requiring more
+than an incremental approach and underlining the need for bold action to streamline and
+simplify EU, national and regional rules.7 As part of the European Green Deal, the European Union introduced the Carbon Border
+Adjustment Mechanism (CBAM)8. CBAM is an environmental instrument that tackles
+carbon leakage by putting a carbon price on imports of CBAM goods. The CBAM applies to
+imports of certain goods and selected precursors: cement, iron and steel, aluminium,
+fertilisers, electricity and hydrogen. CBAM will apply with financial consequences as from
+2026, while the current transitional phase spans between 2023 and 2025. The experience
+gained during the first year and a half of CBAM implementation during the transitional phase
+shows that there is scope to simplify the CBAM while preserving its environmental integrity.
+The need for simplification was actively raised by all stakeholders both in the EU and outside,
+public authorities and business. A broad set of mutually reinforcing amendments are proposed 1 Regulation (EU) 2021/1119 of the European Parliament and of the Council of 30 June 2021 establishing the framework for
+achieving climate neutrality and amending Regulations (EC) No 401/2009 and (EU) 2018/1999 (‘European Climate Law’)
+(OJ L 243, 9.7.2021, p. 1).
+2 COM/2019/640 final
+3 COM/2020/14 final
+4 “The future of European competitiveness”, September 2024. 5 Budapest Declaration on the New European Competitiveness Deal, 8 November 2024. 6 Regulation (EU) 2023/956 of the European Parliament and of the Council of 10 May 2023 establishing a carbon border
+adjustment mechanism (OJ L 130, 16.5.2023, p. 52, ELI:  http://data.europa.eu/eli/reg/2023/956/oj).
+7 https://commission.europa.eu/document/download/8556fc33-48a3-4a96-94e8-
+8ecacef1ea18_en?filename=250201_Simplification_Communication_en.pdf
+8 Regulation (EU) 2023/956 of the European Parliament and of the Council of 10 May 2023 establishing a carbon border
+adjustment mechanism (OJ L 130, 16.5.2023, p. 52, http://data.europa.eu/eli/reg/2023/956/oj) (‘the CBAM Regulation). 2
+to facilitate the smooth implementation of CBAM and minimise its administrative burden
+while ensuring its environmental integrity. Simplifying CBAM is part of an unprecedented simplification effort by the European
+Commission, as set out in the Competitiveness Compass9. To ensure sustained and
+measurable efforts over the years ahead, the Commission has set ambitious quantified targets
+for reducing administrative burden: at least 25% for all companies and at least 35% for SMEs.
+One central element of the CBAM simplification package is to introduce a new CBAM de
+minimis threshold, which will allow to exempt occasional importers of small quantities of
+CBAM goods. For exempted importers, administrative costs related to the CBAM – that
+means all costs related to the compliance with CBAM other than the financial CBAM
+obligation - will be cut by almost 100%. As the majority of the exempted importers are SMEs,
+the CBAM simplification will contribute substantially to the Commission targets. This simplification package in itself is of key importance for ensuring the functioning of
+the CBAM. It is a crucial first step towards a strengthened and more effective CBAM that
+delivers on climate objectives without putting undue burden on businesses. Simplifying the
+CBAM will be key to making the mechanism work on the ground and support EU industry in
+its decarbonisation efforts by avoiding carbon leakage risks. Simplifying the mechanism
+would also be a key enabler for a potential future scope extension, notably to downstream
+goods. The present document discusses the proposed simplifications of the CBAM Regulation for the
+Omnibus legislative package. The document is organised in two main sections. Section 2
+focuses on the measures to simplify CBAM for small importers, outlining and assessing the
+proposal for a new de minimis threshold. Section 3 covers other simplifications that will
+benefit larger importers of CBAM goods and also operators in third countries. 2. Simplifying CBAM for small CBAM importers: A new de minimis threshold
+2.1
+Problem definition
+From the experience gathered during the ongoing transitional period, it has become clear that
+compliance with CBAM entails an administrative burden for EU importers, who need to
+obtain an authorisation to become CBAM declarants prior to the importation of CBAM
+goods, submit an annual declaration (based on actual emissions’ information received from
+their suppliers or on the use of default values with a markup), purchase and surrender CBAM
+certificates. To date, the experience from the reporting during the CBAM transitional period
+and from exchanges with Member States, industry stakeholders, international partners, third
+country operators, and NGOs have confirmed that the compliance burden is particularly
+onerous for occasional importers of small quantities of CBAM goods. The problem essentially concerns four CBAM industrial sectors, namely iron and steel,
+aluminium, fertilisers and cement.10 For these, customs import data from the first year of the 9 COM/2025/30
+10 In contrast, the problem of having a large number of occasional importers is not applicable to the other two CBAM sectors,
+electricity and hydrogen. In the case of electricity, the sector is instead characterised by imports of large volumes by a limited
+number of individual importers. The hydrogen sector is characterised by a very low number of importers overall. The
+customs data analysed show that there are only 64 importers of hydrogen across the EU-27, which together account for 92% 3
+transitional period of the CBAM (Q4 2023 – Q3 2024) show that roughly 80% of CBAM
+importers accounted for only 0.1% of all imported emissions embedded in CBAM goods, and
+only 10% of importers accounted for more than 99% of the emissions (see Figure 1 below).
+Several Member States submitted similar findings based on the analysis of their national
+customs data. Moreover, the median value of CBAM goods imported per (small) importer per
+year (that is, importing for example less than 50 tonnes of mass per year) is only around EUR
+1,600 (see Section 2.3.1 for more detail). Therefore, the administrative costs for small
+importers, which were estimated, in the 2021 impact assessment accompanying the
+Commission proposal11, to range from EUR 5,440 to EUR 6,900 per year12, are
+disproportionate compared to the value of goods imported into the EU by these small
+importers. Figure 1. Distribution of importers and distribution of emissions13 Source: Surveillance data (see footnote 20 for further details) analysed by the Commission for the four CBAM
+sectors included in the simplification: aluminium, cement, fertilisers, iron and steel. The current CBAM Regulation provides for a de minimis threshold based on the existing
+de minimis in customs legislation, which proves not to be fit for the purpose of
+maximising the CBAM’s effectiveness to fight carbon leakage while minimising its
+administrative burden. Article 2(3)(a) of the CBAM regulation exempts goods listed in of the overall emissions of the hydrogen sector. For these reasons, hydrogen and electricity are excluded from this proposal to
+exempt occasional importers of small CBAM quantities.
+11 See Impact Assessment Report of 14.7.2021 (SWD(2021) 643 final). Throughout the current Staff Working Document, the
+numbers taken from the 2021 Impact Assessment Report have not been adjusted for inflation.
+12 If default values are used for CBAM declarations (see Section 2.3.1).
+13 Based on customs import data from the first year (Q4 2023 – Q3 2024), CBAM goods were imported in the EU by
+approximately 200.000 importers. Of these, close to 58% were pure iron and steel importers, about 20% were pure
+aluminium importers and another 20% importers of both iron and steel and aluminium goods. The remaining 2% consisted of
+fertilisers importers (1%), cement importers (0.4%), and importers of other different combinations of CBAM goods (0.6%). It
+is estimated that the total yearly number of importers is approximately 200,000. The missing number of importers is
+extrapolated with the 175,000 analysed so far, representing 89% of overall emissions for the four CBAM sectors included in
+the simplification. 4
+Annex I to the CBAM Regulation from its scope provided that the intrinsic value of such
+goods does not exceed, per consignment, the value specified for goods of negligible value as
+referred to in Article 23 of Council Regulation (EC) No 1186/200914 - currently EUR 150.
+Based on the data collected during the ongoing transitional period, it can be concluded that
+this threshold has proven insufficient to exclude occasional importers of small CBAM
+quantities, responsible only for a very small fraction of GHG emissions and which are often
+small and medium-sized enterprises (SMEs), or individuals, from the scope of CBAM.
+Moreover, on 17 May 2023, the Commission put forward proposals for the reform of the EU
+Customs Union. If adopted, the proposed reform will abolish the current threshold whereby
+goods valued at less than EUR 150 are exempt from customs duty, because it is prone to a
+high risk of circumvention of the customs rules and distorts the level playing field for EU
+businesses.15
+There are a number of problematic issues in the design of the current CBAM de minimis
+threshold:
+1) The current threshold is too low. While the Commission impact assessment estimated
+around 20,000 CBAM importers per year, the analysis of customs data shows that
+there are 10 times more importers in scope of the CBAM16 many of which SMEs (see
+box 2 in section 2.3.1 for more detail). As described above, this leads to a higher
+administrative burden than anticipated, which is particularly onerous for occasional
+importers of small quantities of CBAM goods.
+2) The current threshold is expressed in monetary value. This is not a good indication for
+policy relevance, since the CBAM is based on embedded emissions. Analysis, using
+the Commission’s global default values at product level and Surveillance data, shows
+that mass is a better proxy for embedded emissions of importers than value for the
+current product scope, in line with the environmental objective of the CBAM. This
+will likely be even more the case, if and when the CBAM scope will be extended to
+downstream products, where the CBAM goods are representing only parts of the
+imported products. While the decisions on the future scope are not yet taken, it is
+important to design a system that is future-proof to provide legal and planning
+certainty. 3) The current threshold is applied on a consignment-basis. This poses problems in terms
+of circumvention risks, which led the European Union to abolish the EUR 22 VAT
+threshold17 and the European Commission to propose abolishing the EUR 150
+threshold for customs duties. Moreover, such an approach is insufficiently tailored to
+occasional importers of small CBAM quantities: Some large importers would also
+benefit from such an exemption, because some of their consignments would be below
+the consignment-threshold despite having over the year material CBAM imports.
+Conversely, a significant number of occasional importers of small quantities – as
+measured by estimated annual emissions in their imports - would not be exempted, 14 This threshold is based on Council Regulation (EC) No 1186/2009 of 16 November 2009 setting up a Community system
+of reliefs from customs duty. 15 The estimated savings from the proposed measures do not overlap with estimated savings from the UCC reform. While
+there are strong synergies between the Customs reform proposal, notably the strengthened EU customs risk management and
+the establishment of a central EU Customs Data Hub, which will facilitate enforcement of the CBAM, all savings estimated
+in this document are CBAM-specific.
+16 This assessment is based on Surveillance data. 17 Council Directive (EU) 2017/2455 5
+because they would have one or a few consignments above such a threshold (See
+section 2.2.1 for more details). From a policy perspective, what matters for CBAM,
+and its environmental objective, are annual emissions embedded in CBAM goods
+imported into the Union. In addition to the administrative costs for occasional importers, the high number of CBAM
+importers currently in scope by consequence implies a high burden on authorities, notably
+national competent authorities (NCAs). An effective CBAM relies on effective monitoring
+and enforcement. Under the current rules, NCAs would need to check and ensure compliance
+for a large population of importers. The overwhelming majority of them import goods with a
+very limited number of embedded emissions. This would absorb resources that could
+otherwise be devoted to monitor and ensure compliance of imports with material levels of
+emissions. 2.2
+Proposed way forward
+Based on the data collected throughout the ongoing transitional period, the Commission
+proposes an informed amendment to the current de minimis threshold to reduce administrative
+costs for all actors involved, notably SMEs, while preserving the environmental integrity of
+the CBAM. This is achieved by amending the threshold and setting a target of at least 99% of
+emissions to remain in the scope. By exempting less than 1% of emissions the amendment
+would preserve the environmental objective of the CBAM. Given the above, this proposal consists in an exemption based on an annual cumulative
+mass threshold of imports in the four industrial CBAM sectors per importer. A mass-
+based threshold of 50 tonnes is proposed to ensure that more than 99% of emissions are
+maintained in the scope. The mass-based threshold is calculated to translate the emissions
+objective of maintaining more than 99% emissions in scope based on a methodology using
+customs import data and the Commission’s global default values (see Box 1 for more detail).
+The threshold would be updated for the subsequent year, if the methodology to derive the
+mass-based threshold ensuring that at least 99% emissions are in scope results in a threshold
+that deviates by more than 5 tonnes from the threshold chosen pursuant to paragraph 1 of this
+Annex of the CBAM regulation.
+Importers that are below this threshold will be exempted from the CBAM authorisation and
+declaration obligation and from the obligation to purchase CBAM certificates. They will need
+to self-identify as “occasional CBAM importers” when lodging their customs declarations and
+monitor that they do not exceed the threshold over the year. Compliance with the threshold
+will be monitored by Commission and national authorities, based on Customs import data.
+This will be paired with strong anti-abuse provisions and will be subject to regular reviews
+to assess the robustness of the threshold in 2027 and every two years thereafter. The proposed
+exemption will allow the Commission and national authorities to focus their monitoring and
+enforcement on importers representing a material share of imports of CBAM goods, therefore
+strengthening the effectiveness of the CBAM, increasing the protection for EU industries
+against carbon leakage, and supporting decarbonisation efforts. By making the CBAM more
+administratively manageable, this simplification will also enable a potential future scope
+extension of the CBAM to a broader range of sectors, notably for downstream products,
+which is also an important step to address certain circumvention practices. The proposed way
+forward would also alleviate CBAM related reporting burden on third country producers. 6
+2.2.1 An easily implementable and environmentally robust threshold A simplification that maintains the environmental integrity of CBAM. Different levels of
+mass were assessed for the determination of the threshold, ranging from 10 to 500 tonnes (see
+Table 1). The choice of a threshold of 50 tonnes per year per importer is guided by two dimensions:
+1) Preserve the environmental integrity of the CBAM 2) Conditional to one, maximise the benefit in terms of reduced administrative burden CBAM is an environmental measure. The proposed simplifications should not reduce the
+effectiveness of the CBAM as a climate instrument. With this in mind, it is proposed to set out
+in the Regulation a target of emissions that need to be maintained in scope. Taking also into
+account cost-benefit considerations, a target of maintaining at least 99% of emissions was
+chosen. Such a target would both maximise the benefits from simplification and ensure that
+only a negligible volume of emissions is exempted compared to the total. It also allows for
+making the exemption future-proof (see section 2.2.1). Based on a robust methodology (see Box 1), this emissions-target is translated into a
+cumulative mass-based threshold of 50 tonnes per importer per year. Considering the
+weighted average emission intensity across all four sectors (iron and steel, aluminium,
+fertilisers and cement), the 50 tonnes mass-based threshold corresponds to approximately 80
+tonnes of CO2 equivalent on average per importer.18 Such a mass-based threshold would
+allow for exempting an estimated 182,000 importers (91% of total number of importers),
+representing less than 1% (i.e. 0.73%) of the total emissions of the imports across the four
+CBAM sectors considered (iron and steel, aluminium, cement, fertilisers). Table 1. Distribution of exempted importers and emissions for different annual mass-
+thresholds in tonnes19
+Annual thresholds
+in tonnes
+Percentage of
+importers
+exempted
+Percentage of
+emissions from
+exempted
+importers
+Estimated
+remaining
+number of
+importers
+Percentage of
+emissions from
+remaining
+importers
+0
+0%
+0%
+200,000
+100%
+10
+83%
+0.19%
+34,000
+99.81%
+30
+89%
+0.49%
+22,000
+99.51%
+50
+91%
+0.73%
+18,000
+99.27%
+70
+92%
+0.94%
+16,000
+99.06%
+150
+94.5%
+1.62%
+11,000
+98.38%
+250
+96%
+2.30%
+8,000
+97.70%
+500
+97%
+3.57%
+6,000
+96.43%
+Source: Commission’s analysis based on Surveillance data. 18 For each importer, the corresponding emissions are calculated by multiplying the quantity imported for each CN code by
+its corresponding emission intensity (see Box 1 for further details). The weighted average emission intensity of 1.55 tCO2/t
+across all four sectors (iron and steel, aluminium, fertilisers and cement) is calculated by dividing the total emissions (that is
+the sum of emissions across all importers) by the total volume in tonnes imported by these importers. 19 The table covers the four CBAM sectors included in the proposed simplification: aluminium, cement, fertilisers, iron and
+steel. Its interpretation should be as follows: 83% of all CBAM importers have imported less than 10 tonnes of these four
+CBAM goods from October 2023 to September 2024 and account for 0.02% of all emissions. It is estimated that the total
+yearly number of importers is approximately 200,000. The column on “estimated remaining number of importers”
+extrapolates the missing number of importers with the 175,000 analysed so far, representing 89% of overall emissions for the
+four CBAM sectors included in the simplification. 7
+Box 1. Methodology to determine the mass threshold The mass-threshold is set to ensure that at least 99% of embedded emissions are covered by
+CBAM, which, in turn, preserves the environmental objectives of the mechanism. In order to do so, the emissions embedded in the quantities imported need to be estimated. For
+the implementation of this calculation, customs data from 1 October 2023 to 30 September
+2024 were used. These correspond to the first 12 months of CBAM transitional regime and
+are provided to the Commission through the surveillance system.20,21 For each customs declaration, the amount of corresponding CO2 emissions is calculated by
+multiplying the volume imported for each CN code with the corresponding Commission’s
+global default value (without mark-ups) for emissions published for the transitional period. As
+per the CBAM Regulation, for cement and fertilisers direct emissions and indirect emissions
+are considered, while for aluminium and iron and steel only direct emissions are considered.
+The volumes imported and corresponding CO2 emissions (see Equation 1 below) are then
+aggregated at importer-level: Equation 1: 𝐹𝑜𝑟 𝑎 𝑔𝑖𝑣𝑒𝑛 𝑖𝑚𝑝𝑜𝑟𝑡𝑒𝑟 𝑖, 𝐸𝑚𝑖= ∑𝑞𝑖,𝑗𝐸𝐼𝑗
+𝐽𝑖
+𝑗=1 where: -
+𝑞𝑖,𝑗 is the imported volume in tonnes by importer 𝑖 of the CN code 𝑗, -
+𝐽𝑖 is the number of CN codes imported by importer 𝑖 among the four sectors considered (aluminium,
+cement, fertilisers, iron and steel), -
+𝐸𝐼𝑗 is the emission intensity for CN code 𝑗.22 For a given annual threshold in tonnes of volume imported, importers that would not be
+exempted are identified and the corresponding proportion of overall emissions captured is
+calculated (see Equation 2 below for a given mass-threshold of 𝑄̅ tonnes): Equation 2:
+𝑝𝑟𝑜𝑝𝑜𝑟𝑡𝑖𝑜𝑛 𝑜𝑓 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠 𝑐𝑎𝑝𝑡𝑢𝑟𝑒𝑑 𝑓𝑜𝑟 𝑎 𝑚𝑎𝑠𝑠−𝑡ℎ𝑟𝑒𝑠ℎ𝑜𝑙𝑑 𝑜𝑓 𝑄̅ 𝑡𝑜𝑛𝑛𝑒𝑠=
+∑
+𝐸𝑚𝑖
+𝑁
+𝑖=1
+× 1(𝑄𝑖> 𝑄̅)
+𝑇𝑜𝑡𝑎𝑙 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠 where: -
+𝑄̅ is the mass-threshold in tonnes allowing to capture a given target share of emissions (see paragraph
+below); 20 The Commission surveillance system ("customs surveillance") records and centralises all trade data (import and exports)
+directly from the national customs authorities on a daily basis. For each transaction, the stored data contain the information
+available on the Single Administrative Document (SAD), including the volume and origin of the consignment. According to
+Art.55(2) of Commission Implementing Regulation (EU) 2015/2447, the customs authorities shall provide the Commission at
+least once a week with data on customs declarations for the goods that have been made subject to surveillance at release for
+free circulation or at export.
+21 It should be noted that for some Member States, customs data provided in the surveillance system do not contain the
+Economic Operators Registration and Identification (EORI) identifiers for the importers for the full period considered. For
+these Member States, customs data from the surveillance system are therefore supplemented by customs data provided
+separately to the Commission. Overall, the customs data used in the simplification analysis include approximately 175,000
+importers, representing 89% of the emissions for the four CBAM sectors (aluminium, cement, fertilisers, iron and steel).
+22 For the purpose of defining the 50 tonnes mass-threshold, the emission intensities 𝐸𝑗 are based on default value (without
+mark-ups) for emissions published for the transitional period. As per the CBAM Regulation, for CN codes in cement and
+fertilisers, direct emissions and indirect emissions are considered; for CN codes in aluminium and iron and steel, only direct
+emissions are considered. 8
+-
+𝑄𝑖= ∑
+𝑞𝑖,𝑗
+𝐽𝑖
+𝑗=1
+: the total volume in tonnes of CBAM goods imported by importer 𝑖, -
+1(𝑄𝑖> 𝑄̅) is an indicator function equal to 1 when 𝑄𝑖> 𝑄̅ (that is, when an importer is importing
+volumes higher than the mass-threshold 𝑄̅), 0 otherwise,
+-
+𝑇𝑜𝑡𝑎𝑙 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠 : the total emissions in CO2 of the four CBAM sectors considered, that is the sum of
+corresponding emissions for all importers: 𝑡𝑜𝑡𝑎𝑙 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠= ∑
+𝐸𝑚𝑖
+𝑁
+𝑖=1
+, where 𝑁 is the number of
+importers. The proposed mass-threshold is set based on the following methodology: a) At least 99% of emissions should be captured, in order to preserve the environmental
+integrity of the CBAM (see Equation 3); Equation 3:
+𝑄̅ 𝑐ℎ𝑜𝑠𝑒𝑛 𝑠𝑢𝑐ℎ 𝑡ℎ𝑎𝑡
+∑
+𝐸𝑚𝑖
+𝑁
+𝑖=1
+× 1_(𝑄𝑖> 𝑄̅)
+𝑇𝑜𝑡𝑎𝑙 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠
+≥𝑡𝑎𝑟𝑔𝑒𝑡 𝑠ℎ𝑎𝑟𝑒 𝑜𝑓 𝑒𝑚𝑖𝑠𝑠𝑖𝑜𝑛𝑠 𝑜𝑓 99% b) To capture uncertainty over future trade patterns while maintaining the environmental
+objective, a margin of 0.25 percentage points is added to the 99% emissions target. c) For simplicity, the mass-threshold is rounded to the nearest ten, e.g. if a value of 52
+tonnes would result in 99.25% emissions captured it would be rounded down to 50
+tonnes, if a value of 57 tonnes would result in 99.25% emission captured, it would be
+rounded up to 60 tonnes. Based on a-c, the threshold is set at 50 tonnes mass per importer per year. To make this approach future-proof, a mechanism is introduced to ensure that the emissions
+target share is met, even if trade patterns evolve or default values are updated. By July of each
+calendar year, the Commission shall, based on data covering a reference period of 12 months
+preceding the month of this assessment, assess whether the value derived from the
+aforementioned methodology deviates by more than 5 tonnes from the threshold laid down in
+point 1 of Annex VII. Where this is the case, and in accordance with the empowerment laid
+out in Article 2(3a) of this Regulation, the Commission shall update the threshold. Figure 2 below also illustrates the environmental integrity of the CBAM (proxied by the red
+curve illustrating the percentage of emission from non-exempted importers) against the
+proportion of importers exempted (blue curve). 9
+Figure 2. Distributions of importers exempted against emissions of non-exempted
+importers Source: Commission’s analysis based on Surveillance data.
+Note: Line A corresponds to a threshold of 10 tonnes, line B to 30 tonnes, line C to 50 tonnes, line D to 70
+tonnes, line E to 150 tonnes, line F to 250 tonnes, line G to 500 tonnes. A targeted and robust threshold, maximising benefits and limiting circumvention risks.
+The proposed approach changes the logic from a current consignment-based threshold to an
+annual cumulative threshold at importer level. This would allow for a more targeted and
+robust exemption than a consignment threshold. Differences in CBAM compliance burden are
+most pronounced at the margin between being part of the CBAM scope or not. This is because
+many compliance steps are either done once or on an annual or quarterly basis. For example,
+obtaining the status of authorisation CBAM declarant is done once. Complying with the rule
+to have a sufficient number of CBAM certificates on the account (See also Section 3.4.1) is a
+quarterly obligation. Complying with the CBAM declaration and financial obligations is an
+annual exercise. This means that the measure of efficiency for the threshold is not to
+maximise the number of exempted consignments given a certain in-scope emission level, but
+to maximise the number of exempted importers. Put differently, the reduction in
+administrative costs of having a consignment out of scope for importers that are otherwise in
+scope of the CBAM is negligible, as most of the administrative costs arise anyway. In this respect, the annual cumulative threshold is clearly superior: For example, with the
+same emission target (e.g. 99.27% emissions in scope with an annual threshold of 50 tonnes)
+approximately 79% of importers would have been exempted under a consignment approach,23
+which is 12 percentage points less than under the annual threshold approach (i.e. an estimated
+24,000 fewer companies that would benefit from the exemption). Moreover, amongst the
+importers that import less than 50 tonnes per year, approximately 13% of these importers have
+consignments above the consignment-threshold and would therefore not be exempted under a
+consignment approach. Last, amongst the importers that import more than 50 tonnes per year, 23 The analysis shows that a consignment threshold around 2.6 tonnes would allow to capture approximately 99.27% of the
+overall emissions. An importer is exempted if all its consignments are below the consignment-threshold. 10
+almost all of them have consignments below the consignment-threshold, and 25% of
+consignments are in average below the consignment-threshold. In addition, a consignment-based threshold is prone to higher circumvention risks (such as
+from artificial splitting of consignments). This is not the case with an annual cumulative
+threshold. A simple implementation with the use of a mass-based threshold for importers. In their
+analysis, Commission services considered as an alternative a threshold expressed in CO2
+emissions instead of the mass-based threshold. However, this alternative was discarded with a
+view to simplifying application for importers. Various stakeholders (Industry representatives
+and NGOs) expressed a strong preference for a mass-based approach, among others at a
+stakeholder event on 6 February. Importers, and particularly occasional importers of small
+quantities, are unlikely to be aware of the levels of emissions embedded in their goods –
+which is precisely part of the administrative burden that this proposal aims to cut. If the
+threshold was expressed in emissions, importers would have to self-monitor their import
+volumes for each of the CN codes that they import and multiply these with the default values
+on emission intensities of those CN codes. In contrast, the proposed mass-based threshold
+both ensures that the overall emission target is achieved (that is, more than 99% of emissions
+are captured by the remaining importers) and facilitates implementation, as importers can self-
+monitor their compliance with the threshold entirely based on data provided for the customs
+declaration, thereby reducing the administrative costs to the lowest levels possible. This choice entails some trade-offs. CBAM products are characterised by divergent emission
+intensities, which cannot be captured individually by a mass-based threshold. This creates the
+theoretical possibility that importers, which would have been exempted under a hypothetical
+emissions-based threshold equivalent to the 50 tonnes mass-threshold, which is approximately
+80 tonnes of CO2 equivalent, would now not be exempted. This said, analysis suggests that
+such cases only materialise rarely in reality: based on the same methodology used to derive
+the threshold, less than 0.05% of all importers would not be exempted based on the
+cumulative mass-based threshold of 50 tonnes, while their emissions embedded in their
+imports would be below the hypothetical emissions-equivalent threshold of approximately 80
+tonnes of CO2 equivalent. This means that the loss of accuracy resulting from a simpler
+design of the threshold affects less than 100 importers, while it benefits the more than 180,000
+other importers that will have fewer administrative costs related to the monitoring of their
+compliance with the threshold.
+Another alternative, somewhat in between an emissions-based threshold and a single mass-
+based threshold, would have been to express the mass-based threshold per sector (i.e., four
+mass-based thresholds), aiming to capture divergences in emission intensities between
+sectors. However, this option was discarded as it would have introduced the possibility that
+importers who import goods from more than one sector remain under the respective sectoral
+mass-thresholds while importing up to four times more tonnes compared to importers who are
+only active in one CBAM sector. A future proof threshold. This approach set out in 2.2.1 and as detailed in Box 1 is future
+proof. It is anchored around a clear and unambiguous emission-target share of at least 99%
+of emissions, fully reflecting the environmental objective of the CBAM. This target will
+remain valid over time, and would also be appropriate, if and when there was a decision to
+extend the sector to other EU ETS sectors at risk of carbon leakage or to downstream
+products. Moreover, the methodology translating the 99%-target into practical application is
+designed to dynamically align to changes in trade patterns and/or the level of emission 11
+intensities, ensuring that also going forward, the environmental objective of the CBAM is
+fully preserved. 2.2.2 What does the simplification mean for importers?
+A simplified operationalisation for importers. Importers that expect to stay below the
+annual cumulative threshold, and thus qualify for the exemption, can, when lodging an import
+declaration for a CBAM good, self-identify as an occasional CBAM importer and thereby be
+granted a derogation from the authorisation obligation. These importers would not be required
+to take any additional administrative steps and would not have to access the CBAM Registry.
+At any time during the year, a self-identified occasional importer can decide to apply for the
+status of an authorised CBAM declarant in case it expects to exceed the de minimis threshold. Throughout the year, importers would self-monitor the volume of their imports to estimate
+and examine whether the mass-based threshold is reached. Defining the threshold in “mass”
+facilitates the monitoring as importers would be able to check their compliance with the
+threshold not based on emission intensities but on mass of imports only, which is data they
+already provided in the customs declaration and thus already available. The obligation is thus
+limited to the summation of the quantities of imported CBAM goods. Certainty for exempted importers. Importers should have certainty about their status –
+whether they are exempted or not. This is not a concern for large importers whose imports
+clearly exceed the threshold - these know that they are not exempted. It is also not a concern
+for importers that are importing at very low levels. Therefore, only importers with import
+activities around the selected threshold will face some administrative burden in terms of
+projecting whether they expect their imports over the calendar year to remain below the
+threshold. Estimates suggest that around 2700 importers are importing at levels +/-15% of 50
+tonnes of mass. These are only around 1.3% of the total number of importers, meaning that
+a 50 tonnes mass-threshold would provide reasonably levels of planning certainty for more
+than 98.5% of all importers of CBAM goods. Calculation of the CBAM financial adjustment for importers above the thresholds. The
+new CBAM de minimis will not affect the calculation of the CBAM financial adjustment for
+importers above the threshold. Importers who expect to exceed the threshold during the
+calendar year must apply for authorisation. If they indeed exceed the threshold, the CBAM
+financial adjustment will be calculated against all imports of CBAM goods.
+An alternative design, which would provide for a deduction for importers above the threshold
+of emissions equivalent to the mass threshold was discarded for the following reasons:
+• Allowing for the deduction of the embedded emissions below the 50 tonnes mass
+threshold also for large CBAM importers would almost triple the number of exempted
+emissions – from 0.73% of total emissions to 1.98% of total emissions. This is due to
+the fact that all large importers would get a rebate of the full emissions equivalent of
+the 50 tonnes mass threshold (after accounting for any reporting based on actual
+values and the deduction of the CBAM factor), whereas the vast majority of exempted
+importers imports quantities substantially below the threshold, thus benefiting less in
+absolute terms from the exemption to acquire CBAM certificates. • Such a deduction would not provide any added value in terms of reduction in
+administrative costs, as they only apply to importers that are in scope of CBAM and
+therefore have to comply with all reporting and financial obligations anyway. 12
+2.2.3 Compliance and Circumvention risks
+The proposed simplification will allow authorities to focus their efforts on ensuring
+compliance by large importers, instead of ensuring compliance of a large number of small
+players. Monitoring, detecting circumvention and enforcement. Monitoring will be conducted on
+the basis of customs data obtained in the Surveillance system, allowing the Commission to
+have an EU-wide approach for all imports into the Union. The CBAM Regulation will be
+amended to specify that the Commission and NCAs for CBAM are jointly responsible for the
+monitoring of occasional importers and for detecting those who exceed the threshold.24 Where
+the Commission detects that an importer has exceeded the threshold, it shall inform the NCA
+and the NCA will establish whether the threshold has been exceeded. National customs authorities who receive information from the NCA that an importer has
+exceeded the threshold must not allow the importation of further CBAM goods by this
+importer, in accordance with Article 25(1) of the CBAM Regulation. In addition, occasional
+importers who have exceeded the threshold without previously having obtained an
+authorisation will be liable for the payment of a penalty. If the importer wants to resume the
+import of CBAM goods once the threshold was exceeded, then it will have to obtain the status
+of ‘authorised CBAM declarant’, submit a CBAM declaration and surrender certificates
+corresponding to these additional imports. Limited risks of circumvention under a robust monitoring system. While an annual
+threshold is not prone to circumvention risks that are known from the application of
+consignment-based de minimis thresholds such as artificial splitting of consignments, one
+circumvention risk that may arise is that importers may artificially split their imports across
+different subsidiaries or related entities, each with a different EORI number (“artificial split of
+EORI numbers”). Such a scheme would enable each subsidiary to remain below the threshold
+while at group level, they would import in total a quantity exceeding the threshold. However,
+such a scheme may be costly and cumbersome to set up and it is not evident that the benefits
+would outweigh the costs: the proposed annual threshold of 50 tonnes would only represent
+around EUR 4000 CBAM financial obligation on average per importer per year.25 Moreover,
+Commission services and other authorities will be able to track changes in import patterns
+and, analysing customs data combined with other data sources, will be able to detect material
+circumvention schemes. Strengthening of anti-abuse provisions. The CBAM Regulation will also include
+strengthened anti-abuse provisions, with an explicit reference to cases of “artificial split of
+EORI numbers”, and will provide for extended empowerments for authorities to act upon
+non-compliance and circumvention activities. In particular, NCAs will be able to apply
+penalties where companies have artificially split their imports over separate importers with
+different EORI numbers for the main purpose of avoiding CBAM obligations. Lastly, thanks
+to the simplification, CBAM authorities will also be able to focus resources on major
+circumvention risks. 24 While these efforts will be of high importance to ensure the effectiveness of CBAM, they will entail much lower
+administrative burden for authorities than what would be required without a new de minimis provision.
+25 This is based on the following calculations: (i) 50 tonnes multiplied by (weighted) average emission factor across the four
+CBAM sectors of 1.55 implied 77.5 tonnes CO2 eq., (ii) an effective carbon price (i.e., taking into account gradual phase in
+of CBAM) at EUR 50. 13
+Continuous monitoring of the robustness of the threshold. Finally, it is proposed that the
+Commission will monitor the robustness of the threshold in terms of circumvention risks,
+including through the biennial report reviewing the functioning of the CBAM as set out in
+Article 30 (6) of the CBAM Regulation. 2.3
+Impact and quantification of the savings
+As mentioned above, introducing a de minimis threshold of 50 tonnes will free tens of
+thousands of small importers from any administrative burden related to CBAM, as well as
+alleviate the burden on public authorities. At the same time, there will be some loss of
+revenues. This section discusses the cost-benefit analysis. As regards the cost savings from a new de minimis, two categories are considered. The first category corresponds to cost savings for exempted importers since no
+administrative costs will apply to them. As explained below, this amounts to approximately
+EUR 1,123 million per year. The analysis of the profile of exempted importers also shows that
+mostly SMEs benefit from these cost-savings, as they make up at least 74% of the companies
+affected by the exemption. Cost savings for SMEs would therefore amount to at least EUR
+831 million.26
+The second category corresponds to cost savings for public authorities in Member States,
+due to lower implementation and enforcement costs with the exemption applying to 91% of
+importers of CBAM goods. This amounts to approximately EUR 87.5 million.
+The aggregated costs savings (i.e., across importers and public authorities) are then compared
+to the loss of revenue from the new de minimis, estimated at 1% of expected CBAM revenues.
+As explained below, the cost-benefit analysis shows that the new de minimis of 50 tonnes
+of mass would lead to an overall net benefit of EUR 1,189 million. Nevertheless, it should
+be recalled that the collection of revenues is not the primary objective of CBAM. This section focuses on impacts that are quantifiable with the available data. As set out in
+section 2.1 and 2.2, there will be also other entities that indirectly benefit from this exemption.
+For example, narrowing down the number of importers in the EU to those importing large
+quantities, inevitably narrows the scope of the supply chain affected upstream. The new
+CBAM de minimis will thus also benefit third-country operators in the form of reduced
+administrative costs.
+2.3.1 Estimated cost savings for small importers
+A 50 tonnes mass threshold would lead to the exemption of 91% of importers for the CBAM
+sectors considered in the simplification, namely aluminium, cement, fertilisers, iron and steel.
+This represents an estimated 182,000 exempted importers, who are the main target of the
+simplification.27 26 See Better Regulation toolbox (https://commission.europa.eu/law/law-making-process/planning-and-proposing-law/better-
+regulation/better-regulation-guidelines-and-toolbox/better-regulation-toolbox_en), Chapter 22.
+27 Without the proposed new de minimis threshold of 50 tonnes of mass, some of the importers of CBAM goods could change
+their behaviour and no longer import. For the purposes of this analysis, such behavioural change is not considered. This is 14
+The 2021 impact assessment accompanying the Commission proposal estimated that
+administrative costs for importers would be in the range of EUR 5,440 to EUR 6,900 per year,
+under the situation where CBAM declarants use default values for emissions. Under the
+situation where CBAM declarants would report actual emission values, the yearly
+administrative costs would be in the range of EUR 30,800 to EUR 45,300 per year.28 Since exempted importers under this proposal would largely be small importers, the analysis
+assumes that they would choose to report emissions based on default values. Since an
+estimated 182,000 importers would be exempted under the proposed new de minimis
+threshold, the administrative cost savings for importers would be in the range of EUR
+990,080,000 to EUR 1,255,800,000 per year. Moreover, these estimated cost savings do not
+consider that relying on default values would imply accepting increased levels of embedded
+emissions due to the proportionally increased mark-ups added to the average emissions
+intensities of a given country, resulting in higher administrative costs. It should be noted that such administrative costs, i.e. in the range of EUR 5,440 to EUR 6,900
+per year per importer, seem already disproportionately high compared to the value of goods
+imported into the EU by exempted importers (i.e., with yearly imports less than 50 tonnes of
+mass), where the median value per importer is around EUR 1,600 per year.29 This would be
+even more the case if small importers were reporting actual emission values, with
+administrative costs estimated in the range of EUR 30,800 to EUR 45,300 per year. Under the
+proposed new de minimis threshold of 50 tonnes of mass, these small importers could
+continue to import without being impacted by the CBAM. To sum up, the administrative cost savings for all the exempted importers are estimated at
+approximately EUR 1.12 billion per year, which is the average of the range of EUR
+990,080,000 to EUR 1,255,800,000 per year. Costs savings for SMEs. The profile of importers exempted under the proposed new de
+minimis threshold was also analysed, on the basis of data from the ORBIS database and
+customs. In customs data, the importers are identified with their EORI numbers, except for natural
+persons and some occasional importers who are not required to have an EORI number. In
+contrast, companies are identified in ORBIS based on other identifiers. The Commission
+services carried out an exercise to reconcile the EORI numbers in customs data with the
+different identifiers available in ORBIS. Box 2 below details the analysis that shows that at least 74% of the exempted companies
+under the proposed simplification would be SMEs. In other words, among the EUR 1.12
+billion per year of costs savings due to lower administrative costs, at least EUR 831 million
+would benefit SMEs. SMEs are therefore the main beneficiaries of the new de minimis
+threshold. justified, because even if some importers were no longer importing CBAM goods in such a scenario, this would lead to non-
+negligible costs for them (e.g. higher prices, changes in supply chains etc.) which are difficult to monetise. 28 See Impact Assessment Report of 14.7.2021 (SWD(2021) 643 final), Part 2/2, Table 6.3. 29 This figure is based on customs data for the period October 2023 to September 2024, for imports of CBAM goods. 15
+Box 2. Methodology to identify SMEs The Commission services extracted from ORBIS several variables to define the type of companies: (i) number of
+employees, (ii) turnover, (iii) the size classification, which is a measure for the type of companies developed by
+ORBIS. In case of missing data in ORBIS for number of employees and turnover, the Commission services
+relied on the size classification variable provided by ORBIS that is a composite indicator of other variables.
+Overall, among the 175,000 importers available in customs data for EU imports of aluminium, cement,
+fertilisers, iron and steel, approximately 71,000 of the importers matched in ORBIS have information on the type
+of companies (i.e., size classification variable in ORBIS). Table 2 below provides the definition of small,
+medium, large, and very large, according to the size classification from ORBIS. Table 2. Size classification variable defined in ORBIS
+Amounts in EUR
+Very large
+Large
+Medium
+Small
+Operating revenue
+>= 100 million
+>= 10 million
+>= 1 million
+Companies in Orbis
+are considered to be
+small when they are
+not included in another
+category.
+Total assets
+>= 200 million
+>= 20 million
+>= 2 million
+Employee number
+>= 1,000
+>=150
+>=15
+Source: Orbis URLSize Classifications: Guide - Orbis User Guide Note: for Very Large companies, being Listed is also a criteria The analysis of the profile of importers exempted is based on a sample of approximately 71,000 importers. The
+Commission services consider that this sample of 71,000 importers is still representative of the whole population
+of importers, since these 71,000 importers represent approximately 72% of the overall emissions for the four
+CBAM sectors included in the simplification.
+The following elements should also be considered for the interpretation of the results.
+-
+First, the matching of customs data with ORBIS is biased toward large companies. This is because
+ORBIS is unlikely to include information on natural persons or occasional importers, which also import
+CBAM goods. -
+Second, some identifiers are missing in customs data since (i) natural persons and occasional importers
+are not required to have an EORI identifier. -
+Third, the definition of small and medium companies is more restrictive in ORBIS compared to the
+commonly
+accepted
+definition
+(https://single-market-economy.ec.europa.eu/smes/sme-
+fundamentals/sme-definition_en): (i) some companies defined as medium in ORBIS are actually small
+companies (that is, with staff headcounts lower than 50), and (ii) some companies defined as large in
+ORBIS are actually medium companies (with staff headcount lower than 250). Based on the considerations above, the analysis therefore underestimates the proportion of SMEs positively
+affected by the new de minis threshold.
+The analysis shows that among these 71,000 importers:
+-
+Approximately 63,000 of those 71,000 importers would be exempted since their volumes imported
+would be below the new mass-based de minimis of 50 tonnes per year. Approximately 8,000 of those
+71,000 importers import more than 50 tonnes of mass per year and would therefore not be exempted. -
+Among the 63,000 importers exempted, 74% of these importers are small or medium companies as
+defined by ORBIS: 40% are small companies, 34% are medium companies.
+2.3.2 Estimated cost savings for public authorities in Member States
+In terms of implementation and enforcement, CBAM affects both the NCAs for CBAM (e.g.,
+authorisation of declarants, review of CBAM declarations, sale and repurchase of CBAM
+certificates) and Customs Authorities (e.g., review of customs declarations, border controls).
+The 2021 impact assessment accompanying the Commission proposal estimated that
+implementation and enforcement costs for public authorities would be EUR 481 per year per
+importer under the situation where default value for emissions are used, and EUR 7,985 per
+year per importer under the situation with actual values for emissions.30 30 See Impact Assessment Report of 14.7.2021 (SWD(2021) 643 final), Part 2, Table 6-5. 16
+Since exempted importers under the simplification proposal are largely small importers, the
+Commission assumes that they would choose to report emissions based on default values.
+Therefore, the implementation and enforcement cost savings for public authorities would be
+approximately EUR 87,542,000 per year31.
+2.3.3 Estimated revenue losses due to the new de minimis threshold
+The 2021 impact assessment accompanying the Commission proposal estimated that the
+revenue from CBAM would be approximately EUR 2.1 billion in 2030.32 Since less than 1%
+of emissions would not be captured under the new de minimis threshold (see Table 1), the
+foregone implied revenue for the year 2030 due to emissions not captured is estimated at
+approximately EUR 21,000,000.
+2.3.4 Estimated net benefits from the reduction of administrative burden
+Table 3 below provides the aggregated costs savings and loss of revenue due to the proposed
+new de minimis threshold of an annual 50 tonnes of mass per importer. Overall, the proposed
+new de minimis annual threshold would lead to cumulative cost savings of EUR 1,210
+million, a limited loss of revenue (EUR 21 million), and an overall net benefit of EUR 1,189
+million.
+Table 3. Result of the cost-benefit analysis for the proposed new de minimis threshold of
+50 tonnes of mass per importer per year
+Cost savings
+Importers: reduction in administrative costs
+EUR 1,123 million
+of which Corresponding to SMEs At least EUR 831 million
+Public Authorities: reduction in implementation and enforcement costs
+EUR 87.5 million
+Total cost savings
+EUR 1,210 million
+Loss of revenue
+Loss of revenue due to foregone emissions for exempted importers
+EUR 21 million
+Net benefit of the proposed new de minimis
+Net benefit
+EUR 1,189 million
+Source: Commission’s analysis. 31 182,000 exempted importers multiplied by EUR 481.
+32 See Impact Assessment Report of 14.7.2021 (SWD(2021) 643 final). 17
+3. Simplifying CBAM for large CBAM importers
+In addition to the de minimis exemption, a number of simplifications will be introduced that
+will benefit importers that will remain within the scope of CBAM, or operators in third
+countries. These measures can be grouped in four categories depending on whether they aim
+at simplifying (i) authorisation of declarants, (ii) emission calculation, (iii) reporting
+requirements, or (iv) financial liability.
+It should be noted that due to limited data availability, it is difficult to quantify the impact of
+the measures presented in this section in terms of reduction of administrative costs.33 Where
+possible, Commission services attempted to provide an illustration of the order of magnitude,
+or else describe qualitatively, how the measure will contribute to simplifying and
+strengthening the CBAM, while safeguarding its environmental objective.
+Separate from this simplification proposal, the Commission clarified, in a letter to
+stakeholders on 19 December 2024, that CBAM does not apply to electricity generated in the
+exclusive economic zone of Member States and imported into the customs territory of the
+Union.34 This means that there is no obligation for importers, regarding such electricity
+imports, to apply for the status of authorised CBAM declarant, to access the CBAM Registry,
+or to pay a CBAM adjustment. 3.1
+Measures to simplify the authorisation of declarants
+3.1.1 Authorisation procedure
+3.1.1.1 Problem definition
+Member States and stakeholders have expressed concerns about the administrative burden in
+relation to the procedure to grant importers the status of authorised CBAM declarant, which
+may consequently hinder the importation of CBAM goods. Concerns are raised in particular
+with respect to the mandatory consultation procedure. Secondly, importers have complained about the need to seek technical expertise for the
+submission of CBAM declarations and the assessment of CBAM obligations. Currently, only
+indirect customs representatives can assume legal liability for the CBAM declaration covering
+goods of an importer, but these representatives may not have the necessary expertise to carry
+out this task. Further, costs for contracting indirect customs representatives can be high and
+their capacity limited. 33 None of the costs and benefits of the measures presented in Section 3 are included in the estimates presented in section 2.3,
+meaning that the additional administrative cost savings of measures presented in Section 3 will come on top. While a
+quantitative assessment of their impact was not possible at this stage, Commission Services will strive to assess their impact
+in the future, including where possible also quantitatively, for example in the biennial CBAM review reports as per Article 30
+of the CBAM regulation. 34 This is due to the fact that, in line with Articles 59 and 60 of the Union Customs Code (UCC), and by analogy to Article
+31(h) of the UCC–Delegated Act, electricity generated by installations in the EEZ of the costal Member State has an “EU
+origin”, meaning that such electricity is not “originating in a third country” (as required by Art. 2 of the CBAM Regulation).
+Hence, it is not in the scope of the CBAM rules. 18
+3.1.1.2 Proposed way forward It is important to simplify the processing of applications for authorisation and reduce the
+associated administrative burden for Member States and the Commission.
+Optional consultation procedure As the CBAM authorisation is valid in all MS and importers may have cross-border activity,
+the consultation procedure should still be part of the CBAM authorisation procedure: it will
+provide NCAs the possibility to monitor and control the information submitted to other
+NCAs. However, it should be for the NCA taking the authorisation decision to decide whether
+there is a need to launch a targeted consultation with other NCAs and/or the Commission. In
+light of the unnecessary obligation imposed on NCAs that would result in an excessive
+administrative burden, it is proposed to make the consultation procedure optional and no
+longer compulsory.
+Introduction of a CBAM representative Since authorised CBAM declarants may not be qualified or have the operational capacity to
+fulfil the obligations related to the submission of a correct CBAM declaration, including the
+calculation of the embedded emissions, they could delegate the access and the right to submit
+a CBAM declaration to a third party e.g. consultants and/or environmental experts. The
+representative would not apply for authorisation; however the representative shall fulfil
+certain criteria to obtain access to the CBAM registry, (e.g. be holder of an EORI number,
+established in a Member State), and shall follow procedures, which will be established in an
+implementing act. Authorised CBAM declarants will remain liable for all CBAM obligations
+including the purchase and surrender of the correct number of CBAM certificates, however
+the basis of the calculation will be done by the trusted third party. To implement this, the
+Commission will need an empowerment to set up the technical solutions for the access
+management in the CBAM registry. 3.1.1.3 Impact and simplification
+While the new CBAM de minimis will reduce administrative costs related to the authorisation
+procedures drastically, by decreasing the number of requests from around 200,000 to around
+20,000, the proposed measures will further simplify the authorisation process. This will allow
+for a more efficient authorisation process, and reduce administrative costs for both NCAs and
+the Commission. The dedicated and targeted process provides the possibility to focus and
+control on those applicants which have a higher risk profile. In turn, this will allow declarants
+to obtain the status of ‘authorised CBAM declarants’ in due time and start importing CBAM
+goods as soon as possible. In addition, the simplified authorisation procedure will – in particular for the SMEs that
+remain in scope even after the introduction of a new de minimis – smoothen the application
+process. Finally, creating a formal role of ‘CBAM representative’ to support the submission
+of CBAM declaration is expected to reduce the associated administrative burden for
+importers. 19
+3.2
+Measures to simplify emissions calculation 3.2.1 Exclusion of non-calcined clay 3.2.1.1 Problem definition
+The CBAM scope includes ‘Other kaolinic clays’ (CN code 2507 00 80) in the list of cement
+goods. While calcined clays are carbon-intensive products, this is not the case for non-
+calcined clays. However, both types of clays are in, as the CN code does not differentiate
+between these two types of clays. Calcined clays can be used to (partly) replace clinker in
+cement, while non-calcined clays are one of the main raw materials used for the
+manufacturing of ceramics, an industry sector that is currently not covered by the CBAM
+scope.
+3.2.1.2 Proposed way forward
+The inclusion of non-calcined clays in scope of CBAM is neither in line with the CBAM
+objective to target emission-intensive goods nor in line with the scope of the EU ETS. During the CBAM transitional period, the reporting obligation also applies to non-calcined
+clays, which represents an unnecessary administrative burden. As a partial relief,
+Implementing Regulation (EU) 2023/177335 already provides simplification, as embedded
+emissions for non-calcined clays have been set to zero without the need to calculate the
+embedded emissions. Based on the above it is proposed to remove the non-calcined kaolinic clays from the CBAM
+scope. 3.2.1.3 Impact and simplification The exclusion of non-calcined clays from the CBAM scope would reduce the administrative
+burden from importers of this low-emission good, while having a very limited revenue impact
+as non-calcined clays are not carbon-intensive and are thus less relevant for carbon leakage
+risks. Based on available customs data, approximately 385 EU importers imported “other
+kaolinic clays” (under CN code 2507 00 80) in the period Oct 2023-Sept 2024. Given that
+currently CN code 2507 00 80 on ‘Other kaolinic clays’ does not distinguish between
+calcinated and non-calcinated clays, there exist no data on trade volumes that differentiate
+between the two types of those clays, which would allow us to make a confident estimate of
+the number of importers affected by this simplification. Cost savings from those exempted
+from CBAM that imported non-calcined clays cannot be further quantified at this stage. 3.2.2 Default values
+3.2.2.1 Conditions to use default values
+3.2.2.1.1 Problem definition
+Art. 7(7)(a) empowers the Commission to adopt implementing acts on the methodology to
+“specify the conditions under which it is deemed that actual emissions cannot be adequately
+determined”. This means that the Commission would need to set conditions, consequently
+importers would need to provide evidence why actual emissions cannot be determined, and 35 Commission Implementing Regulation (EU) 2023/1773 of 17 August 2023 laying down the rules for the application of
+Regulation (EU) 2023/956 of the European Parliament and of the Council as regards reporting obligations for the purposes of
+the carbon border adjustment mechanism during the transitional period 20
+the Commission (and potentially also MS) would have to assess this evidence. However, this
+would run counter to the simplification objective. Moreover, CBAM implementation so far
+has relied on the assumption that importers would be able to choose freely between reporting
+actual emission data or default values made available by the Commission. This is for example
+evidenced by the fact that the current provisions on the content of CBAM declarations do not
+require a justification why actual emissions cannot be determined.
+3.2.2.1.2 Proposed way forward
+The cycle of conditions, evidence and Commission/NCA assessment should be avoided. It is therefore proposed to remove the requirement in Art. 7(7)(a) to “specify conditions when
+actual emissions cannot be adequately determined.”
+3.2.2.1.3 Impact and simplification
+Declarants would be allowed to freely choose between actual embedded emissions and default
+values with a mark-up. This avoids a cycle where the Commission would have to set criteria
+when actual emissions cannot be determined, where declarants would have to provide
+evidence (potentially requiring the participation of operators in third countries) and where the
+Commission and MS NCAs would have to assess the evidence.
+This does not weaken the protection against the risk of carbon leakage, which will be ensured
+by setting default values and proportionately designed mark-ups at appropriate levels to
+safeguard the environmental integrity of the CBAM, as required by the CBAM Regulation.
+3.2.2.2 Data collection challenges 3.2.2.2.1 Problem definition Annex IV, Section 4 specifies that “The Commission shall publish guidance for the approach
+taken to correct for waste gases or greenhouse gases used as process input, before collecting
+the data required to determine the relevant default values for each type of goods listed in
+Annex I. …”. The approach that has been taken so far is to use publicly available databases of
+international institutions (such as the International Energy Agency) and of international
+industry sector associations (such as the World Steel Association or the Global Cement and
+Concrete Association). These databases are publicly available (although sometimes behind a
+paywall), rely on a consistent approach across installations/countries, are often based on
+actual data and are peer-reviewed. Collecting actual values from individual installations poses
+several challenges: -
+Contrary to the EU ETS, there is no obligation on operators in third countries to
+provide such information, which is often considered business-sensitive. -
+Even if individual installations provide actual data, there is currently no verification
+mechanism in place. -
+Such data may differ in terms of the underlying methodology. Therefore, the Commission has not embarked on an exercise to collect data from individual
+installations and consequently no guidance has been published.
+3.2.2.2.2 Proposed way forward
+It is proposed to revise the Annex IV, Section 4 concerning the determination of default
+values to match an approach that is technically feasible. The core principles of using actual
+and best available data should be kept. 21
+3.2.2.2.3 Impact and simplification As there would be no data collection from individual installations in third countries, the
+publication of a Commission guidance document on how to collect data would no longer be
+necessary. The Commission will instead rely on best available data (i.e. reliable data from
+publicly available sources), as specified in the CBAM Regulation.
+3.2.2.3 Alternative default values based on worst EU ETS installations
+3.2.2.3.1 Problem definition Annex IV, Section 4.1 specifies that default values shall be set at the average emission
+intensity of each exporting country and for each of the goods under the CBAM scope,
+increased by a proportionately designed mark-up. When reliable data for the exporting
+country cannot be applied for a type of goods, then Section 4.1 provides for an alternative
+approach of setting default values which is based on the average emission intensity of the X%
+worst performing EU ETS installations for that type of goods. The problem with this alternative approach is that even though the most relevant processes are
+covered by the EU-ETS, and emissions intensity data are available for those, this is not the
+case for some processes and goods.
+3.2.2.3.2 Proposed way forward
+The EU ETS products benchmarks cover only 11 products that are relevant for CBAM, while
+the CBAM scope encompasses 569 different CN codes. The ETS benchmarks cover the most
+greenhouse gas (GHG) intensive production steps, but not the downstream processes, so
+estimations would be necessary for the latter. Some CBAM goods are not covered by any
+product benchmark (e.g. ferro-alloys, aluminous cement). Moreover, some CBAM goods are
+produced by very few installations in the EU, which would make it impossible to determine
+for example the worst 1% or 10%. Finally, in some cases the worst EU producers are still
+more GHG-efficient than most of their competitors in third countries (e.g. for nitric acid).
+Therefore, it is necessary to define a simpler approach to determining default values when
+reliable data for the exporting country cannot be applied for a type of goods.
+It is proposed to set the alternative default value at the level of the average emission intensity
+of the ten countries with the highest emission intensities for which reliable data are available.
+This would provide a strong carbon leakage risk protection, while not being overly punitive. It
+would also ensure that the absence of data does not result in a more favourable treatment
+compared to countries where data are available. The possibility also exists for declarants to
+demonstrate that default values based on region-specific features should be lower, pursuant to
+point 7 of Annex IV to the CBAM Regulation.
+3.2.2.3.3 Simplification and impact
+In the absence of data for some countries, the derivation of alternative default values based on
+the worst EU installations can be simplified by just using the average of the ten highest
+default values of those countries for which reliable data are available. This is a much simpler,
+more practical and understandable approach for importers. It strengthens the protection
+against the risk of carbon leakage when importers use default values, while not being overly
+punitive in cases where importers are not able to obtain actual emission data.
+3.2.3 Emission calculation for downstream processing
+3.2.3.1 Problem definition
+The embedded emissions of some aluminium and steel goods currently in the scope of CBAM
+are primarily determined by the embedded emissions of input materials. In other words, most 22
+embedded emissions are stemming from the production of their precursors while the
+emissions arising during the production steps of these goods are typically relatively low. In
+addition, these production processes are largely not covered by the EU ETS36. They consist of
+finishing processes that are carried out by separate installations not covered by the EU ETS
+(except in the case of integrated facilities). At the moment, the CBAM reporting requires
+monitoring and reporting of the emissions of these finishing processes, as well as those
+stemming from the production of their precursors. 3.2.3.2 Proposed way forward
+To reduce the burden on operators in third countries from the additional monitoring of
+emissions of the final production steps – the latter typically not covered by EU ETS – it is
+proposed to exclude those manufacturing processes from the boundaries of the calculation of
+emissions for these aluminium and steel goods. Such an exclusion would simplify substantially the monitoring and calculation efforts for
+those products. The simplification would improve the application of the CBAM methodology
+notably for complex goods, which is a precondition for the future potential expansion of the
+scope of CBAM to more downstream goods. Moreover, the simplification will have a positive
+impact on the manufacturers of those goods as they will be exempted from the obligation to
+monitor and report emissions happening at their own installation. The only data needed to
+calculate the embedded emissions of the final CBAM good would be the embedded emissions
+in the precursors purchased from external providers and the quantity of precursors needed per
+tonne of final CBAM good produced.
+3.2.3.3 Impact and simplification
+The exclusion better focuses the CBAM methodology and its boundaries on GHG-intensive
+processes and better aligns the CBAM and ETS scopes, since the final processes of the metal
+manufacturing sectors are not under the EU ETS. Furthermore, the excluded emissions
+represent a very small share of total emissions. Internationally available data constrain the possibility to derive robust estimates of the impact,
+since publicly available data are not consistent in the attribution of emissions in different
+processes. Nevertheless, based on JRC IDEES data, in the EU such finalization processes
+would correspond to about 6% of embedded energy consumption in the case of an integrated
+route. This range is of a similar dimension to the range observed for a very specific CBAM
+product (using international available data). Specifically for CN Code 73181600, the share of
+embedded emissions corresponding to finalization processes varies around 4% when
+produced by the integrated route – although differences can be high between countries
+(depending on how they report emissions) and production routes. 3.2.4 Exemption of precursors produced in the EU
+3.2.4.1 Problem definition
+At the moment, precursors (i.e. CBAM goods used as input materials into the production of
+other CBAM goods) produced in the EU, which are exported to third countries for the
+production of CBAM goods, must be accounted for in the determination of the embedded 36 One example of this problem relates to the production of CN codes under HS 7318 (screws, bolts, nuts, etc.), whereby
+input materials into these products (e.g. steel rod wires) undergo manufacturing processes to produce the final goods. In the
+EU, these processes (e.g. cutting and forging etc.) are usually carried out by installations outside the scope of EU ETS and
+typically account for a very small share of the emissions. 23
+emissions of CBAM goods when imported into the EU. Under the current rules, these
+emissions have to be reported, the ETS carbon price has to be paid by EU producers, and
+these amounts have to be fully deducted from the CBAM financial adjustment. For example, under the current systems, a third-country producer that exports mixed fertilisers
+to the EU and sources their input materials (ammonia and urea) from an EU-based installation
+covered under the EU ETS, would need to obtain information on embedded emissions of the
+ammonia and urea to add them to their overall calculation of embedded emissions of the
+mixed fertilisers. Then, the corresponding ETS carbon price, which had already been paid the
+EU producer, would be fully deducted from the calculation of their CBAM obligations to
+avoid double-counting.
+3.2.4.2 Proposed way forward
+The inclusion of precursors adds a reporting and compliance burden without any added value
+from an environmental (as emissions embedded in precursors are covered by the EU ETS and
+the ETS carbon price deducted from the CBAM financial adjustment). It is therefore proposed to attribute zero embedded emissions to the precursors produced in
+the EU (or in countries or territories excluded from CBAM pursuant to Annex III of the
+CBAM Regulation) which are already covered by the EU ETS and for which a carbon price
+has thus already paid under the EU ETS in the calculation of specific embedded emissions of
+CBAM goods. The volumes and origins of those precursors would remain part of the
+monitoring of the installation for verification purposes.
+3.2.4.3 Impact and simplification
+The solution would include less precursors for which data collection is needed thus
+eliminating an administrative burden for EU importers and operators in third countries,
+without affecting the number of CBAM certificates to be surrendered. This simplification
+would therefore not reduce the environmental effectiveness of the CBAM or subsequent
+CBAM revenue while eliminating transaction costs along the value chain. The proposed
+solution is not expected to generate new or additional circumvention risks. As indicated above
+the volumes and origins of the precursors continue to be monitored by the operator for
+verification purposes.
+3.2.5 Emission verification
+3.2.5.1 Problem definition
+CBAM declarants must submit an annual CBAM declaration containing the calculation of
+embedded emissions on the basis of either default values provided by the Commission or
+actual values calculated by third-country installations. Currently, the CBAM Regulation requires verification of all embedded emissions, even if
+they are based on default values provided by the Commission. This is impractical and costly.
+There is no added value to ask CBAM declarants to ensure that these default values are
+verified by an accredited verifier.
+3.2.5.2 Proposed way forward
+It is proposed to remove the verification of embedded emissions based on default values
+provided by the Commission for the reasons highlighted below:
+• Such verification does not provide a clear added value if default values are used.
+Embedded emissions based on default values will be calculated automatically in the 24
+CBAM Registry on the basis of the quantities of imported CBAM goods declared (and
+cross-checked with national customs data). • Verification of default values is redundant. For actual values, the accredited verifier, in
+principle, visits the installation and provides reasonable assurance that the
+methodology for the calculation of emissions (and its underlying assumptions) is
+correct. For default values, no visit to the premises of the installation would be
+relevant. The accredited verifier could verify the content of the CBAM declaration but
+there would be no added value in doing this (see point above). This would come at a
+cost for the declarant, and the lack of readily available accredited verifiers could make
+the verification difficult to obtain in practice. 3.2.5.3 Impact and simplification
+Removing this requirement (i.e. requirement to verify the emissions when they are based on
+default values) comes with no disadvantage. It would facilitate the use of default values for
+importers and reduce their cost, including the associated administrative constraints. This
+would also help third country producers, particularly SMEs, who could rely on using default
+values. 3.2.6 Exclusion of indirect emissions of electricity
+3.2.6.1 Problem definition Annex II to the Regulation lists the goods for which only direct emissions have to be taken
+into account for the purpose of CBAM. The Annex includes goods in the iron and steel,
+aluminium, and chemical sectors. For goods not listed in this Annex, both direct and indirect37
+emissions have to be taken into account for CBAM purposes. This is thus the case for goods
+in the cement and fertilisers sectors38, but also electricity based on the current text of
+Annex II. While the Regulation does not explicitly mention that indirect emissions of
+electricity are not relevant for CBAM, it is implied. This emerges from the following elements. Recital 19 of the Regulation appears to imply that when the Regulation was drafted the goods
+listed in Annex II were intended to be only those which are eligible for indirect cost
+compensation: “… Indirect emissions should, however, not be taken into account initially for
+the goods in respect of which financial measures apply in the Union that compensate for
+indirect emissions costs incurred from greenhouse gas emission costs passed on in electricity
+prices. Those goods are identified in Annex II to this Regulation….” Electricity production is
+not eligible for indirect cost compensation39.
+Annex III, Section D.2 of the Commission Implementing Regulation (EU) 2023/1773 laying
+down “Rules for determining the emission factor of electricity as imported goods” reads:
+“For determining the specific actual embedded emissions of electricity as imported goods, 37 “Indirect emissions” are defined as the emissions from the production of electricity which is consumed during the
+production processes of goods. 38 Agglomerated iron ores (CN 2601 12 00) constitute an exception. These goods are refined products from mining activities
+that are used as input for iron and steel manufacturing. In CBAM, they are listed under the iron and steel sector heading.
+However, these products are not eligible for indirect cost compensation and both direct and indirect emissions are taken into
+account for CBAM.
+39 Communication from the Commission: Guidelines on certain State aid measures in the context of the system for
+greenhouse gas emission allowance trading post-2021 (2020/C 317/04). OJ C 317, 25.9.2020, p. 5-19. 25
+only direct emissions shall be applicable in accordance with Section 2 of Annex IV to
+Regulation (EU) 2023/956”. The fact that only direct emissions of electricity are to be
+considered under CBAM has therefore been made clear since August 2023, when the
+Implementing Regulation was adopted. On substance, indirect emissions are not really relevant for electricity as a CBAM good, as in
+this case the CBAM concerns installations producing electricity, not consuming it. The auto-
+consumption of electricity by power plants (e.g. electricity consumed by auxiliary equipment
+such as fans, pumps, flue-gas treatment systems, air conditioning, and lighting) can be taken
+into account by subtracting it from the gross electricity generation to result in the net
+electricity generation. Indeed, Annex III, Section D.3 of Implementing Regulation (EU)
+2023/1773 addresses the auto-consumption of electricity in installations producing electricity:
+“For the production of electricity, the activity level shall refer to net electricity leaving the
+system boundaries of the power plant or cogeneration unit, after subtraction of internally
+consumed electricity.” However, as long as this is not clarified expressly in the basic act, some confusion may
+remain as to whether only direct emissions of electricity have to be accounted for under
+CBAM may remain, unless both the Regulation and its implementing act(s) are considered
+simultaneously. 3.2.6.2 Proposed way forward
+It is proposed to amend Annex II of the Regulation. 3.2.6.3 Simplification The proposed amendment, by making the CBAM rules easier to understand, reduces the time
+and thus costs incurred by importers and operators when familiarising with the system.
+Moreover, it avoids any ambiguity as to what would otherwise constitute an additional layer
+of complexity of the system, i.e. reporting of indirect emissions of electricity in addition to the
+direct emissions, 3.3
+Measures to simplify CBAM reporting requirements 3.3.1 Change of the deadline to submit annual CBAM declarations 3.3.1.1 Problem definition
+The annual deadline for declarants to both submit their annual CBAM declaration (including a
+verification report if actual values are used) and surrender the corresponding number of
+certificates is set on 31 May. However, this deadline may prove to be challenging for many
+declarants, especially for the first reporting years. It might constrain recourse to actual values.
+In addition, the corresponding ETS annual deadlines have been shifted from 30 April to 30
+September. 3.3.1.2 Proposed way forward
+Moving the annual deadline for declarants to submit their declaration and surrender
+certificates to a later date each year would match the recent postponement of the EU ETS
+annual deadlines. It would in turn require changes to the two other CBAM annual deadlines
+which inherently follow the declaration and certificate surrender: certificate repurchase 1
+month later than certificate surrender and certificate cancellation on the day after the last day
+of the repurchase period. It is proposed to set the annual deadline for declaration submission 26
+and certificate surrender on 31 August, with the repurchase deadline moved to 30 September
+and the certificate cancellation precise date on 1 October.40 Once the Own Resources proposal
+is adopted, the Commission will evaluate a potential review of the calendar for declarations in
+the CBAM cycle.
+3.3.1.3 Impact and simplification
+This would give each year (i) non-EU operators more time to verify their emissions and (ii)
+declarants to submit their annual CBAM declaration buy and surrender the corresponding
+certificates. No detrimental effects are expected. 3.3.2 CBAM Registry access for operators and verifiers
+Two possible simplifications were identified. One relates to improving access for third-
+country operators to the CBAM Registry and the second one relates to creating an access to
+the CBAM Registry to accredited verifiers. 3.3.2a Registration of third-country operators in the CBAM Registry
+3.3.2.1 Problem definition – part a
+Problem 1:
+Articles 10 and 14 of the CBAM Regulation, containing provisions on the Operators’ Portal,
+are currently unclear in several aspects, including the scope of the information to be made
+available to the public or the possibility to upload information on the carbon price effectively
+paid. Further, it is unclear whether the controlling entity of operator of the installation in the
+third country, including the parent company, falls under the definition of “operator”. Such
+uncertainty complicates implementation.
+Problem 2: Initial data submissions in EU Access (through which operators can access the CBAM
+registry) have revealed substantial data quality challenges in the registration of non-EU
+established companies, especially in relation with their basic identity verification. Initial data
+submissions have proven to contain a substantial share (up to 50%) of low-quality input data
+with erroneous company names, dummy or incorrect identifiers or/and missing sources of
+cross-check information. For these cases, Commission staff needs to either reject the request
+or/and follow up bilaterally. Rejection of requests creates additional work for the operator as
+well as for the Commission services who need to re-evaluate at a later stage. The problem is
+expected to grow as circa 55.000 registrations are expected.
+3.3.2.2 Proposed way forward and simplification – part a
+Problem 1:
+It should be clarified that controlling entities are covered by the definition of operator. Those
+entities would be allowed to access the operators’ portal and to upload the calculation of
+emissions and verification reports of the installations of all its subsidiaries and entities they
+control at once. This will simplify implementation for operators. 40 As part of the biennal review reports from 2027 onwards, Commission services will asssess if the deadline can
+be advanced to an earlier date of the year, once the system is more mature and operators are fully familiar with
+all procedures. 27
+Relatedly, it should be required for a company to provide information on its ultimate
+controlling entity, if applicable. This will facilitate the review of CBAM declarations and the
+risk assessment operations by the Commission. Further, it should be clearly stated that the operator who chooses to share data with the
+declarant can also indicate – in the operators’ portal - the carbon price paid in a third country.
+This will simplify reporting obligations.
+Lastly, Article 14 should be complemented by clarifying that the operator can also choose to
+keep the location of installations confidential. Problem 2: It should be made mandatory to submit a corporate identifier upon registration of a third
+country operator in the CBAM registry. This will allow to transfer the corporate identifier
+used in EU Access to the CBAM registry. The choice of a specific identifier could be
+determined through an amendment of the Implementing Regulation on the CBAM registry. 3.3.2b Granting access to accredited verifiers to the CBAM Registry 3.3.2.3 Problem definition – part b
+Currently, the CBAM Regulation does not provide for the possibility to grant access to
+accredited verifiers to the CBAM registry. This creates complications relating to the process
+of submitting and reviewing CBAM verification report.
+3.3.2.4 Proposed way forward – part b
+It is proposed to amend the CBAM Regulation to provide for the registration of accredited
+verifiers in the CBAM registry. 3.3.2.5 Impact and simplification – part b
+The proposal to grant access to verifiers to the CBAM Registry would align with the practice
+under the EU ETS1, provide simplifications and alleviate the burden for several constituencies
+of stakeholders. It would facilitate the declarant’s compliance with reporting obligations since
+the reliability of emissions data will increase significantly. However, this comes at a cost for
+the Commission and NCAs relating to the expansion of the operator’s portal and the
+registration of verifiers in the CBAM Registry.
+In more details, the advantages and impacts of simplifications are described below:
+• It would create a more secure system for CBAM declarants, thus avoiding the
+potential application of penalties. Granting accredited verifiers access to the CBAM
+Registry would eliminate the risk that the operator submits an invalid verification
+report e.g. because the verifier was not accredited for the correct scope of
+accreditation, or the verification report is not based on the latest calculation of
+embedded emissions. • It would simplify the review of verification reports for Commission and NCAs
+because the integrity and authenticity of the data would not need to be checked
+manually. If the verification report is not uploaded by the accredited verifier, then
+these checks would likely need to be carried out manually by the Commission and
+NCAs. • It would allow verifiers to update information on accreditation directly in the
+CBAM Registry, rather than having the NCAs do this update manually each time 28
+an accredited verifier renews or updates the accreditation certificate, or an
+administrative sanction is taken by the national accreditation body. • It would simplify the verification of embedded emissions for third-country
+operators. Operators could simply select the accredited verifier in the CBAM
+Registry to ‘request verification’ instead of sharing sensitive information outside the
+CBAM Registry by way of electronically signed and encrypted emails exchanges
+containing the calculation of embedded emissions, request for information and
+preliminary assessments from the verifier, etc. In case of an issue with the verification
+report, the Commission or NCAs would otherwise need to ask for a copy of the
+relevant exchanges to find evidence on whether a mistake emanates from the
+accredited verifier or the operator. On the other hand, the integration of accredited verifiers in the CBAM registry also creates
+constraints for the Commission and NCA:
+-
+A new population of users would be added to the CBAM registry, specifically to the
+portal for third-country operators. Some IT development is required.
+-
+The IT registration of accredited verifiers would need to be managed by the
+Commission through EU Access, then the management of the registration information
+would be managed by NCAs, in coordination with national accreditation bodies. 3.4
+Measures to simplify the CBAM financial liability
+3.4.1 CBAM certificate management 3.4.1.1 Problem definition
+Under the current CBAM regulation, declarants will face two obligations: -
+they will have to buy CBAM certificates to ensure that, at the end of each quarter, they
+own a number of certificates which corresponds to at least 80%, calculated based on
+default values, of the emissions embedded in the goods they have imported since the
+start of the year (hereafter the “80% rule”); -
+the number of certificates eligible for repurchase by NCAs will be limited to one third
+of the total number of CBAM certificates purchased by the authorised CBAM
+declarant during the previous calendar year (even if the purchase year is different). The “80% rule” prevents risks and fraudulent patterns, by ensuring that the CBAM financial
+obligation is partly applied shortly after the import takes place, on a quarterly basis, instead of
+waiting until the time of the declaration during the following year for the surrendering of
+CBAM certificates. However, the combination of these two rules will likely lead many
+declarants to buy many more certificates than what they will need to surrender, resulting in a
+disproportionate financial burden, potentially without the possibility to have them repurchased
+by NCAs. 3.4.1.2 Proposed way forward
+In defining the best way forward, it is important to strike a balance between the initial policy
+objective of this rule and the burden it entails for importers. Based on the problem description,
+and as assessed in the examples below, notably the assessment on liquidity, it has become
+apparent that the imposed financial burden is unnecessarily high. At the same time, to
+maintain effectiveness of the rule, it should still represent a relevant security compared to the
+ultimate financial obligation. 29
+More specifically, it is proposed to lower the percentage from 80% to 50% to become a better
+proxy to declarants’ expected financial liability, while keeping the way the calculation is
+made every quarter based on information received from customs authorities on the quantity of
+goods imported by declarants since the beginning of the year. The level of 50% is chosen to
+reduce the burden on declarants, while maintaining effectiveness of the as a control and
+safeguard measure against compliance risks. Therefore, moving to 50% appears to be a
+balanced choice between the two objectives.
+Second, the calculation base would be changed, and declarants would be given the choice
+between 2 options on which the calculation will be made:
+-
+Option 1: Use public default values with a deduction of the mark-up41 and of the
+corresponding free allocation42. -
+Option 2: Use the number of CBAM certificates that they surrendered in the previous
+year for the same goods. For both methods, the Commission will make all information and calculations available to
+declarants in the CBAM registry to facilitate both compliance by declarants and enforcement
+by NCAs. In practice, it means that declarants will access the registry and manage their
+financial liability directly in the registry, at least every quarter. They will also be made aware
+if they must purchase certificates. Third, the one-third repurchase limit would: (i)
+be replaced by the number of certificates that declarants will be required to buy as
+a result of the rule (i.e. all certificates which the Regulation forced a declarant to
+buy can be sold back), and (ii)
+apply to the same year as the year of purchase (instead of the year before as
+currently provided for). 3.4.1.3 Impact and simplification
+The measure will greatly simplify the way declarants manage their CBAM liability and ease
+the financial and administrative burden. In addition, it would avoid over-purchase of CBAM
+certificates which, in some cases, cannot be sold back and would be lost even if declarants
+were legally forced to buy them. It will therefore also avoid legal challenges and disputes
+which would otherwise result from the current repurchase limit.
+Illustrative example of the impact on an individual importer
+The below calculations are primarily based on Option 1. Suppose that on 1 January 2030, an
+importer buys 600t of steel from a foreign supplier which (using default values) has an
+embedded 1000t CO2 equivalent. Suppose that in 2030 the full CBAM price is EUR 85/t CO2
+and the effective price (i.e., considering the corresponding CBAM factor) of CBAM
+certificates is EUR 50/t CO2 and the carbon price paid abroad for this steel is EUR 40/t CO2.
+This importer does not import any other CBAM goods during 2030. 41 To incentivise reporting of actual values, Commission default values apply a mark-up. An implementing act will further
+define the level of the mark-up.
+42 The CBAM is implemented gradually in parallel to the phase-out of free allowances under the EU ETS. 30
+The actual CBAM obligation at the end of the year (2030) is EUR 10,000 (1000 times [EUR
+50- EUR40]). This should be compared to the financial obligations throughout the year using
+the 80% rule and the 50% rule. Under the 80% rule, currently in place, before 31 March 2030, the importer needs to purchase
+800 CBAM certificates (80% of 1000) at the full CBAM price of EUR 85/t CO2, and hence
+set aside, until then end of 2030, EUR 68,000. At the end of the year, 200 CBAM certificates
+need to be surrendered (10,000 EUR divided by the effective carbon price of EUR 50 per
+tonne CO2 eq.), and one third of 600 certificates can be repurchased, while 400 certificates
+can be carried over to 2031. If the importer does not import CBAM goods in 2031, then it can
+only repurchase 134 (one third of the 400 certificates carried over from 2030) and hence loses
+the value of 266 CBAM certificates (at EUR 85 each), corresponding to a value of EUR
+22,610.
+Under the proposed 50% rule, before 31 March 2030, the importer would need to purchase
+500 CBAM certificates (50% of 1000) at the effective price of per certificate, and hence set
+aside, until then end of 2030, EUR 25,000. At the end of the year, 200 CBAM certificates
+need to be surrendered and the rest, 300, can be repurchased. There is no longer a risk of
+losing the value of a purchased CBAM certificate.
+The risk of excess purchase of CBAM certificates that cannot be repurchased by NCAs will
+be exacerbated for imports from countries with comparable levels of carbon pricing (e.g.
+imports from the UK) and for low-carbon goods (e.g. which are substantially lower than
+default values). This will be addressed by Option 2.
+Estimated freed-up Liquidity
+Under the 50% rule importers will need to front-load the purchase of fewer CBAM
+certificates throughout the year, compared to the 80% rule. This will free up financial
+resources for these companies during the year. The 2021 impact assessment accompanying
+the Commission proposal estimated that the revenue from CBAM would be approximately
+EUR 2,100 million in 2030.43 Example based on Option 1: Under the 80% rule this means setting aside EUR 714 million by
+the end of Q1 and similarly for Q2, Q3 and Q4, assuming that imports are distributed equally
+over all quarters.
+Under the 50% rule this means setting aside EUR 262.5 million by the end of each quarter.
+Hence, on a quarterly basis 451.5 million in liquidity is freed up under the 50% rule compared
+with the 80% rule (1,806 million in total), with positive liquidity effects for importers.
+The effect will even be starker when taking account of importers sourcing their goods from
+the UK or other countries with a high carbon price, choosing Option 2.
+3.4.2 Certificate sales start date in 2027
+3.4.2.1 Problem definition
+Member States should start selling CBAM certificates to their declarants on the common
+central platform (CCP) from 1 January 2026 onwards. In addition, as discussed above, the 43 See Impact Assessment Report of 14.7.2021 (SWD(2021) 643 final). 31
+CBAM Regulation obliges declarants as from 2026 to have a number of CBAM certificates
+on their account in the CBAM registry which currently corresponds at the end of each quarter
+to at least 80% of the embedded emissions embedded in the goods they import since 1
+January of the year. However, 2026 will be the first year of the CBAM financial adjustment with limited insight
+on key factors determining the number of certificates that many declarants will have to buy in
+2026 and surrender in 2027 for the year 2026, mainly the level of carbon intensity of imported
+goods, the carbon prices which will be paid abroad and how they will be deducted. Besides, it
+is proposed to revise the “80% rule”. As a result, CBAM importers could be forced to start
+purchasing CBAM certificates already in Q1 2026 while this rule is being simplified by a
+legislative proposal. 3.4.2.2 Proposed way forward
+It is proposed to provide for a specific treatment for the first year of the CBAM financial
+adjustment. Declarants will be able to purchase CBAM certificates from February 2027 to
+cover the emissions embedded in the CBAM goods they will have imported during 2026. The
+calculation method for the certificate prices will not be affected, and certificates bought in a
+given week in 2027 to cover for 2026 emissions will reflect the applicable weekly ETS price
+as calculated by the Commission. The sale start date should be postponed to February 1st (instead of January 1st) to give more
+time for declarants to collect data and customs systems to feed relevant data on latest imports
+in 2026 into the CBAM registry. While shortening the time declarants will have to buy
+certificates covering all their imports since 1 January 2026, they would still have two months
+to buy certificates before the first application of the “50% rule” (currently “80% rule”) on Q1
+2027 e.g. from 1.1.2027 to 31.3.2027. As CBAM declarants cannot acquire CBAM
+certificates in 2026, there is a need to determine the applicable EU ETS price for purchases of
+CBAM certificates in 2027 pertaining to emissions embedded in CBAM goods imported in
+2026. For this purpose, the Commission will calculate the price of CBAM certificates based
+on the quarterly average of the closing prices of the EU ETS allowances of the quarter of
+importation o the CBAM goods to which those emissions correspond. 3.4.2.3 Impact and simplification
+This solution would greatly simplify how declarants have to manage their financial liability
+during the first year of the CBAM definitive regime. Combined with the revision of the “80%
+rule” (now 50% rule), it would address major concerns raised by stakeholders about financial
+risks resulting from the legal uncertainty related to how the CBAM financial adjustment will
+be calculated and applied already in 2026, as declarants will be required to start buying
+CBAM certificates for 2026 imports only at a time when they have enough clarity on the
+number of certificates they will have to surrender by 31 August 2027.
+3.4.3 Default values for carbon prices paid in third countries
+3.4.3.1 Problem definition
+Under the CBAM regulation, the deduction of a carbon price effectively paid in a third
+country was designed to avoid double charging thereby promoting the uptake of carbon
+pricing in third countries. However, the CBAM regulation sets a comparatively high burden on the CBAM declarant for
+allowing a deduction of a carbon price paid in a third country. The CBAM declarant
+essentially will need to: 32
+a) obtain (on time) documentary evidence of an effective payment of a carbon price;
+b) demonstrate that the carbon price was paid on the emissions embedded in the CBAM
+goods and;
+c) have this evidence certified by a person that is independent from the declarant and
+from the authorities of the country of origin (hereafter: certifier). The Commission will set the rules regarding these steps in an implementing act planned for
+adoption before the end of 2025, allowing for a reduction in the number of certificates to
+surrender. Applying the rules defined in the CBAM Regulation is expected to lead to a
+significant administrative burden for declarants, third-country installation operators, and the
+review authorities (European Commission and National Competent Authorities). In specific
+cases, such as electricity and indirect emissions, it is not clear whether claiming a carbon
+pricing deduction altogether would be feasible. It can also be expected that, due to the
+generally low effective carbon prices in third countries compared to the EU ETS prices, the
+calculation and certification costs associated with obtaining the deduction will outweigh the
+benefit of a lower CBAM financial adjustment44.
+3.4.3.2 Proposed way forward
+It is proposed that the Commission may determine, where applicable, default carbon prices
+per country for the carbon price paid on average over a year (in EUR/tCO2e). In such a case,
+any rebate or other form of compensation available in that country that would have resulted in
+a reduction of that default carbon price shall be taken into account. The possibility to claim a
+reduction based on certified evidence of an actual payment is maintained. The default carbon prices would function similarly to default values for the calculation of
+embedded emissions: declarants would be given the possibility to choose either to rely on the
+Commission default carbon price, or to claim the deduction of the carbon price effectively
+paid (where no changes are made compared to the current CBAM Regulation). The ‘best available information’ would evolve over consecutive compliance periods, on the
+basis of cooperation with the third country. Therefore, the default values for carbon prices
+paid in third countries would be periodically revised. Where insufficient information is
+available in a specific country, the Commission would set more conservative default values to
+incentivise the provision of reliable data, while taking into account the need to reasonably
+reflect the carbon price paid.
+This option provides additional flexibility for the producer and declarant, while ensuring that
+the European Commission can develop a workable approach to the carbon price deduction. 3.4.3.3 Impact and simplification
+The proposed simplification primarily reduces the administrative burden on third-country
+operators to prove that a carbon price was effectively paid. Considering that the costs for this
+calculation and certification are largely fixed, many more small installations and installations
+that only export a small share of their production to the EU would become able to declare a 44 The marginal carbon prices reported by carbon pricing data sources are in most cases much lower than the EU ETS.
+Specifically, as at 1 April 2024, the EU ETS price was EUR 57 per tonne of CO2e, whereas it was EUR 7 on average across
+the Chinese pilot emission trading systems and EUR 6 in Korea (World Bank Carbon Pricing Dashboard,
+https://carbonpricingdashboard.worldbank.org/). In addition, many systems allocate a large share of emission allowances
+(permits) for free. For instance, 84% of industrial emission allowances under the emissions trading systems that were
+operational in 2021 were allocated free of charge (OECD, Effective Carbon Rates 2023, https://doi.org/10.1787/b84d5b36-
+en). As a result, the effective carbon price paid in CBAM sectors of third countries will often be very low. 33
+carbon price insofar as they are located in a country where an effective carbon pricing
+instrument applies with respect to CBAM goods. In turn, the deduction of the carbon price by
+CBAM declarants would become more widely accessible. It would also reduce the administrative burden on Commission and NCAs to check
+compliance of CBAM declarations with evidence of the price effectively paid and
+certification requirements. However, significant analytical work would need to be carried out
+by the Commission to determine the values. 3.4.4 Information exchanges on CBAM certificate cancellation
+3.4.4.1 Problem definition
+Pursuant to Article 20(3) of the CBAM regulation, the information on the sale, repurchase and
+cancellation of CBAM certificates in the common central platform (CCP) should be
+transferred to the CBAM registry at the end of each working day. However, in practice this non-reciprocal information exchange from the CCP to the CBAM
+registry at the end of the day will not concern cancellation of certificates. This is because
+certificate cancellation is a task to be automatically performed by the Commission in the
+CBAM registry, and certificates are to be cancelled without any compensation to declarants.
+Additionally, since the cancellation does not relate to any payments made on the CCP, the
+platform will not hold information on cancellation of certificates and will not be able to send
+it to the CBAM registry. 3.4.4.2 Proposed way forward
+It is proposed to remove the reference to certificates cancellation from the reference to
+information exchange from the CCP to the CBAM registry.
+3.4.4.3 Simplification
+This measure simplifies the information exchanges between the 2 platforms (CBAM registry
+and CCP). 4. Stakeholder positions
+Throughout the transitional period, the Commission engaged with stakeholders, notably with
+industry and with national authorities as well as international partners and operators in third
+countries, with a view to getting their feedback and suggestions to improve the functioning of
+the mechanism. Several of the proposed simplifications are based on the input received.
+Moreover, on 6 February 2025 a Simplification Roundtable was held by the Commission with
+industry stakeholders to present the simplification package and collect feedback. EU industry
+participating was broadly supportive of the proposed simplifications. Specifically, stakeholders expressed views on the following simplifications: New CBAM De minimis: National authorities and businesses largely agree on the need for a
+new CBAM de minimis, which would be more effective in exempting occasional imports of
+small CBAM quantities. There is a broad consensus on the merit of alleviating the large
+majority occasional importers of small quantities of CBAM goods from a costly compliance
+burden. At least four Member States performed data analysis similar to the one by the
+Commission services. The distributions of importers of small quantities of CBAM goods 34
+based on national customs data confirmed the results of the analysis carried out by the
+Commission services. While there was agreement that embedded emissions are the most accurate metric to
+determine occasional importers of small CBAM quantities, many stakeholders (including
+Member States, industry representatives and NGOs/Think Tanks) called for the threshold to
+be expressed in mass, to facilitate application by importers. Such an approach is reflected in
+the proposed exemption. Some stakeholders (including Member States and industry
+representatives) expressed a preference for an annual threshold over a consignment-based
+threshold, given the inherent circumvention risks of a consignment-based threshold.
+Moreover, some stakeholders (including Member States and industry representatives) shared
+the assessment that an annual threshold is a more targeted solution, as it allows to exempt
+more importers with less foregone emissions. As it concerns the level of the threshold,
+opinions vary: Some stakeholders call for a higher threshold, some for a lower threshold,
+some agree with the level chosen.
+Many stakeholders have emphasised the importance of the introduction of a new de minimis
+threshold to be supplemented with anti-circumvention measures. Measures to simplify the CBAM reporting requirements
+Many stakeholders, (including Member States and industry representatives, in particular in the
+aluminium sector) requested changes of the rules pertaining to CBAM precursors for which
+an EU ETS carbon price had already been paid. Equally, many stakeholders called for
+changes of the CBAM scope to mirror more precisely the EU ETS scope, by exempting
+marginal emissions of downstream processes. Stakeholders in the ceramics industry requested
+to exempt non-calcined kaolinic clays from the CBAM scope. Measures to simplify CBAM financial liability
+Many stakeholders (including Member States and industry representatives) suggested
+modifying the 80% rule, notably to take account of the deduction of free allowances and find
+a better proxy to expected financial liability with a view to avoiding forced excess purchases
+by importers. There is broad consensus that this rule needs to be adapted. Some stakeholders
+suggested that rather than lowering the 80% rule, it may be better to work on limitations to
+selling back certificates. Conditions to use default values
+Many stakeholders (including Member States and industry representatives) have emphasised
+that in order to avoid excessive bureaucratic burden for importers, the possibility for
+declarants to use default values is indispensable. Some stakeholders have even suggested
+eliminating the possibility to report actual emissions and rely exclusively on CN-code and
+country-specific default values for reporting specific embedded emissions under CBAM. Emission verification of default values 35
+Stakeholders have pointed out that in case default values for reporting specific embedded
+emissions in the CBAM declaration, verification of the specific embedded emissions would
+not be required. Default carbon prices in third countries Some stakeholders expressed concern at the difficulties that deduction of carbon price paid in
+third countries would entail in the case of electricity imported from countries where it is
+traded anonymously. Introducing default values would address these concerns and avoid the
+risk of double carbon pricing.

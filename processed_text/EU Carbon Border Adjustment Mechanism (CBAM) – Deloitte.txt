@@ -1,0 +1,444 @@
+Carbon Border Adjustment
+Mechanism (CBAM)
+03
+Carbon Border Adjustment Mechanism (CBAM)
+The EU ETS | Reducing industrial emissions
+•
+The EU Emissions Trading System is the
+core EU mechanism that ensures industrial
+decarbonisation in line with the Green Deal. It
+aims to achieve this by reducing the permitted cap
+on GHG emissions of the target sectors over time,
+and reducing the allotted free emission
+allowances.
+•
+The Green Deal provides a roadmap and sets goals
+to reach climate neutrality by 2050.
+•
+To mitigate this risk, sectors and sub-sectors
+considered to be at risk of carbon leakage
+currently receive some or all of their ETS emission
+allowances for free (‘free allowances’).
+•
+As the allotment of free allowances is set to
+reduce, the EU is proposing the CBAM to
+mitigate carbon leakage for specific ETS sectors
+considered to be at high risk and create a level
+playing field between EU manufacturers and
+importers.
+•
+The increased costs associated with the CBAM
+will incentivise companies to invest in more
+sustainable supply chains.
+Fit for 55 package
+•
+The Green Deal includes the Climate Law and Fit
+for 55 package which binds the EU and Member
+states to a goal of achieving climate neutrality by
+2050.
+•
+The package also defines an interim EU target of
+reducing GHG emissions by at least 55% by 2030
+compared with 1990 levels.
+CBAM
+Background
+The Green Deal
+•
+The EU has adopted a sustainable growth plan to
+support its Green Transition.
+The EU CBAM | Mitigating carbon leakage
+•
+Carbon leakage refers to the situation where
+businesses transfer their production from
+countries with strict(er) emission policies to
+countries with lax(er) emissions regulations, which
+leads to an overall increase in total emissions. The
+risk of carbon leakage is higher in certain energy
+intensive industries.
+02
+05
+04
+Carbon Border Adjustment Mechanism (CBAM)
+The CBAM
+Snapshot
+Import in
+the EU
+CBAM goods
+Reporting
+Declarant
+CBAM
+Transitional
+Registry
+Quarterly CBAM
+Reporting
+EU
+NON-EU
+Sectors
+covered
+Cement
+Hydrogen
+Iron & Steel
+Fertilizers
+Electricity
+Aluminium
+Future expansion:
+•
+Polymers
+•
+Chemicals
+•
+Pulp / Paper
+•
+Glass
+•
+Ceramics
+07
+06
+Carbon Border Adjustment Mechanism (CBAM)
+Rules have been prescribed to determine –
+• CBAM classification categorization
+• Direct emissions
+• Indirect emissions
+• Monitoring methods
+Penalties may also be levied based on
+non-reporting/ wrong reporting during
+transitional period – EUR 10 to 50 per ton
+of unreported embedded emissions.
+During the definitive period, these
+penalties are expected to be linked to the
+EU ETS Carbon Price
+CBAM will not be applicable to imports of –
+• Goods originating from countries
+covered by the EU ETS (i.e. EEA
+countries);
+• Goods originating from countries with a
+domestic ETS linked with EU ETS (i.e.
+Switzerland);
+• Low value shipments (subject to change
+pending
+legislative
+approvals),
+and
+goods to be moved or used for military
+purposes.
+1
+2
+Scope Emissions
+What is
+CBAM’s Scope?
+CBAM covers the following embedded emissions:
+• Direct emissions arising from the production processes
+of CBAM goods, including emissions from the
+production of heating and cooling, consumed during
+production processes.
+• Indirect emissions – for specific CBAM goods - arising
+from the production of electricity consumed during
+the production processes.
+Good to
+Know!
+3
+As a part of the EU’s Omnibus package,
+amendments were proposed to the CBAM
+legislation on February 26, 2025, which is
+undergoing EU legislative review. This
+includes certain simplifications to reduce
+compliance burden, improve alignment
+with global standards, and enhance
+European competitiveness. 4
+09
+Reporting
+Structure
+Reporting fields have been published in the
+implementing regulation.
+Non-EU Supplier installation and
+emission data required for CBAM
+reporting
+Reporting declarant
+CBAM Data
+CBAM Report
+CBAM Report Data
+CBAM Transitional Registry
+08
+Carbon Border Adjustment Mechanism (CBAM)
+First Quarter of transitional
+period
+October 01, 2023
+January 31, 2024
+January 31, 2026
+August 31, 2027
+Deadline for the first
+CBAM report submission
+(Quarterly submission)
+Submission deadline for final
+Quarterly report (transitional
+period)
+TR ANSITIONAL PERIOD
+GR ADUAL PHASE-IN
+OF CBAM CERTIFICATES
+Timelines
+December 31, 2023
+End of first quarter of the
+transitional period
+January 01, 2026
+Go-live of the full CBAM
+Submission deadline of the
+first annual CBAM declaration
++ surrender CBAM certificates
+*pending CBAM simplification
+December 31, 2025
+End of transitional period
+CBAM PHASE-IN COMPLETE
+From 2034
+February 1, 2027
+Sale and Purchase of CBAM
+Certificates commences
+*pending CBAM simplification
+EU
+Non-EU
+10
+11
+Carbon Border Adjustment Mechanism (CBAM)
+Financial Impact
+of CBAM
+EU aluminum imports as of 2026
+Importers will need to surrender a gradually increasing
+number of CBAM certificates between 2026 and 2034
+to cover imported embedded GHG emissions. This
+phase-in aligns with the phase-out of free allowances
+within the EU Emissions Trading System (ETS).
+For imports of aluminium, this will entail the following
+(indicative) additional cost:
+Financial Impact
+of CBAM
+EU steel imports as of 2026
+Importers will need to surrender a gradually increasing
+number of CBAM certificates between 2026 and 2034
+to cover imported embedded GHG emissions. This
+phase-in aligns with the phase-out of free allowances
+within the EU Emissions Trading System (ETS).
+For imports of steel, this will entail the following
+(indicative) additional cost:
+Aluminium
+Cost of CBAM
+In 2026
+38
+In 2030
+836
+In 2034
+1939
+Total price (incl. cost of CBAM)
+*in EUR/MT
+2224
+3295
+4707
+Steel
+Cost of CBAM
+In 2026
+4
+In 2030
+96
+In 2034
+223
+Total price (incl. cost of CBAM)
+*in EUR/MT
+715
+895
+1123
+Assumptions •
+Price of aluminium of EUR 2000 per MT in 2023 with an
+illustrative 3 % yearly increase.
+•
+CBAM certificates price of EUR 87 in 2023 with an
+illustrative 3 % yearly increase.
+•
+Carbon intensity of aluminium production of 16,1 CO2
+MT/MT of goods.
+600
+700
+800
+900
+1000
+1100
+1200
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+The increasing cost of CBAM as of 2026
+Price of Steel (EUR/MT)
+Cost of CBAM (EUR/CO2 MT)
+97,5
+95
+90
+77,5
+51,5
+39
+26,5
+14
+0
+EU ETS free allowances (%)
+Assumptions
+•
+Price of steel of EUR 650 per MT in 2023 with an
+illustrative 3 % yearly increase.
+•
+CBAM certificate price EUR 87 in 2023 with an
+illustrative 3 % yearly increase.
+•
+Carbon intensity
+of steel is 1,8 MT CO2 MT/MT of
+goods.
+1500
+2000
+2500
+3000
+3500
+4000
+4500
+5000
+2026
+2027
+2028
+2029
+2030
+2031
+2032
+2033
+2034
+The increasing cost of CBAM as of 2026
+Price of Aluminium (in EUR/MT)
+Cost of CBAM (in EUR/CO2 MT)
+97,5
+95
+90
+77,5
+51,5
+39
+26,5
+14
+0
+EU ETS free allowances (%)
+13
+Carbon Border Adjustment Mechanism (CBAM)
+How Deloitte
+can help
+CBAM
+Impact Areas
+Provide you with general or
+specific CBAM guidance and
+advice.
+Conduct CBAM impact
+assessments.
+Manage your CBAM
+compliance through our
+Operate engagement
+model.
+Automate and streamline
+your CBAM compliance
+activity with our CBAM
+Compliance Manager.
+12
+Supplier Reach-out
+• Reach out to suppliers of CBAM goods
+• Discuss the reporting obligations
+• Streamline contracts (indemnification)
+Supply Chain Review
+• Review supply chain based on CBAM impact
+• Review EU/non-EU product sourcing alternatives
+Cost Efficiency
+• Evaluate actual emission data reporting
+versus reporting default values
+• Consider alternate less emission-intense
+sources for procurement
+Data Collection
+• Obtain supplier installation and emissions data
+• Ensure authenticity of the data
+System Integration
+• Include CBAM (material) master data in the ERP
+• Implement CBAM reporting functionality in the ERP
+• Prepare CBAM reports for quarterly submissions
+• Continuous monitoring for data and cost efficiency
+• Our CBAM tool can help your business
+Report Out
+13
+Carbon Border Adjustment Mechanism (CBAM)
+CBAM
+Compliance Manager
+14
+A digital (standalone) solution that enables EU companies
+to automate their CBAM obligations.
+Includes automated supplier solicitation with which the
+necessary emissions data can be requested and
+gathered efficiently from suppliers and producers
+through instruction videos and the use of smart-
+questioning.
+Lower compliance costs due to automation for obtaining,
+allocation of data and compiling the CBAM report.
+Improved compliance due to fully up-to-date CBAM
+reporting requirements and insight in import data.
+The solicitation GUI can be used to manage the central
+emissions data input of suppliers
+It shows the status of solicitation requests and provides a
+real-time status update on data gathering. It also gives the
+option to verify the emission data provided by your supplier.
+Supplier solicitation
+Automatically link import or export declaration lines to
+installations and emissions based on built-in logic.
+Enables the creation of CBAM reports and declarations
+that can be uploaded to the EU or shared with your EU-
+customers through the click of a button
+Auto-link imports and exports with
+emissions data and create CBAM reports
+CBAM
+Exporter Portal
+A digital (standalone) solution for non-EU exporters that
+automatically prepares and shares CBAM Data Reports
+with your EU customers.
+Gain a competitive advantage by offering accurate, timely,
+and structured emission values, lowering effective CBAM
+costs for your EU customers and demonstrating your
+value as a trusted supplier.
+Simplify the calculation of your CBAM emissions through
+smart questioning and instruction videos of the CBAM
+(calculation) data elements required by the EU, kept fully
+up-to-date by Deloitte.
+Obtain emissions data from your relevant suppliers and
+manufacturers through the automated solicitation
+functionality.
+Carbon Border Adjustment Mechanism (CBAM)
+16
+17
+Meet the team
+Rebecca Pehlivan
+Partner
+rpehlivan@deloitte.nl
+Maikel van der Knaap
+Director
+mvanderknaap@deloitte.nl
+Anna Sougle
+Consultant
+asougle@deloitte.nl
+Nikhil Mediratta
+Senior Consultant
+nmediratta@deloitte.nl
+Deloitte refers to one or more of Deloitte Touche
+Tohmatsu Limited, a UK private company limited by
+guarantee (“DTTL”), its network of member firms, and
+their related entities.
+DTTL and each of its member firms are legally separate
+and independent entities. DTTL (also referred to as
+“Deloitte Global”) does not provide services to clients.
+Please see About Deloitte for a detailed description of
+the legal structure of Deloitte Touche Tohmatsu Limited
+and its member firms.
+In The Netherlands the services are provided by
+independent subsidiaries or affiliates of Deloitte Holding
+B.V., an entity which is registered with the trade register
+in The Netherlands under number 40346342.
+© 2025 Deloitte NL.
+All rights reserved.
