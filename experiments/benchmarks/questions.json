@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "project_title": "Hệ thống tranh luận Đa Agent cho phân tích chính sách thuế carbon - Ngành dệt may Việt Nam",
+    "version": "1.0",
+    "created_date": "2024-12-20",
+    "total_questions": 30,
+    "language": "vi",
+    "distribution": {
+      "fact_based": 10,
+      "impact_based": 10,
+      "debate_based": 10
+    },
+    "topics": [
+      "Khung pháp lý VN về Carbon (6 câu)",
+      "Cơ chế CBAM của EU (6 câu)",
+      "Hiện trạng ngành dệt may VN (5 câu)",
+      "Giải pháp kỹ thuật giảm phát thải (5 câu)",
+      "Chính sách hỗ trợ & Tài chính (5 câu)",
+      "Tác động & Thách thức (2 câu)"
+    ]
+  },
+
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Khung pháp lý VN về Carbon",
+      "question": "Theo Nghị định 06/2022/NĐ-CP, ngưỡng phát thải tối thiểu để cơ sở sản xuất dệt may bắt buộc phải thực hiện kiểm kê khí nhà kính là bao nhiêu tấn CO2 tương đương/năm trở lên?",
+      "type": "fact-based",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": 2,
+      "topic": "Khung pháp lý VN về Carbon",
+      "question": "Luật Bảo vệ Môi trường 2020 quy định việc kiểm kê khí nhà kính phải được thực hiện theo chu kỳ bao nhiêu năm một lần?",
+      "type": "fact-based",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": 3,
+      "topic": "Khung pháp lý VN về Carbon",
+      "question": "Theo Quyết định 232/QĐ-TTg đã phê duyệt Đề án phát triển thị trường carbon tại Việt Nam với mục tiêu vận hành chính thức vào năm nào?",
+      "type": "fact-based",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": 4,
+      "topic": "Khung pháp lý VN về Carbon",
+      "question": "Theo Quyết định 01/2022/QĐ-TTg, có 294 doanh nghiệp ngành dệt may và da giày phải thực hiện kê khai khí nhà kính. Nếu ngành dệt may Việt Nam có khoảng 6.000 doanh nghiệp (theo VITAS), thì tỷ lệ doanh nghiệp bắt buộc kiểm kê là bao nhiêu phần trăm? Con số này cho thấy điều gì về quy mô tác động của chính sách?",
+      "type": "impact-based",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": 5,
+      "topic": "Khung pháp lý VN về Carbon",
+      "question": "Theo Nghị định 06/2022/NĐ-CP, doanh nghiệp phải kiểm kê khí nhà kính định kỳ 2 năm/lần. Nếu một doanh nghiệp dệt may hoạt động trong 20 năm tới (2025-2045), họ phải thực hiện kiểm kê bao nhiêu lần? Với việc mỗi lần kiểm kê tốn khoảng 1-2 tuần công của nhân viên chuyên trách, tổng thời gian dành cho công tác này là bao nhiêu?",
+      "type": "impact-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 6,
+      "topic": "Khung pháp lý VN về Carbon",
+      "question": "Nghị định 06/2022/NĐ-CP yêu cầu 294 doanh nghiệp dệt may nộp báo cáo kiểm kê vào tháng 3/2025 và bắt đầu tuân thủ hạn ngạch phát thải từ 2026. Tuy nhiên, nhiều SME phàn nàn về khó khăn nguồn lực. Việt Nam nên ưu tiên: (A) Hỗ trợ DN tuân thủ đúng lộ trình, hay (B) Đàm phán gia hạn thời gian sang 2027-2028?",
+      "type": "debate-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 7,
+      "topic": "Cơ chế CBAM của EU",
+      "question": "CBAM (Carbon Border Adjustment Mechanism) của EU chính thức áp dụng thu phí carbon từ năm nào? Giai đoạn báo cáo chuyển tiếp kéo dài từ khi nào đến khi nào?",
+      "type": "fact-based",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": 8,
+      "topic": "Cơ chế CBAM của EU",
+      "question": "Theo CBAM, các sản phẩm dệt may xuất khẩu vào EU có bị áp thuế carbon trực tiếp từ 2026 hay không? Nếu không, cơ chế gián tiếp nào có thể ảnh hưởng đến ngành dệt may?",
+      "type": "fact-based",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": 9,
+      "topic": "Cơ chế CBAM của EU",
+      "question": "Một doanh nghiệp dệt may Việt Nam xuất 10.000 tấn hàng/năm sang EU, cường độ phát thải là 2.5 tấn CO2/tấn sản phẩm. Giá carbon EU là 80 EUR/tấn. Nếu CBAM mở rộng sang dệt may, doanh nghiệp này phải trả bao nhiêu EUR thuế carbon mỗi năm? Nếu tỷ giá 1 EUR = 27.000 VNĐ, đây là bao nhiêu VNĐ?",
+      "type": "impact-based",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": 10,
+      "topic": "Cơ chế CBAM của EU",
+      "question": "CBAM cho phép trừ thuế carbon đã đóng ở nước xuất khẩu. Với việc Việt Nam chưa có thuế carbon, doanh nghiệp VN sẽ phải đối mặt với bất lợi cạnh tranh nào so với các nước đã có carbon pricing (như Trung Quốc đang thí điểm ETS)?",
+      "type": "impact-based",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": 11,
+      "topic": "Cơ chế CBAM của EU",
+      "question": "EU sẽ review mở rộng CBAM vào cuối 2025 (CBAM Reg Art. 30). Nếu dệt may được đưa vào CBAM từ 2028-2030, Việt Nam nên: (A) Chủ động xây dựng carbon pricing ngay từ 2025-2026 để chuẩn bị, hay (B) Đợi đến khi CBAM chính thức công bố danh sách mở rộng rồi mới hành động?",
+      "type": "debate-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 12,
+      "topic": "Cơ chế CBAM của EU",
+      "question": "Ngoài CBAM, các thương hiệu thời trang lớn như H&M, Zara, Nike đang yêu cầu nhà cung cấp công bố carbon footprint và đặt mục tiêu giảm phát thải. Áp lực từ buyer requirements này có mạnh hơn CBAM không? Doanh nghiệp dệt may VN nên ưu tiên tuân thủ điều nào trước?",
+      "type": "debate-based",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": 13,
+      "topic": "Hiện trạng ngành dệt may VN",
+      "question": "Theo báo cáo của VITAS và USAID, ngành dệt may Việt Nam phát thải bao nhiêu triệu tấn CO2 mỗi năm? Chiếm bao nhiêu % nhu cầu năng lượng của toàn ngành công nghiệp?",
+      "type": "fact-based",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": 14,
+      "topic": "Hiện trạng ngành dệt may VN",
+      "question": "Theo số liệu của Tổng cục Thống kê và VITAS năm 2023, kim ngạch xuất khẩu dệt may Việt Nam đạt khoảng bao nhiêu tỷ USD? Thị trường EU chiếm bao nhiêu % trong tổng kim ngạch xuất khẩu này?",
+      "type": "fact-based",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": 15,
+      "topic": "Hiện trạng ngành dệt may VN",
+      "question": "Theo cơ cấu sản xuất của ngành dệt may Việt Nam, tỷ lệ doanh nghiệp làm gia công (CMT - Cut, Make, Trim) so với sản xuất FOB (Free On Board) là bao nhiêu? Mô hình nào chiếm ưu thế và điều này ảnh hưởng thế nào đến khả năng kiểm soát carbon footprint?",
+      "type": "fact-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 16,
+      "topic": "Hiện trạng ngành dệt may VN",
+      "question": "Ngành dệt may VN chủ yếu sử dụng nguồn điện từ than (chiếm ~60% hệ số phát thải điện lưới VN). Nếu chuyển sang mua điện tái tạo (solar, wind) có thể giảm được bao nhiêu % phát thải? Chi phí điện tăng thêm bao nhiêu?",
+      "type": "impact-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 17,
+      "topic": "Hiện trạng ngành dệt may VN",
+      "question": "Trong 294 doanh nghiệp dệt may phải kiểm kê GHG, khoảng 60% là SME với doanh thu dưới 200 tỷ VNĐ/năm. Chi phí kiểm kê lần đầu khoảng 150-250 triệu VNĐ. Tỷ lệ chi phí này trên doanh thu là bao nhiêu? Điều này có tạo rào cản cho SME không?",
+      "type": "impact-based",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": 18,
+      "topic": "Hiện trạng ngành dệt may VN",
+      "question": "Ngành dệt may VN chủ yếu làm gia công (CMT - Cut, Make, Trim) với giá trị gia tăng thấp (15-20%). Nếu phải gánh chi phí carbon, khả năng chuyển chi phí sang buyer như thế nào? Có khác biệt gì giữa mô hình CMT và FOB?",
+      "type": "impact-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 19,
+      "topic": "Giải pháp kỹ thuật giảm phát thải",
+      "question": "Theo báo cáo 'Resource Efficiency and Cleaner Production in the Garment Sector' của UNIDO (2019), việc áp dụng công nghệ nhuộm tiết kiệm nước (water-saving dyeing technology) có thể giảm lượng nước tiêu thụ bao nhiêu % và giảm phát thải CO2 bao nhiêu % so với phương pháp nhuộm truyền thống?",
+      "type": "fact-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 20,
+      "topic": "Giải pháp kỹ thuật giảm phát thải",
+      "question": "Một nhà máy dệt nhuộm ở Việt Nam tiêu thụ 500.000 kWh điện/tháng, trong đó 60% dùng cho hệ thống boiler và sấy. Nếu đầu tư 5 tỷ VNĐ để nâng cấp lên boiler hiệu suất cao và lắp hệ thống thu hồi nhiệt thải, có thể tiết kiệm 25% năng lượng. Hãy phân tích: (1) Giảm được bao nhiêu tấn CO2/năm? (2) Thời gian hoàn vốn trong các kịch bản khác nhau của thuế carbon?",
+      "type": "impact-based",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": 21,
+      "topic": "Giải pháp kỹ thuật giảm phát thải",
+      "question": "Một công ty dệt may có 3 nhà máy ở miền Bắc, miền Trung và miền Nam, mỗi nhà máy phát thải 10.000 tấn CO2/năm. Công ty có ngân sách đầu tư xanh 50 tỷ VNĐ và cần quyết định giữa 3 phương án: (A) Lắp hệ thống solar rooftop 5 MW cho cả 3 nhà máy (15 tỷ mỗi nhà máy), (B) Nâng cấp toàn bộ hệ thống nhuộm tiết kiệm nước cho 1 nhà máy (50 tỷ), (C) Đầu tư máy móc hiệu suất cao cho cả 3 nhà máy (16-17 tỷ mỗi nhà máy). Phương án nào mang lại hiệu quả giảm phát thải cao nhất trên mỗi đồng đầu tư? Xếp hạng theo cost-effectiveness (VNĐ/tấn CO2 giảm).",
+      "type": "impact-based",
+      "difficulty": "very hard"
+    },
+
+    {
+      "id": 22,
+      "topic": "Giải pháp kỹ thuật giảm phát thải",
+      "question": "Chính phủ Việt Nam đang cân nhắc chính sách bắt buộc các nhà máy dệt nhuộm đạt chuẩn hiệu suất năng lượng tối thiểu (MEPS) cho boiler và máy nhuộm từ 2027. DN không đạt chuẩn phải: (A) Nâng cấp thiết bị trong 2 năm với vay ưu đãi 4%/năm, hoặc (B) Chịu phí phạt tăng dần 5-10-15% chi phí năng lượng nếu không nâng cấp. Phương án nào hiệu quả hơn?",
+      "type": "debate-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 23,
+      "topic": "Giải pháp kỹ thuật giảm phát thải",
+      "question": "Một tập đoàn dệt may lớn ở Việt Nam có 5 nhà máy, tổng phát thải 50.000 tấn CO2/năm. Họ có ngân sách đầu tư xanh 100 tỷ VNĐ và phải lựa chọn giữa: (A) Đầu tư tập trung vào 1-2 nhà máy để đạt net-zero (100% năng lượng tái tạo + carbon offset), tạo 'lighthouse factories' làm mẫu, hay (B) Phân bổ đều cho cả 5 nhà máy để giảm 20-30% phát thải mỗi nhà máy, đảm bảo công bằng và giảm rủi ro? Chiến lược nào tối ưu về mặt môi trường, kinh tế và chiến lược?",
+      "type": "debate-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 24,
+      "topic": "Chính sách hỗ trợ & Tài chính",
+      "question": "Theo chương trình Vietnam Improvement Program của IFC từ năm 2019, tổng nguồn vốn đã huy động để hỗ trợ ngành dệt may Việt Nam chuyển đổi xanh là bao nhiêu? Chương trình này đã giúp tiết kiệm bao nhiêu điện năng và giảm bao nhiêu tấn CO2 mỗi năm?",
+      "type": "fact-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 25,
+      "topic": "Chính sách hỗ trợ & Tài chính",
+      "question": "Một đề tài nghiên cứu phát triển hệ thống tranh luận đa-agent để mô phỏng 5 kịch bản chính sách thuế carbon khác nhau (thuế suất 10-50 USD/tấn CO2) cho 50 doanh nghiệp dệt may Việt Nam. Chi phí nghiên cứu 3 tỷ VNĐ/2 năm. Nếu không có hệ thống này, mỗi DN phải thuê tư vấn 200 triệu VNĐ để phân tích tác động CBAM và lập lộ trình giảm phát thải. Hệ thống giúp: (1) Giảm 70% chi phí tư vấn, (2) Rút ngắn thời gian ra quyết định từ 6 tháng xuống 2 tuần, (3) Cung cấp bằng chứng khoa học giúp Chính phủ thiết kế chính sách phù hợp, tiết kiệm 500 tỷ VNĐ chi phí điều chỉnh chính sách sai. Tính tổng lợi ích kinh tế-xã hội và tỷ lệ chi phí/lợi ích (BCR) của đề tài?",
+      "type": "impact-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 26,
+      "topic": "Chính sách hỗ trợ & Tài chính",
+      "question": "Quỹ Khí hậu Xanh (Green Climate Fund - GCF) và các cơ chế tài trợ quốc tế khác (ADB, World Bank, JICA) cung cấp vốn ưu đãi cho dự án giảm phát thải ở VN. Tuy nhiên, quy trình xin vốn phức tạp (2-3 năm), yêu cầu co-financing 30-50%. DN dệt may nên: (A) Tập trung vào nguồn vốn nội địa (ngân hàng, leasing) dù lãi suất cao hơn nhưng nhanh, hay (B) Đầu tư effort vào xin vốn quốc tế dù chậm nhưng điều kiện tốt hơn?",
+      "type": "debate-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 27,
+      "topic": "Chính sách hỗ trợ & Tài chính",
+      "question": "Chính phủ VN đang cân nhắc 3 chính sách hỗ trợ DN dệt may giảm phát thải: (A) Trợ cấp trực tiếp 30% chi phí đầu tư vào công nghệ xanh (grant), (B) Miễn thuế thu nhập doanh nghiệp 2 năm cho dự án giảm >20% phát thải, (C) Cung cấp technical assistance miễn phí (đào tạo, tư vấn, MRV). Với ngân sách nhà nước hạn chế (1.000 tỷ VNĐ), nên ưu tiên chính sách nào? Phân tích effectiveness, efficiency, và equity.",
+      "type": "debate-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 28,
+      "topic": "Chính sách hỗ trợ & Tài chính",
+      "question": "Việt Nam có thể huy động vốn cho chuyển đổi xanh ngành dệt may qua: (A) Carbon tax nội địa (10-30 USD/tấn CO2) với revenue recycling để hỗ trợ DN, (B) Phát hành Green bonds chính phủ (20.000 tỷ VNĐ) để cho vay ưu đãi, hay (C) Bắt buộc DN lớn tự tài trợ (mandatory green capex 5% revenue/năm). Mỗi cơ chế có trade-offs về hiệu quả, công bằng, và khả thi chính trị. Phương án nào tối ưu?",
+      "type": "debate-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 29,
+      "topic": "Tác động & Thách thức",
+      "question": "Nếu CBAM mở rộng sang dệt may và các chính sách carbon của VN được thực thi nghiêm, dự báo 10-15% doanh nghiệp dệt may (khoảng 600-900 DN nhỏ) có thể phải đóng cửa do không đủ năng lực tuân thủ, ảnh hưởng 150.000-220.000 lao động. Chính phủ nên: (A) Ưu tiên bảo vệ việc làm bằng cách nới lỏng/trì hoãn chính sách carbon, hay (B) Thúc đẩy chuyển đổi xanh kể cả khi có chi phí xã hội ngắn hạn, đầu tư vào just transition (đào tạo lại, hỗ trợ chuyển đổi)?",
+      "type": "debate-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 30,
+      "topic": "Tác động & Thách thức",
+      "question": "Các nước phát triển (EU, Mỹ) áp dụng CBAM và yêu cầu carbon footprint có thể được xem là 'chủ nghĩa bảo hộ xanh' (green protectionism), tạo rào cản thương mại cho các nước đang phát triển như VN. Việt Nam nên: (A) Phản đối và kêu gọi miễn trừ/delay cho developing countries tại WTO/UNFCCC, hay (B) Chấp nhận 'luật chơi mới', nhanh chóng thích nghi để không bị bỏ lại phía sau?",
+      "type": "debate-based",
+      "difficulty": "hard"
+    }
+  ]
+}
