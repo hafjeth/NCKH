@@ -1,0 +1,433 @@
+The ASEAN’s Green Trade Policy in Response to
+EU CBAM: A Comparative Study of Indonesia
+and Vietnam
+Zainur Ridho1 and Arie Kusuma Paksi1*
+. The European Union’s Carbon Border Adjustment Mechanism
+(CBAM), part of the "Fit for 55" package, embeds carbon accountability into
+global trade. This study examines how Indonesia and Vietnam, two ASEAN
+member states, respond to CBAM through differing green trade strategies.
+Based on qualitative document analysis (2019–2025), it finds that Vietnam
+has taken a proactive approach, introducing emissions monitoring, pilot
+Emissions Trading Systems (ETS), and clean energy investments, spurred
+partly by the EU-Vietnam Free Trade Agreement (EVFTA). Conversely,
+Indonesia’s response remains fragmented, constrained by fossil fuel
+reliance, delayed carbon tax implementation, and institutional challenges,
+despite involvement in the Just Energy Transition Partnership (JETP). The
+paper also explores ASEAN’s emerging but limited institutional response,
+such as the ASEAN Taxonomy for Sustainable Finance and the ASEAN
+Strategy for Carbon Neutrality. Though largely aspirational, proposals for
+an ASEAN CBAM Task Force and regional carbon market suggest growing
+momentum for policy coordination. Using theories of regulatory diffusion
+and complex interdependence, the study argues that ASEAN’s collective
+action is key to harmonizing national policies, reducing trade frictions, and
+improving regional competitiveness. This research contributes to
+discussions on green industrial policy in the Global South and highlights the
+role of regional organizations in navigating transnational climate rules.
+Carbon Border Adjustment Mechanism (CBAM), Green Trade
+Policy, ASEAN Climate Governance
+1 Introduction
+The introduction of the European Union’s Carbon Border Adjustment Mechanism (CBAM),
+part of the “Fit for 55” package, signals a new regulatory era at the intersection of climate
+governance and trade. By pricing embedded emissions in imports of carbon-intensive
+products (e.g., steel, cement, aluminum), CBAM marks a normative shift where trade
+embodies carbon accountability. For Southeast Asian developing economies, this introduces
+not only regulatory challenges but strategic inflection points in global supply chains.
+Indonesia and Vietnam, both ASEAN members with strong export linkages to the
+European Union, are positioned at the frontline of CBAM-related trade and regulatory
+pressures. As major exporters of carbon-intensive and energy-dependent products, both
+countries face increasing scrutiny over the emissions embedded in their industrial outputs.
+Vietnam has responded proactively by aligning its trade and climate governance through the
+contrast, Indonesia’s policy trajectory remains fragmented, constrained by its continued
+dependence on coal, delayed implementation of carbon pricing instruments, and regulatory
+fragmentation across sectors [1]. These responses highlight ASEAN economies’ varied
+capacity to internalize climate trade norms.
+This research responds to an urgent policy and scholarly gap: how Southeast Asian
+economies, particularly Indonesia and Vietnam, recalibrate their trade and environmental
+governance in response to external climate regulations such as CBAM. Despite CBAM’s
+anticipated impacts, little is known about the differentiated responses among ASEAN states
+or the role of ASEAN itself as a regional platform in coordinating green trade policy.
+Although the literature on climate diplomacy and regulatory diffusion has expanded in recent
+years [2], most existing studies focus on bilateral or EU-centered perspectives, overlooking
+how regional groupings like ASEAN mediate external regulatory pressures and internal
+governance asymmetries.
+This paper seeks to fill that gap by situating ASEAN’s evolving green trade governance
+within the frameworks of complex interdependence and regulatory diffusion [3].
+Specifically, the research addresses the following questions: (1) How have Indonesia and
+Vietnam’s green trade policies evolved in response to the EU CBAM? (2) What role does
+ASEAN play as a coordinating platform for its member states in adapting to CBAM-related
+pressures? These questions help assess policy convergence in Southeast Asia and the capacity
+of regional organizations in the Global South to influence trade-environment regimes.
+The novelty of this research lies in its dual-level analysis: comparing national-level policy
+adaptation in two key ASEAN states, while also critically evaluating ASEAN’s institutional
+role in shaping regional responses to external environmental trade norms. Unlike previous
+studies that focus on state-to-state climate diplomacy or unilateral trade measures, this paper
+highlights the strategic importance of regional coordination in mitigating trade fragmentation
+and aligning with global sustainability transitions. Moreover, by bringing CBAM into the
+analytical conversation on ASEAN’s regulatory cohesion and green diplomacy, the paper
+opens new pathways for research on a trade-climate interface in middle-income and
+transitional economies.
+By drawing on qualitative document analysis, policy reviews, and theoretical insights
+from international political economy, this study contributes to emerging debates on how
+global regulatory innovations, such as CBAM, reshape environmental governance beyond
+the North. The following section outlines the methodological approach and data sources used
+in this comparative analysis.
+2 Research method
+This study applies a qualitative comparative case study approach, focusing on Indonesia and
+Vietnam as divergent responses to the EU’s Carbon Border Adjustment Mechanism (CBAM)
+[4]. Data were primarily collected through document analysis, appropriate for tracing policy
+evolution, regulatory discourse, and institutional responses over time [5]. The study
+population consists of policy instruments and trade–climate governance documents (2019–
+2025), purposively sampled to include revised Nationally Determined Contributions (NDCs),
+carbon pricing legislation (e.g., Indonesia’s Law No. 7/2021, green industrial strategies (e.g.,
+Vietnam’s VGGS and Decision 882/2022), sectoral action plans, ASEAN’s Strategy for
+Carbon Neutrality, the ASEAN Taxonomy for Sustainable Finance, and ASEAN–EU climate
+joint statements. Supplementary sources include Eurostat and national customs trade data,
+policy briefs (IGES, UNCTAD, IEA), and peer-reviewed articles on regulatory convergence
+and green trade in Southeast Asia. BIO Web of Conferences 199, 02006 (2025)
+SAGE-Grace 2025
+Data were analyzed using thematic content analysis, guided by theoretical frameworks of
+regulatory diffusion [2] and complex interdependence [3]. Documents were coded into four
+categories: CBAM vulnerability, national policy adaptation, ASEAN coordination, and EU
+engagement. This approach identified patterns, gaps, and rhetorical versus substantive
+responses to CBAM. Following interpretive policy analysis traditions, no ethical review was
+needed as no human subjects were involved. Using only public documents enhances
+replicability for future studies. Only contextual adaptation for ASEAN–EU trade was
+applied. To strengthen validity, triangulation used firm-level reports and emissions data (e.g.,
+Krakatau Steel, SIG, Vietnamese SMEs). While not primary sources, these materials
+supported findings and linked regulatory frameworks to industry-level adaptation.
+3 Results and Discussions
+This section presents the findings from the document analysis, structured around two core
+themes: (1) national responses to CBAM in Indonesia and Vietnam, and (2) the role of
+ASEAN in coordinating regional adaptation. Each subsection integrates empirical findings
+with interpretive insights to ensure clarity and coherence.
+3.1 Diverging National Responses to EU CBAM: Indonesia and Vietnam
+The comparative analysis reveals significant divergence in how Indonesia and Vietnam are
+responding to the emerging pressures of the EU CBAM. These national-level divergences
+reflect broader patterns in Southeast Asia, where sectoral green economy initiatives,
+particularly in tourism and creative industries, have gained momentum as drivers of
+sustainable development and policy innovation [6]. Vietnam has adopted a coordinated
+regulatory approach, issuing Decision 882/2022 to establish MRV systems for carbon-
+intensive sectors by 2025. and preparing a pilot ETS alongside potential carbon taxation.
+Programs like VNEEP 3 aim to cut energy use by 8–10% by 2030, while renewable energy
+capacity reached 16.5 GW (solar) and 11.8 GW (wind) by 2021. These measures are
+supported by international financing, including a €142 million grant from the EU for clean
+energy and energy efficiency development [2].
+Indonesia, by contrast, has pursued a more cautious and fragmented strategy. While the
+2021 Harmonized Tax Law introduced a carbon tax of Rp30,000 per kg CO₂ (~US$2.1 per
+ton), its implementation has been delayed and remains narrowly focused on coal-fired power
+plants. Despite a US$20 billion JETP pledge, only US$280 million was disbursed by 2025,
+mostly in the form of loans. Compounding these limitations, a 2024 revision to the National
+Energy Plan (RUEN) downgraded the country’s renewable energy target, reflecting
+persistent reliance on fossil fuels. Table 1 summarizes key areas of policy response by both
+countries.
+Table 1. Comparative Policy Responses to EU CBAM (as of 2025)
+Source: MONRE Vietnam, IRENA, Government of Indonesia, and JETP.
+Policy Area
+Vietnam
+Indonesia
+Carbon Pricing
+ETS by 2025; exploring carbon tax
+Carbon tax (Rp30,000/kg CO₂),
+delayed
+MRV System
+Mandatory by 2025 (steel, cement,
+aluminum)
+Not yet standardized
+Renewable Energy
+Targets
+21–39% of the energy mix by 2030
+Downscaled in the 2024 revision
+External Climate
+Finance
+€142M EU grant; major RE FDI
+US$280M JETP loans disbursed
+Policy Instruments
+VGGS, Decision 882/2022, VNEEP 3
+NDC revision, JETP, HPP Law BIO Web of Conferences 199, 02006 (2025)
+SAGE-Grace 2025
+Vietnam’s alignment with CBAM compliance requirements is shaped by its exposure to
+EU trade norms and the incentives embedded in bilateral agreements such as the EVFTA.
+Indonesia, however, faces greater constraints due to fossil fuel subsidies, political economy
+pressures, and slower institutional reform.
+Vietnam’s textile and electronics industries, the country’s leading export sectors, face
+moderate direct CBAM risk today (CBAM initially covers metals and cement), but their
+upstream supply chains (fibers, electronics components) are carbon-intensive. For example,
+Vietnam’s textile sector (US$39.7 billion in exports in 2023) relies on energy-intensive
+processes (dyeing, finishing) and fossil-fueled electricity. Recent analyses find Vietnam’s
+exports have very high carbon intensity (on the order of 0.7–1.4 kg CO₂ per US$ exported in
+key markets) [7]. Electronics manufacturing is also energy- and resource-intensive (notably
+in semiconductor fabrication), and Vietnamese firms report difficulty tracking Scope-3
+emissions along global supply chains. On the positive side, Vietnam has rapidly expanded
+renewables: its 2024 Power Development Plan raises the 2030 non-hydro renewables target
+to 21% of capacity and trims coal’s share from 52% to 43%. Large-scale solar and wind
+projects are online or planned, supported by foreign investment (e.g., JETP funding
+~US$15.5 billion [8]). These shifts lower future CBAM burdens. Nevertheless, MRV and
+carbon accounting remain nascent: Vietnam has only a few pilot ETS/quota systems slated
+(power, steel, cement to be quota-covered by 2025 [9]), and most SMEs lack emissions
+reporting capability. Fig. 1. Disbursed JETP Financing in Indonesia and Vietnam (as of 2025) Source: JETP. Indonesia’s steel and cement sectors are directly subject to CBAM (accounting for ~6–
+7% of global CO₂) and are primary export earners. Both industries are highly carbon-
+intensive (blast furnaces and kilns fueled by coal) and rely on old, inefficient plants.
+Indonesian steelmakers (e.g., Krakatau Steel) have announced long-term decarbonization
+roadmaps (e.g., 33% CO₂ reduction by 2030, carbon neutrality by 2060), and PT Semen
+Indonesia (SIG) is rapidly adding renewables, e.g., a 6.4 MW rooftop solar plant at Tuban
+and using biomass to displace coal. Nonetheless, policy constraints are severe: Indonesia’s
+planned carbon tax on coal plants has been postponed to 2025, and coal still fuels most power
+generation (>60%), driving industrial emissions. The new IDXCarbon market (launched Sep
+2023) is voluntary and limited in scope. Overall, Indonesian firms face high CBAM costs but
+limited domestic carbon pricing or MRV infrastructure to offset them.
+This divergence reflects not only policy approaches but also deeper structural differences
+in both countries’ economic and energy profiles. Vietnam’s export sector is dominated by
+light manufacturing (textiles, electronics) with growing integration into low-carbon global
+supply chains, supported by rapid renewable energy deployment, solar and wind accounted BIO Web of Conferences 199, 02006 (2025)
+SAGE-Grace 2025
+for over 30% of new capacity additions in 2023 [10]. Indonesia, conversely, relies heavily
+on carbon-intensive industries such as cement and steel, which combined contribute to
+approximately 40% of its manufacturing emissions [11]. Indonesia’s electricity grid remains
+over 60% coal-based, whereas Vietnam has reduced coal’s share to below 43% by revising
+its Power Development Plan. These fundamental differences shape each country’s regulatory
+readiness for CBAM compliance: Vietnam can leverage cleaner electricity and bilateral trade
+agreements like EVFTA to meet EU carbon standards, while Indonesia faces higher
+adjustment costs due to its fossil fuel dependency and delayed carbon market
+implementation. The analytical contrast between the two pathways highlights the policy
+challenges ASEAN faces in harmonizing green trade strategies across diverse energy
+economies.
+Vietnam’s renewable shift contrasts with Indonesia’s continued coal reliance. Regulatory
+diffusion from the EU’s CBAM pushes both governments to align with EU-style standards,
+yet responses diverge: Vietnamese firms increasingly adopt proactive compliance,
+accelerating pilot ETS programs and emissions reporting for over 1,900 entities by 2026,
+while Indonesian initiatives remain largely voluntary and delayed. This reflects proactive
+decarbonization in Vietnam versus cautious, resistant adaptation in Indonesia.
+Table 2. Comparative CBAM Metrics: Vietnam and Indonesia.
+Metric
+Vietnam
+Indonesia
+Export carbon
+intensity
+0.7 kg CO₂ / US$ (exports; e.g.
+to ASEAN)
+(est.) 0.5–0.8 kg CO₂ / US$ (heavy
+export sectors)
+Clean energy
+investment
+US$15.5 billion (JETP pledge)
+US$97 billion (JETP expected)
+status
+Pilot ETS (quota system) by
+2025; major exporters must
+report by 2026
+No mandatory ETS yet; voluntary
+IDXCarbon launched (2023); coal
+tax deferred to 2025
+Source: JETP, IEA, SIG, EARTH
+Both countries’ current policies have mixed strengths. Vietnam’s advantage lies in
+aggressive renewable targets and emerging carbon regulations (e.g., quota system for
+power/steel/cement in 2025) and active engagement with EU resources. However,
+implementation gaps (e.g., weak enforcement of quotas) and reliance on residual coal
+capacity may blunt CBAM mitigation. Indonesia has not yet embedded carbon costs
+domestically, making CBAM a novel “wake-up call”. Its strengths include abundant solar
+potential and large-scale international financing (JETP). The key policy weaknesses in both
+are the absence of a firm national carbon price and incomplete MRV systems.
+To mitigate CBAM risk and regional leakage, policymakers could pursue cooperative
+approaches. For example, an ASEAN carbon club could harmonize standards and create a
+regional ETS pilot (building on initiatives like the ASEAN Taxonomy framework). Cross-
+border cooperation on MRV (e.g., mutual recognition of emissions audits) would reduce
+duplicative reporting. Joint pilot projects or EU-supported ETS pilots (as in the JETP
+frameworks) could demonstrate low-carbon industrial processes. In particular, targeted
+support for high-emitters, such as credit lines for clean tech in cement and steel, or subsidies
+for textile firms’ energy-efficient equipment, would shift industry from “resistant adaptation”
+to proactive decarbonization. Overall, aligning national climate strategies (regulatory
+diffusion) and offering clear signals (domestic carbon pricing, compliance roadmaps) should
+help both Vietnam and Indonesia turn CBAM from a trade barrier into an impetus for green
+competitiveness. BIO Web of Conferences 199, 02006 (2025)
+SAGE-Grace 2025
+Evidence from firm-level actions reinforces the broader policy divergences between
+Indonesia and Vietnam. In Indonesia, Krakatau Steel has published a decarbonization
+roadmap targeting a 33% CO₂ reduction by 2030, while PT Semen Indonesia has
+commissioned a 6.4 MW rooftop solar installation and adopted biomass co-firing to reduce
+emissions intensity in cement production. However, these initiatives remain voluntary and
+not yet embedded in a national carbon pricing framework. By contrast, in Vietnam, CBAM
+readiness among small and medium-sized exporters, particularly in the textile sector, has
+been supported through EU-sponsored training programs and industry-level capacity
+building. Although MRV capacity remains limited among SMEs, this institutional
+engagement indicates an early strategic alignment with CBAM requirements. These cases
+illustrate that, while national policy is a critical enabler, firm-level compliance behaviors also
+reflect varying degrees of regulatory diffusion and market-driven adaptation across ASEAN.
+The inclusion of such micro-level evidence offers empirical triangulation to the
+document-based analysis and suggests that CBAM pressures are already shaping not just
+high-level policy discourse but also investment and reporting practices at the corporate level.
+However, the extent and pace of this adaptation remain uneven and contingent on access to
+climate finance, technical capacity, and the credibility of domestic carbon governance
+systems.
+3.2 ASEAN’s Limited but Emerging Role in Regional CBAM Coordination
+The ASEAN Carbon Neutrality Strategy (2023) and Taxonomy for Sustainable Finance mark
+early steps toward a regional green trade framework. ASEAN–EU Joint Statements on
+Climate Change (2022 and 2023) also reflect growing awareness of the link between trade
+and environmental standards. These documents emphasize emissions monitoring (MRV),
+climate finance cooperation, and regulatory convergence, yet stop short of imposing binding
+commitments. ASEAN’s institutional design, particularly its reliance on consensus and non-
+interference, continues to limit deeper harmonization of carbon-related trade policies [12].
+Nonetheless, there are growing opportunities for ASEAN to play a more coordinated role.
+Policy proposals such as an ASEAN CBAM Task Force and the ASEAN Zero Emissions
+Community (AZEC) suggest a willingness among member states and policy communities to
+institutionalize climate-trade governance. Emerging initiatives may strengthen ASEAN’s
+coherence in engaging the EU, advancing MRV and carbon pricing harmonization, and
+enhancing its leverage in global green trade negotiations. Though still nascent, these
+developments provide a foundation for deeper regional integration. Subnational actions can
+also reinforce ASEAN’s decarbonization goals through bottom-up governance structures
+[13].
+Despite its current limitations, ASEAN could evolve into an effective platform for
+regional CBAM adaptation through several practical steps: promoting mutual recognition of
+low-carbon certifications, providing technical assistance to less developed members, and
+facilitating South–South knowledge exchange on carbon governance. If implemented
+effectively, these measures could strengthen ASEAN’s role not only as a trade bloc but also
+as a climate governance actor capable of shaping global sustainability norms.
+3.3 Scenario-Building and Long-Term Pathways for ASEAN CBAM Adaptation
+Building on Section 3.2’s analysis of divergent strategies in Indonesia and Vietnam, this
+subsection explores potential CBAM sectoral expansion and ASEAN’s long-term capacity
+for coordinated adaptation. The European Commission has indicated intentions to extend
+CBAM coverage beyond current carbon-intensive industries to include textiles and
+electronics by 2027–2030 [14]. These sectors are crucial to ASEAN economies, accounting BIO Web of Conferences 199, 02006 (2025)
+SAGE-Grace 2025
+for approximately USD 39.7 billion (27%) of Vietnam’s exports and 12% of Indonesia’s
+manufacturing GDP [15]. Lifecycle assessments estimate that carbon-intensive exports from
+ASEAN, such as textiles and electronics, could result in up to €3.2 billion in annual CBAM
+costs by 2030, due to emission levels of 0.7–1.4 kg CO₂ per USD of export value
+Institutional fragmentation within ASEAN compounds these challenges. Vietnam’s
+planned pilot Emissions Trading System (ETS) for 2025 aligns closely with EU MRV
+requirements, while Indonesia’s voluntary IDXCarbon market, launched in 2023, lacks
+robust, enforceable reporting mechanism. Such asymmetries create compliance inefficiencies
+for small and medium-sized exporters operating across multiple ASEAN jurisdictions.
+To mitigate these risks, a phased approach toward establishing a unified ASEAN carbon
+market is recommended. A phased approach is proposed: bilateral credit recognition (2025–
+2030), regional Carbon Club with minimum carbon price (2030–2035), and eventual
+ASEAN-wide ETS post-2035 to enhance market liquidity and negotiate EU equivalence.
+This gradual integration pathway balances national sovereignty considerations with the
+collective need for regional climate-trade resilience, enhancing market liquidity and
+positioning ASEAN to negotiate more effectively for CBAM exemptions or equivalence
+recognition in the long term.
+3.4 Policy Recommendations for ASEAN and National Adaptation to CBAM
+The EU’s CBAM presents an opportunity for ASEAN to accelerate decarbonization through
+coordinated regional strategies and targeted national reforms. ASEAN could benefit from an
+“ASEAN Carbon Club” or similar forum to align policies, develop joint positions on CBAM
+design, and engage the EU. Building on the COP28 Climate Club, ASEAN should promote
+flexibility, including recognition of non-tax decarbonization measures. Harmonizing MRV
+across member states would reduce compliance costs and increase the credibility of
+ASEAN’s emissions data. Indonesia and Vietnam, for example, could align registries with
+ISSB/ISO standards, adopt shared protocols for energy audits and pool verifier training. In
+the long run, linked MRV registries could certify credits and track CBAM data, improving
+market liquidity. ASEAN should also pilot a regional ETS or credit exchange to enhance
+scale and price stability. Indonesia’s power-sector ETS (covering 37% of capacit) could link
+to voluntary markets in Thailand or Malaysia. Even a basic intra-ASEAN offset scheme could
+lay the foundation for a more integrated carbon market.
+Indonesia has introduced a carbon tax on coal and a sector-specific ETS for coal-fired
+power plants, but the current price remains low (US$0.8/tCO₂ in auctions and applies only to
+electricity. For carbon pricing to be effective, it must follow a credible price path and expand
+to high-emitting sectors such as cement and steel, which remain unpriced. Auctioning permits
+for these industries would reduce emissions and generate fiscal revenue. An ADB study
+estimates that CBAM revenue could reach €14 billion by 2030, recommending its use for
+climate finance in developing countries; Indonesia could adopt a similar approach by
+allocating carbon-tax revenues to just transition efforts e.g., subsidizing clean technology in
+heavy industry. A strong pricing regime would not only cut emissions but also enable
+exporters to prove that carbon costs have been paid, thereby lowering EU CBAM levies.
+Ensuring credibility, however, requires upgrading the MRV framework and SRN-PPI
+registry to international standards. Indonesia’s carbon market white paper calls for global
+MRV standards, sectoral guidelines, and verifier training to ensure transparency. The SRN-
+PPI platform should publish comprehensive project data (as recommended by PwC) and
+consider blockchain or digital tracking to enhance data integrity. Clear rules on accounting
+and taxation are also needed to guide emissions reporting in export documents. Enhanced
+MRV will allow Indonesian exporters to issue CBAM-compliant certificates and help BIO Web of Conferences 199, 02006 (2025)
+SAGE-Grace 2025
+domestic planners identify priority areas for reduction. As noted by one Indonesian official,
+aligning registry systems with global norms could attract greater international investment.
+In addition, Indonesia must prioritize the decarbonization of its high-emitting industrial
+base. Heavy industries (steel, cement, and petrochemicals) already contribute roughly 40%
+of national emission. Without mitigation, these sectors will become significant sources of
+EU-related carbon costs. The government should therefore launch targeted decarbonization
+programs. Possible measures include granting tax incentives or concessional financing for
+upgrades in cement and steel mills (e.g., switching to electric arc furnaces, waste heat
+recovery, or alternative clinker substitutes). Public investment could help deploy early carbon
+capture projects in key plants. Development banks (ADB, IFC) could also provide low-
+interest loans for energy-efficient machinery. These actions would align with IEA findings
+that material efficiency and CCS are crucial in the cement sector to meet net-zero scenarios. Vietnam faces a different set of challenges, particularly in enhancing CBAM compliance
+readiness among small and medium-sized enterprises (SMEs). Vietnam’s export economy
+includes many small and medium enterprises that lack experience in carbon accounting.
+Policymakers should provide hands-on assistance to these firms. For example, extension
+centers and industry associations can offer workshops on how to set up emissions databases
+and calculate embedded carbon in products. As observers note, compliance will require
+“capacity building and practical experience,” and businesses will learn much by piloting
+initial reporting exercises. The government could subsidize the hiring of sustainability
+consultants or encourage partnerships with universities for carbon training. Experience from
+local companies shows that once a firm masters carbon accounting, it can turn compliance
+into a competitive advantage. Therefore, investing in SME capabilities now will pay off when
+CBAM reporting is enforced. Over the longer term, accredited training programs and
+certified consultants could emerge to support all exporters in the carbon-intensive sectors.
+Vietnam is also moving forward with the development of its own carbon market, as
+outlined in Decision 232 issued in early 2025. The pilot ETS is scheduled to begin in mid-
+2025, with full implementation expected by 2029. It is crucial to target this new policy at
+sectors most exposed to CBAM and global carbon regulations. Initially, the pilot may focus
+on power and large industrial sources, but it should rapidly expand to include steel, cement,
+should lay plans to integrate major exporters like textile and electronics factories into future
+trading or credit requirements, especially if CBAM or similar measures are extended to these
+sectors. The ETS will strengthen Vietnam’s MRV capacity and institutional readiness. For
+example, GHG inventory reporting under the ETS (mandated from 2025 by an earlier decree)
+will familiarize companies with emissions accounting. By the time the scheme is fully
+running, Vietnam can offer compliance “grandfathering” or phased obligations for major
+exporters, smoothing their transition. In short, scaling up the ETS in a targeted way will both
+reduce national emissions and give exporters a domestic mechanism to manage their carbon
+obligations.
+4 Conclusion
+This study examines how Indonesia and Vietnam, as two major ASEAN economies, have
+responded to the EU’s Carbon Border Adjustment Mechanism (CBAM) through distinct
+green trade policy trajectories. Vietnam shows proactive alignment with CBAM standards
+by institutionalizing climate governance via emissions monitoring, energy efficiency, and
+renewable energy expansion supported by the EVFTA and foreign clean energy
+investment. Indonesia, by contrast, exhibits a more cautious approach, shaped by fossil fuel
+dependence, weak carbon pricing, and institutional fragmentation; despite initiatives like the
+JETP and carbon tax legislation, persistent implementation gaps heighten the country’s BIO Web of Conferences 199, 02006 (2025)
+SAGE-Grace 2025
+exposure to trade and regulatory risks. At the regional level, ASEAN’s engagement remains
+aspirational: frameworks such as the ASEAN Taxonomy and Carbon Neutrality Strategy
+signal normative intent but lack binding commitments. However, emerging mechanisms,
+including the ASEAN CBAM Task Force and the Zero Emissions Community (ZEC), offer
+pathways for deeper coordination. To effectively navigate the climate–trade nexus, ASEAN
+must strengthen institutions by harmonizing MRV systems, enabling policy transfer, and
+presenting a unified voice in EU–ASEAN negotiations. Strengthening national and regional
+capacity is essential to Southeast Asia’s climate–trade resilience.
+References
+1. OECD, “Trade and climate policy alignment indicators for ASEAN economies.”
+2. A. Bradford, The Brussels Effect: How the European Union Rules the World. Oxford
+University Press, 2020.
+3. M. Saaida, “Exploring the Dynamics of Complex Interdependence in International
+Relations,” no. January, 2024, zenodo.10871317.
+4. R. K. Yin, Case Study Research and Applications: Design and Methods, 6th ed. Sage.
+5. A. Hamed, “Qualitative Document Analysis of Teacher Appraisal Practice in Omani
+Schools: Identifying Challenges for Best Practices,” J. Southwest Jiaotong Univ., vol.
+58, no. 2, 2023, issn.0258-2724.58.2.67.
+6. E. P. Purnomo and T. Khairunnisa, “Green Economy: Increasing Economic Growth to
+Support Sustainable Tourism in Super Priority Destinations,” Int. J. Sustain. Dev.
+Plan., vol. 19, no. 10, , 2024, ijsdp.191031.
+7. P. T. Nguyen, “Carbon emissions versus value-added in export-driven countries: case
+of Vietnam,” J. Econ. Struct., vol. 11, no. 1, 2022, s40008-022-00272-w.
+8. D. J. Wischermann, “JETP Vietnam: 15 billion US dollars for a new energy system.”
+[Online]. Available:
+dollars-new-energy-system
+9. I. Yin, M. S.-E. Transition, and Newsdesk-Vietnam, “Vietnam expedites domestic
+carbon market development to tackle CBAM, Article 6,” S&P Global. [Online].
+Available:
+news/energy-transition/052424-vietnam-expedites-domestic-carbon-market-
+development-to-tackle-cbam-article-6
+10. C. Nedopil, L. Ang, M. Carpio, and M. Yue, “Can investors benefit from the early
+retirement of coal plants: A plant-level analysis of Chinese-sponsored coal stations in
+Vietnam and Pakistan,” Energy Policy, vol. 193, p. 114291, 2024, 11. J. Shuai et al., “The impact of the EU’s Carbon Border Adjustment Mechanism on the
+global iron and steel trade and emission reduction,” Environ. Sci. Pollut. Res., vol. 31,
+no. 14, , 2024, s11356-024-32528-2.
+12. M. Caballero-Anthony, “Understanding ASEAN’s centrality: Bases and prospects,”
+Pacific Rev., vol. 27, no. 4, , 2014.
+13. D. S. Kencono, D. H. Sinaga, M. F. Hidayat, and Agustiyara, “Developing Green
+Jakarta: Challenges and Opportunities for Sustainable Development,” IOP Conf. Ser.
+Earth Environ. Sci., vol. 1475, no. 1, 2025, -1315/1475/1/012025.
+14. M. Martinus and K. Laopirun, The EU’s Carbon Border Adjustment Mechanism
+(CBAM): Implications for ASEAN-EU Relations. Routledge, 2023.
+15. V. T. and A. A. (VITAS), “Annual Export Report 2023,” Vietnam Textile and Apparel
+Association (VITAS), Hanoi, Vietnam, 2023. BIO Web of Conferences 199, 02006 (2025)
+SAGE-Grace 2025

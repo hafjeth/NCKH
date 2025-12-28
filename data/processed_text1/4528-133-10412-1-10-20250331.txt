@@ -1,8 +1,16 @@
-VNU Analysis of Circular Economy Models in the Textile Industry:
+VNU Journal of Science: Policy and Management Studies, Vol. 41, No. 1 (2025) 55-67 55 Original Article
+Analysis of Circular Economy Models in the Textile Industry:
 International Experiences and Practices in Vietnam
 Le Thi Ngoc Anh1, Nguyen Van Linh2, Nguyen Hoang Nam3,*, Nguyen Dieu Dieu Ngoc1, Vo Ngoc Ha1, Nguyen Huy Manh4
+1School of Trade and International Economics, National Economics University,
+207 Giai Phong, Hanoi, Vietnam
+2School of Advanced Education Programs, National Economics University, 207 Giai Phong, Hanoi, Vietnam
+3Climate Change and Urban Studies, National Economics University, 207 Giai Phong, Hanoi, Vietnam
 4Institute for Circular Economy Development, Vietnam National University – Ho Chi Minh
-103-104 Information Technology Park, Ho Chi Minh City, Vietnam In line with the global trend, Vietnam’s textile industry is gradually transitioning with an
+103-104 Information Technology Park, Ho Chi Minh City, Vietnam
+Received 31st October 2024
+Revised 04th March 2025; Accepted 20th March 2025
+Abstract: In line with the global trend, Vietnam’s textile industry is gradually transitioning with an
 increasing number of circular economy models. This article conducts a study of international
 experiences and compares them with the current practices in Vietnam. It provides a detailed analysis
 using a five-stage circular economy framework and focuses on two main aspects: specific circular
@@ -14,13 +22,20 @@ approach across the entire value chain, and limitations due to the lack of detai
 guidelines for circular economy models in the textile sector. Based on these findings, the article
 proposes specific recommendations on perspectives to adopt, models that Vietnam can learn from,
 and necessary policy conditions for policymakers to consider.
+Keywords: Circular economy model; textile; international experiences; practices in Vietnam.*
+________
+* Corresponding author. E-mail address: namnh@neu.edu.vn https://doi.org/10.25073/2588-1116/vnupam.4528 L. T. N. Anh et al. / VNU Journal of Science: Policy and Management Studies, Vol. 41, No. 1 (2025) 55-67 56
+Phân tích mô hình kinh tế tuần hoàn trong ngành dệt may:
 kinh nghiệm quốc tế và thực tiễn tại Việt Nam
 Lê Thị Ngọc Anh1, Nguyễn Văn Linh2, Nguyễn Hoàng Nam3,*, Nguyễn Diệu Diệu Ngọc1, Võ Ngọc Hà1, Nguyễn Huy Mạnh4
 1Viện Thương mại và Kinh tế quốc tế, Đại học Kinh tế Quốc dân, 207 Giải Phóng, Hà Nội, Việt Nam
 2Viện Đào tạo tiên tiến, Chất lượng cao và POHE, Đại học Kinh tế Quốc dân,
 207 Giải Phóng, Hà Nội, Việt Nam
 3Khoa Môi trường, Biến đổi khí hậu và Đô thị, Đại học Kinh tế Quốc dân, 207 Giải Phóng, Hà Nội, Việt Nam
-4Viện Nghiên cứu Phát triển Kinh tế tuần hoàn - ICED, Đại học Quốc gia thành phố Hồ Chí Minh, 103-104 Khu Công nghệ Thông tin, thành phố Hồ Chí Minh, Việt Nam Tóm tắt: Hòa chung xu thế toàn cầu, ngành dệt may của Việt Nam đang từng bước chuyển đổi với
+4Viện Nghiên cứu Phát triển Kinh tế tuần hoàn - ICED, Đại học Quốc gia thành phố Hồ Chí Minh, 103-104 Khu Công nghệ Thông tin, thành phố Hồ Chí Minh, Việt Nam
+Nhận ngày 31 tháng 10 năm 2024
+Chỉnh sửa ngày 04 tháng 03 năm 2025; Chấp nhận đăng ngày 20 tháng 03 năm 2025
+Tóm tắt: Hòa chung xu thế toàn cầu, ngành dệt may của Việt Nam đang từng bước chuyển đổi với
 ngày càng nhiều mô hình kinh tế tuần hoàn (KTTH). Bài viết này thực hiện nghiên cứu kinh nghiệm
 quốc tế và so sánh với thực tiễn tại Việt Nam, phân tích cụ thể với một khung tiếp cận 5 khâu của
 KTTH và tập trung vào hai khía cạnh chính là các mô hình KTTH cụ thể của ngành dệt may và
@@ -38,13 +53,18 @@ tuyến tính đã kéo theo sự suy kiệt tài nguyên
 thiên nhiên và phá vỡ cân bằng sinh thái ở nhiều
 quốc gia. Theo báo cáo của Chương trình Môi
 trường Liên Hợp Quốc (UNEP) năm 2024,
+lượng tài nguyên khai thác tăng 2,3% mỗi năm
+________
+* Tác giả liên hệ. Địa chỉ email: namnh@neu.edu.vn https://doi.org/10.25073/2588-1116/vnupam.4528
+[1]. Tại Việt Nam, việc “xanh hóa” các ngành
 công nghiệp là xu thế buộc các doanh nghiệp
 phải thực hiện nếu muốn đạt mục tiêu phát triển
 bền vững và gia tăng xuất khẩu vào các thị
 trường đã ký Hiệp định thương mại tự do (FTA).
 Riêng ngành dệt may, số liệu thống kê của Tổng
 cục Hải quan cho thấy Công nghiệp Dệt may
-năm 2023 là một trong những ngành mũi nhọn L. T. N. Anh et al. / VNU với kim ngạch xuất khẩu đạt 33,3 tỷ USD. Song
+năm 2023 là một trong những ngành mũi nhọn L. T. N. Anh et al. / VNU Journal of Science: Policy and Management Studies, Vol. 41, No. 1 (2025) 55-67 57
+với kim ngạch xuất khẩu đạt 33,3 tỷ USD. Song
 quá trình sản xuất của ngành này đòi hỏi sử dụng
 lượng lớn năng lượng, làm gia tăng khí thải nhà
 kính. Hiệp hội Dệt may Việt Nam (VITAS)
@@ -136,7 +156,8 @@ giải pháp phát triển mô hình KTTH trong ngành
 dệt may, bao gồm tăng cường truyền thông, phổ
 biến kiến thức, đảm bảo cân đối cung – cầu và
 khuyến khích doanh nghiệp đầu tư vào các giải
-pháp thân thiện với môi trường. Lê Tiến Trường L. T. N. Anh et al. / VNU (2023) phân tích sự khác biệt giữa KTTH và kinh
+pháp thân thiện với môi trường. Lê Tiến Trường L. T. N. Anh et al. / VNU Journal of Science: Policy and Management Studies, Vol. 41, No. 1 (2025) 55-67 58
+(2023) phân tích sự khác biệt giữa KTTH và kinh
 tế tuyến tính, từ đó xác định cơ hội và thách thức
 đối với doanh nghiệp dệt may Việt Nam từ đề
 xuất giải pháp giúp doanh nghiệp dệt may thích
@@ -186,7 +207,8 @@ tiên nguyên liệu thân thiện môi trường, có thể tái
 chế. Sản xuất áp dụng năng lượng tái tạo, giảm
 chất thải. Tiêu dùng khuyến khích sử dụng bền
 vững, sửa chữa, tái sử dụng. Quản lý chất thải
-tập trung thu hồi, xử lý sản phẩm sau sử dụng. L. T. N. Anh et al. / VNU Cuối cùng, từ chất thải trở lại thành tài nguyên,
+tập trung thu hồi, xử lý sản phẩm sau sử dụng. L. T. N. Anh et al. / VNU Journal of Science: Policy and Management Studies, Vol. 41, No. 1 (2025) 55-67 59
+Cuối cùng, từ chất thải trở lại thành tài nguyên,
 quần áo thải bỏ được tái chế, tái sử dụng để giảm
 tác động môi trường. Quan điểm 5 khâu của
 KTTH này cũng trùng với J. Ooms và cộng sự
@@ -204,17 +226,20 @@ Các điểm chính của Chính sách
 i) Thiết kế
 Luật về Thiết kế Sinh thái cho Sản phẩm
 Bền vững (Luật ESPR năm 2024) [10].
+EU
 Thúc đẩy thiết kế sản phẩm bền vững với tiêu chí kéo dài
 tuổi thọ, dễ sửa chữa và tái chế. EU Ecolabel cập nhật năm 2023 [11].
 Đảm bảo quy trình sản xuất sợi bền vững, hạn chế sử dụng
 các chất độc hại và nâng cao tuổi thọ của sản phẩm.
 Kế hoạch Hành động Thời trang Bền
 vững năm 2020 [12].
+UK
 Khuyến khích cải tiến thiết kế tăng độ bền và khả năng tái
 chế, đồng thời nâng cao nhận thức người tiêu dùng về thời
 trang bền vững.
 ii) Sản xuất
 Quy định REACH năm 2006 [13]
+EU
 Giám sát việc sản xuất, sử dụng hóa chất để bảo vệ sức khỏe
 con người và môi trường. Cơ chế Điều chỉnh Biên giới Carbon năm
 2023 [14].
@@ -232,6 +257,7 @@ Standard (GOTS), Oeko-Tex, ISO 14001 [16]. iii) Tiêu dùng
 Đề xuất Chỉ thị của Nghị viện Châu Âu
 và của Hội đồng nhằm sửa đổi các Chỉ thị
 2005/29/EC và 2011/83/EU [17].
+EU
 Minh bạch thông tin sản phẩm, đảm bảo quyền biết về tuổi
 thọ và khả năng sửa chữa nhằm bảo vệ người tiêu dùng. Chiến dịch “Đặt lại xu hướng” trong
 ngành dệt may năm 2023 [18].
@@ -240,6 +266,7 @@ Kêu gọi cộng đồng, doanh nghiệp và người tiêu dùng thay
 iv) Quản lý chất thải
 Chỉ thị Khung về Chất thải (Cập nhật mới
 nhất năm 2025) [19].
+EU
 Quy định gom riêng biệt chất thải dệt may, tách biệt khỏi
 rác thải thông thường để tái chế hoặc tái sử dụng. Luật Chống lãng phí cho KTTH 2020
 [20].
@@ -247,13 +274,15 @@ Pháp
 Quy định gom riêng biệt chất thải dệt may, tách biệt khỏi
 rác thải thông thường để tái chế hoặc tái sử dụng.
 Trách nhiệm mở rộng của nhà sản xuất
+(EPR).
 EU, Hoa Kỳ
 Yêu cầu các doanh nghiệp phải chịu trách nhiệm về sản
 phẩm của họ trong suốt vòng đời sản phẩm.
 v) Từ chất thải trở lại thành tài nguyên
 Chương trình Horizon Europe. EU
 Hỗ trợ các dự án phát triển công nghệ tái chế tiên tiến trong
-ngành dệt may. L. T. N. Anh et al. / VNU Chiến lược KTTH Quốc gia năm 2016
+ngành dệt may. L. T. N. Anh et al. / VNU Journal of Science: Policy and Management Studies, Vol. 41, No. 1 (2025) 55-67 60
+Chiến lược KTTH Quốc gia năm 2016
 [21].
 Phần Lan
 Khuyến khích chuyển đổi chất thải dệt may thành sợi
@@ -339,7 +368,8 @@ trong các quy trình của mình [23]. Gần đây, sợi
 lyocell (một loại sợi cellulose tái sinh) loại mới
 của Hãng Lenzing AG tại Áo và Trung Quốc
 cũng giúp giảm tới 95% lượng nước để sản xuất
-và giúp tái sử dụng tới 99% hóa chất [24]. L. T. N. Anh et al. / VNU Cũng liên quan đến tiết kiệm tài nguyên,
+và giúp tái sử dụng tới 99% hóa chất [24]. L. T. N. Anh et al. / VNU Journal of Science: Policy and Management Studies, Vol. 41, No. 1 (2025) 55-67 61
+Cũng liên quan đến tiết kiệm tài nguyên,
 Spinnova tại Phần Lan đã phát triển công nghệ
 sản xuất sợi từ bột gỗ và cellulose và thay thế
 được sợi cotton hoặc viscose trong ngành dệt vải
@@ -418,7 +448,8 @@ có nhiều chính sách liên quan đến KTTH, giúp
 thúc đẩy quá trình chuyển dịch KTTH trong các
 ngành kinh tế, trong đó có dệt may. Tổng hợp
 các chính sách này trong mối liên hệ với ngành
-dệt may được thể hiện tại Bảng 3 dưới đây. L. T. N. Anh et al. / VNU Bảng 3. Thực trạng các điều kiện chính sách cho phát triển KTTH trong ngành dệt may tại Việt Nam
+dệt may được thể hiện tại Bảng 3 dưới đây. L. T. N. Anh et al. / VNU Journal of Science: Policy and Management Studies, Vol. 41, No. 1 (2025) 55-67 62
+Bảng 3. Thực trạng các điều kiện chính sách cho phát triển KTTH trong ngành dệt may tại Việt Nam
 Chính sách
 Các điểm chính
 i) Thiết kế
@@ -499,7 +530,8 @@ Nghị định 80/2014 về thoát nước và xử
 lý nước thải.
 Quy định quản lý hệ thống thoát nước đô thị và khu công nghiệp,
 nêu rõ trách nhiệm của tổ chức, cá nhân và cơ quan quản lý trong
-đầu tư và bảo vệ môi trường nước. L. T. N. Anh et al. / VNU Quy chuẩn kỹ thuật quốc gia, QCVN 13-
+đầu tư và bảo vệ môi trường nước. L. T. N. Anh et al. / VNU Journal of Science: Policy and Management Studies, Vol. 41, No. 1 (2025) 55-67 63
+Quy chuẩn kỹ thuật quốc gia, QCVN 13-
 MT:2015/BTNMT (01/12/2014), Nước
 thải công nghiệp dệt.
 Quy định giới hạn ô nhiễm trong nước thải dệt may, yêu cầu xử
@@ -552,7 +584,7 @@ phát triển thị trường các-bon nội địa cũng đã
 được ban hành và dự kiến sẽ vận hành thí điểm
 vào năm 2025 và chính thức vào năm 2028.
 Trong số các doanh nghiệp thuộc Quyết định
-13/2024/QĐ-TTg của
+13/2024/QĐ-TTg của Thủ tướng Chính phủ về
 Danh mục lĩnh vực, cơ sở phát thải khí nhà kính
 phải thực hiện kiểm kê khí nhà kính để chuẩn bị
 cho thị trường các-bon nội địa, có rất nhiều
@@ -582,7 +614,8 @@ trọng trong việc định hướng đầu tư, sản xuất và
 kinh doanh theo hướng bền vững
 4.2. Thực trạng về các mô hình kinh tế tuần hoàn
 Trước những áp lực lớn về phát triển bền
-vững từ thị trường quốc tế và các chính sách thúc L. T. N. Anh et al. / VNU đẩy kể trên, một số doanh nghiệp ngành dệt may
+vững từ thị trường quốc tế và các chính sách thúc L. T. N. Anh et al. / VNU Journal of Science: Policy and Management Studies, Vol. 41, No. 1 (2025) 55-67 64
+đẩy kể trên, một số doanh nghiệp ngành dệt may
 Việt Nam đã bắt đầu áp dụng các giải pháp
 KTTH, đặc biệt là với quy trình sản xuất sợi.
 Tiêu biểu, Công ty CP Kết nối thời trang Faslink,
@@ -638,7 +671,8 @@ chế từ nhựa PET, song đây vẫn là “vòng lặp hở”
 [31]. Trong khi đó, nhiều doanh nghiệp trên thế
 giới đã phát triển mô hình sản xuất khép kín.
 Điển hình là trường hợp của Pure Waste và
-Recover như đã đề cập, tận dụng vải cotton dư L. T. N. Anh et al. / VNU thừa kết hợp với polyester từ chai PET tái chế để
+Recover như đã đề cập, tận dụng vải cotton dư L. T. N. Anh et al. / VNU Journal of Science: Policy and Management Studies, Vol. 41, No. 1 (2025) 55-67 65
+thừa kết hợp với polyester từ chai PET tái chế để
 tạo ra sản phẩm chất lượng cao.
 Thứ hai là nghiên cứu học hỏi một số mô
 hình KTTH trên thế giới có tiềm năng áp dụng
@@ -725,7 +759,8 @@ liệu tái chế chưa được phát triển đồng bộ. Chính
 sách và các hướng dẫn hiện dừng ở chỉ thị chung,
 thiếu các quy định cụ thể cho ngành, làm hạn chế
 hiệu quả thúc đẩy doanh nghiệp áp dụng các mô
-hình KTTH. L. T. N. Anh et al. / VNU Dù vậy, đánh giá thực trạng quốc tế cho thấy
+hình KTTH. L. T. N. Anh et al. / VNU Journal of Science: Policy and Management Studies, Vol. 41, No. 1 (2025) 55-67 66
+Dù vậy, đánh giá thực trạng quốc tế cho thấy
 nhiều cơ hội triển vọng cho ngành dệt may Việt
 Nam. Các mô hình KTTH đã bước đầu được
 triển khai và chỉ cần học hỏi thêm kinh nghiệm
@@ -740,10 +775,12 @@ với điều kiện trong nước.
 Tài liệu tham khảo [1] UNEP and IRP, Global Resources Outlook 2024,
 2024. [2] K. Ly, The Textile Industry Emits Approximately
 5 Million Tons of CO2 Annually, Natural Resouces
-and Environment, phat-thai-khoang-5-trieu-tan-co2-moi-nam-
+and Environment, https://baotainguyenmoitruong.vn/nganh-det-may-
+phat-thai-khoang-5-trieu-tan-co2-moi-nam-
 365529.html (accessed on: October 8th, 2014).
 [3] Ellen MacArthur Foundation, A New Textiles
-Economy: Redesigning Fashion’s Future, 2017, downloads/publications/A-New-Textiles-
+Economy: Redesigning Fashion’s Future, 2017, https://www.ellenmacarthurfoundation.org/assets/
+downloads/publications/A-New-Textiles-
 Economy_Full-Report_Updated_1-12-17.pdf
 (accessed on: October 8th, 2014).
 [4] K. Saha, P. K. Dey, E. Papagiannaki, Implementing
@@ -751,7 +788,7 @@ Circular Economy in the Textile and Clothing
 Industry, in Supply Chain Sustainability in Small
 and Medium Sized Enterprises, P. K. Dey, S.
 Chowdhury, and C. Malesios Eds. New York:
-Routledge, 2022, .
+Routledge, 2022, pp. 239-276.
 [5] M. Ribul, Regenerative Textiles: A Framework for
 Future Materials Circularity in the Textile Value
 Chain, Sustainability, Vol. 13, No. 24, 2021, pp. 13910.
@@ -763,8 +800,8 @@ Supply Chain in the Textile and Garment Industry
 of Vietnam, 2023. [8] T. P. T. Mai, N. N. Nam, Q. N. Hong, A Study on
 the Current Situation and Proposed Solutions
 Towards A Circular Economy for Selected Textile
-and Garment Enterprises in Hanoi,
-Natural Resources and Environment Science, No. 45, 2023,  (in Vietnamese).
+and Garment Enterprises in Hanoi, Journal of
+Natural Resources and Environment Science, No. 45, 2023, pp. 147-158 (in Vietnamese).
 [9] J. Ooms, N. H. Nam, N. D. Luong, Analytical
 Report: Case studies and Best Practices for
 Applying Circular Economy Principles to the
@@ -775,7 +812,8 @@ Sustainable
 Products
 Regulation: Making Sustainable Products the
 Norm in the EU, 2024.
-[11] EC, EU Ecolabel, economy/eu-ecolabel_en  (accessed on: October
+[11] EC, EU Ecolabel, https://environment.ec.europa.eu/topics/circular-
+economy/eu-ecolabel_en  (accessed on: October
 8th, 2014). [12] WRAP, Sustainable Clothing Action Plan 2020
 Commitment, WRAP Waste and Resources Action
 Programme, 2020.
@@ -786,6 +824,7 @@ Substances,. 2006.
 [14] EC, Carbon Border Adjustment Mechanism, 2025.
 [15] ADB, The 14th Five-Year Plan of the People’s
 Republic
+of
 China-Fostering
 High-Quality
 Development (Observations and Suggestions No.
@@ -802,34 +841,50 @@ Unfair Practices and Through Better Information
 [18] EC, Reset the Trend, 2023.
 [19] EC, Waste Framework Directive, 2025.
 [20] Ellen MacArthur Foundation, France’s Anti-waste
-and Circular Economy Law, r-examples/frances-anti-waste-and-circular-
+and Circular Economy Law, https://www.ellenmacarthurfoundation.org/circula
+r-examples/frances-anti-waste-and-circular-
 economy-law (accessed on: October 8th, 2014).
 [21] EEA, Circular Economy Country Profile 2024 –
 Finland, in ETC-CE Report 2024/Finland, 2024. [22] Government Offices of Sweden. Government to
-take part in Nordic Council Session in Reykjavik, releases/2024/10/government-to-take-part-in-
+take part in Nordic Council Session in Reykjavik,
+https://www.government.se/press-
+releases/2024/10/government-to-take-part-in-
 nordic-council-session-in-reykjavik/ (accessed on:
 October 8th, 2014).
 [23] A. A. Mousa, F. A. Mohamed, S. A. A. E. Megied,
 Y. A. Youssef, Dyeing of Synthetic Fiber-Based
-Wool Blended Fabrics in Supercritical Carbon L. T. N. Anh et al. / VNU Dioxide, Scientific Reports, Vol. 14, No. 1, 2024,
+Wool Blended Fabrics in Supercritical Carbon L. T. N. Anh et al. / VNU Journal of Science: Policy and Management Studies, Vol. 41, No. 1 (2025) 55-67 67
+Dioxide, Scientific Reports, Vol. 14, No. 1, 2024,
 pp. 30604.
+[24] Lenzing, What is TENCEL™ ? https://www.lenzing.com/products/tenceltm?utm_
+source=chatgpt.com (accessed on: October 8th,
 2014).
-[25] Spinnova, Fibre Production Technology, (accessed on:
+[25] Spinnova, Fibre Production Technology, https://spinnova.com/technology/  (accessed on:
 October 8th, 2014). [26] P. Fontell, P. Heikkilä, Model of Circular Business
 Ecosystem for Textiles, VTT Technology: Espoo,
 Finland, 2017. [27] Recover Brands, How We Turn Recycled Material
-Into Products, AfmBOooBZTXXq7PdJwBmePWiwpbrC7xZsD
+Into Products, https://recoverbrands.com/pages/process?srsltid=
+AfmBOooBZTXXq7PdJwBmePWiwpbrC7xZsD
 AE14igq5j5EM5FkGiSFdmf (accessed
 on:
 October 8th, 2014). [28] VCCI, Vietnam's Textile and Garment Industry:
-Challenges Ahead in the Green Transition, thuc-trong-chuyen-doi-xanh/
+Challenges Ahead in the Green Transition,
+https://vcci-hcm.org.vn/det-may-vn-nhieu-thach-
+thuc-trong-chuyen-doi-xanh/
 (accessed
 on:
 October 8th, 2014)  (in Vietnamese).
 [29] VNEconomy, The Textile and Garment Industry
 Officially Embarks on the Circular Economy
+Journey,
+https://vneconomy.vn/det-may-chinh-
+thuc-khoi-dong-mo-hinh-kinh-te-tuan-hoan.htm (accessed on: October 8th, 2014) (in Vietnamese).
 [30] VITAS, Recycling Fabric Waste in Vietnam's
-Textile and Garment Industry, vun-trong-nganh-cong-nghiep-det-may-viet-
+Textile and Garment Industry, http://www.vietnamtextile.org.vn/tuan-hoan-vai-
+vun-trong-nganh-cong-nghiep-det-may-viet-
 nam_p1_1-1_2-1_3-597_4-5801.html  (accessed
 on: October 8th, 2014) (n Vietnamese).
 [31] P. Son, Can Vietnam Become a Global Hub for
+Textile and Garment Recycling? The Leaders.
+https://theleader.vn/viet-nam-co-the-tro-thanh-
+trung-tam-tai-che-det-may-toan-cau-d36446.html (accessed on: October 8th, 2014) (in Vietnamese).
