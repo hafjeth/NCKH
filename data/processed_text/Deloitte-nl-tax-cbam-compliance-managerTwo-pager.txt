@@ -1,0 +1,98 @@
+© 2024 Deloitte The Netherlands
+Automatically create and submit quarterly
+CBAM xml Reports.
+Standardized simplified communication and
+process management controls that enables
+you to request relevant CBAM data and
+documentation from suppliers or producers.
+Automated direct and indirect emission
+allocation to EU imports, either through a
+fully automatic system-to-system interface, a
+batch upload or a manual entry of import and
+emissions data.
+Reporting model and content is kept up-to-
+date and maintained by Deloitte.
+Our automated solution
+How it works? The solution:
+Can run stand-alone or as part of a complete
+customs management system
+implementation.
+Can connect to any feeder system and
+facilitates manual uploads of import data.
+Provides a dashboard and visual
+representations of the progress and
+status of quarterly report preparations.
+Allows to prepare, file and edit quarterly
+CBAM reports.
+The CBAM Compliance Manager capabilities:
+Our vision is to
+integrate all data
+sources into one secure,
+centralized system that
+not only compiles and
+allocates data for up-to-
+date CBAM reporting
+but also simplifies
+automated data
+collection from
+suppliers, enhancing
+efficiency and
+compliance.
+C A R B O N  B O R D E R  A D J U S T M E N T
+CBAM Compliance Manager © 2024 Deloitte The Netherlands
+CBAM Compliance Manager Solution is based on Deloitte’s TrackonTrade
+software and connects customs data with (auto-
+solicitated) CBAM data enriched by relevant
+content resulting in a compliant CBAM report.
+Automated quarterly CBAM report preparation
+Automated data collection (solicitation) and
+allocation model
+Certificate monitoring and real-time dashboarding
+(future functionality)
+Workflow management (supplier data)
+Maintained with the latest legislation by Deloitte
+Automatic emissions calculation based on input
+data or default (fallback) values in system
+Centralized input of emission data by suppliers /
+users
+Facilitates both manual data entry or interfacing
+The CBAM Compliance Manager is a digital solution that
+enables EU importers to automate their CBAM
+reporting obligations.
+Additionally, the Exporter portal facilitates data
+sharing with EU importers by providing pre-defined,
+legally relevant supplier data at the product level for
+non-EU suppliers, thereby enabling compliance with EU
+CBAM reporting obligations.
+Value of the CBAM Compliance Manager to the
+organization and business
+Lower compliance costs due to automation of
+sharing, obtaining and allocation of data and
+compiling the CBAM report.
+Improved compliance due to fully up-to-date CBAM
+reporting requirements.
+Commercial advantage of readily available CBAM
+data.
+Reduced risk of incorrect emissions reported, and
+audits by authorities.
+Enhanced customer service through the provision
+of relevant CBAM data via the exporter portal.
+Education and explanations of data elements for
+suppliers on data elements to be provided.
+Full audit trail of process and product cost
+forecasting opportunities.
+CBAM Compliance Manager can be used as a
+stand-alone
+solution
+part
+the
+implementation of our customs management
+solution TrackonTrade.
+C A R B O N  B O R D E R  A D J U S T M E N T
+Deloitte Contacts
+Rebecca Pehlivan
+Partner
+Maikel van der Knaap
+Senior Manager
+Nikhil Mediratta
+Senior Consultant

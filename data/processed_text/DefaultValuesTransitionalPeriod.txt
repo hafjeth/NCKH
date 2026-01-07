@@ -1,0 +1,1032 @@
+Commission européenne/Europese Commissie, 1049 Bruxelles/Brussel, BELGIQUE/BELGIË – Tel. +32 22991111 EUROPEAN COMMISSION
+TAXATION AND CUSTOMS UNION
+Indirect Taxation and Tax Administration
+CBAM, Energy and Green Taxation
+Brussels, 22 December 2023 DEFAULT VALUES FOR THE TRANSITIONAL PERIOD OF THE
+CBAM BETWEEN 1 OCTOBER 2023 AND 31 DECEMBER 2025 CONTENTS INTRODUCTION DEFAULT VALUES FOR CBAM GOODS OTHER THAN ELECTRICITY IN
+THE TRANSITIONAL CBAM PERIOD 2.1 General 2.2 Default values for the transitional period for iron and steel 2.3 Default values for the transitional period for cement 2.4 Default values for the transitional period for fertilisers 2.5 Default values for the transitional period for aluminium 2.6 Default values for the transitional period for hydrogen DEFAULT VALUES FOR DETERMINING INDIRECT EMISSIONS
+EMBEDDED IN CBAM GOODS OTHER THAN ELECTRICITY IN THE
+TRANSITIONAL CBAM PERIOD DEFAULT VALUES FOR ELECTRICITY AS CBAM GOOD IN THE
+TRANSITIONAL CBAM PERIOD GLOSSARY INTRODUCTION
+The Carbon Border Adjustment Mechanism (CBAM) is an environmental policy
+instrument designed to support the EU climate ambitions of achieving a net reduction of
+greenhouse gas (GHG) emissions of at least 55% by 2030 and of reaching climate
+neutrality by 2050 at the latest. The CBAM will apply the same carbon price to imported
+goods as would be paid by installations operating in the European Union (EU). In doing
+so, the CBAM reduces the risk of the EU's climate objectives being undermined by
+production relocating to countries with less ambitious decarbonisation policies (so-called
+‘carbon leakage’) and introduces a strong signal to producers in third countries to
+decarbonise.
+The CBAM does not target countries, but the embedded greenhouse gas emissions of goods
+imported into the EU for a number of specific sectors that are within the scope of the EU
+Emissions Trading System (EU ETS) and that are at high risk of carbon leakage. These
+are: iron and steel, cement, fertilisers, aluminium, hydrogen and electricity. It also includes
+some precursors and some downstream products of the aforementioned sectors (hereinafter
+referred to as “CBAM goods”).
+CBAM will be introduced gradually. The transitional period from 1 October 2023 to 31
+December 2025 is important to allow for a careful, predictable and proportionate transition
+for EU and non-EU businesses, as well as for public authorities.  During this period,
+importers of CBAM goods will only have  to report greenhouse gas emissions (GHG)
+embedded in their imports  emissions embedded in their imported goods(direct and indirect
+emissions), without paying any financial payments or adjustments.1 The monitoring and
+reporting rules for the transitional CBAM period are laid out in Implementing Regulation
+(EU) 2023/1773.2 Verification of those emissions by an external third party will be purely
+voluntary.
+The Implementing Regulation on reporting requirements and methodology provides for
+flexibility when it comes to the values used to calculate embedded emissions on imports
+during the transitional phase. Until the end of 2024, companies will have the choice of reporting in three ways: (a) full reporting according to the new methodology (EU method); (b) reporting based on an equivalent method (three options) and (c) reporting based on default reference values (only until July 2024, i.e for Q4 of
+2023 and Q1&Q2 of 2024) (1)  Regulation (EU) 2023/956 of the European Parliament and of the Council of 10 May 2023 establishing
+a carbon border adjustment mechanism. OJ L 130, 16.5.2023, p. 52–104. Available from: (2)  Commission Implementing Regulation (EU) 2023/1773 of 17 August 2023 laying down the rules for
+the application of Regulation (EU) 2023/956 of the European Parliament and of the Council as regards
+reporting obligations for the purposes of the carbon border adjustment mechanism during the transitional
+period. OJ L228, 15.9.2023, p. 94–195. Available from: As of 1 January 2025, the implementing regulation provides that only the EU method will
+be accepted. The Commission will assess this in view of the experience during the first 4
+reporting periods.
+In order to help declarants with their reporting obligations, additional simplifications or facilities have been integrated (or will be integrated soon) in the online dedicated reporting
+tool, the CBAM transitional registry. Some of them are the following: • Option for recording emission data of a specific good to be reused in subsequent
+reports (feasible from the second quarterly report in April 2024)
+• Option for reconducting the previous report updating the imported quantities
+• Option for reporting data based on an XML file to allow reporting declarants automatise their own process to reuse previous reports data whenever appropriate
+• Clarification that for operators, the default reporting period is twelve months to
+allow them to collect representative data that reflects an installation’s annual
+operations. The twelve-month reporting period may be either a calendar year or
+alternatively a fiscal year. However, operators may also choose an alternative
+reporting period, of a least three months, if the installation participates in an eligible
+MRV system and the reporting period coincides with the requirements of that MRV
+system.
+Access to the CBAM transitional registry should be requested through the National
+Competent Authority (NCA) of the Member State in which the importer is established.
+Default values play a specific role in CBAM implementation during the transitional period
+as presented in the next sections:
+• Section 2 of this document outlines the use of default values for CBAM goods
+other than electricity
+• Section 3 of this document outlines the use of default values for determining
+indirect emissions embedded in CBAM goods other than electricity
+• Section 4 of this document outlines the use of default values for electricity as
+CBAM good The European Commission has also issued two written guidance documents to help
+importers and installation operators outside the EU to navigate the transitional period (1
+October 2023 – 31 December 2025) with the reporting obligations. These guidance
+documents are updated regularly. DEFAULT VALUES FOR CBAM GOODS OTHER THAN ELECTRICITY IN THE
+TRANSITIONAL CBAM PERIOD
+General
+Whilst the general approach for imported CBAM goods other than electricity is that
+declarants will have to report based on actual embedded emissions according to the
+monitoring methodology that is laid out in Implementing Regulation (EU) 2023/1773
+(with the flexibilities mentioned above), Default values do play a specific role in CBAM
+implementation during the transitional period in particular if importers do not have all the
+necessary information:
+During the three first quarterly reports (Q4 of 2023 and Q1&2 of 2024), declarants
+may report embedded emission  based on default values made available and
+published by the European Commission without quantitative limit
+ii.
+From Q3 of 2024 and until the end of 2025, declarants can still report emissions
+based on estimations but only for complex goods and with a limit of 20% of the
+total embedded emissions. Using default values would qualify as ‘estimation’.
+This section of the document provides the default values for CBAM goods other than
+electricity that may be used for reporting embedded emissions during the transitional
+CBAM period until 31 December 2025, under the conditions listed above. Declarants
+should use them when they do not have or are not able to report actual emissions. These
+default values will be regularly revised, from the first reporting quarter, to take into account
+the data collected in that first reporting period as well as feedback from both the EU
+industry and from non-EU producers of CBAM goods. The values in this section represent a ‘world’ average, weighted by production volumes.
+They are based on estimations on embedded emissions in CBAM goods (i.e. iron and steel,
+cement, fertilisers and aluminium) as carried out by the Commission’s Joint Research
+Centre (JRC). The emission intensities were estimated for different countries through a
+transparent methodology on the basis of publicly available data. The JRC study3 focused
+on the EU’s main trading partners, covering around 15 to 20 countries for each sector in
+the CBAM scope. The default values for hydrogen are based on a separate JRC report4,
+published in November 2023.
+The default values in this section apply independently of the country of origin of the
+CBAM goods and only until the end of the transitional period on 31 December 2025. From
+average emission intensity of each exporting country, increased by a proportionately
+designed mark-up. Those default values will be determined through an implementing act
+planned for adoption in 2025. (3) Vidovic, D., Marmier, A., Zore, L. and Moya, J., Greenhouse gas emission intensities of the steel,
+fertilisers, aluminium and cement industries in the EU and its main trading partners, Publications Office
+of the European Union, Luxembourg, 2023, , JRC134682. Available from: (4) Dolci, F. and Arrigoni, A., Estimation of the global average GHG emission intensity of hydrogen
+production, Publications Office of the European Union, Luxembourg, 2023, ,
+JRC135067. Available from: The sector tables below give default values at the 4, 6 and 8-digit CN code level5 for use
+in the transitional CBAM period.
+• Default values given at a 4-digit CN code level apply to all goods falling within
+this 4-digit CN code category.
+• Default values supplied at a 6-digit CN code level apply to all goods falling
+within this 6-digit CN code category.
+• Default values supplied at an 8-digit CN code level only apply to the specific
+goods listed under the 8-digit CN code.
+Default values are given in tonnes of CO2e emissions per tonne of goods. If a row in the
+table contains several CN codes, but only one set of default values (i.e. one direct, one
+indirect and one total), those default values apply to all CN codes in that row. (5) Commission Implementing Regulation (EU) 2020/1577 of 21 September 2020 amending Annex I to
+Council Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common
+Customs
+Tariff.
+p.1–1063.
+Available
+from: lex.europa.eu/eli/reg/2020/1577/oj. 2.2
+Default values for the transitional period for iron and steel
+Aggregated
+goods
+category
+CN code
+Description
+Default values
+(tonne CO2e/tonne goods)
+Direct
+emissions
+Indirect
+emissions
+Total
+emissions
+Sintered
+Ore
+Agglomerated iron ores and
+concentrates, other than roasted
+iron pyrites
+Pig iron Pig iron and spiegeleisen in pigs,
+blocks or other primary forms
+FeMn
+Ferro-manganese
+3,51 FeCr
+Ferro-chromium
+5,45 FeNi
+Ferro-nickel
+DRI Ferrous products obtained by
+direct reduction of iron ore and
+other spongy ferrous products
+Crude steel Iron and non-alloy steel in ingots
+or other primary forms
+(excluding iron of heading 7203)
+See below 7206 10 00
+Ingots
+Other 1,97
+2,20 Semi-finished products of iron or
+non-alloy steel
+See below 7207 11 11
+Of free-cutting steel
+Of a thickness not exceeding 130
+Of a thickness exceeding 130
+Rolled or obtained by continuous
+casting
+Rolled or obtained by continuous
+casting
+Other
+Of free-cutting steel
+0,25 % or more but less than 0,6
+% of carbon
+0,6 % or more of carbon
+Rolled or obtained by continuous
+casting
+Rolled or obtained by continuous
+casting
+Other 7207 11 90
+Forged
+3,27 6 The value is based on the constant GHG emission intensity value given for individual countries in the JRC
+study3. This corrects a small inconsistency detected for the weights that were applied for calculating the
+weighted average values in that report. Aggregated
+goods
+category
+CN code
+Description
+Default values
+(tonne CO2e/tonne goods)
+Direct
+emissions
+Indirect
+emissions
+Total
+emissions Stainless steel in ingots or other
+primary forms; semi-finished
+products of stainless steel
+See below 7218 10 00
+Ingots and other primary forms
+Forged 7218 91
+Of rectangular (other than
+square) cross-section
+Rolled or obtained by continuous
+casting
+7218 99 20  Rolled or obtained by continuous
+casting Other alloy steel in ingots or
+other primary forms; semi-
+finished products of other alloy
+steel
+See below 7224 10
+Ingots and other primary forms
+Forged 7224 90 02
+Of tool steel 1,95
+Of high-speed steel
+Containing by weight not more
+than 0,7 % of carbon, 0,5 % or
+more but not more than 1,2 % of
+manganese and 0,6 % or more
+but not more than 2,3 % of
+silicon; containing by weight
+0,0008 % or more of boron with
+any other element less than the
+minimum content
+Other
+Containing by weight not less
+than 0,9 % but not more than
+1,15 % of carbon, not less than
+0,5 % but not more than 2 % of
+chromium and, if present, not
+more than 0,5 % of molybdenum
+7224 90 38  Other
+Iron or steel
+products Granules and powders, of pig
+iron, spiegeleisen, iron or steel
+(if not covered under category
+pig iron)
+2,07 Flat-rolled products of iron or
+non-alloy steel, of a width of
+2,28 Aggregated
+goods
+category
+CN code
+Description
+Default values
+(tonne CO2e/tonne goods)
+Direct
+emissions
+Indirect
+emissions
+Total
+emissions
+600 mm or more, hot-rolled, not
+clad, plated or coated Flat-rolled products of iron or
+non-alloy steel, of a width of
+600 mm or more, cold-rolled
+(cold-reduced), not clad, plated
+or coated
+2,39 Flat-rolled products of iron or
+non-alloy steel, of a width of
+600 mm or more, clad, plated or
+coated
+2,35 Flat-rolled products of iron or
+non-alloy steel, of a width of less
+than 600 mm, not clad, plated or
+coated
+See below 7211 13 00
+Rolled on four faces or in a
+closed box pass, of a width
+exceeding 150 mm and a
+thickness of not less than 4 mm,
+not in coils and without patterns
+in relief
+Other, of a thickness of 4,75 mm
+or more 7211 19 00
+Other 7211 23
+Containing by weight less than
+0,25 % of carbon
+Other Flat-rolled products of iron or
+non-alloy steel, of a width of less
+than 600 mm, clad, plated or
+coated
+2,35 Bars and rods, hot-rolled, in
+irregularly wound coils of iron or
+non-alloy steel
+2,21 Bars and rods of iron or non-
+alloy steel, not further worked
+than forged, hot-rolled, hot
+drawn or hot-extruded, but
+including those twisted after
+rolling
+See below 7214 10 00
+Forged
+Containing indentations, ribs,
+grooves or other deformations
+produced during the rolling
+process or twisted after rolling
+Other, of free-cutting steel 7214 91
+Of rectangular (other than
+square) cross-section 7214 99
+Other Other bars and rods of iron or
+non-alloy steel
+2,21 Angles, shapes and sections of
+iron or non-alloy steel
+2,21 Aggregated
+goods
+category
+CN code
+Description
+Default values
+(tonne CO2e/tonne goods)
+Direct
+emissions
+Indirect
+emissions
+Total
+emissions Wire of iron or non-alloy steel
+See below 7217 10
+Not plated or coated, whether or
+not polished
+Plated or coated with zinc
+Plated or coated with other base
+metals 7217 90
+Other Flat-rolled products of stainless
+steel, of a width of 600 mm or
+more
+See below 7219 11 00
+Of a thickness exceeding 10 mm
+Of a thickness of 4,75 mm or
+more but not exceeding 10 mm 7219 13
+Of a thickness of 3 mm or more
+but less than 4,75 mm 7219 14
+Of a thickness of less than 3 mm 7219 21
+Of a thickness exceeding 10 mm 7219 22
+Of a thickness of 4,75 mm or
+more but not exceeding 10 mm 7219 23 00
+Of a thickness of 3 mm or more
+but less than 4,75 mm 7219 24 00
+Of a thickness of less than 3 mm 7219 31 00
+Of a thickness of 4,75 mm or
+more
+Of a thickness of 3 mm or more
+but less than 4,75 mm 7219 33
+Of a thickness exceeding 1 mm
+but less than 3 mm 7219 34
+Of a thickness of 0,5 mm or
+more but not exceeding 1 mm 7219 35
+Of a thickness of less than 0,5
+mm 7219 90
+Other Flat-rolled products stainless
+steel, of a width of less than
+600 mm
+See below 7220 11 00
+Of a thickness of 4,75 mm or
+more
+Of a thickness of less than 4,75
+mm 7220 20
+Not further worked than cold-
+rolled (cold-reduced) 2,21
+Other Bars and rods, hot-rolled, in
+irregularly wound coils, of
+stainless steel
+4,30 Other bars and rods of stainless
+steel; angles, shapes and sections
+of stainless steel
+See below 7222 11
+Of circular cross-section
+Other 7222 20
+Bars and rods, not further
+worked than cold-formed or
+cold-finished 7222 40
+Angles, shapes and sections Aggregated
+goods
+category
+CN code
+Description
+Default values
+(tonne CO2e/tonne goods)
+Direct
+emissions
+Indirect
+emissions
+Total
+emissions 7222 30
+Other bars and rods
+4,61 Wire of stainless steel
+See below 7223 00
+Wire of stainless steel
+4,49 Flat-rolled products of other
+alloy steel, of a width of 600 mm
+or more
+See below 7225 11 00
+Grain-oriented
+Hot-rolled 7225 30
+Other, not further worked than
+hot-rolled, in coils 7225 40
+Other, not further worked than
+hot-rolled, not in coils 7225 19 90
+Cold-rolled
+Other, not further worked than
+cold-rolled (cold-reduced) 7225 91 00
+Electrolytically plated or coated
+with zinc
+Otherwise plated or coated with
+zinc 7225 99 00
+Other Flat-rolled products of other
+alloy steel, of a width of less than
+600 mm
+See below 7226 11 00
+Grain-oriented
+Not further worked than hot-
+rolled 7226 20 00
+Of high-speed steel 7226 91
+Not further worked than hot-
+rolled 7226 19 80
+Other
+Not further worked than cold-
+rolled (cold-reduced) 7226 99
+Other
+2,43 Bars and rods, hot-rolled, in
+irregularly wound coils, of other
+alloy steel
+2,43 Other bars and rods of other
+alloy steel; angles, shapes and
+sections, of other alloy steel;
+hollow drill bars and rods, of
+alloy or non-alloy steel
+See below 7228 10 20
+Not further worked than hot-
+rolled, hot-drawn or extruded;
+hot-rolled, hot-drawn or
+extruded, not further worked
+than clad
+Other 7228 20
+Bars and rods, of silico-
+manganese steel 7228 30
+Other bars and rods, not further
+worked than hot-rolled, hot-
+drawn or Aggregated
+goods
+category
+CN code
+Description
+Default values
+(tonne CO2e/tonne goods)
+Direct
+emissions
+Indirect
+emissions
+Total
+emissions
+extruded 7228 50
+Other bars and rods, not further
+worked than cold-formed or
+cold-finished 7228 60
+Other bars and rods 7228 70
+Angles, shapes and sections 7228 80 00
+Hollow drill bars and rods 7228 10 50
+Forged
+Other bars and rods, not further
+worked than forged Wire of other alloy steel
+2,59 Sheet piling of iron or steel,
+whether or not drilled, punched
+or made from assembled
+elements; welded angles, shapes
+and sections, of iron or steel
+2,39 Railway or tramway track
+construction material of iron or
+steel, the following: rails, check-
+rails and rack rails, switch
+blades, crossing frogs, point rods
+and other crossing pieces,
+sleepers (cross-ties), fish-plates,
+chairs, chair wedges, sole plates
+(base plates), rail clips,
+bedplates, ties and other material
+specialised for jointing or fixing
+rails
+Tubes, pipes and hollow profiles,
+of cast iron
+2,56 Tubes, pipes and hollow profiles,
+seamless, of iron (other than cast
+iron) or steel
+See below 7304 11 00
+Of stainless steel
+Drill pipe of stainless steel 7304 24 00
+Other, of stainless steel 7304 41 00
+Cold-drawn or cold-rolled (cold-
+reduced) 7304 49
+Other 7304 51
+Cold-drawn or cold-rolled (cold-
+reduced) 7304 59
+Other 7304 19
+Other
+Other drill pipe 7304 29
+Other 7304 31
+Cold-drawn or cold-rolled (cold-
+reduced) 7304 39
+Other Other tubes and pipes (for
+example, welded, riveted or
+similarly closed), having circular
+cross-sections, the external
+diameter of which exceeds 406,4
+mm, of iron or steel
+2,39 Aggregated
+goods
+category
+CN code
+Description
+Default values
+(tonne CO2e/tonne goods)
+Direct
+emissions
+Indirect
+emissions
+Total
+emissions Other tubes, pipes and hollow
+profiles (for example, open seam
+or welded, riveted or similarly
+closed), of iron or steel
+See below 7306 11 00
+Welded, of stainless steel
+Cold-drawn or cold-rolled (cold-
+reduced) 7306 61 10
+Of stainless steel 7306 19 00
+Other
+Cold-drawn or cold-rolled (cold-
+reduced) 7306 30 18
+Other
+Plated or coated with zinc
+Other 7306 30 72
+Plated or coated with zinc 7306 30 77
+Other 7306 30 80
+Exceeding 168,3 mm but not
+exceeding 406,4 mm 7306 61 92
+With a wall thickness not
+exceeding 2 mm 7306 61 99
+With a wall thickness exceeding
+2 mm 7306 69 90
+Other 7306 40 80
+Other
+Cold-drawn or cold-rolled (cold-
+reduced)
+Other Tube or pipe fittings (for
+example, couplings, elbows,
+sleeves), of iron or steel
+See below 7307 11
+Of non-malleable cast iron
+Of cast iron 7307 19 90
+Other
+Flanges
+Threaded elbows, bends and
+sleeves 7307 23
+Butt welding fittings 7307 29
+Other 7307 91 00
+Flanges
+Threaded elbows, bends and
+sleeves 7307 93
+Butt welding fittings 7307 99
+Other Structures (excluding
+prefabricated buildings of
+heading 9406) and parts of
+structures (for example, bridges
+and bridge-sections, lock- gates,
+5,01 Aggregated
+goods
+category
+CN code
+Description
+Default values
+(tonne CO2e/tonne goods)
+Direct
+emissions
+Indirect
+emissions
+Total
+emissions
+towers, lattice masts, roofs,
+roofing frameworks, doors and
+windows and their frames and
+thresholds for doors, shutters,
+balustrades, pillars and columns),
+of iron or steel; plates, rods,
+angles, shapes, sections, tubes
+and the like, prepared for use in
+structures, of iron or steel Reservoirs, tanks, vats and
+similar containers for any
+material (other than compressed
+or liquefied gas), of iron or steel,
+of a capacity exceeding 300 l,
+whether or not lined or heat-
+insulated, but not fitted with
+mechanical or thermal equipment
+2,35 Tanks, casks, drums, cans, boxes
+and similar containers, for any
+material (other than compressed
+or liquefied gas), of iron or steel,
+of a capacity not exceeding 300
+l, whether or not lined or heat-
+insulated, but not fitted with
+mechanical or thermal equipment
+Containers for compressed or
+liquefied gas, of iron or steel
+2,21 Screws, bolts, nuts, coach
+screws, screw hooks, rivets,
+cotters, cotter pins, washers
+(including spring washers) and
+similar articles, of iron or steel
+See below 7318 11 00
+Coach screws
+Other 7318 13 00
+Screw hooks and screw rings 7318 14 91
+Spaced-thread screws 7318 14 99
+Other 7318 21 00
+Spring washers and other lock
+washers 7318 24 00
+Cotters and cotter pins 7318 29 00
+Other 7318 12 10
+Of stainless steel
+Other screws and bolts, whether
+or not with their nuts or washers
+Nuts
+Other washers
+Rivets
+2,21 Other articles of iron or steel
+See below Aggregated
+goods
+category
+CN code
+Description
+Default values
+(tonne CO2e/tonne goods)
+Direct
+emissions
+Indirect
+emissions
+Total
+emissions 7326 11 00
+Grinding balls and similar
+articles for mills
+Other 7326 90 92
+Open-die forged 7326 90 94
+Closed-die forged 7326 90 96
+Sintered 7326 20 00
+Articles of iron or steel wire
+Ladders and steps
+Pallets and similar platforms for
+handling goods 7326 90 50
+Reels for cables, piping and the
+like 7326 90 60
+Non-mechanical ventilators,
+guttering, hooks and like articles
+used in the building
+industry 7326 90 98
+Other articles of iron or steel
+Source: JRC, 2023.3 2.3
+Default values for the transitional period for cement
+Aggregated
+goods
+category
+CN code
+Description
+Default values
+(tonne CO2e/tonne goods)
+Direct
+emissions
+Indirect
+emissions
+Total
+emissions
+Calcined
+clay
+Other kaolinic clays7
+0,32 (nb: applicable for calcined clay
+only) Cement
+clinker 2523 10 00
+Cement clinkers8
+Cement
+White Portland cement, whether or
+not artificially coloured
+Other Portland cement9
+Other hydraulic cements10
+Aluminous
+cement
+Aluminous cement11
+Source: JRC, 2023.3 (7) In the case of ‘non-calcined clay’ zero emissions may be indicated with clarification in the comments
+section of the report
+(8) The default values are based on the JRC estimates for grey cement clinkers.
+(9) The default values are based on the JRC estimates for grey Portland cement.
+(10) The default values are based on the JRC estimates for other grey hydraulic cements.
+(11) Also referred to as ‘calcium aluminate cement’. 2.4
+Default values for the transitional period for fertilisers
+Aggregated
+goods
+category
+CN code
+Description
+Default values
+(tonne CO2e/tonne goods)
+Direct
+emissions
+Indirect
+emissions
+Total
+emissions
+Nitric acid
+Nitric acid; sulphonitric acids
+Ammonia Ammonia, anhydrous or in aqueous
+solution
+Mixed
+fertilisers
+2834 21 00  Nitrates of potassium
+1,88 Mineral or chemical fertilisers,
+nitrogenous
+See below 3102 10 Urea, whether or not in aqueous
+solution
+Ammonium sulphate
+Double salts and mixtures of
+ammonium sulphate and ammonium
+nitrate
+1,63 3102 30 Ammonium nitrate, whether or not
+in aqueous solution
+2,39 3102 40 Mixtures of ammonium nitrate with
+calcium carbonate or other inorganic
+non-fertilising substances
+Sodium nitrate
+Double salts and mixtures of
+calcium nitrate and ammonium
+nitrate
+Mixtures of urea and ammonium
+nitrate in aqueous or ammoniacal
+solution
+Other including mixtures not
+specified in the foregoing
+subheadings12
+1,74 Mineral or chemical fertilisers
+containing two or three of the
+fertilising elements nitrogen,
+phosphorus and potassium
+See below 3105 10 00
+Goods of this chapter in tablets or
+similar forms or in packages of a
+gross weight not exceeding 10 kg13
+1,02 3105 20 Mineral or chemical fertilisers
+containing the three fertilising
+elements nitrogen, phosphorus and
+potassium
+Diammonium
+hydrogenorthophosphate
+(diammonium phosphate)
+0,75 (12) The default values are based on a weighted average of all other CBAM goods under CN 3102, with
+weighting according to the volumes of imports into the EU in 2019.
+(13) The default values are based on a weighted average of all other CBAM goods under CN 3105, with
+weighting according to the volumes of imports into the EU in 2019. Aggregated
+goods
+category
+CN code
+Description
+Default values
+(tonne CO2e/tonne goods)
+Direct
+emissions
+Indirect
+emissions
+Total
+emissions 3105 40 00
+Ammonium
+dihydrogenorthophosphate
+(monoammonium phosphate) and
+mixtures thereof with diammonium
+hydrogenorthophosphate
+(diammonium phosphate)
+Other mineral or chemical fertilisers
+containing the two fertilising
+elements nitrogen and phosphorus
+(nitrates and phosphates)
+Other mineral or chemical fertilisers
+containing the two fertilising
+elements nitrogen and phosphorus
+(other)
+Other13
+Source: JRC, 2023.3 2.5
+Default values for the transitional period for aluminium
+Aggregated
+goods
+category
+CN code
+Description
+Default values
+(tonne CO2e/tonne goods)
+Direct
+emissions
+Indirect
+emissions
+Total
+emissions
+Unwrought
+aluminium Unwrought aluminium
+Aluminium
+products Aluminium powders and flakes
+Bars and rods of aluminium, not
+alloyed
+Profiles of aluminium, not alloyed
+Hollow profiles of aluminium alloys
+Bars and rods of aluminium alloys
+Profiles of aluminium alloys
+12,04 Aluminium wire
+9,80 Aluminium plates, sheets and strip,
+of a thickness exceeding 0,2 mm
+12,11 Aluminium foil (whether or not
+printed or backed with paper,
+paperboard, plastics or similar
+backing materials) of a thickness
+(excluding any backing) not
+exceeding 0,2 mm
+12,11 Aluminium tubes and pipes
+Aluminium tube or pipe fittings (for
+example, couplings, elbows, sleeves)
+12,04 Aluminium structures (excluding
+prefabricated buildings of heading
+9406) and parts of structures (for
+example, bridges and bridge-
+sections, towers, lattice masts, roofs,
+roofing frameworks, doors and
+windows and their frames and
+thresholds for doors, balustrades,
+pillars and columns); aluminium
+plates, rods, profiles, tubes and the
+like, prepared for use in structures
+Aluminium reservoirs, tanks, vats
+and similar containers, for any
+material (other than compressed or
+liquefied gas), of a capacity
+exceeding 300 litres, whether or not
+lined or heat-insulated, but not fitted
+with mechanical or thermal
+equipment
+12,11 Aluminium casks, drums, cans,
+boxes and similar containers
+(including rigid or collapsible
+tubular containers), for any material
+(other than compressed or liquefied
+12,11 Aggregated
+goods
+category
+CN code
+Description
+Default values
+(tonne CO2e/tonne goods)
+Direct
+emissions
+Indirect
+emissions
+Total
+emissions
+gas), of a capacity not exceeding
+300 litres, whether or not lined or
+heat-insulated, but not fitted with
+mechanical or thermal equipment
+Aluminium containers for
+compressed or liquefied gas
+12,11 Stranded wire, cables, plaited bands
+and the like, of aluminium, not
+electrically insulated
+9,80 Other articles of aluminium
+See below
+Nails, tacks, staples (other than
+those of heading 8305), screws,
+bolts, nuts, screw hooks, rivets,
+cotters, cotter pins, washers and
+similar articles
+Cloth, grill, netting and fencing, of
+aluminium wire
+Other - Cast
+Other - Other
+Source: JRC, 2023.3 2.6
+Default values for the transitional period for hydrogen
+Aggregated
+goods
+category
+CN code
+Description
+Default values
+(tonne CO2e/tonne goods)
+Direct
+emissions
+Indirect
+emissions
+Total
+emissions
+Hydrogen
+Source: JRC, 2023.4 DEFAULT VALUES FOR DETERMINING INDIRECT EMISSIONS EMBEDDED IN CBAM
+GOODS OTHER THAN ELECTRICITY IN THE TRANSITIONAL CBAM PERIOD
+The general approach for determining embedded indirect emissions in CBAM goods other
+than electricity is to use default values for the emission factor for electricity. Indirect
+emissions are then calculated by multiplying those default values with the amount of
+electricity consumed to produce the respective CBAM goods.
+The default values represent the average emission factors of the country of origin
+electricity grid, based on data from the International Energy Agency (IEA).14 These data
+are not published in this document but are made available to reporting declarants through
+the CBAM Transitional Registry.
+The default values in the CBAM Transitional Registry represent the 5-year average
+emission factors for electricity covering the years 2016 to 2020. They are provided for
+around 150 countries. If a default value is not available for a specific country, the Registry
+attributes the world average emission factor as provided by the IEA. In the case of a few
+countries, the IEA dataset does not contain emission factors for the years 2016 to 2020,
+due to the high share of renewable electricity in the electricity grid. In the case of these
+few countries, the default values are set to zero. If a reporting declarant does not want to use the default values made available by the
+Commission, there is also the possibility to use any other emission factor of the country of
+origin electricity grid based on publicly available data representing either the average
+emission factor or the CO2 emission factor. Moreover, actual emission factors for
+electricity may be used in the case of a) a direct technical link between the installation in
+which the good is produced and the electricity generation source or b) a power purchase
+agreement between the consumer and the producer of the electricity for an amount of
+electricity that is equivalent to the amount for which the use of a specific value is claimed.
+Provisions on the use of emission factors other than those provided by the Commission
+can be found in Annex III, Section D.4 of Implementing Regulation (EU) 2023/1773.
+The default values referred to in this section apply only until the end of the transitional
+Those values will be set as the average of:
+• the emission factor of the Union electricity grid,
+• the emission factor of the country of origin electricity grid, or
+• the CO2 emission factor of price-setting sources in the country of origin.
+The default values for the determination of indirect emissions applicable from 2026
+onwards will be determined through an implementing act planned for adoption in 2025. (14) International Energy Agency (IEA): Emission factors 2021. DEFAULT VALUES FOR ELECTRICITY AS CBAM GOOD IN THE TRANSITIONAL
+CBAM PERIOD The general approach for determining embedded direct emissions for electricity as CBAM
+good is to use default values for the CO2 emission factors. CO2 emission factor means the
+weighted average of the CO2 intensity of electricity produced from fossil fuels within a
+geographic area. Embedded direct emissions are then calculated by multiplying those
+default values with the amount of electricity imported into the EU.
+The default values represent the average emission factors of the electricity produced from
+fossil fuels in the country of origin, based on data from the International Energy Agency
+(IEA).14 These data are not published in this document but are made available to reporting
+declarants through the CBAM Transitional Registry.
+The default values in the CBAM Transitional Registry represent the 5-year average CO2
+emission factors covering the years 2016 to 2020. They are provided for around
+15 countries, representing the countries from which electricity is currently exported to the
+EU or potentially in the near future.
+Under certain conditions, other emission factors may be used, as specified in Annex III,
+Section D.2 of Implementing Regulation (EU) 2023/1773.
+The default values referred to in this section apply only until the end of the transitional
+Those values will be set at the CO2 emission factor in the third country, group of third
+countries or region within a third country, based on the best data available to the
+Commission. They will be determined through an implementing act planned for adoption
+in 2025. GLOSSARY
+Term
+Definition
+Actual emissions
+emissions calculated based on primary data from the
+production processes of goods and from the production of
+electricity consumed during those processes
+Aggregated goods
+category
+a group of CBAM goods with their CN codes, used for the
+purpose of defining system boundaries of production
+processes
+CO2 emission factor
+weighted average of the CO2 intensity of electricity
+produced from fossil fuels within a geographic area.
+With respect to the geographic area, the default values for
+the CO2 emission factors for electricity as CBAM good
+referred to in this document refer to countries. Combined
+nomenclature (CN)
+classification of goods, designed to meet the needs of: i) the
+Common customs tariff, setting import duties for products
+imported into the European Union (EU), as well as the
+Integrated tariff of the European Communities (Taric),
+incorporating all EU and trade measures applied to goods
+imported into and exported out of the EU; ii) the
+international trade statistics of the EU.
+The CN provides the means of collecting, exchanging and
+publishing data on EU international trade statistics. It is
+also used for the collection and publication of international
+trade statistics in intra-EU trade
+Default value
+value that is calculated or drawn from secondary data,
+which represents the embedded emissions in goods
+Direct emissions
+emissions from the production processes of goods including
+emissions from the production of heating and cooling that
+is consumed during the production processes, irrespective
+of the location of the production of the heating and cooling
+Embedded emissions
+direct emissions released during the production of goods
+and indirect emissions from the production of electricity
+that is consumed during the production processes
+Emissions release of greenhouse gases into the atmosphere from the
+production of goods
+Emission factor for
+electricity
+default value, expressed in CO2e, representing the emission
+intensity of electricity consumed in production of goods
+Goods
+goods listed in Annex I to the CBAM Regulation (EU)
+2023/956
+Indirect emissions
+emissions from the production of electricity, which is
+consumed during the production processes of goods,
+regardless of the location of the production of the
+consumed electricity
+Installation
+a stationary technical unit where a production process is
+carried out Term
+Definition
+Operator
+any person who operates or controls an installation in a
+third (i.e. non-EU) country
+Reporting declarant
+any of the following persons: (a)
+the importer who lodges a customs declaration for
+release for free circulation of goods in its own name and on
+its own behalf;
+(b)
+the person, holding an authorisation to lodge a
+customs declaration referred to in Article 182(1) of
+Regulation (EU) No 952/2013, who declares the
+importation of goods;
+(c)
+the indirect customs representative, where the
+customs declaration is lodged by the indirect customs
+representative appointed in accordance with Article 18 of
+Regulation (EU) No 952/2013, when the importer is
+established outside the Union or where the indirect customs
+representative has agreed to the reporting obligations in
+accordance with Article 32 of Regulation (EU) 2023/956
+Specific embedded
+emissions
+embedded emissions of one tonne of goods, expressed as
+tonnes of CO2e emissions per tonne of goods
+Tonne of CO2e
+one metric tonne of carbon dioxide (‘CO2’), or an amount
+of any other greenhouse gas listed in Annex I to the CBAM
+Regulation with an equivalent global warming potential
+(‘CO2e‘)

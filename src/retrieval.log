@@ -1,0 +1,16 @@
+2026-01-08 00:07:05,440 - INFO - Loading embedding model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2026-01-08 00:07:05,441 - INFO - Use pytorch device_name: cpu
+2026-01-08 00:07:05,442 - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2026-01-08 00:07:13,763 - INFO - Connecting to ChromaDB at: D:\NCKH\nckh\data\chroma_db
+2026-01-08 00:07:13,854 - INFO - Connected to collection: knowledge_base
+2026-01-08 00:07:13,977 - INFO - Total documents in collection: 15277
+2026-01-08 00:07:14,179 - INFO - Processing query: 'CBAM là gì?'
+2026-01-08 00:07:14,235 - INFO - Retrieved 3 documents
+2026-01-08 00:07:14,236 - INFO - Processing query: 'Quy định về phát thải khí nhà kính'
+2026-01-08 00:07:14,258 - INFO - Retrieved 3 documents
+2026-01-08 00:07:14,260 - INFO - Processing query: 'Nghị định về bảo vệ môi trường'
+2026-01-08 00:07:14,276 - INFO - Retrieved 3 documents
+2026-01-08 00:07:14,277 - INFO - Processing query: 'Chuyển đổi xanh ngành dệt may'
+2026-01-08 00:07:14,293 - INFO - Retrieved 3 documents
+2026-01-08 00:07:14,295 - INFO - Processing query: 'Industry 4.0'
+2026-01-08 00:07:14,313 - INFO - Retrieved 3 documents
