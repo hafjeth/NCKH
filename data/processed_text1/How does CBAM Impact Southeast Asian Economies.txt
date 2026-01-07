@@ -1,0 +1,143 @@
+How does CBAM Impact Southeast Asian
+Economies?
+The European Commission adopted in August 2023 detailed reporting rules for its newly
+created Carbon Border Adjustment Mechanism (CBAM). CBAM is a mechanism that aims
+to incentivize exporting countries to decarbonize their industries. However, for Southeast
+Asia's economies, collectively khown as ASEAN, which rely heavily on the EU export
+market, CBAM presents a potential double-edged sword. While it could spur much-needed
+environmental progress, it might also lead to economic losses if ASEAN nations are not
+prepared for the transition. This article will delve into the mechanics of CBAM, its current
+implementation status in ASEAN countries, and broader implications it will have on Asia.
+Learn how CBAM can shape the current trade dynamics and incentivize further
+sustainable development in Southeast Asia.
+What is CBAM?
+CARBON BORDER ADJUSTMENT MECHANISM
+Price mechanism on carbon intensive goods entering the EU
+From 2026
+2023- 2026
+DEFINITIVE REGIME
+TRANSITIONAL PHASE
+s EU importers under CBAM are required to
+register with national authorities to purchase
+CBAM certificates priced based on the weekly
+average EU ETS auction price in €/tonne of CO2
+emitted.
+s Importers declare embedded emissions and
+surrender certificates annually.
+s lf importers can prove a carbon price has been
+paid during production, deductions apply.
+Serves as a trial and learning phase for stakeholders
+(importers, producers, authorities).
+s Targets carbon-intensive imports like cement, iron,
+steeL aluminum, fertilizers, electricity, and hydrogen.
+* Importers must report embedded greenhouse gas
+emissions vwithout certificate purchase Oor
+surrender.
+s Reporting rules are flexible; by 2025, only the EU
+method is accepted, with estimates limited to
+complex goods.
+O Asuene
+The EU Carbon Border Adjustment Mechanism (CBAM) is a “mechanism that puts a fair
+price on the carbon emitted during the production of carbon-intensive goods that are
+entering the EU, and to encourage cleaner industrial production in non-EU countries”
+(European Commission). CBAM essentially puts a price on the carbon emissions embodied
+in certain goods imported into the EU. This incentivizes cleaner production methods
+outside the EU and ensures imported goods compete on a level playing field with those
+produced within the bloc. From October 2023, CBAM entered its transitional phase. The
+carbon-intensive goods that fall under this period of CBAM include: cement, iron and
+steel, aluminum, fertilizers, electricity and hydrogen. During this period, importers of
+specific carbon-intensive goods are required to report the direct and indirect greenhouse
+gas (GHG) emissions associated with their imports. This reporting requirement serves as a
+learning period for all parties involved (importers, producers, and authorities) and allows
+for the collection of valuable data on embedded emissions. This data will be crucial for
+refining the methodology used in the definitive CBAM phase. A review of the CBAM's
+functioning during its transitional phase will be concluded before the entry into force of
+the definitive system in 2026.
+Impacts of CBAM in ASEAN Countries
+Strong trade ties between ASEAN and the EU mean the CBAM will have a noticeable
+influence, although the severity will differ across the region. This is because some
+countries rely more heavily on exports with high carbon footprints. Indonesia, Malaysia,
+Thailand, and Vietnam are likely to be most affected due to their significant exports in
+sectors covered by CBAM. Conversely, Cambodia, Lao PDR, Myanmar, and Singapore are
+expected to see minimal impacts as their primary exports currently fall outside the
+CBAM's scope. Here's a look at how some ASEAN member states could be affected:
+Vietnam
+The European Union (EU) is a vital market for Vietnam, ranking as its 3rd largest export
+destination in 2022 encompassing a significant 14.4% of total Vietnamese exports. CBAM
+regulation applies to 5% of Vietnamese exports to the EU and particularly affects the iron
+& steel sector the most (Trading Economics, 2022). Estimates suggest that CBAM could
+result in Vietnamese exporters from these sectors losing around USD $830 million
+annually, translating to roughly 0.6% of the country's GDP (New Climate Institute, 2023).
+In anticipation of the CBAM transition period, the Vietnamese government took swift
+action. In November 2023, they issued an official directive outlining procedures for
+measuring greenhouse gas (GHG) emissions. This was followed by training programs
+designed to equip businesses with the knowledge and tools needed to comply with GHG
+regulations. These measures aim to minimize carbon footprints across the supply chain,
+with mandatory implementation set for 2025.
+Indonesia
+The European Union (EU) remains a significant export destination for Indonesia, ranking
+as the 5th largest covering approximately 7.4% of Indonesian exports. Among these
+exports to the EU, approximately 6.2% are subjected to CBAM, where the most impacted
+sectors are iron & steel and fertilizers (Trading Economics, 2022). New Climate Institute
+estimates CBAM could lead to a modest decline in annual GDP, around 0.1% or $500
+million. Indonesia views CBAM as a catalyst for adaptation and a chance to prepare for
+future climate-driven trade measures. The Indonesian government is finalizing carbon tax
+regulations to incentivize businesses in lowering emissions. This will allow Indonesian
+companies to choose between purchasing carbon credits on the IDXCarbon exchange or
+paying the carbon tax, directly contributing to emissions reduction.
+Thailand
+The European Union (EU) is Thailand's 4th largest export destination, receiving around
+10% of Thailand's total export in 2022. Among the total exports to the EU, approximately
+1.49% of the exports will be subjected to CBAM (Work Point Today, 2023), with iron & steel
+being the most vulnerable industry. The implementation of CBAM could result in
+potential annual revenue losses for Thailand of around USD $500 million, representing a
+modest 0.2% reduction of its GDP. In response to CBAM, Thailand has launched the BCG
+(bio, circular and green) economic development plan. This initiative aims to incentivize
+manufacturers to adopt environmentally friendly technologies that enhance product
+value while minimizing environmental footprint.
+Malaysia
+O Asuene
+IMPACTS OF CBAM IN ASEAN COUNTRIES
+Price mechanism on carbon intensive goods entering the EU
+VIETNAM INDONESIA- THAILAND _.. ¡ MALAYSIA
+EUƯS Ranking as #3 #5 #4 #4
+Export Destination
+Xof EU Export 14.4 74 10 79
+Among 2022 Totai Export
+% of Export under CBAM 5 62 1.49 79
+(Among EU Export)
+Most Impacted Sector Iron 6 Steel Iron 6 Steel Iron 6 Steel Iron 6 Steel
+The European Union (EU) is a significant and growing trade partner for Malaysia,
+accounting for 7.9% of its total trade and ranking as its 4th largest export destination in
+2022. This market holds even greater potential, with Malaysian exports to the EU surging
+by an impressive 21.8% in recent years. Currently, an estimated 6.7% of Malaysia"s
+exports to the EU fall under CBAM, with the iron and steel sector being the most affected
+(Bank Negara Malaysia, 2022). Furthermore, it is estimated that by 2026 (midf Research,
+2023), if domestic manufacturers fail to comply with new CBAM standards, up to 57% of
+Malaysia's exports to the EU could be impacted In response to this potential hurdle,
+Malaysia has taken proactive steps:
+s Mandatory Reporting: Starting October 2023, Malaysian exporters will be required
+to report greenhouse gas (GHG) emissions.
+s Government Support: Initiatives are underway to introduce carbon pricing and
+support emission reduction efforts. These measures aim to assist exporters in
+meeting CBAM requirements.
+s National Framework: The government is establishing pre-conditions for a national
+carbon accounting framework.
+The Domino Effect
+CBAM's impact on ASEAN exporters may be modest initially, as a small portion of their
+exports fall under its current regulations. However, as CBAM expands and export volumes
+rise, the financial burden could become significant. This poses a long-term threat to
+ASEAN's competitiveness in the European market if its manufacturing sector remains
+heavily reliant on carbon-intensive processes. Similar to China's opposition to the EU's
+unilateral approach and its plans to expand its domestic carbon trading scheme, ASEAN
+economies should be compelled to take similar actions, to encourage their exporting
+businesses to decarbonize at a faster pace. This could involve ramping up energy
+efficiency, accelerating emissions reductions, and potentially implementing domestic
+carbon pricing mechanisms. While some ASEAN governments are already strengthening
+their environmental regulations in response to CBAM, a more substantial and swifter
+approach is necessary. To truly compete in the evolving global market, ASEAN will need to
+significantly tighten its regulations and strive to reach a level closer to the EU's ambitious
+environmental commitments. CBAM presents both challenges and opportunities. At
+Asuene, we are committed to helping you turn this regulatory shift into a competitive
+edge for your business. Together, lets make your business a leader in the transition to a
+greener future.

@@ -1,0 +1,310 @@
+Prepared by MCG Management Consulting December 2018 For further information, please contact:  Ms. Shannon Siyao Wang, WWF Greater Mekong,
+shannon.siyaowang@wwfgreatermekong.org
+ Mr. Viet Hoang, WWF Vietnam, viet.hoang@wwf.org.vn MAPPING EXISTING POLICIES, INITIATIVES,
+STAKEHOLDERS AND GAPS TO SUPPORT
+TEXTILE SECTOR WITH SUSTAINABILITY
+TRANSITION IN VIETNAM
+REPORT ON KEY FINDINGS Table of Content Background 3
+1.
+POLICY review 3
+2.
+Existing initiatives review 5
+3.
+Textile sector stakeholder map 8
+4.
+SMEs in the textile sector in Vietnam 10
+5.
+Conclusions on opportunities and potentials for WWF textile 11
+6. 3 BACKGROUND
+1.
+Textile industry is one of the key economic drivers in Vietnam as the textile and garment
+export valued at USD 31 billion in 2017, increased at 10.23% compared to 2016 figures1; and is
+expected to reach USD 34 billion by the end of 20182.  The sector is a heavy energy and water
+user/polluter while remains weak in waste treatment. Normally, textile manufacturing
+consumes a significant amount of energy for machinery operation and great volume of
+domestic water for water boiling and wet processing that poses high risks to the environment
+such as discharging polluted wastewater from chemical dying. In pace with socio-economic
+growth, the textile industry is highly motivated to transform its existing branding of being “low
+cost and low environmental standard ‘Made in Vietnam’” to “sustainably ‘Made in Vietnam’” to
+attract further foreign investments and to gain a competitive business edge.
+The project “Greening Vietnam’s textile sector through improving water management and
+energy sustainability” of WWF was developed to transform the textile sector in Vietnam and
+engage sectoral and environmental governance in order to bring social, economic and
+conservation benefits to the country and the entire Mekong region. This mapping exercise is one of the first activities of the “Greening Vietnam’s Textile Sector”
+project. WWF contracted MCG Management Consulting (MCG) to undertake the following
+tasks:
+-
+Review and map out policy landscape in the textile sector,
+-
+Stock take all existing initiatives led by international organizations, bilateral /
+multilateral donors, NGOs and brands supporting textile sector,
+-
+Map out all relevant stakeholders the WWF textile project needs to engage with in
+Vietnam, and
+-
+Zoom into the SMEs in the textile sector in Vietnam, in particular in the Mekong Delta
+area and HCMC.
+The report presents key findings of the above tasks. POLICY REVIEW
+2.
+The section maps out policy landscape in the textile sector through reviewing all existing and
+planned national, sector and local level plans, policies, strategies and regulations of the textile
+sector development in Vietnam, with a specific attention to water, energy, climate. The
+following figure illustrates major policies that have certain impacts on the textile sector of
+Vietnam (see annex A for more detail). 1 Stated by Mr. Cao Quoc Hung, Deputy Minister of Industry and Trade in the “Vietnam Textile
+Conference 2017” held by VITAS on 15/12/2017 in Danang. https://congthuong.vn/nam-2017-kim-
+ngach-xuat-khau-det-may-cua-viet-nam-dat-31-ty-usd-97417.html 2  Apparel
+Resources,
+2018.
+An
+Overview
+of
+Vietnam
+Textile
+and
+Garment
+Industry.
+https://www.slideshare.net/apparelresources/vietnam-textile-and-garment-industry-97397255 4
+Figure 1: Summary of main textile related policies Source: compiled by MCG Consultant team, 2018
+Water and energy issues of Vietnam textile sector are covered in three main laws: Law on
+Economical and Efficient Use of Energy (2010), Law on Environment Protection (2014), and Law
+on Water Resources (2012). At national level, the Government has issued a series of
+regulations on environmental protection, which requires factories to comply with from the
+project development to factory operation stage. During project development stage,
+depending on the size and type of the project, companies are required to apply for business
+permits after submitting environmental impact assessment. During operation phase factories
+must comply with environmental protection commitments through periodic or continuous
+monitoring reporting system according to Decree 18/2015/ND-CP on strategic environmental
+assessment, environmental impact assessment and environmental protection plan, Decree No.
+80/2014/ND-CP on the drainage and treatment of wastewater. Companies which fail to
+comply with those regulations on environmental protection will be punished according to the
+Decree No. 155/2016/ND-CP.
+At sector level, the Ministry of Natural Resources and Environment (MONRE) has stipulated
+QCVN 13-MT: 2015/BTNMT National technical regulation on the maximum allowable values of
+pollutants in textile wastewater.
+The Prime Minister of Viet Nam has issued a strategy on Development of Vietnam Textile and
+Garment Industry 2015-2020 (Decision No. 36/2008/QD-TTg). As a follow up action, the
+Ministry of Industry and Trade (MOIT) has launched a Master Plan for Vietnam Textile
+Industrial Development 2020-2030 (Decision No. 3128/QD-BCT). Both of the Master plan and
+Strategy set an objective to develop textile and garment into a key and spearhead export
+industry, increasingly meet domestic consumption demands, create many jobs for the society,
+and raise the industry’s competitiveness as well as steady integration into regional and world
+economies. However, many targets in this Master Plan are out of date, therefore VITAS has
+been proposing a new strategy to replace the current master plan and current strategy. 5
+Besides, the Prime Minister has recently approved the national program on development of
+supporting industries during 2016-2025 (Decision No. 68/QD-TTg) which sets some specific
+target for textile, garment and leather, footwear industries. Until the updated strategy for
+textile and apparel development is in place, this national program will be guiding the sector
+development.
+At provincial level, some provinces have developed their own plans for the Textile and
+Garment Industry, such as Ho Chi Minh city, Thua Thien Hue province. These provincial plans
+are adopted from the goals of the government’s strategy and the MOIT’s master plan. In conclusion, the legal framework developed for Vietnam textile industry in terms of
+environment, water, energy and climate performances is fairly comprehensive. Still, there are
+few existing gaps that need to be addressed: (1) to develop a new strategy replacing the
+Master plan and current Strategy3; and (2) to adopt international technical standards into
+national technical regulations/ guidelines EXISTING INITIATIVES REVIEW
+3.
+This section summarizes 15 initiatives supporting directly and indirectly the textile sector to
+improve water, energy and climate performances led by international organizations, bilateral/
+multilateral donors, NGOs and brands over the past 15 years. The Figure 2 shows the timeline
+of these initiatives (see annex B for more detail). Figure 2: Initiatives in textile sector Source: compiled by MCG Consultant team, 2018 3 With the new Law on Planning, it is unknown whether the MOIT or the Government office will approve
+the new strategy 6
+The period before 2015 saw some initiatives driving broader industrial sector towards cleaner
+production, reducing greenhouse gas emissions, promoting energy efficiency in order to cope
+with climate change. The World Bank (WB) and Asian Development Bank (ADB), United
+Nations Development Programme (UNDP), the United Nations Industrial Development
+Organization (UNIDO), together with Global Environment Facility (GEF) Trust Fund, Nordic
+Development Fund and Green Credit Fund had led these initiatives. The budget for these
+initiatives ranges from over USD 4 million to more than USD 150 million, including grants,
+counterpart funds from implementing agencies, and Vietnamese Government loans.  The key
+initiatives are:
+-
+Promoting Industrial Energy Efficiency through System Optimization and Energy
+Management Standards, 2010 – 2015, by UNIDO-GEF Trust Fund, total project cost is
+USD 6.59 million
+-
+Clean Production and Energy Efficiency Project, 2011-2017, by WB-GEF Trust fund and
+Vietnamese Government loans, total project cost is USD 4.15 million
+-
+Vietnam Industrial Pollution Management project, 2012-2018, WB and Vietnamese
+Government loans, total project cost is USD 58.85 million
+-
+Promotion of Energy Efficient Industrial Boiler Adoption and Operating Practices in
+Vietnam, 2015 – 2019 by UNIDO-GEF Trust Fund, total project cost is USD 12.11 million -
+Implementation of Eco-industrial Park Initiative for Sustainable Industrial zones in
+Vietnam, 2014- 2019, by UNIDO-GEF Trust Fund and Green Credit Fund, total project
+cost is USD 53.23 million
+-
+Vietnam Energy Efficiency for Industrial Enterprises, 2017 – 2022, WB, total project cost:
+USD 158.00 million
+The international organisations such as IFC, GIZ, USAID have been leading technical programs
+facilitating energy efficiency and water consumption in textile companies towards sustainable
+production more recently. The textile and apparel sector also welcomed the participation of
+international textile and garment brands such as VF Corporation, Target Corporation, PUMA,
+New Balance, Adidas, and Levi Strauss & Co alongside traditional donors. These technical
+initiatives are  under USD 10 million and mostly supporting the industry through technical
+assistance, and/or investment in equipment and technology. The highlight programs are:
+-
+Race to the Top apparel and footwear sectors in Vietnam, implemented by IDH, 2015-
+2020 -
+Vietnam Improvement Program, 2015-2020, implemented by IFC, USD 9.9 million
+-
+Nationally Appropriate Mitigation Actions
+- Support to Vietnam for the
+Implementation of the Paris Agreement, 2016-2019, implemented by GIZ
+-
+Improving energy efficiency investments in Vietnam’s textile and garment plants, 2013
+– 2018, implemented by USAID
+Figure 3 reveals the main stakeholders and beneficiaries of the initiatives. At the country level,
+the bilateral/ multilateral donor partner working with MONRE, MOIT, and MPI in developing
+and adopting national policies to implement energy efficiency, environmental protection to
+implement the government's commitment to climate change response. Key activities for these
+stakeholders include policy researches, organising public-private dialogues, technical
+standards development (WB, UNDP, USAID, ADB). 7
+At provincial level, bilateral/multilateral donors through international organizations (IFC, GIZ,
+IHD) support managing agencies at provincial level (Provincial People's Committees, specialized
+departments, provincial Industrial Park management units) to implement pilot activities, raise
+awareness among stakeholders and promote the implementation of policies and regulations.
+At sector level, business associations (such as Vietnam Textile and Apparel Association - VITAS,
+LEFASO, Vietnam Cotton and Spinning Association – VCOSA) and textile and garment
+companies in tier 1 and 2 who are international brands’ suppliers are main beneficiaries of
+many technical support programs led by IDH, GIZ, IFC.  Some typical activities of technical
+assistance projects are:
+-
+Training & workshop on energy efficiency and energy management: providing full
+financial support to all participants
+-
+Technical support in water and energy saving, chemicals reduction, environmental
+protection: Full or partial financing for companies in tier 1, and some companies in tier
+2
+-
+Investment in EE equipment and technology, wastewater solutions: partial funding, or
+providing preferential loans for companies in tier 1
+Figure 3: Existing initiatives by value chain Source: compiled by MCG Consultant team, 2018
+From our observation, there is a lack of support for companies in tier 3 and 4 in the country,
+which can be explained by their relative small size and uncertainty in measuring the level of
+impacts. Support for adoption of international standards into environmental regulations for
+the textile industry in Vietnam has only just started recently. 8 TEXTILE SECTOR STAKEHOLDER MAP
+4.
+From the above analysis, the stakeholder map (below) helps to identify and visualize the actors
+who are relevant for WWF’s Greening Vietnam’s Textile Sector project. The results of the
+stakeholder analysis will support WWF to decide partners and targeted stakeholder groups in
+its project implementation to achieve its project goals. The map is structured like an onion into
+different layers of stakeholders (key, primary, secondary) and different segments by their
+nature (public, private, civil society).
+In Figure 4, the different organizations (stakeholders) hold diverse positions of importance and
+relevance for WWF textile in Vietnam: Figure 4: Textile sector stakeholder map Source: compiled by MCG Consultant team, 2018 9
+Table 1.
+International brands and related initiatives in Vietnam
+#
+Textile and Garment
+international brands
+Involved initiatives in Vietnam
+1. GAP
+ IDH - Race to the Top (RttT)
+2. Levi Strauss & Co
+ IDH - Race to the Top (RttT)
+ IFC - Vietnam Improvement Program (VIP)
+3. Marks & Spencer
+ IDH - Race to the Top (RttT)
+4. Nike
+ IDH - Race to the Top (RttT)
+5. Puma
+ IDH - Race to the Top (RttT)
+ IFC - Vietnam Improvement Program (VIP)
+6. Saitex
+ IDH - Race to the Top (RttT)
+7. VF Corporation (VFC)
+ IFC - Vietnam Improvement Program (VIP)
+8. New Balance
+ IFC - Vietnam Improvement Program (VIP)
+9. Adidas
+ IFC - Vietnam Improvement Program (VIP) Source: compiled by MCG Consultant team, 2018
+“Key Stakeholders” are those with significant influence on textile sector, as they are able to
+use their resources, competence, mandate or position of power to exert significant influence.
+WWF will need to engage these key stakeholders to ensure its textile project’s objectives and
+strategic orientation can be achieved. WWF should actively seek cooperation with the key
+stakeholders in order to reach its objectives. Depending on the type of cooperation measures,
+key stakeholders need to be selected carefully to make implementation more effective and
+efficient or even succeed at all. Primary Stakeholders are those directly affect, either positively or negatively on textile sector
+either as subcontractors, cooperation partners or designated beneficiaries, or because they
+stand to gain – or lose – power and privilege, or because they are negatively or positively
+affected by a strategy change of WWF’s textile project in some other way. A regular exchange
+with primary stakeholders or representative groups of them is therefore advisable
+Secondary Stakeholders, the "intermediaries “, are persons or organizations who have
+indirectly influence on textile sector. Selectively, cooperation with secondary stakeholders
+could create synergies and mutual benefit, as some future activities of WWF’s textile project
+might need their support but would also help them to reach their own project or
+organizational objectives.
+The stakeholder map should be considered as a living document that needs to be updated
+regularly to remain relevant for WWF’s project regarding selection of cooperation partners,
+clients or sub-contractors. Over time, organizations can change their status, can become more
+or less relevant for WWF Textile, disappear or newly appear in the map. Therefore, an annual
+internal discussion on stakeholders relevant for WWF Textile and a subsequent adjustment of
+the map is highly advisable. 10 SMES IN THE TEXTILE SECTOR IN VIETNAM
+5.
+According to the VITAS’s report in 2018, Vietnam garment and textile industry has 7154
+enterprises, of which about 15% weaving and dyeing enterprises locate in Mekong Delta and
+Southeast area. The Figure 5 presents an overview of the textile and garment enterprise
+distribution along the textile value chain, and in the  Mekong Delta and Southeast area
+(including HCMC). Figure 5: The textile and garment enterprise distribution Source: VITAS (2016), VCOSA (2016) and Number of companies in Mekong Delta and Southeast
+area calculated by MCG Consultant team
+The below table summarizes the characteristics of four types of textile and garment companies
+in Vietnam. Main characteristics
+Tier 1 Companies
+-
+Direct supply to big brands (such as Nike, Adidas, GAP, etc.)
+-
+Large-sized enterprises (>300 to thousands of employees)
+-
+Received foreign investment
+-
+Active in Energy Efficiency
+Tier 2 Companies
+-
+Subcontract to big brands
+-
+Large to medium-sized enterprises -
+Mostly Vietnamese companies
+-
+VITAS’s members
+Tier 3 Companies
+-
+Medium to small-sized enterprises (<200 employees)
+-
+Vietnamese companies
+-
+VITAS’s members 11
+Tier 4 Companies
+-
+Small to micro-sized enterprises
+-
+Private business/ business households (<100 labors)
+-
+Washing and dyeing workshops
+-
+Not VITAS’s members CONCLUSIONS ON OPPORTUNITIES AND POTENTIALS FOR
+6.
+WWF’S PROJECT IMPLEMENTATION
+After reviewing policy and existing initiatives on the textile sector development, and looking
+into textile SMEs in Vietnam, the following conclusions can be drawn:
+VITAS and the MOIT are preparing to revise the out-of-date Strategy and Master Plan on
+Development of Vietnam Textile and Garment Industry. This would be a good opportunity for
+WWF project team to make recommendations on greening the textile industry in the new
+strategy/ program of Vietnam Textile and Garment Industry. Energy saving and use of
+chemicals in the textile sector of Vietnam need more attention, in particular if fiber and fabric
+production development will become more crucial for Vietnam to be eligible under various
+free trade agreements . WWF project team should work with the MOIT as the lead agency,
+VITAS as representative of the textile industry and other interested parties including GIZ,
+USAID, and WB. Vietnam still needs to upgrade the national standard for textile waste water, develop technical
+standards for energy consumption, and chemicals usage in the textile industry. WWF can work
+with IHD, USAID, and WB/IFC to support Vietnamese specialized agencies (MONRE, DOT) in
+this regard.
+Overall, SMEs are involved in weaving and dyeing in the Mekong Delta area and Ho Chi Minh
+City accounts for a small percentage, about 100 enterprises. Long An, Tien Giang and Can Tho
+province are favorite locations for many textile SMEs to operate. Most of them are small and
+micro-sized business, usually suppliers/ sub-contractor of large companies, and less interested
+by supporting projects/ programs. Directly supporting those SMEs to increase technical
+capacity and access finance can be a good idea, but WWF needs further research and analysis
+on the level of commitment to the project and SME’s ability to absorb technology. At the local
+level, WWF’s textile project can work with local agencies such as Provincial People's
+Committees, or the management of industrial zones to access those textile companies.

@@ -1,22 +1,21 @@
-# Bỏ qua file môi trường chứa Key mật
+# Environment variables
 .env
 
-# Bỏ qua database
-data/chroma_db/
-*.sqlite3
-
-# Bỏ qua folder môi trường ảo (nếu có)
-env/
-.venv/
+# Python
+__pycache__/
+*.pyc
 
 # Virtual environments
+venv/
 venv311/
+.venv/
+env/
 src/venv/
 src/venv311/
 
-# Python cache
-__pycache__/
-*.pyc
+# Databases / vector stores
+data/chroma_db/
+*.sqlite3
 
 # OS
 .DS_Store
