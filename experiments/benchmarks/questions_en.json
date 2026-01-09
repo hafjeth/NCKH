@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "project_title": "Multi-Agent Debate System for Carbon Tax Policy Analysis – Vietnam Textile Industry",
+    "version": "1.0",
+    "created_date": "2024-12-20",
+    "total_questions": 30,
+    "language": "en",
+    "distribution": {
+      "fact_based": 10,
+      "impact_based": 10,
+      "debate_based": 10
+    },
+    "topics": [
+      "Vietnam Carbon Regulatory Framework (6 questions)",
+      "EU CBAM Mechanism (6 questions)",
+      "Current State of Vietnam’s Textile Industry (5 questions)",
+      "Technical Emission Reduction Solutions (5 questions)",
+      "Support Policies & Finance (5 questions)",
+      "Impacts & Challenges (2 questions)"
+    ]
+  },
+
+  "questions": [
+    {
+      "id": 1,
+      "topic": "Vietnam Carbon Regulatory Framework",
+      "question": "According to Decree No. 06/2022/ND-CP, what is the minimum emission threshold (in tons of CO2 equivalent per year) above which textile manufacturing facilities are required to conduct greenhouse gas inventories?",
+      "type": "fact-based",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": 2,
+      "topic": "Vietnam Carbon Regulatory Framework",
+      "question": "According to the 2020 Law on Environmental Protection, how often must greenhouse gas inventories be conducted?",
+      "type": "fact-based",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": 3,
+      "topic": "Vietnam Carbon Regulatory Framework",
+      "question": "Decision No. 232/QD-TTg approved the development of Vietnam’s carbon market. In which year is the market expected to become fully operational?",
+      "type": "fact-based",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": 4,
+      "topic": "Vietnam Carbon Regulatory Framework",
+      "question": "According to Decision No. 01/2022/QD-TTg, 294 textile and footwear enterprises are required to report greenhouse gas emissions. If Vietnam’s textile industry has approximately 6,000 enterprises (per VITAS), what percentage of firms are subject to mandatory reporting? What does this figure imply about the scale of policy impact?",
+      "type": "impact-based",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": 5,
+      "topic": "Vietnam Carbon Regulatory Framework",
+      "question": "Under Decree No. 06/2022/ND-CP, enterprises must conduct greenhouse gas inventories every two years. If a textile firm operates for the next 20 years (2025–2045), how many inventories must it conduct? If each inventory requires approximately 1–2 weeks of dedicated staff time, what is the total time burden?",
+      "type": "impact-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 6,
+      "topic": "Vietnam Carbon Regulatory Framework",
+      "question": "Decree No. 06/2022/ND-CP requires 294 textile firms to submit inventory reports by March 2025 and comply with emission quotas from 2026. However, many SMEs report resource constraints. Should Vietnam prioritize: (A) Supporting enterprises to comply on schedule, or (B) Negotiating an extension to 2027–2028?",
+      "type": "debate-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 7,
+      "topic": "EU CBAM Mechanism",
+      "question": "In which year does the EU’s Carbon Border Adjustment Mechanism (CBAM) officially impose carbon charges? When does the transitional reporting period begin and end?",
+      "type": "fact-based",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": 8,
+      "topic": "EU CBAM Mechanism",
+      "question": "Under CBAM, are textile products exported to the EU subject to direct carbon charges from 2026? If not, which indirect mechanisms could affect the textile industry?",
+      "type": "fact-based",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": 9,
+      "topic": "EU CBAM Mechanism",
+      "question": "A Vietnamese textile firm exports 10,000 tons of goods per year to the EU with an emission intensity of 2.5 tons of CO2 per ton of product. If the EU carbon price is EUR 80 per ton, how much carbon tax would the firm pay annually if CBAM were extended to textiles? If the exchange rate is 1 EUR = 27,000 VND, what is the equivalent amount in VND?",
+      "type": "impact-based",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": 10,
+      "topic": "EU CBAM Mechanism",
+      "question": "CBAM allows deductions for carbon taxes already paid in the exporting country. Given that Vietnam does not yet have a carbon tax, what competitive disadvantages might Vietnamese firms face compared to countries with carbon pricing (e.g., China’s pilot ETS)?",
+      "type": "impact-based",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": 11,
+      "topic": "EU CBAM Mechanism",
+      "question": "The EU will review CBAM expansion by the end of 2025 (CBAM Regulation Article 30). If textiles are included from 2028–2030, should Vietnam: (A) Proactively develop carbon pricing in 2025–2026 to prepare, or (B) Wait until the official expansion list is announced?",
+      "type": "debate-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 12,
+      "topic": "EU CBAM Mechanism",
+      "question": "Beyond CBAM, major fashion brands such as H&M, Zara, and Nike require suppliers to disclose carbon footprints and set emission reduction targets. Is pressure from buyer requirements stronger than CBAM? Which should Vietnamese textile firms prioritize?",
+      "type": "debate-based",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": 13,
+      "topic": "Current State of Vietnam’s Textile Industry",
+      "question": "According to reports by VITAS and USAID, how many million tons of CO2 does Vietnam’s textile industry emit annually? What percentage does this represent of total industrial energy demand?",
+      "type": "fact-based",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": 14,
+      "topic": "Current State of Vietnam’s Textile Industry",
+      "question": "According to data from the General Statistics Office and VITAS in 2023, what was the approximate export value of Vietnam’s textile industry? What percentage of this value was exported to the EU?",
+      "type": "fact-based",
+      "difficulty": "easy"
+    },
+
+    {
+      "id": 15,
+      "topic": "Current State of Vietnam’s Textile Industry",
+      "question": "Based on Vietnam’s textile production structure, what is the proportion of enterprises operating under CMT (Cut, Make, Trim) compared to FOB (Free On Board)? Which model dominates, and how does this affect the ability to control carbon footprints?",
+      "type": "fact-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 16,
+      "topic": "Current State of Vietnam’s Textile Industry",
+      "question": "Vietnam’s textile industry primarily relies on coal-based electricity (approximately 60% of grid emission factors). If firms switch to renewable electricity (solar, wind), what percentage of emissions could be reduced, and how much would electricity costs increase?",
+      "type": "impact-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 17,
+      "topic": "Current State of Vietnam’s Textile Industry",
+      "question": "Among the 294 textile enterprises required to conduct GHG inventories, approximately 60% are SMEs with annual revenues below 200 billion VND. If the initial inventory cost is around 150–250 million VND, what percentage of revenue does this represent? Does this create a barrier for SMEs?",
+      "type": "impact-based",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": 18,
+      "topic": "Current State of Vietnam’s Textile Industry",
+      "question": "Vietnam’s textile industry largely operates under the CMT model with low value-added (15–20%). If carbon costs are imposed, how effectively can these costs be passed on to buyers? How does this differ between CMT and FOB models?",
+      "type": "impact-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 19,
+      "topic": "Technical Emission Reduction Solutions",
+      "question": "According to independent life-cycle assessment (LCA) studies of waterless dyeing technologies (e.g., supercritical CO₂ dyeing such as DyeCoo), by approximately what percentage can water consumption and CO₂ emissions be reduced compared to conventional textile dyeing processes?",
+      "type": "fact-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 20,
+      "topic": "Technical Emission Reduction Solutions",
+      "question": "A textile dyeing factory in Vietnam consumes 500,000 kWh of electricity per month, with 60% used for boilers and drying systems. If the firm invests 5 billion VND in high-efficiency boilers and waste heat recovery systems that save 25% energy, analyze: (1) annual CO2 reduction, and (2) payback periods under different carbon tax scenarios.",
+      "type": "impact-based",
+      "difficulty": "medium"
+    },
+
+    {
+      "id": 21,
+      "topic": "Technical Emission Reduction Solutions",
+      "question": "A textile company operates three factories in Northern, Central, and Southern Vietnam, each emitting 10,000 tons of CO2 per year. With a green investment budget of 50 billion VND, it must choose between: (A) installing 5 MW rooftop solar systems for all three factories (15 billion VND each), (B) upgrading water-saving dyeing systems at one factory (50 billion VND), or (C) investing in high-efficiency machinery at all three factories (16–17 billion VND each). Which option yields the highest emission reduction per unit of investment? Rank by cost-effectiveness (VND per ton CO2 reduced).",
+      "type": "impact-based",
+      "difficulty": "very hard"
+    },
+
+    {
+      "id": 22,
+      "topic": "Technical Emission Reduction Solutions",
+      "question": "The Vietnamese government is considering mandatory minimum energy performance standards (MEPS) for boilers and dyeing machines from 2027. Firms failing to comply must either: (A) upgrade equipment within two years using concessional loans at 4% interest, or (B) pay escalating penalties of 5–10–15% of energy costs if they do not upgrade. Which option is more effective?",
+      "type": "debate-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 23,
+      "topic": "Technical Emission Reduction Solutions",
+      "question": "A large Vietnamese textile group with five factories emits a total of 50,000 tons of CO2 annually and has a green investment budget of 100 billion VND. Should it: (A) concentrate investments in 1–2 factories to achieve net-zero and create 'lighthouse factories', or (B) distribute investments evenly across all five factories to achieve 20–30% emission reductions per factory? Which strategy is optimal environmentally, economically, and strategically?",
+      "type": "debate-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 24,
+      "topic": "Support Policies & Finance",
+      "question": "According to the IFC’s Vietnam Improvement Program launched in 2019, how much total funding has been mobilized to support green transition in Vietnam’s textile industry? How much electricity has been saved and how many tons of CO2 have been reduced annually?",
+      "type": "fact-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 25,
+      "topic": "Support Policies & Finance",
+      "question": "A research project develops a multi-agent debate system to simulate five carbon tax policy scenarios (USD 10–50 per ton of CO2) for 50 Vietnamese textile firms, with a research budget of 3 billion VND over two years. Without this system, each firm would need to hire consultants at a cost of 200 million VND to analyze CBAM impacts and develop emission reduction roadmaps. The system: (1) reduces consulting costs by 70%, (2) shortens decision-making time from six months to two weeks, and (3) provides scientific evidence helping the government avoid 500 billion VND in policy misalignment costs. Calculate the total socio-economic benefits and the benefit-cost ratio (BCR) of the project.",
+      "type": "impact-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 26,
+      "topic": "Support Policies & Finance",
+      "question": "The Green Climate Fund (GCF) and other international financing mechanisms (ADB, World Bank, JICA) offer concessional funding for emission reduction projects in Vietnam. However, application processes are complex (2–3 years) and require 30–50% co-financing. Should textile firms: (A) focus on domestic financing sources despite higher interest rates but faster access, or (B) invest effort in securing international funds with better terms but longer timelines?",
+      "type": "debate-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 27,
+      "topic": "Support Policies & Finance",
+      "question": "The Vietnamese government is considering three support policies for textile firms’ emission reduction: (A) direct grants covering 30% of green technology investment costs, (B) two-year corporate income tax exemptions for projects reducing emissions by over 20%, and (C) free technical assistance (training, consulting, MRV). Given a limited public budget (1,000 billion VND), which policy should be prioritized? Analyze effectiveness, efficiency, and equity.",
+      "type": "debate-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 28,
+      "topic": "Support Policies & Finance",
+      "question": "Vietnam could finance green transition in the textile industry through: (A) a domestic carbon tax (USD 10–30 per ton of CO2) with revenue recycling, (B) government-issued green bonds (20 trillion VND) for concessional lending, or (C) mandatory green capital expenditure requirements for large firms (5% of annual revenue). Each mechanism involves trade-offs in effectiveness, equity, and political feasibility. Which option is optimal?",
+      "type": "debate-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 29,
+      "topic": "Impacts & Challenges",
+      "question": "If CBAM is extended to textiles and Vietnam’s carbon policies are strictly enforced, an estimated 10–15% of textile firms (approximately 600–900 SMEs) may shut down due to insufficient compliance capacity, affecting 150,000–220,000 workers. Should the government: (A) prioritize job protection by delaying or relaxing carbon policies, or (B) promote green transition despite short-term social costs by investing in a just transition (reskilling, transition support)?",
+      "type": "debate-based",
+      "difficulty": "hard"
+    },
+
+    {
+      "id": 30,
+      "topic": "Impacts & Challenges",
+      "question": "Carbon border measures and carbon footprint requirements imposed by developed economies (EU, US) may be viewed as 'green protectionism', creating trade barriers for developing countries like Vietnam. Should Vietnam: (A) oppose these measures and seek exemptions or delays through WTO/UNFCCC channels, or (B) accept the new rules and adapt rapidly to avoid being left behind?",
+      "type": "debate-based",
+      "difficulty": "hard"
+    }
+  ]
+}
