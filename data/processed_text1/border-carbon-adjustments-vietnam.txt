@@ -10,8 +10,11 @@ Adjustment
 Mechanisms
 and Impacts on
 Vietnam
+IISD REPORT
 © 2024 International Institute for Sustainable Development
 Published by the International Institute for Sustainable Development
+This publication is licensed under a Creative Commons Attribution-
+NonCommercial-ShareAlike 4.0 International License.
 International Institute for Sustainable Development
 The International Institute for Sustainable Development (IISD) is
 an award-winning, independent think tank working to accelerate
@@ -34,6 +37,7 @@ HOANG Thi Minh Hang, TRAN Phuong Ngoc, TRAN Duc Phu, and
 LE Thi Thanh Tam
 Photo: iStock
 Head Office
+111 Lombard Avenue, Suite 325
 Winnipeg, Manitoba
 Canada R3B 0T4
 Tel: +1 (204) 958-7700
@@ -62,9 +66,11 @@ Table of Contents
 4.5 Technical Assistance and Technology Transfer 29
 4.6 International Dialogues and Cooperation Platforms to Facilitate Convergence
 in BCA Design 30
+5.0 The Way Forward  31
 6.0 Conclusion  32
 References  33
 IISD.org
+iv
 Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 List of Figures
 Figure 1. Top 10 export markets of Vietnam steel in 2022  8
@@ -76,25 +82,44 @@ List of Tables
 Table 1. The estimated impacts of EU’s CBAM regulation (as of March 2023) on Vietnam
 in 2030 for key sectors 18
 IISD.org
+v
 Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 Abbreviations and Acronyms
+ASEAN
 Association of Southeast Asian Nations
+BCA
 border carbon adjustment
+CBAM
 Carbon Border Adjustment Mechanism
+EITE
 emissions-intensive trade-exposed
+ETS
 Emissions Trading System
+EU
 European Union
+GDP
 gross domestic product
+GHG
 greenhouse gas
+IFC
 International Finance Corporation
+LDC
 least developed countries
+NDC
 nationally determined contribution
+OCB
 Orient Commercial Bank
+SME
 small and medium-sized enterprises
+UOB
 United Overseas Bank
+VSA
 Vietnam Steel Association
+WTO
 World Trade Organization
-IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+IISD.org
+1
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 1.0 Introduction to Border Carbon
 Adjustments
 Border carbon adjustments (BCAs) have become a hot topic in trade and environment
@@ -130,7 +155,9 @@ leakage at present, but it is widely agreed that as carbon prices become more me
 the risk of leakage will increase.
 1  Carbon leakage indicates an increase in GHG emissions in other jurisdictions in response to climate policies in
 an implementing jurisdiction.
-IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+IISD.org
+2
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 1.1.2 Two Basic Types of BCAs
 BCAs are not stand-alone mechanisms; they are designed to accompany some underlying
 climate policy. Depending on the nature of that policy, they can take two basic forms:
@@ -139,7 +166,7 @@ adjustment, in most respects acting similarly to the value-added tax adjustment 
 by many countries.
 •	 If the underlying policy is a regulation, such as a requirement to purchase emissions
 allowances under an emissions trading scheme, a BCA would seek to mirror the
-domestic regulation with a regulation affecting imports for example, requiring that
+domestic regulation with a regulation affecting imports—for example, requiring that
 they also purchase emissions allowances.
 These two basic forms give rise immediately to a host of World Trade Organization (WTO)
 legal questions that will not be explored here. There are excellent resources that explore the
@@ -167,7 +194,9 @@ export? What about non-price-based climate policies?
 •	 What will be done with the revenues? Will any be transferred to the affected countries
 or producers?
 2  See, for example Espa et al., 2022; OECD, 2020, Section 3.1.2.
-IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+IISD.org
+3
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 The underlying climate policy instrument will determine many of these policy choices. For
 example, if the instrument only covers direct (Scope 1) emissions, then the likely choice for a
 BCA would be to cover the same emissions.
@@ -203,10 +232,12 @@ administrative feasibility, and respect for the development imperatives expresse
 such as common but differentiated responsibilities and respective capabilities. Even more
 broadly, the challenge is to craft a tool that ultimately is about protecting the environment as
 opposed to punishing foreign competitors.
-IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+IISD.org
+4
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 Each of the basic design choices described above has points at which those challenges become
 concrete forks in the decision tree that will determine a different endpoint. To explore whether
-a BCA is an appropriate policy choice and if so, what it should look like countries need to
+a BCA is an appropriate policy choice countries need to
 consider the critical starting-point questions:
 •	 What should be the objectives of a BCA regime?
 •	 What national-level sectoral, environmental, legal, and political realities should inform
@@ -239,7 +270,9 @@ and those affected by them. However, some elements of their design might benefit
 much more active international discussions before individual BCA instruments take different
 approaches that would make international trade more challenging and costly and international
 relations even more tense than they currently are.
-IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+IISD.org
+5
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 Topics could include the following:
 •	 standards used for calculating embedded emissions,
 •	 the scope of geographic BCA coverage and its exemptions,
@@ -250,7 +283,9 @@ community needs to engage on this topic earlier rather than later to help shape 
 instruments in a way that ensures that their form meets their purpose in a way that is
 compatible with their government’s international obligations and supportive of the global
 efforts to reach the Paris Agreement targets.
-IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+IISD.org
+6
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 2.0 Impacts of BCAs on Vietnam
 2.1 The Context of Vietnam
 Vietnam’s economy is growing rapidly (by 7.02% in 2019) and is transforming from an
@@ -268,6 +303,7 @@ Considering the export sectors of Vietnam affected by the EU’s CBAM, from 2017
 sectors are as follows: iron and steel account for approximately USD 1.1 billion (12%);
 aluminum accounts for around USD 48 million (7%); fertilizers have a small export volume
 of about USD 0.2 million per year to the EU; and cement accounts for around USD 12
+million (1%) of the export value to the EU (WTO Centre, 2023c). In 2022, Vietnam
 exported approximately 8.397 million tonnes of various types of steel, with the export value
 reaching USD 7.99 billion. Among these, the main export markets for Vietnam in terms of
 export turnover were the EU and the United States, accounting for 18.37% and 10.57%,
@@ -282,13 +318,15 @@ exporter of cement in the world in 2022, after China (Observatory of Economic Co
 n.d.). Steel, aluminum, and cement are the three key export sectors of Vietnam that may be
 affected by various BCAs, especially the current EU’s CBAM.
 2.2 Impacts on Sectors Currently Exposed to BCAs
-This report will analyze the four sectors of Vietnam that are currently exposed to BCAs iron
+This report will analyze the four sectors of Vietnam that are currently exposed to BCAs—iron
 and steel, cement, aluminum, and fertilizers, which are under the application of the EU’s
-CBAM and examine the potential effects of the CBAM on these sectors. Even though the
-period from October 1, 2023, to the end of 2025 is only a reporting period without incurring
-any financial liabilities under the EU’s CBAM export-related activities from these sectors
+CBAM—and examine the potential effects of the CBAM on these sectors. Even though the
+period from October 1, 2023, to the end of 2025 is only a reporting period—without incurring
+any financial liabilities under the EU’s CBAM—export-related activities from these sectors
 will still be affected by the mechanism. In addition to the cost of production, exporting
-enterprises also have to bear additional administrative costs for monitoring, reporting, and IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+enterprises also have to bear additional administrative costs for monitoring, reporting, and IISD.org
+7
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 verifying the carbon emissions in their products exported to the EU market.3 Moreover, the
 effects of the CBAM on these sectors will serve as a foundation for the recommendations
 given in this report to help Vietnamese enterprises effectively deal with not only the EU’s
@@ -333,7 +371,9 @@ steel exports from Vietnam had faced 234 trade remedy investigations from 24 cou
 dumping investigations were the most common (129 investigations), followed by safeguards (47 investigations),
 investigations to prevent the evasion of trade remedy measures (34 investigations), and subsidy investigations (24
 investigations). (Industry and Trade Magazine, 2023c).
-IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+IISD.org
+8
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 Hang, n.d.). Steel exports to the EU accounted for just 3.4% of the total steel exports in June
 2020. However, after 2 years, this figure has increased to 20.51% (a sixfold increase). In the
 first 8 months of 2023, Vietnam exported 7.38 million tonnes of steel to the EU, a 24.4%
@@ -357,7 +397,15 @@ challenge to become carbon neutral by 2050 (Lê Thúy, 2023).
 This challenge is not only a concern for Posco-Vietnam but also for the steel industry
 in general. The VSA also expressed its concern that if steel companies do not respond
 appropriately to the EU’s CBAM, the volume of exports to the EU and the trade relationship
-with the EU regarding steel products will be negatively affected. However, Vietnamese steel Others
+with the EU regarding steel products will be negatively affected. However, Vietnamese steel
+0
+10
+20
+30
+40
+50
+Others
+%
 United Kingdom
 Japan
 India
@@ -366,10 +414,22 @@ Taiwan
 Hong Kong
 South Korea
 United States
+EU
+ASEAN
 11%
+2%
+2%
+2%
+2%
+4%
+5%
+6%
+8%
 16%
 42%
-IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+IISD.org
+9
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 companies are still unsure about the measures that should be taken because the CBAM is a
 recent measure. The only method is to reduce the emissions, but it is a long-term solution,
 not a short-term measure. The VSA and steel enterprises are taking measures to assess the
@@ -411,7 +471,9 @@ times compared to 5% of the total in 2019 (H. Nguyen, 2023). As a result, it is 
 that the implementation of the EU’s CBAM will decrease exports by more than 4% in
 value and 0.4% in quantity in 2030 (Nguyet Ha, 2024). Also, the green transition is still
 a big challenge for Vietnamese aluminum enterprises. It requires aluminum enterprises
-to strategize and adapt to new requirements for green transformation. Enterprises can IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+to strategize and adapt to new requirements for green transformation. Enterprises can IISD.org
+10
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 integrate clean energy into production to enhance the value of aluminum products, then
 increase commercial competitiveness and avoid carbon taxation, not only from the EU but
 also from future trading partners.
@@ -440,20 +502,35 @@ level of impact is insignificant as, over the past 5 years, exports of this cons
 the EU accounted for less than 2% of the total cement export volume (as illustrated in Figure
 3). However, this industry is still required to transition to green production and reduce carbon
 emissions to not only deal with BCAs implemented by trading partners but also be consistent
-with the government’s net-zero commitment by 2050. 1,000
+with the government’s net-zero commitment by 2050.
+0
+500
+1,000
+1,500
 Million tonnes
+2,000
+2,500
+3,000
 Türkiye
 United States
 Vietnam
 India
-China 2,500
-IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+China
+70
+80
+100
+300
+2,500
+IISD.org
+11
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 Figure 3. Exports of Vietnam cement to the EU from 2019 to August 2023
 Source: Vietnam Association for Building Materials, 2023.
 2.2.4 Fertilizers
 As of 2023, Vietnam had over 800 fertilizer production facilities. The domestic demand for
 fertilizer usage amounts to around 10.5 million tonnes per year, with approximately 7.6
 million tonnes of inorganic fertilizers (Duong, 2023).
+Even though Vietnamese fertilizer production facilities produce and export fertilizers, Vietnam
 has not exported fertilizer products covered under the CBAM (inorganic fertilizers) to the EU.
 Moreover, the export value of Vietnam’s fertilizers to the EU is only roughly USD 0.2 million
 per year (Duong, 2023). Therefore, the implementation of the CBAM may not directly or
@@ -473,7 +550,21 @@ First, regarding the extension of the scope of the CBAM, in the future, it could
 other products and services that are subject to the EU’s Emissions Trading System (ETS).
 Notably, the products and services covered by the current EU ETS, reinforced by the reform
 to increase its ambition in 2023, include over 30 activities and sectors (Annex I and III, ETS
-Million tonnes IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+Million tonnes
+0
+10
+20
+30
+40
+50
+2023
+2022
+2021
+2020
+2019
+IISD.org
+12
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 Directive), including combustion of fuels in installations; oil refining; production of coke;
 production of metal ore; production of iron and steel; production and processing of ferrous
 metals; production of primary aluminum or alumina; production of secondary aluminum;
@@ -486,8 +577,8 @@ of bulk organic; production of hydrogen; production of soda ash and sodium bicar
 capture of GHGs from installations; transport of GHGs; geological storage of GHGs; and
 aviation and maritime transport.
 Notably, goods under the EU ETS that are not at high risk of carbon leakage may not be
-covered by the EU’s CBAM. Some other industries at high risk of carbon leakage for
-instance, plastics, organic chemicals, glass, and ceramics are envisaged to be incorporated
+covered by the EU’s CBAM. Some other industries at high risk of carbon leakage—for
+instance, plastics, organic chemicals, glass, and ceramics—are envisaged to be incorporated
 into the future EU’s CBAM, regardless of their country of origin (Monkelbaan, & Figures,
 2022). The CBAM would also ensure that importers of related imported products pay for
 the carbon emissions associated with their production or processing. This extension would
@@ -516,14 +607,18 @@ and equipment, footwear, clothing and textiles, machinery and mechanical equipme
 furniture, seafood, leather and leather products, iron and steel, toys, games, and sports
 equipment. Therefore, some sectors that could be covered by Canada’s future BCA and
 impact Vietnam would include iron and steel, furniture products, etc.
-IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+IISD.org
+13
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 In December 2023, the British government indicated its intention to apply an equivalent to
 the EU’s CBAM for products in sectors subject to the United Kingdom’s ETS and at risk of
 carbon leakage. Targeted sectors in the consultation draft that the United Kingdom released
 include iron, steel, aluminum, fertilizer, hydrogen, ceramics, glass, and cement. Among
 Vietnam’s major products exported to the United Kingdom, iron and steel products would
 first be affected by the United Kingdom’s future CBAM (HM Treasury, 2023).
-IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+IISD.org
+14
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 3.0 Responses to BCAs by Vietnamese
 Stakeholders
 With the implementation of the EU’s CBAM and other BCAs, the Vietnamese government,
@@ -559,7 +654,9 @@ In addition, the specific impacts of BCAs’ application on Vietnam’s policies
 seen from two main angles.
 3.1.1 Existing Policies
 SHD participants from some of Vietnam’s government agencies indicated that in response
-to the BCAs, Vietnam fostered the completion of the legal basis to reduce GHG emissions, IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+to the BCAs, Vietnam fostered the completion of the legal basis to reduce GHG emissions, IISD.org
+15
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 carbon pricing, carbon market development, and carbon credit issuance. These serve as a
 premise to orient and promote industries and businesses that have expressed their willingness
 to effectively reduce carbon emissions.
@@ -602,7 +699,9 @@ stipulates the tasks of prioritizing the implementation of carbon pricing tools,
 tonnes of oil equivalent (TOE)/year or more; road freight transport companies with total fuel consumption of
 1,000 TOE/year or more; commercial buildings with total energy consumption of 1,000 TOE/year or more; and
 solid waste treatment facilities with an operating capacity of 65,000 tonnes/year or more.
-IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+IISD.org
+16
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 investment in reducing GHG emissions in areas/industries, developing renewable energy
 sources, harvesting technology, and carbon storage and use.
 Moreover, Vietnam has been implementing the National Strategy on Climate Change for the
@@ -642,7 +741,9 @@ stages. According to the CBAM Impact Assessment Project (Trung tâm WTO, 2023b),
 although European importers are responsible for reporting on and bearing CBAM fees,
 they will require Vietnamese manufacturers to provide information on product quantities,
 emissions in products, costs paid for domestic carbon pricing, etc. Currently, Vietnamese
-enterprises can only provide emission information about the production and processing of IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+enterprises can only provide emission information about the production and processing of IISD.org
+17
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 goods; however, the CBAM requires emissions data information on both production and
 certain inputs from across the supply chain.
 Second, Vietnam is encouraged to take further steps to negotiate and engage in constructive
@@ -684,7 +785,9 @@ economy aligned with the global vision.
 Finally, in response to the foreign BCAs, some SHD participants suggested that Vietnam
 establish and implement a mechanism like BCAs to be applied to products imported from
 other countries.
-IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+IISD.org
+18
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 3.2 From Industry
 The notable common view from participants of Vietnamese industries affected by BCAs is the
 willingness to meet the requirements of BCAs, including the EU’s CBAM. They believe that
@@ -711,28 +814,44 @@ Fertilizer
 Cement
 Change in
 production (%)
+-0,8
 [-1,7;-0,0]
+-0,4
 [-0,8;-0,0]
+-0,0
 [-0,0;-0,0]
+-0,1
 [-0,2;-0,0]
 Change in export
 value (%)
+-3,7
 [-5,5;-0,4]
+-4,3
 [-5,7;-0,7]
+-0,0
 [-0,0;-0,0]
+-0,6
 [-0,8;-0,2]
 Change in import
 value (%)
+-0,3
 [-1,3;+0,8]
+-0,1
 [-0,7;+0,4]
+-0,0
 [-0,0;-0,0]
+-0,1
 [-0,7;+0,1]
 Change in emission
 levels (million tons
 of CO₂)
+-1,0
 [-2,0;-0,0]
+-0,2
 [-0,4;-0,0]
+-0,0
 [-0,0;-0,0]
+-0,2
 [-0,4;-0,0]
 Source: Trung tâm WTO, 2023c.
 Note: The “-” sign indicates a decrease compared to the trend scenario when CBAM starts being
@@ -743,7 +862,9 @@ completing the forms that the EU provides. Therefore, enterprises need technical
 from the EU’s experts or the government’s competent authorities. Besides these common
 views, participants of each affected industry express opinions regarding the impacts of BCAs
 on their industries and develop their corresponding action plans.
-IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+IISD.org
+19
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 3.2.1 Iron and Steel
 SHD participants from the VSA noted that Vietnam’s current annual steel export output could
 reach about 9 million–10 million tonnes, of which approximately 20% is exported to the EU
@@ -783,7 +904,9 @@ during the aluminum smelting process. In addition, some businesses have also imp
 environmental, social, and governance principles and aim to participate in afforestation
 projects to generate carbon credits for themselves.
 Located in the Asia–Pacific region, representing the largest market, and also predicted to be
-the most developed market in the next 5 years due to increasing consumption from China, IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+the most developed market in the next 5 years due to increasing consumption from China, IISD.org
+20
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 India, and Japan, Vietnam’s aluminum industry is predicted to have a good growth rate,
 averaging 7%/year. By these participants’ estimations, the EU’s CBAM is expected to reduce
 Vietnamese exports to the EU by about 4%, equivalent to about USD 12 million per year.
@@ -822,7 +945,9 @@ the growth and sustainable development of Vietnam’s cement industry.
 Based on the industry strategy for fertilizer and Vietnam’s National Strategy on Climate
 Change to 2050, all businesses in the chemical and fertilizer production sector are expected
 to apply technologies to reduce nitrous oxide (N2O) emissions by 2030. The potential is to
-reduce CO2 emissions by 5.6 million tonnes from 2021 to 2030. Carbon capture technologies IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+reduce CO2 emissions by 5.6 million tonnes from 2021 to 2030. Carbon capture technologies IISD.org
+21
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 are expected to be implemented from 2045, covering approximately 50% of production levels,
 equivalent to a reduction of about 4 million tonnes of carbon annually.
 As previously mentioned, Vietnam produces and exports fertilizers but has not yet exported
@@ -864,7 +989,9 @@ green living and the value of energy efficiency in both production and daily lif
 6  Decision 01/2022/QD-TTg dated January 18, 2022, promulgating the list of sectors, greenhouse gas-emitting
 establishments subject to greenhouse gas inventory. There are 21 sectors and 1912 entities subject to the GHG
 inventory and the preparation of GHG reduction plans following the roadmap.
-IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+IISD.org
+22
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 contributes to building a greener working and living environment but also supports businesses
 in adapting to climate change and environmental policies.
 3.2.6 Financial Sector
@@ -875,7 +1002,7 @@ finance, market, technology, human resources, information, and resource manageme
 Businesses have two financial sources: public (state and government funds) and private (the
 businesses themselves). From the state’s perspective, the issue of finance involves revenue and
 expenditure. There is a circular flow: any revenues collected could be reinvested to support
-technological factors and innovative projects, thereby providing support back to businesses
+technological factors and innovative projects, thereby providing support back to businesses—
 for example, those affected by the CBAM. Clearly, the perspectives of these two entities
 regarding CBAM-related issues differ. While the state is concerned with managing financial
 revenue and expenditure, businesses need to consider five other factors in addition to finance.
@@ -906,7 +1033,9 @@ support investment in green technologies and projects, such as renewable energy 
 transportation, facilitating the transition to more sustainable production and consumption
 systems. Second, finance can contribute to the development of green financial markets by
 creating products and services that support projects and businesses with positive impacts on
-the environment. Third, finance can help allocate capital efficiently to projects with positive IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+the environment. Third, finance can help allocate capital efficiently to projects with positive IISD.org
+23
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 environmental impacts, such as reducing emissions and enhancing energy efficiency. Finally,
 finance also plays a significant role in managing environmental risks by ensuring compliance
 with environmental and social standards in investment and financial activities. This highlights
@@ -946,7 +1075,9 @@ to reduce financial barriers, encouragement to invest in green projects like ren
 support for developing countries to effectively participate in carbon-neutral activities, and
 international cooperation to enhance the effectiveness of these activities and promote the
 transition to a greener and more sustainable economy.
-IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+IISD.org
+24
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 3.4 From Academia
 University academics play a pivotal role in addressing the challenges posed by BCA policies
 in general and the CBAM in particular. They can respond effectively through a multifaceted
@@ -988,7 +1119,9 @@ allocating resources to meet CBAM requirements, including investments in technol
 infrastructure upgrades, and administrative costs related to carbon accounting and reporting,
 businesses may wonder whether compliance with CBAM regulations leads to increased
 sales volumes or enhances the overall value proposition of the company. These questions
-underscore the fundamental challenge that businesses face: balancing the costs of compliance IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+underscore the fundamental challenge that businesses face: balancing the costs of compliance IISD.org
+25
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 against potential benefits and market competitiveness. These are areas where scholars can
 act as facilitators. By offering specialized knowledge in carbon accounting methodologies,
 academics can guide industries in accurately measuring and monitoring their emissions.
@@ -1008,7 +1141,9 @@ serve as a crucial channel for disseminating research findings and policy recomm
 Through published articles, policy briefs, and regular reports, academics can reach a wider
 audience, including policy-makers, industry leaders, and fellow researchers. These publications
 not only contribute to the academic discourse but also inform real-world decision-making
-processes, driving evidence-based policy formulation and implementation. IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+processes, driving evidence-based policy formulation and implementation. IISD.org
+26
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 4.0 International Principles and Best
 Practices
 According to Vietnamese stakeholders, some of the issues that are important to consider when
@@ -1038,8 +1173,10 @@ industrial sectors need to clearly define their responsibilities in a way that a
 the period 1751–2017, shows that the United States was accountable for 25% of the total
 carbon emissions in the atmosphere, while the EU was responsible for approximately 22%.
 The emissions from poorer countries in the Global South were minimal. Even then, China’s
-per capita emissions a 12.7% share are significantly lower than those of both the United
-States and the EU. IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+per capita emissions are significantly lower than those of both the United
+States and the EU. IISD.org
+27
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 Figure 4. Who has contributed most to global CO2 emissions?
 Source: Ritchie, 2019.
 In fact, the EU has made significant progress in addressing climate change by introducing its
@@ -1064,13 +1201,23 @@ the principle of common but differentiated responsibility so that exporters from
 countries or least developed countries (LDCs) could be given, for instance, special and
 differential treatment compared to those of more developed nations. This will help create a
 fairer, more effective framework for reducing global carbon emissions.
-Billion tonnes CO2 Oceania
+Billion tonnes CO2
+0
+100
+200
+300
+400
+500
+600
+Oceania
 South America
 Africa
 North America
 Asia
 Europe
-IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+IISD.org
+28
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 4.2 The Extent of Carbon Footprint Traceability and
 Measurement
 Vietnam faces difficulties in inventorying carbon emissions amid the urgent need to calculate
@@ -1101,13 +1248,14 @@ production, but not in the previous stages. As such, BCA/CBAM should somehow spe
 burden for exporters of different stages so that, for instance, the last exporters could share the
 responsibilities with others exporting input/raw materials used in production.
 4.3 The Extent of Coverage of BCA/CBAM Measures
-It is suggested that the EU’s CBAM and BCA, in general needs to be designed to
+It is suggested that the EU’s CBAM needs to be designed to
 prevent double payment of relevant carbon costs. In case enterprises in exporting countries
 already bear some costs for climate change mitigation and/or for environmental purposes
 (even if they have not paid any carbon price), should BCA’s applying countries not consider
 Country 1
 Country 2
 Vietnam
+EU
 Adding
 carbon to the
 product
@@ -1117,7 +1265,9 @@ product
 The total
 carbon content
 in the product
-IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+IISD.org
+29
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 reducing part(s) of the cost to be paid in importing countries regarding carbon content?
 This would ensure fair competition between domestic and imported products while
 encouraging exporting countries to continue implementing measures to reduce carbon
@@ -1159,7 +1309,9 @@ smart agricultural methods can enhance carbon sequestration in soils and decreas
 from deforestation and land-use changes. By utilizing these technologies with support from
 technical assistance programs, countries can achieve significant reductions in carbon emissions
 while promoting economic development and sustainable growth.
-IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+IISD.org
+30
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 4.6 International Dialogues and Cooperation Platforms to
 Facilitate Convergence in BCA Design
 It is suggested that international dialogues and cooperation platforms should be established
@@ -1172,14 +1324,17 @@ and input from relevant stakeholders. By organizing events, workshops, and forum
 participation from relevant parties could have an open space for discussion and negotiation.
 This participation effectively serves as a foundation for fostering convergence and cooperation
 among parties to design and implement BCAs effectively and fairly, ensuring that relevant
-policies and measures are promoted in a unified and efficient manner. IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+policies and measures are promoted in a unified and efficient manner. IISD.org
+31
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+5.0 The Way Forward
 Businesses need access to as much information as possible. The purpose of implementing
 the CBAM is not to collect money but to signal that the green transition is inevitable. From
 a business perspective, companies need to pay attention to developing strategies in the short,
 medium, or long term. In the short term, businesses need to carefully consider the actual costs
 of complying with CBAM. Also, businesses should consider the global supply chain, especially
 the commitments of existing free trade agreements, to leverage green financial resources and
-prepare CBAM reports even if they are not directly exporting to the EU, they could still be
+prepare CBAM reports—even if they are not directly exporting to the EU, they could still be
 part of the global supply chain. It is essential for businesses to proactively seek information on
 policies related to CBAM through EU-CBAM webinars.
 In the medium and long terms, businesses need to prepare strong financial resources for
@@ -1207,7 +1362,9 @@ such BCAs. In addition, the government can harness feedback and insights from co
 academic institutions, and research institutes to enhance and refine its policies and strategies.
 This approach not only aids in negotiation processes but also ensures the development
 of rational, well-informed policies that promote sustainable development and align with
-international standards. IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+international standards. IISD.org
+32
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 6.0 Conclusion
 The initiation of the CBAM has ignited substantial discourse, owing to its perceived disparate
 treatment of developing and developed nations. This debate stems from the significant carbon
@@ -1225,120 +1382,177 @@ CBAMs and other similar schemes by trading partners will take considerable time 
 distinctive characteristics and stringent requirements. Achieving optimal efficacy will require
 collaborative efforts among businesses, regulatory bodies, and governments facilitated by
 educational institutions equipped with high-calibre research personnel.
-IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+IISD.org
+33
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 References
 Buysing Damsté, C., Banks, J., & Prepscius, J. (2024, February 27). The EU Carbon Border
-Adjustment Mechanism (CBAM): Implications for supply chains. PwC.
+Adjustment Mechanism (CBAM): Implications for supply chains. PwC. https://www.pwc.com/
+gx/en/services/tax/esg-tax/cbam-supply-chain-imperatives.html
 Centro de Estudos de Integração e Desenvolvimento. (2024, July). Global dialogue on border
-carbon adjustments: The case of Brazil. International Institute for Sustainable Development. Chi Nhân. (2023, June 28). Xuất khẩu sắt thép vào EU tăng 55%, mở thêm hạn ngạch từ 1.7.
+carbon adjustments: The case of Brazil. International Institute for Sustainable Development.
+https://www.iisd.org/system/files/2024-07/border-carbon-adjustments-brazil.pdf
+Chi Nhân. (2023, June 28). Xuất khẩu sắt thép vào EU tăng 55%, mở thêm hạn ngạch từ 1.7.
 [The export of steel to the EU has increased by 55%, increasing quota from July 1st].
+thanhnien.vn. https://thanhnien.vn/xuat-khau-sat-thep-vao-eu-tang-55-mo-them-han-
+ngach-tu-17-185230628174819721.htm.
 Dezan Shira & Associates. (2021, November 5). COP26 and climate change: Vietnam’s
-commitment to reducing emissions. Vietnam Briefing.
+commitment to reducing emissions. Vietnam Briefing. https://www.vietnam-briefing.com/
+news/cop26-climate-change-vietnams-commitment-reducing-emissions.html/
 Duong, A. D. (2023, April 14). Hiện trạng và định hướng phát triển ngành phân bón Việt Nam
 [Current situation and development of Vietnam’s fertilizer industry] [Presentation].
-Conference: Effect assessment of EU’s CBAM and suggestions for Vietnam (VCCI). bon-viet-nam_greencic.pdf
+Conference: Effect assessment of EU’s CBAM and suggestions for Vietnam (VCCI).
+https://trungtamwto.vn/file/22339/05_phan-bonhien-trang-va-dinh-huong-nganh-phan-
+bon-viet-nam_greencic.pdf
 Espa, I., Francois, J., & van Asselt, H. (2022). The EU proposal for Carbon Border Adjustment
 Mechansim (CBAM): An analysis under WTO and climate change law. (WTI working
-paper 06/2022). Universitat Bern.
+paper 06/2022). Universitat Bern. https://boris.unibe.ch/174432/1/WTI_Working_
 Paper_06_2022.pdf
 Giang, H. (2023, May 16). Gov’t approves National Power Development Plan 8. Socialist
-Republic of Viet Nam Government News.
+Republic of Viet Nam Government News. https://en.baochinhphu.vn/govt-approves-
+national-power-development-plan-8-111230516085506239.htm
 Government of Canada. (2021). Exploring border carbon adjustments for Canada. https://
+www.canada.ca/en/department-finance/programs/consultations/2021/border-carbon-
+adjustments/exploring-border-carbon-adjustments-canada.html.
 Ha, V. (2023). Ngành thép Việt Nam: Làm gì để tận dụng dư địa và tiềm năng phát triển?
 [Vietnam’s steel industry: How to capitalize on capacity surplus and development
-potential?]. Cong Thuong.
-HM Treasury. (2023, December 18). Factsheet: UK Carbon Border Adjustment Mechanism. decarbonisation/outcome/factsheet-uk-carbon-border-adjustment-mechanism
-Hòa Phát Group. (2022). 2022 annual report.
+potential?]. Cong Thuong. https://congthuong.vn/nganh-thep-viet-nam-lam-gi-de-tan-
+dung-du-dia-va-tiem-nang-phat-trien-287728.html
+HM Treasury. (2023, December 18). Factsheet: UK Carbon Border Adjustment Mechanism.
+https://www.gov.uk/government/consultations/addressing-carbon-leakage-risk-to-support-
+decarbonisation/outcome/factsheet-uk-carbon-border-adjustment-mechanism
+Hòa Phát Group. (2022). 2022 annual report. https://file.hoaphat.com.vn/hoaphat-com-
+vn/2023/04/annual-report-2022-hpg.pdf IISD.org
+34
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 Industry and Trade Magazine. Dự báo phòng vệ thương mại cho thép Việt [Forecast of trade
+remedy investigations for Vietnamese steel]. Ministry of Industry and Trade. https://
+tapchicongthuong.vn/magazine/du-bao-phong-ve-thuong-mai-cho-thep-viet-115248.htm
 International Fund for Agricultural Development. (2019, November 12). Information and
 Communication Technology for Development (ICT4D) strategy (EB 2019/128/R.5). https://
+webapps.ifad.org/members/eb/128/docs/EB-2019-128-R-5.pdf
 Lê, T. (2023). Doanh nghiệp thép trước mối lo bị thuế carbon cản đường [Steel companies facing
-concerns over the implementation of the EU’s CBAM]. VnBusiness.
+concerns over the implementation of the EU’s CBAM]. VnBusiness. https://vnbusiness.vn/
+viet-nam/doanh-nghiep-thep-truoc-moi-lo-bi-thue-carbon-can-duong-1093962.html
 Lee, K., Li, J., & Wadhwa, D. (2023, October 11). From climate science to global action:
-Who contributes most to global greenhouse gas emissions? World Bank Blogs.
+Who contributes most to global greenhouse gas emissions? World Bank Blogs. https://blogs.
+worldbank.org/en/opendata/climate-science-global-action-who-contributes-most-
 global-greenhouse-gas-emissions#:~:text=The%20largest%20contributors%20to%20
 current,Qatar%2C%20Bahrain%2C%20and%20Kuwait
 Monkelbaan, J., & Figures, T. (2022, December 19). CBAM: What you need to know about the
-new EU decarbonization incentive. World Economic Forum. agenda/2022/12/cbam-the-new-eu-decarbonization-incentive-and-what-you-need-to-
+new EU decarbonization incentive. World Economic Forum.  https://www.weforum.org/
+agenda/2022/12/cbam-the-new-eu-decarbonization-incentive-and-what-you-need-to-
 know/
 Net Zero Tracker. (2023, June 12). Net zero targets among world’s largest companies double, but
-credibility gaps undermine progress.
+credibility gaps undermine progress. https://zerotracker.net/insights/net-zero-targets-among-
 worlds-largest-companies-double-but-credibility-gaps-undermine-progress
 Nguyen, H. (2023, May 17). Diễn đàn doanh nghiệp ngành nhôm Việt Nam năm 2023 [Forum
-of Vietnam’s aluminum industry 2023]. Cong Tuong.
+of Vietnam’s aluminum industry 2023]. Cong Tuong. https://congthuong.vn/dien-dan-
+doanh-nghiep-nganh-nhom-viet-nam-nam-2023-254418.html
 Nguyen, T. (2023, August 30). Thúc đẩy sản xuất bền vững trong ngành xi-măng [Promoting
+sustainable manufacture in cement industry]. nhandan.vn. https://nhandan.vn/thuc-day-
+san-xuat-ben-vung-trong-nganh-xi-mang-post769995.html
 Nguyet Ha. (2024, November 27). 4 ngành sẽ chịu tác động mạnh từ CBAM khi xuất khẩu vào EU
 [Four industries will be strongly impacted by the EU’s CBAM when exporting to the EU].
-VnEconomy.
+VnEconomy. https://vneconomy.vn/4-nganh-se-chiu-tac-dong-manh-tu-cbam-khi-xuat-
+khau-vao-eu.htm.
 Nhật Xuân, Công Trung, & Ngọc Hien (2023, November 3). Chủ động ứng phó với thuế
-carbon [Proactively respond to the carbon tax]. Tuổi Trẻ Online.
+carbon [Proactively respond to the carbon tax]. Tuổi Trẻ Online. https://tuoitre.vn/chu-
+dong-ung-pho-voi-thue-carbon-20231103075721509.htm?gidzl=VeD4CL629Wz_cKG_
 LfiZ2NoRGZXAdoWDD9nDCXkVBbDWo4njGPXxNshCIcv1pYjGOS8PPJ0ODL
 C7Luul1G
-Observatory of Economic Complexity (n.d.). About the site.
+Observatory of Economic Complexity (n.d.). About the site. https://oec.world/en/resources/
 about.)
-IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+IISD.org
+35
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 Organisation for Economic Co-operation and Development. (2020). Climate policy
-leadership in an interconnected world: What role for border carbon adjustments? Phòng vệ thương mại – Trung tâm WTO [Trade remedies – WTO Center]. (2023,
+leadership in an interconnected world: What role for border carbon adjustments? https://doi.
+org/10.1787/8008e7f4-en Phòng vệ thương mại – Trung tâm WTO [Trade remedies – WTO Center]. (2023,
 November 13). Liên tiếp dính kiện, ngành nhôm khó trăm bề [Facing continuous trade
 remedy investigations, the aluminum industry is in a difficult situation]. VCCI. https://
-countries respond? Center for Global Development.
+chongbanphagia.vn/lien-tiep-dinh-kien-nganh-nhom-kho-tram-be-n27198.html Pleeck, S., & Mitchell, I. (2023, November 15). The EU’s carbon border tax: How can developing
+countries respond? Center for Global Development. https://www.cgdev.org/blog/eus-carbon-
 border-tax-how-can-developing-countries-respond
 Prime Minister of Vietnam. (2022). Decision No. 896/QD-TTg Approving the National
-Strategy for Climate change until 2050.
+Strategy for Climate change until 2050. https://thuvienphapluat.vn/van-ban/EN/Tai-
 nguyen-Moi-truong/Decision-896-QD-TTg-2022-approving-the-National-strategy-for-
-Establishing a Carbon Border Adjustment Mechanism (PE/7/2023/REV/1).
+climate-change-until-2050/525126/tieng-anh.aspx Regulation (EU) 2023/956 of the European Parliament and of the Council of 10 May 2023
+Establishing a Carbon Border Adjustment Mechanism (PE/7/2023/REV/1). https://eur-lex.
 europa.eu/eli/reg/2023/956/oj Ritchie, H. (2019, October 1). Who has contributed most to global CO2 emissions? Our World in
-Data.  (Figure 4)
+Data. https://ourworldindata.org/contributed-most-global-co2 (Figure 4)
 Sen, P. (n.d.). EU’s Carbon Border Adjustment Mechanism and the Global South: How to make
-it work. IEP@BU.
+it work. IEP@BU. https://iep.unibocconi.eu/publications/eus-carbon-border-adjustment-
 mechanism-and-global-south-how-make-it-work
 Song Ha. (2023, May 30). Giải pháp cho ngành nhôm vượt qua khó khăn [Measures for
-aluminum industry to overcome difficulties]. Vneconomy.vn,
+aluminum industry to overcome difficulties]. Vneconomy.vn, https://vneconomy.vn/
+techconnect//giai-phap-cho-nganh-nhom-vuot-qua-kho-khan.htm
 Taxation Customs Union. (2023). Carbon Border Adjustment Mechanism. European
-Commission.
+Commission. https://taxation-customs.ec.europa.eu/carbon-border-adjustment-
 mechanism_en
 Thanh Van. (2024, March 1). IFC considers $150 million investment in OCB. Vietnam
-Investment Review.
+Investment Review. https://vir.com.vn/ifc-considers-150-million-investment-in-
 ocb-109191.html.
 Trung tâm WTO [WTO Center]. (2023a, May 5). CBAM: Thách thức lớn cho xuất khẩu thép
-sang thị trường Anh [CBAM: Big challenge for steel exports to the UK market]. VCCI. truong-anh
+sang thị trường Anh [CBAM: Big challenge for steel exports to the UK market]. VCCI.
+https://trungtamwto.vn/tin-tuc/23343-cbam-thach-thuc-lon-cho-xuat-khau-thep-sang-thi-
+truong-anh
 Trung tâm WTO [WTO Center]. (2023b, May 5). Cơ chế CBAM của EU và khuyến nghị giải
 pháp cho Việt Nam [EU CBAM mechanism and recommended solutions for Vietnam].
-nghi-giai-phap-cho-viet-nam. IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam
+VCCI. https://trungtamwto.vn/hiep-dinh-khac/24032-co-che-cbam-cua-eu-va-khuyen-
+nghi-giai-phap-cho-viet-nam. IISD.org
+36
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 Trung tâm WTO [WTO Center]. (2023c, April 14). Đánh giá tác động kinh tế của CBAM
 và những cân nhắc chính sách [Assessing economic impacts of CBAM and policy
-implications]. VCCI.
-Việt Nam [Current status and development orientation of Vietnam’s fertilizer industry]. bon-viet-nam_greencic.pdf
+implications]. VCCI. https://trungtamwto.vn/file/22338/06_tac-dong-kinh-te-va-can-nhac-
+chinh-sach_vn_final.pdf Trung tâm WTO (WTO Centre). (2023d). Hiện trạng và định hướng phát triển ngành phân bón
+Việt Nam [Current status and development orientation of Vietnam’s fertilizer industry].
+https://trungtamwto.vn/file/22339/05_phan-bonhien-trang-va-dinh-huong-nganh-phan-
+bon-viet-nam_greencic.pdf
 Tuổi Trẻ News. (2024, May 8). Vietnam’s banks spearhead green credit initiatives. https://
+tuoitrenews.vn/news/business/20240508/vietnams-banks-spearhead-green-credit-
 initiatives/79752.html
 United Nations Framework Convention on Climate Change. (2015). Paris Agreement. https://
-United States Geological Survey. (2022, January). Cement. Mineral Commodity Summaries. Viet Hang. (n.d.). Cơ chế CBAM của EU: Tác động và sự thích ứng của ngành Thép [EU’s
-CBAM: Effects and adaptation of Vietnam’s steel industry]. VnSteel.
+unfccc.int/sites/default/files/english_paris_agreement.pdf
+United States Geological Survey. (2022, January). Cement. Mineral Commodity Summaries.
+https://pubs.usgs.gov/periodicals/mcs2022/mcs2022-cement.pdf
+Viet Hang. (n.d.). Cơ chế CBAM của EU: Tác động và sự thích ứng của ngành Thép [EU’s
+CBAM: Effects and adaptation of Vietnam’s steel industry]. VnSteel. https://vnsteel.vn/
 tin-thi-truong-thep/co-che-cbam-cua-eu-tac-dong-va-su-thich-ung-cua-nganh-thep-6712.
 html Vietnam Aluminum Profile Association. (n.d.). Overview and development strategies
-for aluminum sector in Vietnam [Presentation].
+for aluminum sector in Vietnam [Presentation]. https://wtocenter.vn/file/19045/03_
+aluminiumoverview-and-development-strategies-for-aluminium-sector-in-vietnam_vaa.pdf
 Vietnam Aluminum Profile Association. (2023). Hiện trạng và định hướng phát triển ngành
 nhôm Việt Nam [Current status and development orientation of Vietnam’s aluminum
-industry). Trung tâm WTO [WTO Centre]. (2023).
+industry). Trung tâm WTO [WTO Centre]. (2023). https://trungtamwto.vn/file/22341/03_
+nhomhien-trang-va-dinh-huong-nganh-nhom-viet-nam_vaa.pdf.
 Vietnam Association for Building Materials. (2023, September 30). Xuất khẩu xi măng của Việt
 Nam ít chịu tác động bởi cơ chế CBAM [Vietnam’s cement exports are less affected by the
-CBAM mechanism].
+CBAM mechanism]. http://hoivlxdvn.org.vn/news/xuat-khau-xi-mang-cua-viet-nam-it-
+chiu-tac-dong-boi-co-che-cbam-497928.html.
 Vietnam Cement Association. (2023). Hiện trạng và định hướng phát triển của ngành công
 nghiệp xi măng Việt Nam [Current status and development orientation of Vietnam’s cement
-industry]. Trung tâm WTO [WTO Centre].
+industry]. Trung tâm WTO [WTO Centre]. https://trungtamwto.vn/file/22340/04_xi-
 manghien-trang-va-dinh-huong-nganh-xi-mang-viet-nam_vnca.pdf
 Vietnam Financial Times. (2024, May 16). Xuất khẩu sang EU: Doanh nghiệp phải quan tâm đầu
 tư yếu tố xanh [Exporting to the EU: Businesses must pay attention to investing in green
-factors]. CIIS.
+factors]. CIIS. https://www.hoinhap.org.vn/phan-tich-binh-luan/thi-truong/50902-xuat-
+khau-sang-eu-doanh-nghiep-phai-quan-tam-dau-tu-yeu-to-xanh.html IISD.org
+37
+Border Carbon Adjustment Mechanisms and Impacts on Vietnam
 Vietnam Steel Association. (2023a). Tình hình thị trường thép Việt Nam tháng [Vietnam’s steel
 market in December 2022 and the whole 2022]. Vietnam Steel Association Newsletter. http://
+vsa.com.vn/tinh-hinh-thi-truong-thep-viet-nam-thang-12-2022-va-nam-2022/. Vietnam Steel Association. (2023b, April 14). Tổng quan ngành thép Việt Nam trong xu hướng
 trung hoà carbon [Overview of Vietnam’s steel industry in the carbon neutral trend]. Trung
-tâm WTO [WTO Centre].
-VREnergy. (2024, March 25). What is a carbon footprint: A detailed explanation.
+tâm WTO [WTO Centre]. https://trungtamwto.vn/file/22342/02_theptong-quan-nganh-
+thep-va-xu-huong_vsa-14.WTO04.2023.pdf.
+VREnergy. (2024, March 25). What is a carbon footprint: A detailed explanation. https://vrenergy.
 vn/en/what-is-a-carbon-footprint-a-detailed-explanation/#main
 ©2024 The International Institute for Sustainable Development
 Published by the International Institute for Sustainable Development
 Head Office
+111 Lombard Avenue, Suite 325
 Winnipeg, Manitoba
 Canada R3B 0T4
 Tel: +1 (204) 958-7700 Website: www.iisd.org

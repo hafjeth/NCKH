@@ -1,15 +1,22 @@
-# Bỏ qua file môi trường chứa Key mật
+# Environment variables
 .env
 
-# Bỏ qua file rác của Python
+# Python
 __pycache__/
 *.pyc
 
-# Bỏ qua database
+# Virtual environments
+venv/
+venv311/
+.venv/
+env/
+src/venv/
+src/venv311/
+
+# Databases / vector stores
 data/chroma_db/
 *.sqlite3
 
-# Bỏ qua folder môi trường ảo (nếu có)
-venv/
-.venv/
-env/
+# OS
+.DS_Store
+Thumbs.db

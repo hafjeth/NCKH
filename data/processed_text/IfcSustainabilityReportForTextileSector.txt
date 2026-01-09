@@ -1,0 +1,766 @@
+Strengthening
+Sustainability
+in the Textile Industry
+INTERNATIONAL FINANCE CORPORATION About IFC
+IFC a member of the World Bank Group is the largest global development institution
+focused on the private sector in emerging markets. We work in more than 100 countries,
+using our capital, expertise, and influence to create markets and opportunities in
+developing countries.
+In fiscal year 2022, IFC committed a record $32.8 billion to private companies and financial
+institutions in developing countries, leveraging the power of the private sector to end
+extreme poverty and boost shared prosperity as economies grapple with the impacts of
+global compounding crises. For more information, visit www.ifc.org.
+Authors
+This report was authored by Vally Khamisani and Heikki Mattila with additional support from Jeremy Levin. In addition, we received input from Rachel Williamson, Lilian Tu, Eleonore Richardson, Joy Biswas, Rowshan Tamanna, Sabine Hertveldt, Andrey Gurevich,
+Diane Davoine, and Sanola Daley.
+Acknowledgments
+Thanks also to Leticia Crentsil, Gary Seidman, and Kathy Chen for their involvement in
+producing this series. Mashudah Mirza, IFC consultant, managed the design process, and
+Aliza Marcus, IFC Senior Communications Officer, assisted in the preparation and finalization.
+Disclaimer
+The findings, interpretations, views, and conclusions expressed herein are those of the
+author and do not necessarily reflect the views of the Executive Directors of IFC or of the
+World Bank or the governments they represent. While IFC believes that the information
+provided is accurate, the information is provided on a strictly “as-is” basis, without assurance
+or representation of any kind. IFC may not require all or any of the described practices in its
+own investments, and in its sole discretion may not agree to finance or assist companies or
+projects that adhere to those practices. Any such practices or proposed practices would be
+evaluated by IFC on a case-by-case basis with due regard for the particular circumstances of the project.
+Rights and Permissions
+© International Finance Corporation 2023. All rights reserved. The material in this work is
+copyrighted. Copying and/or transmitting portions or all of this work without permission
+may be a violation of applicable law.
+Strengthening Sustainability in the Textile Industry
+Growing global concerns over climate
+change are putting an increasing focus
+on sustainability. This report is part of an
+occasional series on sustainability in industry
+which examines the opportunities and
+challenges facing various industrial sectors
+and the role that the International Finance
+Corporation can play to support their efforts
+and contribute to a greener planet.
+INTERNATIONAL FINANCE CORPORATION Strengthening Sustainability in the Fertilizer Industry
+Everybody needs clothes and every
+year some 100 billion garments
+are manufactured.1 Thus it is no
+surprise that fashion is one of
+the world’s biggest industries,2
+generating revenues in excess of $1.7
+trillion,3 employing tens of millions
+of people, and spewing billions of
+tons of greenhouse gases into the
+atmosphere.4
+The environmental costs from
+the manufacturing of textiles and
+apparel everything from the
+consumption of water to irrigate
+cotton to the burning of fossil fuels to
+power factories are immense. In its
+lifecycle, a single pair of denim jeans
+will use 1,000 gallons of water to
+grow the cotton, manufacture
+the material, ship the garment, and
+launder after wear.5
+Today, the combined textile and
+apparel sectors contribute as much
+as 8–10% of global greenhouse gas
+emissions.6 If the industry’s emissions
+continue on the same trajectory, it will
+be impossible for the world to meet
+the goals of the Intergovernmental
+Panel on Climate Change.7 Quick and substantive action is
+needed. Water conservation, energy
+decarbonization, and implementation
+of responsible waste management
+practices will require collaboration
+with policy makers, financial
+institutions such as the International
+Clothing is one of the
+fundamental necessities for
+physical well-being. Strengthening Sustainability in the Textile Industry
+Finance Corporation (IFC), and
+the consumers who purchase and
+ultimately dispose of the clothes they wear.
+World’s Largest Apparel Companies, by Market Capitalization
+France
+United States
+Spain
+Sector Background
+Textile and apparel manufacturing
+has driven economic development
+and technological advancement
+for 250 years, helping to launch the
+first Industrial Revolution in the 18th
+century. Ever since, the industry has
+been putting developing economies
+on a fast track to becoming middle-
+and high-income countries by creating
+jobs, accelerating their technological
+know-how, and expanding their
+access to global trade. The four Asian
+Tigers South Korea, Singapore,
+Taiwan, and Hong Kong, with modern
+economies barely 50 years old
+now rank among the world’s most
+industrialized countries after getting
+their start in textile and apparel
+manufacturing.
+The industry has also helped to
+elevate other countries, most notably
+China, which emerged as the world’s
+leading apparel manufacturer in the
+last two decades, driven by its export-
+oriented policies, economic reforms,
+cheap labor, and rapid expansion of its
+manufacturing base. Today, “Chinese-
+made” accounts for more than half
+of global apparel production, though INTERNATIONAL FINANCE CORPORATION countries with lower-cost workers are
+increasing their share.8 The European
+Union ranks second after China,
+followed by Bangladesh, where the
+industry provides four million jobs
+and accounts for four-fifths of the
+country’s total exports.9
+In terms of consumer markets,
+China, the United States, the United
+Kingdom, Germany, and Japan are
+the five biggest for apparel, while
+European and U.S. firms top the list of
+the world's biggest apparel companies
+by market capitalization.10
+Global apparel sales experienced
+a sharp decline in 2020 due to the
+impacts of the COVID-19 pandemic,
+but the industry has since bounced
+back. According to the Lenzing Group,
+an Austrian-based fiber producer,
+global demographics particularly
+an expected 60% increase in the
+number of middle-class households
+over the next two decades “support
+a further growth in per capita fiber
+consumption.”11
+The industry’s dramatic expansion has
+come at a cost to the environment.
+Textiles account for 9% of microplastic
+discharge into oceans,12 and the
+manufacturing process releases about
+1.7 billion tonnes of greenhouse gas
+emissions annually.13
+In addition, the fashion industry is
+notoriously thirsty, using 93 billion
+cubic meters of water each year,
+enough to meet the consumption
+needs of five million people.14 Water
+goes toward growing cotton, dyeing
+and treating textiles, and washing
+12.90% estimated
+compounded annual growth US$1.87
+billion (est.)
+million
+Source: Data Bridge Market Research 2022.
+Global Textile Market Projected Growth
+Strengthening Sustainability in the Textile Industry
+clothes; many of these activities also
+contribute to water pollution.
+Plastic-based synthetics currently
+make up about 63% of the more
+than 50 million metric tons of fiber
+produced annually to make clothes.15
+Most of these fibers are made from
+polymers derived from coal, oil, or
+natural gas.16 Cellulose-based fibers
+both natural, such as cotton, linen,
+and jute, and semisynthetic manmade
+cellulose fibers, including rayon and
+viscose are used to make about 33%
+of clothes.17 The share of manmade
+cellulose fibers is expected to grow,
+but not that of cotton.
+The textile and apparel value chain is
+driven by the global brands and retail
+chains which contract production
+out to multiple levels of suppliers in
+developing countries. These suppliers
+exhibit wide variation in efficiency,
+capacity, and approach in terms of
+managing sustainability and social
+issues. The global brands and retail
+chains can play a key role in making
+the supply chain sustainable by
+requesting manufacturers to comply
+with existing laws and by supporting
+suppliers to achieve more efficient,
+environmentally friendly production.
+Sustainability
+In 2021, many leading fashion
+stakeholders including the IFC
+launched the Fashion Industry Charter
+for Climate Action under the auspices
+of the United Nations Climate Change,
+with a goal of getting the textile and
+apparel industry to reach net zero
+emissions by 2050.18 The European
+Union is requiring the industry
+to attain circularity by 2030, and
+consumers, investors, and corporate
+boards are also increasing pressure on
+garment companies.
+Recognizing the importance of this
+issue, many leading brands have
+pledged to become more transparent
+about their products’ environmental
+and social impact and have adopted
+ambitious emissions-reduction and
+other targets. Levi Strauss & Co.,which
+produces the eponymous blue jeans,
+has pledged to achieve a 40% absolute
+reduction in supply chain (Scope 3)
+emissions by 2025, in part by working
+with key suppliers to create roadmaps
+and identify solutions for reducing INTERNATIONAL FINANCE CORPORATION their climate and water impacts.19
+The company is sourcing from less
+thirsty cotton and adopting dyeing
+and production processes that use less
+water and fewer harmful chemicals.20
+Luxury group Kering has launched
+pilots focused on regenerative
+agriculture21 and supported two dozen
+mill suppliers to improve their water
+and energy efficiency.22
+Larger suppliers to the global brands
+are taking the initiative to make
+changes too. In Bangladesh, DBL
+Group's Hamza Textiles Ltd a key
+supplier to PUMA, Inditex, C&A, and
+others has installed solar systems,
+ramped up wastewater treatment,
+and incorporated energy-efficient
+machinery. IFC recently invested $22
+million in the company. The financing
+will help pay for more resource-
+efficient technologies, allowing
+Hamza Textiles to sustainably expand
+its dyeing and finishing capacity and
+create more than 900 new jobs.
+Even as the pandemic dampened
+demand and disrupted supply
+chains, it has encouraged brands to
+near-shore to reduce dependence
+on Chinese suppliers and address
+supply chain vulnerabilities.23 This
+trend of bringing production closer
+to consumer markets has helped to
+lower transport-related emissions
+while providing opportunities
+for factories in countries such as
+Morocco, Tunisia, Egypt, and Jordan
+(supplying European brands) and
+Central America (supplying North
+America) to invest in more energy-
+and water-efficient production lines.
+Travel restrictions implemented
+during the pandemic, meanwhile,
+popularized the use of 3D digital
+design. Broad adoption of this
+technology is reducing emissions
+generated by travel and the volume of
+waste fabrics from multiple rounds of
+sample sewing.
+In Asia, suppliers in Vietnam and Sri Lanka have benefited from low-
+cost labor forces and an emphasis on
+sustainable production practices to
+draw some global brands away from
+China, where costs are higher and
+facilities tend to be older and less efficient.
+Other countries are seeking
+to integrate and shorten their Strengthening Sustainability in the Textile Industry
+textile and apparel supply chains.
+Garment-producing countries such
+as Bangladesh, which previously
+imported its fabrics from China and
+elsewhere, are branching out into
+fabric and yarn manufacturing, while
+cotton-producing countries are
+starting to make yarns, fabric, and
+garments. Shortening the supply
+chain can reduce transport-related
+emissions and also help strengthen
+accountability and transparency, two factors that contribute to
+responsible production.
+Morocco Case Study
+Situated on Europe’s doorstep, Morocco's textile and apparel exporters
+are poised to benefit from their country's embrace of a green agenda
+that emphasizes circular economy production principles. IFC is working
+with Moroccan textile manufacturer Reciclados Tanger to finance and
+develop an integrated mill that uses postindustrial and postconsumer
+textile waste as a raw material.
+The program compliments the sustainability efforts being undertaken
+in Europe, one of the world's largest consumer markets and Morocco’s
+chief export destination. The EU’s Green Deal aims to make “almost all
+physical goods on the EU market more friendly to the environment,
+circular, and energy efficient”a and stipulates that by 2030, “all
+textile products placed on the EU market are durable, repairable and
+recyclable, to a great extent made of recycled fibers.”b
+IFC believes Morocco is in a unique position to sustainably grow its
+textile and apparel sector by backwardly integrating its manufacturing
+facilities to use more recycled materials while introducing more complex
+production processes that open the door to global value chains. a. European Commission 2022.
+b. European Commission n.d.
+INTERNATIONAL FINANCE CORPORATION Challenges & Opportunities
+The textile and apparel industry
+arguably faces a complicated path to
+achieving net zero goals. Long and
+complex supply chains make it difficult
+for global brands to enforce, or even
+monitor, manufacturing processes
+for sustainability, especially among
+smaller suppliers.
+Another challenge centers around the
+critical role that retailers and consumers
+play in the waste and recycling part
+of the cycle. Fast fashion is a major
+contributor to the estimated 92 billion
+tonnes of garments that end up in
+landfills each year, and Americans alone
+discard an average of 81.5 pounds of
+clothes each per year.24
+Shifting such behavior will be essential
+to achieving a circular economy in the
+industry, but companies must also
+change the manufacturing process,
+which accounts for the largest share
+of water use and pollution and of
+greenhouse gas emissions. Regulatory
+support can help the industry
+strengthen sustainability, but primarily
+it will be up to the brands that drive
+the supply chain. Fiber Production (million tonnes per year)
+World Population (billions)
+Cotton
+Polyester
+Non-cotton cellulosics
+Polyamide
+Population
+Polypropylene
+Other
+Growth in Global Population and Textile Production by Fiber Type (1970-2015)
+Strengthening Sustainability in the Textile Industry
+Water and Environment
+Water use and pollution rank among
+the industry’s biggest challenges, with
+about one-fifth of the wastewater
+worldwide originating from fabric
+dyeing and treatment.25 Industry
+organization ZDHC26 has helped to
+establish minimum standards aimed
+at reducing chemical pollution, and
+more than two-thirds of fashion
+companies are members.27 A small but growing number of
+companies are looking to set targets
+to align their water management
+strategies with local conditions.
+Technologies exist that can help
+reduce water use and pollution; for
+example, water in the dyeing process
+can be fully recycled. But these
+innovations require big investments,
+limiting adoption to major players
+with large capacity. Industrial
+parks with centralized wastewater
+treatment offer a potential solution
+for smaller players. To reduce the
+amount of water used to wash
+clothes, some brands are striving to
+change consumer behavior.
+Emissions
+The fashion industry’s current share of
+global emissions is on par with those of
+leading hard-to-abate heavy industries.
+At its current rate of expansion, the
+industry’s total greenhouse gas
+emissions are projected to surge by
+more than 50% by 2030.28 Production
+processes are estimated to account
+for 70% of these emissions.29 Fabric
+production requires the most energy
+and, with coal serving as the primary
+source for generating steam needed
+to dye and print fabrics, emits a large
+part of these greenhouse gases.
+Alternative energy sources are
+available, and more advanced
+companies have switched to lower
+carbon fuels such as natural gas,
+increased use of photovoltaics, and
+even biomass. The adoption of solar
+panels is becoming a mainstream
+solution for larger suppliers and
+manufacturers, such as Turkey-based
+Sanko Textile, which is partnering with
+IFC to increase its solar panel capacity.
+Reducing emissions will be more
+challenging for the countless smaller
+suppliers that are not directly
+in contact with export markets.
+Currently, an estimated 40% of the INTERNATIONAL FINANCE CORPORATION industry’s CO2 is generated by Tier 2
+suppliers that manufacture textiles.30
+Downstream activities also generate
+emissions, whether at the retail and
+consumer levels or at the end-of-life
+stage.31 Cutting back on washing and
+drying by consumers could deliver
+186 million tonnes of carbon emission
+reductions as well as water savings
+but this will require brands and retailers
+to provide better care instructions
+and more sustainable fabrics. Some
+executives are leading by example:
+Levi’s CEO shared that he hadn’t
+washed his jeans in over a year.32
+Materials
+Current fibers (cotton, synthetics,
+and cellulosic fibers) all have varying
+negative impacts on the environment.
+The industry can alleviate these
+by adopting new techniques
+and technologies, from applying
+microirrigation and growing organic
+for cotton production to replacing
+fossil fuel-based synthetics with
+recycled polyethylene terephthalate
+(PET) or biobased or biodegradable
+synthetics, such as those made
+from starch.33 Cost remains an issue,
+but wider adoption and economies
+of scale should make innovative
+materials more affordable.
+Source: Lenzing Group.
+Higg Materials Sustainability Index
+Strengthening Sustainability in the Textile Industry
+Source: Ellen MacArthur Foundation 2017.
+Circular Cycle of Textiles
+Lenzing predicts that manmade fibers
+will constitute nearly the entirety of
+future fiber demand, and that wood-
+based cellulosic fibers especially
+will benefit from the sustainability
+trend. Based on the Higg Materials
+Sustainability Index, wood-based
+fabrics such as TENCEL™ exact a
+significantly lesser toll on climate,
+water, and soil than natural fabrics
+such as cotton and wool.34
+Waste and Circularity
+Overproduction and fast fashion have
+contributed to a major waste problem
+for the industry. Currently, less than
+1% of textile waste is recycled into
+new fibers for clothing, translating
+into more than $100 billion in lost
+material annually.35 Use of 3D in
+design, online marketing, and virtual
+try on can help alleviate waste. New
+retail models, such as fashion rental INTERNATIONAL FINANCE CORPORATION platforms and clothes made to last,
+increasingly offer more sustainable
+options to environmental-minded
+consumers.
+The most impactful solution will be
+converting the industry to a circular
+economy. Fully scaled, existing
+recycling technologies could deliver
+75% “textile-to-textile recycling”
+back into the system and 5% recycled
+feedstock from other industries.36
+Under the Circular Fashion Partnership
+led by Global Fashion Agenda, a pilot
+program brought together brands,
+manufacturers, and recyclers in
+Bangladesh to capture and recycle
+postindustrial textile waste.
+McKinsey estimates scaling this model
+in six major textile-manufacturing
+countries (Vietnam, Turkey, India,
+Malaysia, Indonesia, and Bangladesh)
+could comprise a $4.5 billion market. To overhaul the sector globally would
+require at least $5 billion to $7 billion
+in capital investments in recycling
+technologies by 2026, along with
+investments in collection and sorting
+infrastructure.37
+IFC Role
+IFC has a long record of investing in
+the textile and apparel industry to
+increase countries’ competitiveness,
+promote sustainable performance
+standards, and encourage social and
+workplace advances. Its approach
+to the sector includes: (i) laying the
+foundation for industrial production
+of textiles and apparel; (ii) expanding
+and diversifying the textile and
+apparel manufacturing base; and (iii)
+supporting more complex textile and
+apparel manufacturing.
+As a partner with deep roots in the
+industry, IFC has helped improve the
+efficiency of plants and worked with
+companies to transition to renewable
+energy, improve effluent waste
+management, and conserve resources
+such as water.
+IFC also has a number of specific
+programs that can help global
+companies promote sustainable
+manufacturing among their suppliers
+and reduce their Scope 3 emissions.
+Strengthening Sustainability in the Textile Industry
+BOX II: IFC Textile and
+Apparel Total Financing
+Commitments
+Total financing commitments by
+IFC in Textile and Apparel in the
+last 10 fiscal years amounted to
+approximately $10 billion, including long-term and short-
+term financing.
+Global Trade Supplier Finance Program (GTSF)
+Launched in 2012, GTSF is a US$1
+billion facility that provides financing
+to suppliers that sell products to
+corporations, and facilitates suppliers’
+access to competitive financing
+solutions. The program disbursed
+more than US$2.27 billion to 352
+suppliers in fiscal year 2022, with more than two-thirds of the financing going to the world’s poorest
+developing countries.
+GTSF improves the sustainability
+of supply chains by offering
+sustainability-linked pricing, which
+connects receivable discount
+rates to suppliers’ environmental
+and social performance; such
+arrangements accounted for 66%
+of all disbursements in fiscal 2022.
+The program also provides direct
+advisory services to suppliers aimed
+at improving labor standards,
+environmental and social
+performance, and gender inclusion,
+and supports the development
+of supply chain decarbonization
+programs. GTSF has been working
+with a number of global apparel
+brands, such as Nike, Ralph Lauren,
+and Under Armour.
+Partnership for Cleaner Textile (PaCT)
+This long-running IFC advisory
+program seeks to bring systemic,
+positive change to the textile
+value chain in Bangladesh by
+contributing to the sector’s long-
+term competitiveness and improved
+sustainability. IFC has worked with
+more than 414 textile factories in
+Bangladesh to help them identify
+and implement cleaner production
+solutions such as improved energy
+efficiency, water-use reduction, and INTERNATIONAL FINANCE CORPORATION increased use of renewables.
+The program has generated annual
+cost savings exceeding $100 million
+for participants, reduced water
+usage by about 30 billion liters a year
+(enough to meet the annual water
+needs of almost a million people
+in Bangladesh), and cut more than
+670,000 tons of carbon emissions
+equivalent per year (equal to removing more than 100,000 cars
+from the road). IFC has partnered
+with multiple brands in Bangladesh,
+including Gap Inc., Levi Strauss, VF
+Corporation, and Puma.
+IFC has expanded the PaCT approach
+pioneered in Bangladesh to its work
+with other global brands and their
+suppliers, helping to identify, assess,
+and implement decarbonization
+solutions for suppliers in Asia, Africa,
+Europe, and Latin America.
+IFC-ILO Better Work Program
+This partnership between IFC and the United Nations’ International
+Labour Organization (ILO)
+brings diverse groups together
+governments, global brands and
+retailers, factories, and unions and
+workers to improve working
+conditions and competitiveness in
+apparel value chains. The Better Work Program is engaged
+with more than 50 global brands
+and retailers as partners, and more
+than 2,000 apparel supplier factories,
+reaching 2.5 million workers across 12
+countries. At the factory level, Better
+Work provides labor assessments,
+training, and advisory services.
+Gender Equality and Returns (GEAR)
+GEAR is a training program that
+helps female workers progress and
+excel in managerial roles, increasing
+gender diversity at the management
+level. Partnering with leading apparel
+brands such as H&M and Marks &
+Spencer, the program has trained
+more than 750 female employees
+in over 100 apparel factories in
+Bangladesh and Vietnam.
+Strengthening Sustainability in the Textile Industry
+Workforce Program
+IFC’s Workforce advisory programs
+provide manufacturing clients
+with assessments and advisory
+services focused on recruitment of
+women employees, equitable career
+development, and gender-inclusive
+workplace policies. Since 2018, IFC has partnered with
+manufacturing clients in the garment
+and cement industries to improve
+gender equity, including a partnership
+with Nike to support more than 100 of
+its strategic suppliers on gender.
+Conclusion
+Global apparel brands and their
+network of suppliers face increasing
+pressure from consumers,
+governments, workers, and bankers
+to decarbonize their operations,
+conserve resources, reduce waste, and improve labor conditions. Over the past few decades, even as
+production has boomed to meet the
+needs of a growing global population,
+textile and apparel manufacturers
+have made significant progress.
+Today, they are more conscious of
+the impact of manufacturing and
+they are more conscientious about
+finding sustainable and often circular
+solutions to address these challenges.
+However, it will take even greater
+collaboration across the value chain
+along with support from governments
+and international financial institutions
+for the industry to achieve its goals. IFC will complement the work of
+investors, regulators, and end-users to help the textile and apparel
+industry drive a pathway to a zero
+carbon future.
+INTERNATIONAL FINANCE CORPORATION References
+AII (Apparel Impact Institute). n.d. “Your Clothes Are Made by Burning Coal. A New Institute Aims to Change That.” Amed, Imran, Achim Berg, Anita Balchandani, Saskia Hedroch, Jakob Ekelof Jensen, Michael Straub, Felix Rolkens,
+Robb Young, Pamela Brown, Leila le Merle, Hannah Crump, and Amanda Dargan. 2022. “The State of Fashion
+2022.” BOF (The Business of Fashion) and McKinsey & Company report.
+Asia Perspective. 2022. “Clothing Manufacturing in China: An Introduction.” Asia Perspective. article, June 23, 2022. Manufacturing%20Industry,2021%20from%20the%20apparel%20market.
+Bangladesh Garment Manufacturers and Exporters Association. 2022. “Export Performance.”
+com.bd/page/Export_Performance.
+Berg, Achim, Karl-Hendrik Magnus, Sara Kappelmark, Anna Granskog, Libbi Lee, Corinne Sawers, and Poorni
+Polgampola. 2020. “Fashion on Climate: How the Fashion Industry Can Urgently Act to Reduce Its Greenhouse
+Gas Emissions.” McKinsey & Company and Global Fashion Agenda report.
+Better Work. n.d. “About Us. Our Work.”
+BOF (Business of Fashion). 2021. “The Sustainability Gap: How Fashion Measures Up.” The Business of Fashion
+Sustainability Index, March 22, 2021.
+clothing/largest-clothing-companies-by-market-cap/.
+Conscious Club. 2019. “Water & Clothing.” The Conscious Club article, May 15, 2019.
+Conversation, The. 2017. “Five Years after Deadly Factory Fire, Bangladesh’s Textile Workers Are Still Vulnerable.”
+The Conversation article, November 23, 2017.
+bangladeshs-garment-workers-are-still-vulnerable-88027.
+Data Bridge Market Research. 2022. "Textile Fabric Market Destined to Reach USD1872.41 Million at a CAGR
+of 12.90 by 2029, Size, Share, Trends, Industry Growth Rate, Demand & Revenue Forecast."GlobeNewswire,
+October 14, 2022.
+Market-Destine-to-Reach-USD-1872-41-Million-at-a-CAGR-of-12-90-by-2029-Size-Share-Trends-Industry-
+Dominish, Elsa. n.d. “Talking Climate Action: Measuring Carbon Emissions in the Garment Sector in Asia.”
+International Labour Organization working paper.
+wp053/index.html#:~:text=should%20be%20prioritized.-,Executive%20Summary,in%20carbon%20
+emissions%20per%20year.
+Ellen MacArthur Foundation. 2017. "A New Textiles Economy: Redesigning Fashion’s Future."https://
+. n.d. "It's Time for a Circular Economy."
+European Commission. 2022. “Green Deal: New Proposals to Make Sustainable Products the Norm and Boost
+Europe’s Resource Independence.” European Commission press release, March 30, 2022.
+commission/presscorner/detail/en/ip_22_2013.
+. n.d. “EU Strategy for Sustainable and Circular Textiles.” European Commission website, Textile Strategy. FairWear. 2022. “The Common Framework for Responsible Purchasing Practices Out Now.” Article, July 25, 2022. Fashion United. 2022. “Global Fashion Industry Statistics.”
+statistics.
+Granskog, Anna, Franck Laizet, Miriam Lobis, and Corinne Sawers. 2020. “Biodiversity: The Next Frontier in
+Sustainable Fashion.” McKinsey & Company article, July 23, 2020.
+our-insights/biodiversity-the-next-frontier-in-sustainable-fashion.
+Haar, Jerry. 2022. “The Role of Nearshoring in Shoring up Supply Chains.” The Wilson Quarterly, fall 2022, The
+Wilson Center, Washington, DC.
+role-of-nearshoring-in-shoring-up-supply-chains.
+IFC (International Finance Corporation). n.d. “IFC’s Engagement in the Apparel & Textile Sectors in
+Emerging Markets.”
+Strengthening Sustainability in the Textile Industry
+statistics-about-fast-fashion-waste/#:~:text=92%20Million%20Tonnes%20of%20Textiles,on%20landfill%20
+sites%20every%20second.
+IPCC (The Intergovernmental Panel on Climate Change). n.d.
+clean-by-design-2017.
+Kymo. 2021.“How Sustainable are Textiles? – A Comparison Using the Higg Material Index.” Kymo. Sept. 3, 2021. sustainable-materials.
+Lenzing AG. “Outlook on Global Fiber Demand and Supply 2030.”
+filedownloads_file%5bfileName%5d=fileadmin/content/PDF/03_Forschung_u_Entwicklung/EN/Lenzinger_
+Berichte_97_2022_02.pdf.
+Levi Strauss & Co. 2019. “2025 Water Action Strategy.” Report.
+uploads/2019/08/2019_LSCO_WATER_STRATEGY_REPORT.pdf.
+Lutz, Ashley. 2015. “Levi’s CEO Explains Why Jeans Should Never Go in the Washing Machine.” Insider.com article,
+July 15, 2015.
+Magnin, Clarisse, and Saskia Hedrich. 2019. “Refashioning Clothing’s Environmental Impact.” McKinsey & Company
+sustainability blog, July 25, 2019.
+blog/refashioning-clothings-environmental-impact.
+Paneros. n.d. “Fabrics 101: 3 Famous Fibers.”
+Solidary Center. n.d. “Global Garment and Textile Industries: Workers, Rights and Working Conditions.”
+Syrett, Holly, Sandra Gonza, Corinne Sawers, Max Stenholm, Ann Runnel, Nin Castle, and Harshitha Venati. 2021.
+“Scaling Circularity: Lessons Learned from the Circular Fashion Partnership for Building Pre-Competitive
+Collaborations to Scale Upstream Circular Fashion Systems.” Report by Global Fashion Agenda (GFA) and
+McKinsey & Company.
+UNEP (UN Environment Programme). 2018. “Cleaning up Couture: What’s in Your Jeans.” UN Environment
+Programme story, December 14, 2018. your-jeans.
+United Nations. 2019. “UN Launches Drive to Highlight Environmental Cost of Staying Fashionable.” Climate and
+Environmental article, March 25, 2019.
+United Nations Climate Change. n.d. “About the Fashion Industry Charter for Climate Change.”
+climate-action/sectoral-engagement/global-climate-action-in-fashion/about-the-fashion-industry-charter-for-
+climate-action.
+Webb, Bella. 2020. “A New Movement to Reduce the Hidden Environment Cost of Clothing Care.” Vogue Business
+article, October 22, 2020.
+environmental-cost-of-clothing-care.
+World Bank. 2019. “How Much Do Our Wardrobes Cost to the Environment?” Feature Story, September 23, 2019. INTERNATIONAL FINANCE CORPORATION Endnotes
+1. Igini 2022.
+2. Fashion United 2022.
+3. UNEP 2018. See also
+4. Dominish n.d.
+5. Ibid.
+6. Ellen MacArthur Foundation n.d.
+7. IPCC n.d.
+8. Asia Perspective 2022.
+9. Bangladesh Garment Manufacturers and Exporters Association 2022.
+11. Gschwandtner 2022.
+12. UN Alliance for Sustainable Fashion n.d.
+13. Dominish n.d.
+14. United Nations 2019.
+15. Paneros n.d.
+16. Ibid.
+17. Ibid.
+18. United Nations Climate.
+20. Jennifer L 2022.
+22. Kering 2023. Under this process, each mill underwent a resource efficiency audit, developed an action plan, and
+implemented technological improvements. Altogether, Kering and its suppliers introduced more than 150 energy-
+and water-efficiency improvements with an average 2.5 years’ return on investment, according to the company.
+23. To read more about the history of nearshoring, see Haar, Jerry. 2022. “The Role of Nearshoring in Shoring
+up Supply Chains.” The Wilson Quarterly, fall 2022, The Wilson Center, Washington, DC.
+24. Igini 2022.
+25. Ellen MacArthur Foundation n.d.
+26. For more information, see 27. BOF 2021.
+28. Ellen MacArthur Foundation n.d.
+29. Berg et al 2020.
+30. AII n.d.
+31. Webb 2020.
+32. Lutz 2015.
+33. Granskog et al. 2020.
+34. Kymo 2021.
+35. Syrett et al. 2021.
+36. Ibid.
+37. Ibid.
+www.ifc.org/manufacturing
+September 2023
+www.linkedin.com/showcase/ifc-manufacturing

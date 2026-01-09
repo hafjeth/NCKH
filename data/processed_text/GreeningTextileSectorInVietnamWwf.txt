@@ -1,0 +1,3022 @@
+Hướng dẫn
+Xanh hóa ngành
+Dệt May ở
+Việt Nam
+© Adam Oswell / WWF-Greater Mekong Mục lục
+Tóm tắt tài liệu
+Chỉ dẫn nội dung cho đối tượng người đọc
+Lời nói đầu
+Chương 1. Vì sao Việt Nam cần xanh hóa ngành Dệt May
+Phần 1. Động lực của sự chuyển đổi
+Phần 2. Các yêu cầu từ thị trường
+Phần 3. Các chính sách của Việt Nam về môi trường liên quan tới ngành Dệt May
+Chương 2. Kỹ thuật và thực hành tốt nhất hiện có
+Phần 1. Kinh nghiệm từ doanh nghiệp sản xuất
+Phần 2. Kinh nghiệm từ nhãn hàng
+Phần 3. Kinh nghiệm từ cấp quốc gia
+Chương 3. Các xu hướng và chứng nhận bền vững toàn cầu trong ngành Dệt May
+Phần 1. Các sáng kiến vật liệu bền vững
+Phần 3. Nhãn sinh thái trên sản phẩm Phần 2. Quy trình sản xuất ngành Dệt May
+Chương 4. Triển vọng và hướng dẫn chuyển đổi xanh cho ngành Dệt May Việt Nam
+Phần 1. Triển vọng chuyển đổi xanh
+Phần 2. Tầm nhìn và mục tiêu xanh hóa cho ngành Dệt May Việt Nam tới năm 2030
+Phần 3. Các tiếp cận chiến lược hướng tới chuyển đổi xanh
+Phần 4. Kế hoạch phối hợp hành động
+Phụ luc 3. Danh mục các thực hành tốt nhất về môi trường và kỹ thuật tốt nhất hiện
+có trong ngành Dệt May
+Phụ lục 1. Quá trình sản xuất
+Phụ lục 2. Đầu vào và dòng thải của quá trình sản xuất
+Phụ lục 4. Bài học kinh nghiệm từ các dự án ngành Dệt May của WWF ở các quốc gia
+Chú giải thuật ngữ
+Danh mục từ viết tắt
+Các chất có gốc halogen hữu cơ dễ bị hấp phụ
+BATs
+Các kỹ thuật tốt nhất hiện có
+BEPs
+Các thực hành môi trường tốt nhất
+Đi-oxit các bon
+Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương
+Sở Công Thương
+Sở Tài nguyên và Môi trường
+Viện Khoa học Môi trường
+Hiệp định Thương mại tự do giữa Việt Nam và Liên minh châu Âu
+Bộ Công Thương
+Bộ Tài nguyên và Môi trường
+Polyester
+Right-First-Time (tỷ lệ đúng ngay từ đầu)
+Cơ quan Hợp tác và Phát triển Thụy Sĩ
+Các mục tiêu phát triển bền vững
+Công ty CP Viện Nghiên cứu Dệt May
+Hiệp hội Bông Sợi Việt Nam
+Tập đoàn Dệt May Việt Nam
+Hiệp hội Dệt May Việt Nam
+Tổ chức Bảo tồn Thiên nhiên Thế giới
+Lời
+nói đầu
+ự án Xanh hóa ngành Dệt May, ra mắt năm 2018, do WWF-Việt Nam
+và Hiệp hội Dệt May Việt Nam (VITAS) chủ trì thực hiện với sự hỗ trợ
+tài chính từ ngân hàng HSBC, Cơ quan Hợp tác Phát triển Thụy Sĩ, và nhãn
+hàng Tommy Hilfiger, hướng tới mục đích cải cách ngành Dệt May Việt Nam
+và tác động vào hoạt động quản trị ngành và môi trường nhằm mang lại
+lợi ích xã hội, kinh tế và bảo tồn cho quốc gia và toàn bộ khu vực Mekong.
+Dự án tập trung vào cải thiện quản lý nước và năng lượng với mục tiêu dài
+hạn là tăng cường quản trị khu vực Mekong và nâng cao tính bền vững của
+hệ sinh thái và môi trường sống khu vực này. Dự án cũng hỗ trợ giảm nhẹ
+biến đổi khí hậu thông qua việc tăng cường sử dụng năng lượng bền vững
+và nâng cao hiệu quả sử dụng năng lượng.
+Tài liệu hướng dẫn này là một trong các sản phẩm chính của dự án và hy
+vọng sẽ là một tài liệu tham khảo đối với các bên hữu quan để cùng chung
+tay đưa ngành Dệt May theo con đường phát triển bền vững, bảo đảm sự
+tăng trưởng lâu dài cho ngành.
+Trong những năm gần đây, công nghiệp Dệt May là một trong các ngành
+xuất khẩu có kim ngạch và tốc độ tăng trưởng lớn nhất ở Việt Nam. Năm
+2019, ngành đã mang lại giá trị xuất khẩu 39 tỷ USD cho nền kinh tế nước
+nhà, chiếm gần 15% tổng kim ngạch của cả nước.
+kỳ vọng Việt Nam sẽ tiếp tục tăng trưởng để giữ vị thế trong nhóm 3 quốc
+gia và khu vực xuất khẩu dệt may hàng đầu thế giới với mục tiêu tạo được
+ít nhất 30 nhãn hiệu có khả năng cạnh tranh trên thị trường thế giới vào
+năm 2030 và tuân thủ nghiêm ngặt các quy tắc bảo vệ môi trường trong
+toàn bộ chuỗi sản xuất.
+Chính vì tầm quan trọng như vậy của ngành trong bức tranh kinh tế xã hội
+và môi trường của Việt Nam, WWF đang nỗ lực xây dựng một liên minh các
+bên hữu quan hợp tác tích cực và hiệu quả để phát triển bền vững ngành.
+Tóm tắt
+tài liệu
+Những hướng dẫn trong tài liệu này được đề xuất và tổng hợp để các bên hữu
+quan tiếp tục thảo luận về các hành động có thể triển khai trong thời gian
+ngắn hạn và trung hạn.
+Chương 1
+Chương 1 đưa ra những lý do căn bản về sự cần thiết phải xanh hóa ngành
+Dệt May. Người đọc sẽ tìm thấy những yếu tố thúc đẩy phát triển dài hạn
+của ngành, những yêu cầu từ thị trường thông qua hiệp định thương mai đa
+phương, các mục tiêu bền vững từ nhà mua, và nhận thức cũng như sự sẵn
+sàng ủng hộ của người tiêu dùng ngày càng tăng đối với các nhãn hiệu xanh.
+Phần này có các ví dụ minh chứng. Bên cạnh đó, phần cuối chương cũng tổng
+hợp những văn bản pháp lý đáng chú ý của Việt Nam về quy định, định hướng
+và hướng dẫn liên quan tới ngành Dệt May phù hợp với cam kết quốc gia về
+mục tiêu phát triển bền vững, giảm nhẹ và thích ứng với biến đổi khí hậu và
+tăng trưởng xanh.
+Chương 2
+Chương 2 đưa ra các ví dụ về các kỹ thuật tốt nhất (BATs) và thực hành môi
+trường tốt nhất (BEPs) hiện có đã thực hiện tại các quốc gia và khu vực như
+Bangladesh, Trung Quốc, cộng đồng châu Âu và Ấn Độ, tiếp đến là một số các
+sáng kiến mà các nhãn hàng đã triển khai (có các ví dụ từ H&M, Levi Strauss,
+GAP and UNIQLO), cùng với 2 ví dụ triển khai hoạt động xanh hóa từ các nhà
+sản xuất tại Việt Nam (Crystal Martin và Saitex). Tiếp nối câu hỏi “Tại sao?” đặt
+ra ở Chương 1 thì Chương 2 cung cấp những ý tưởng ban đầu về vấn đề “Làm
+thế nào?” để xanh hóa ngành Dệt May.
+Chương 4
+Chương 4 thảo luận về các hành động thiết thực mà các bên hữu quan có
+thể triển khai để gia tăng tính bền vững trong quá trình sản xuất. Phần 1 nhìn
+dấu chân môi trường của ngành, cơ hội hiện tại để ngành chuyển đổi xanh,
+cũng nhận diện về vai trò của các bên hữu quan trong chuỗi giá trị ngành Dệt
+May ở Việt Nam. Bản đồ các bên liên quan giúp xác định các nhân tố có thể
+thúc đẩy quá trình xanh hóa ngành. Phần 2 đưa ra tầm nhìn và các mục tiêu
+xanh hóa ngành. Phần 3 thảo luận một số biện pháp thúc đẩy chuỗi cung ứng
+xanh, xác định các lĩnh vực cụ thể cần tập trung nỗ lực và vai trò của tài chính
+trong nước và quốc tế. Phần 4 là một kế hoạch hành động đề xuất để thực
+hiện chương trình nghị sự này.
+Chương 3
+Chương 3 đưa ra các xu hướng và cơ chế sản xuất bền vững trong ngành Dệt
+May. Từ kinh nghiệm thực tế được trình bày trong Chương 2, ba nhóm công
+cụ và chứng chỉ đáng chú ý nhất thúc đẩy tính bền vững của chuỗi cung ứng
+dệt may được giới thiệu ở chương này bao gồm: (1) xúc tiến vật liệu bền vững
+thông qua GRS, BCI và Cradle-to-Cradle; (ii) thực hành sản xuất dệt may bền
+vững bao gồm Higg Indes, Bluesign Approved, GOTS, ISO 14001, Oeko-Tex;
+và (iii) nhãn sinh thái và công bằng đối với sản phẩm dệt may như Bluesign
+Product, EU Eco Label và Fair Trade.
+Đối tượng người đọc
+Chuyên viên các
+cơ quan quản lý
+cấp Bộ
+Cơ hội, rào cản hiện tại và những bất cập giữa các văn bản chính sách
+để thiết lập nền kinh tế tuần hoàn (Chương 1).
+Tiêu chuẩn, yêu cầu và việc thực thi (Chương 4).
+Chuyên viên các cơ
+quan quản lý
+địa phương
+Định hướng về khu công nghiệp được thiết kế và vận hành với mục
+tiêu giảm thiểu tác động môi trường và xã hội, tăng cường hiệu quả
+sử dụng tài nguyên (Phần 1, Chương 2).
+Chính sách tại địa phương về thu hút các dự án đầu tư được thiết kế
+theo hướng xanh hóa (Phần 3, Chương 1).
+Nội dung quan tâm
+Nhà mua /
+nhãn hàng
+Các thông tin được chia sẻ về kỹ thuật, xu hướng và hỗ trợ trong
+ngành (Chương 3 và Chương 4).
+Hoạt động hợp tác công tư và kết nối mạng lưới.
+Hiệp hội Dệt May
+Việt Nam
+Hoạt động mạng lưới các bên hữu quan như doanh nghiệp, nhà đầu
+tư, cơ quan quản lý địa phương, cơ quan ra chính sách (Chương 3 và
+Chương 4).
+Chiến lược phát triển bền vững của ngành cùng các khuyến nghị và
+vận động chính sách.
+Chủ doanh nghiệp /
+người điều hành
+sản xuất
+Các thực hành tốt và công nghệ/kỹ thuật tốt có thể áp dụng trong sản
+xuất của doanh nghiệp có lợi cả môi trường và kinh tế (Phụ lục 3).
+Chứng chỉ, nhãn và tiêu chuẩn bền vững (Chương 3).
+Các văn bản pháp luật liên quan tới phát triển bền vững, bao gồm cả
+các chính sách khuyến khích và tài chính xanh (Phần 3, Chương 1).
+Chỉ dẫn nội dung cho đối tượng người đọc
+Đối tượng người đọc
+Các cơ quan
+hợp tác phát triển
+Hoạt động hợp tác công tư và kết nối mạng lưới.
+Vận động chính sách (Chương 4).
+Thông tin về cơ sở dữ liệu liên quan tới các công nghệ tốt nhất
+hiện có và thực hành môi trường tốt trong ngành (Phụ lục 3 và 4).
+Tổ chức phi chính phủ,
+tổ chức xã hội dân sự và
+đại chúng
+Các loại thẻ và nhãn sinh thái, hướng dẫn thương mại công bằng,
+công nghiệp bền vững (Chương 3).
+Nội dung quan tâm
+Nhà quản lý nhân sự
+Các yêu cầu đào tạo và phát triển nguồn nhân lực cho ngành (Các Phụ lục).
+Kỹ thuật viên
+Thông tin về cơ sở dữ liệu liên quan tới các công nghệ tốt nhất hiện
+có và thực hành môi trường tốt trong ngành (Phụ lục 3 và 4).
+Nhà đầu tư hoặc
+ngân hàng
+Các văn bản pháp luật liên quan tới phát triển bền vững, bao gồm
+cả các chính sách khuyến khích và đầu tư xanh (Chương 1).
+Thông tin về cơ sở dữ liệu liên quan tới các công nghệ tốt nhất hiện
+có và thực hành môi trường tốt trong ngành (Phụ lục 3 và 4).
+Chương 1.
+Vì sao Việt Nam cần
+xanh hóa ngành Dệt May
+© WWF-Việt Nam / Nguyễn Ngọc Quang
+Phần 1. Động lực của sự chuyển đổi
+gành Dệt May thế giới ước tính đạt giá trị
+thương mại 920 tỷ USD vào năm 2018 và
+dự báo tới năm 2024 sẽ đạt xấp xỉ 1.230 tỷ USD.
+Trong giai đoạn 2005 - 2017, thị phần ngành
+Dệt May của Việt Nam đã tăng 1,7% lên 2,5%,
+giúp cho nước ta có vị trí trong nhóm 5 quốc
+gia xuất khẩu dệt may hàng đầu thế giới. Ở Việt
+Nam, ngành này tạo công ăn việc làm cho trên
+2,5 triệu lao động, chiếm khoảng 20% tổng số
+lao động công nghiệp của cả nước1. Trong khi
+ngành đang tạo ra giá trị kinh tế đáng kể thì quá
+trình sản xuất cũng tiêu tốn nhiều tài nguyên và
+gây ra những tác động ô nhiễm ở mức cao.
+Sản xuất ngành Dệt May, bao gồm cả trồng
+bông, sử dụng khoảng 93 tỷ mét khối nước hàng
+năm và chiếm 4% lượng khai thác nước ngọt
+trên toàn thế giới. Bênh cạnh đó, 20% ô nhiễm
+nước công nghiệp toàn cầu là phát sinh từ các
+hoạt động xử lý hàng dêt nhuộm. Sản xuất hàng
+dệt may cũng tiêu tốn năng lượng để vận hành
+nhiều loại thiết bị, tạo ra hơi và nhiệt cho các quy
+trình xử lý khác nhau. Trong năm 2016, ngành
+Dệt May đã phát thải 3.3Gt khí CO2 quy đổi và
+chiếm 6.7% tổng phát thải này của toàn cầu2.
+Đại dịch toàn cầu Covid-19 đang gây nên những
+xáo động to lớn về kinh tế và xã hội trên toàn thế
+giới. Ngành may mặc đã chứng kiến sụt giảm doanh
+số bán hàng ngay lập tức. Một cuộc điều tra người
+tiêu dùng ở quy mô toàn cầu của tập đoàn McKinsey
+tháng 4 năm 20203 chỉ ra rằng 60% người tiêu dùng
+cắt giảm chi tiêu cho thời trang là xu hướng trong
+ngắn và trung hạn; về dài hạn, 65% người tiêu dùng
+chuyển từ thời trang nhanh sang thời trang cơ bản
+và lâu bền; và 67% quan tâm nhiều về tính bền vững
+môi trường và xã hội của các nhãn hàng thời trang.
+Sức ép này từ người tiêu dùng sẽ là lực đẩy để các
+nhãn hàng cam kết và hành động để cải thiện tính
+bền vững trong suốt chuỗi cung ứng của họ.
+"Xanh hóa" ngành Dệt May mang ý nghĩa là ngành sẽ
+hoạt động theo hướng sử dụng hiệu quả các nguồn
+tài nguyên và giảm chất thải, loại bỏ các chất gây lo
+ngại và loại trừ phát sinh vi sợi; biến đổi cách thức
+thiết kế quần áo, bán và sử dụng sao cho có thể giảm
+thải ra tự nhiên; cải thiện triệt để khả năng tái chế
+bằng cách thay đổi thiết kế, thu hồi và tái sản xuất; và
+hướng tới sử dụng nguyên nhiên liệu tái tạo4.
+Xanh hóa ngành Dệt May không chỉ là vấn đề công
+nghệ. Xét về lâu dài, sự tăng trường có nghĩa là tính
+tới sự cân bằng các yếu tố môi trường, kinh tế và xã
+hội, như được khái quát trong Hình 1.
+1 Sách "Ngành công nghiệp Dệt May Việt Nam với cuộc CMCN lần thứ 4”, VINATEX, tháng 7/2020
+2 Quantis,2018; Ellen MacAthur Foundation, 2017
+4 A new textiles economy: Redesigning fashion's future, (2017, Sự phát triển bền vững dài hạn của ngành Dệt May cần gắn liền với các yếu tố sau
+Tác động của biến đối
+khí hậu có thể gây ra sự
+gián đoạn nguồn cung
+năng lượng, nước và các
+vật liệu quan trọng.
+Chính phủ đã có cam
+kết quốc tế về cắt
+giảm khí nhà kính và
+thực hiện các mục tiêu
+phát triển bền vững
+của Liên hợp quốc.
+Xanh hóa ngành Dệt
+May sẽ giúp giảm sự
+quan ngại của cơ quan
+quản lý địa phương khi
+phê duyệt các dự án
+khu công nghiệp dệt
+may chuyên biệt nhờ
+quy hoạch đã tính tới
+bảo đảm nghiêm ngặt
+tính bền vững về môi
+trường, đặc biệt là về
+vấn đề tiêu hao nước
+và xả nước thải.
+Nhận thức của cộng đồng
+và người tiêu dùng về các
+vấn đề môi trường ngày
+càng được nâng cao.
+Các chính sách về trách
+nhiệm xã hội và môi
+trường, cũng như điều
+kiện làm việc tốt hơn sẽ
+thu hút và giữ chân được
+lực lượng lao động trẻ tài
+năng.
+Người tiêu dùng sẵn sàng
+chi trả ở mức cao hơn
+để mua các sản phẩm
+có trách nhiệm xã hội và
+môi trường.
+Các nhãn hàng công khai
+nhiều hơn thông tin bền
+vững và coi đó là cách để
+tăng cường danh tiếng
+của doanh nghiệp và
+thuyết phục người tiêu
+dùng nhằm mở rộng thị
+phần.
+Giá nhân công thấp không
+còn là ưu thế cạnh tranh
+của ngành Dệt May Việt
+Nam.
+Trở thành nhà cung ứng bền
+vững trong chuỗi cung ứng
+chính là yếu tố quan trọng
+để thu hút khách hàng.
+Yêu cầu từ người mua về
+bảo vệ môi trường ngày càng
+tăng. Sản xuất nguyên liệu
+cho ngành may theo hướng
+bền vững là điều thiết yếu để
+tận dụng các ưu đãi từ các
+Hiệp định thương mại.
+Các nhà sản xuất dệt may
+“xanh” sẽ thu hút được đơn
+hàng ổn định ở mức giá
+hợp lý.
+Chủ động ứng dụng BATs /
+BEPs sẽ giúp nhà sản xuất:
+- Tiết kiệm chi phí sản xuất
+do giảm tiêu hao năng lượng,
+nước, hóa chất, và
+-  Giảm chi phí xử lý chất thải
+để tuân thủ các tiêu chuẩn
+môi trường, cũng như tránh
+được nguy cơ bị thu hồi giấy
+phép kinh doanh nếu không
+thể tuân thủ quy định.
+Hình 1. Ba khía cạnh bảo đảm sự tăng trưởng bền vững của ngành Dệt May.
+Các hiệp định thương mại đa phương
+Việt Nam đang tham gia 16 Hiệp định thương mại tự do (FTA). Các FTA
+mang đến các điều kiện thuận lợi cho các doanh nghiệp để mở rộng thị
+trường xuất khẩu của họ. Ưu đãi thuế sẽ dành cho hàng hóa Việt Nam
+có nguồn gốc phù hợp được chứng nhận, sản xuất bền vững và minh
+bạch thông tin. Đồng thời, Việt Nam cũng có nghĩa vụ mở cửa thị trường
+cho các sản phẩm chất lượng cao và đa dạng từ các quốc gia đối tác và
+vì thế áp lực phải cạnh tranh một cách bình đẳng sẽ dần tăng lên - hoặc
+có nguy cơ thua cuộc trên sân nhà trước các sản phẩm và công ty nước
+ngoài. Do đó, để tận dụng tối đa các ưu đãi thương mại FTA, các doanh
+nghiệp cần phải đổi mới mọi khía cạnh hoạt động của mình.
+Để minh họa, dưới đây là một số nội hàm của Hiệp định Đối tác Toàn
+diện và Tiến bộ xuyên Thái Bình Dương (CPTPP). Trong Chương 20
+về Môi trường, điểm 6 Điều 20.3 có nêu “các Bên nhận thức rằng việc
+khuyến khích thương mại hay đầu tư bằng cách giảm mức độ bảo vệ
+được quy định trong pháp luật môi trường của mình là không phù hợp.”
+CPTPP cũng quy định nhiều nghĩa vụ hơn nữa để bảo vệ tầng ozone
+và môi trường biển. Vì lo ngại ngành công nghiệp hoặc chính phủ nghĩ
+rằng họ có thể trốn tránh các nghĩa vụ này, Điều 20.11 về “Các cơ chế
+tự nguyện để nâng cao việc bảo vệ môi trường” quy định rằng: “Các bên
+nhận thức rằng các cơ chế linh hoạt, tự nguyện, như kiểm toán và báo
+cáo tự nguyên, cơ chế thưởng trên cơ sở thị trường, chia sẻ thông tin và
+kinh nghiệm tự nguyện và hợp tác công – tư có thể đóng góp vào việc đạt
+được mức độ bảo vệ cao về môi trường và hỗ trợ các biện pháp quản lý
+trong nước. Các bên cũng nhận thức rằng các cơ chế này được xây dựng
+trên cơ sở tối đa hóa các lợi ích môi trường và tránh việc tạo lập những
+rào cản thương mại không cần thiết.”
+"Điểm mấu chốt
+là: xanh hóa
+ngành Dệt May
+không chỉ là "tốt
+cho môi trường",
+sự chuyển đổi này
+còn mang lại lợi
+ích kinh tế hữu
+hình cho tất cả
+các bên
+tham gia."
+Phần 2. Các yêu cầu từ thị trường
+Yêu cầu ngày càng khắt khe của nhà mua
+Nhận thức của người tiêu dùng ngày càng tăng
+Các nhà mua, đặc biệt là các nhãn hàng lớn và chuỗi
+kinh doanh quốc tế, đang tái cấu trúc lại chuỗi cung
+ứng toàn cầu của họ để bảo đảm các mục tiêu bền
+vững nghiêm ngặt. Những yêu cầu này nhấn mạnh
+các vấn đề như hiệu quả môi trường, sử dụng vật liệu
+tái chế, tìm kiếm các vật liệu hữu cơ hoặc bền vững,
+giảm tiêu thụ năng lượng và bảo tồn các nguồn tài
+nguyên không thể tái tạo như nhiên liệu hóa thạch
+và nước.
+Con số người tiêu dùng sẵn sàng chi trả ở mức giá cao hơn cho các sản phẩm dệt may bền vững đang
+tăng lên cũng như nhận thức của họ về tiêu thụ bền vững để bảo vệ môi trường ngày càng cao hiện
+đặt ra các áp lực buộc ngành phải đổi mới sáng tạo theo hướng sản xuất xanh.
+Các công ty đang hiểu rằng niềm tin của người tiêu dùng vào một doanh nghiệp có thể được nâng
+cao bằng cách tăng tính minh bạch về các quy trình sản xuất và vận hành của họ.
+Levi Strauss &
+Co., Ltd.’s
+Sustainability
+Guidebook
+35 Ethical & Sustainable Clothing
+Brands Betting Against Fast Fashion
+Các chuỗi thời trang toàn cầu đang tung ra
+những bộ sưu tập với dòng sản phẩm hữu cơ
+và công bằng. Các công ty thương mai quốc tế
+cũng đã thiết lập chiến lược bền vững tổng thể
+cho chuỗi cung ứng của họ để quản lý việc
+sử dụng tài nguyên thiên nhiên.
+A new textiles economy:
+Fashion’s Future
+Quỹ Ellen MacArthur chỉ ra cách thức mà hệ thống
+của ngành Dệt May hoạt động với việc khai thác
+một lượng lớn tài nguyên không tái tạo để sản xuất
+quần áo, mà “thường chỉ được sử dụng trong một
+thời gian ngắn, sau đó các vật liệu chủ yếu được
+chuyển đến bãi rác hoặc đốt”.5
+Fixing Fashion: Clothing consumption
+and sustainability
+Tác giả: Ủy ban Kiểm toán Môi trường thuộc Hạ viện
+Vương quốc Anh
+Nội dung:
+Chi phí môi trường của quần áo của chúng ta
+Chi phí xã hội cho quần áo của chúng ta
+Chất thải dệt may và thu gom
+Các mô hình kinh tế mới cho ngành thời trang
+Kết luận và khuyến nghị Ủy ban Kiểm toán Môi trường thuộc Hạ viện Vương quốc Anh
+khuyến nghị ngành công nghiệp thời trang truy xuất nguồn
+nguyên liệu thô trong hàng may mặc để giải quyết các
+hành vi lạm dụng xã hội và môi trường trong chuỗi cung ứng
+của họ.6
+5 The Ellen MacArthur Foundation, New Textiles Economy: Redesigning Fashion’s Future, 2017
+6 House of Commons, Environmental Audit Committee; FIXING FASHION: clothing consumption and sustainability; 19 February 2019
+Phần 3. Các chính sách của Việt Nam liên quan tới ngành Dệt May
+Các chính sách và luật pháp hiện hành ở Việt Nam định hướng trực tiếp tới ngành Dệt May hoặc các ngành
+sản xuất nói chung được xây dựng ở các cấp độ khác nhau. Bảng 1 đưa ra danh sách tóm tắt các yêu cầu
+và hướng dẫn pháp lý liên quan đến sự phát triển của ngành Dệt May Việt Nam.
+Công đoạn cần
+chú ý nhất trong
+chuỗi
+Ý nghĩa đối với nhà
+đầu tư/doanh nghiệp
+Tài liệu/Số/Chủ đề
+Các văn bản pháp lý chung
+Nghị định 155/2016/ND-CP quy định
+về xử phạt hành chính trong lĩnh vực
+bảo vệ môi trường
+Yêu cầu và hướng dẫn cho các
+nhà máy
+Quyết định 622/QĐ-TTg (10/5/2017)
+về việc ban hành Kế hoạch hành động
+quốc gia thực hiện Chương trình nghị
+sự 2030 vì sự phát triển bền vững
+Định hướng cho nhà đầu tư
+và nhà máy
+Quyết định số 76/QD-TTg (11/1/2016),
+Chương trình hành động quốc gia về
+Sản xuất và tiêu dùng bền vững đến năm
+2020, với tầm nhìn đến năm 2030
+Nhiệm vụ và định hướng cho
+nhà đầu tư và nhà máy
+Quyết định số 1393/QD-TTg (25/9/2012),
+Chiến lược Quốc gia về Tăng trưởng xanh
+giai đoạn 2011-2020, tầm nhìn đến năm Nhiệm vụ và định hướng cho
+nhà đầu tư và nhà máy
+Luật Bảo vệ môi trường số
+Yêu cầu đối với chủ đầu tư
+và nhà máy
+Tất cả các công đoạn
+Nghị quyết số 24-NQ/TW (2510/2007),
+Chủ động ứng phó với biến đổi khí hậu,
+tăng cường quản lý tài nguyên và bảo vệ
+môi trường
+Định hướng cho nhà đầu tư
+và nhà máy
+Công đoạn cần
+chú ý nhất trong
+chuỗi
+Ý nghĩa đối với nhà
+đầu tư/doanh nghiệp
+Tài liệu/Số/Chủ đề
+Tất cả các công đoạn
+Sử dụng năng lượng hiệu quả
+Quyết định 280/QĐ-TTg (13/3/2019)
+phê duyệt Chương trình quốc gia về
+sử dụng năng lượng tiết kiệm và hiệu
+quả giai đoạn 2019 - 2030
+Mục tiêu giảm tiêu hao năng
+lượng cho ngành (ít nhất 5,00%
+tới năm 2025 và 6,80% tới năm
+2030)
+Quyết định số 2053/QD-TTg (28/10/2016),
+Kế hoạch thực hiện Thoả thuận Paris về
+Biến đổi khí hậu
+Nhiệm vụ và định hướng cho
+nhà đầu tư và nhà máy
+Quyết định 2359/QD-TTg (22/12/2015)
+phê duyệt Hệ thống quốc gia về kiểm kê
+khí nhà kính
+Nhà sản xuất thực hiện kiểm kê
+tiêu thụ năng lượng hàng năm
+Nghị định 21/2011/ND-CP (29/3/2011) quy
+định chi tiết và biện pháp thi hành Luật sử
+dụng năng lượng tiết kiệm và hiệu quả
+Yêu cầu và hướng dẫn cho các
+nhà máy
+Luật sử dụng năng lượng tiết kiệm và
+hiệu quả số 50/2010/QH12
+Yêu cầu đối với chủ đầu tư và
+nhà máy
+Xử lý ướt
+Phát triển công nghiệp và khu công nghiệp
+Nghị định số 82/2018/ND-CP về Quy định
+về quản lý khu công nghiệp và khu kinh tế
+Hướng dẫn và ưu đãi cho cả
+nhà đầu tư và nhà máy
+Quyết định số 68/QD-TTg (18/1/2017)
+về việc phê duyệt Chương trình phát triển
+công nghiệp hỗ trợ từ 2016-2025
+Định hướng cho nhà đầu tư
+và nhà máy
+Sản xuất xơ, sợi và
+vải và công đoạn
+xử lý ướt
+Quy định 1513/QD-TTg (3/9/3015),
+Thúc đẩy DN Việt Nam tham gia trực tiếp
+các mạng phân phối nước ngoài giai đoạn
+đến năm 2020
+Định hướng cho nhà đầu tư
+và nhà máy
+Công đoạn cần
+chú ý nhất trong
+chuỗi
+Ý nghĩa đối với nhà
+đầu tư/doanh nghiệp
+Tài liệu/Số/Chủ đề
+Phát triển công nghiệp và khu công nghiệp
+Thông tư 35/2015/TT-BTNMT (30/6/2015),
+Bảo vệ môi trường khu kinh tế, khu công
+nghiệp, khu chế xuất, khu công nghệ cao
+Yêu cầu và hướng dẫn cho
+nhà phát triển hạ tầng khu
+công nghiệp
+Khu công nghiệp có
+ngành Dệt May
+Khai thác, sử dụng và quản lý nước
+Nghị định 201/2013/NĐ-CP quy định
+chi tiết thi hành một số điều của Luật
+tài nguyên nước
+Yêu cầu và hướng dẫn cho các
+nhà máy
+Xử lý ướt
+Thông tư 27/2014/TT-BTNMT quy định về
+khai thác nước ngầm
+Yêu cầu đối với nhà máy
+khai thác nước ngầm
+Xử lý ướt
+Nghị định 54/2015/NĐ-CP Quy định về
+ưu đãi đối với hoạt động sử dụng nước
+tiết kiệm, hiệu quả
+Định hướng và ưu đãi dành cho
+hoạt động phù hợp của nhà đầu
+tư, nhà máy và nhà phát triển
+khu công nghiệp
+Tất cả các công đoạn
+Nghị định 40/2019/NĐ-CP sửa đổi, bổ sung
+một số điều của các nghị định quy định chi tiết,
+hướng dẫn thi hành Luật bảo vệ môi trường
+Yêu cầu và hướng dẫn đối với
+các nhà máy và khu công nghiệp
+Xử lý ướt
+Nghị định 167/2015/NĐ-CP quy định việc
+hạn chế khai thác nước dưới đất
+Yêu cầu đối với các nhà máy và
+khu công nghiệp có khai thác
+nước ngầm
+Tất cả các công đoạn
+Quyết định số 3218/QD-BCT (11/4/2014),
+Quy hoạch phát triển ngành công nghiệp
+Dệt May Việt nam đến năm 2020, tầm nhìn
+đến năm 2030
+Nhiệm vụ và định hướng cho
+nhà đầu tư và nhà máy
+Tất cả các công đoạn
+Nghị định 111/2015/ND-CP, Phát triển
+công nghiệp hỗ trợ
+Định hướng và chính sách
+đặc quyền cho cả nhà đầu tư và
+nhà máy
+Tất cả các công đoạn
+Nghị quyết số 23-NQ/TW (22/3/2018),
+Định hướng xây dựng chính sách phát
+triển công nghiệp quốc gia đến năm
+2030, tầm nhìn đến năm 2045
+Định hướng cho nhà đầu tư
+và nhà máy
+Tất cả các công đoạn
+Công đoạn cần
+chú ý nhất trong
+chuỗi
+Ý nghĩa đối với nhà
+đầu tư/doanh nghiệp
+Tài liệu/Số/Chủ đề
+Quản lý và sử dụng hóa chất
+Nghị định số 113/2017/ND-CP về quy định
+chi tiết và hướng dẫn thi hành một số điều
+của Luật Hoá Chất
+Yêu cầu và hướng dẫn cho các
+nhà máy
+Xử lý ướt
+Thông tư 21/2017/TT-BCT (23/10/2017)
+ban hành Quy chuẩn kỹ thuật quốc gia về
+mức giới hạn hàm lượng formaldehyt và các
+amin thơm chuyển hóa từ thuốc nhuộm azo
+trong sản phẩm dệt may
+Yêu cầu cho các nhà máy
+Tất cả các công đoạn
+Luật hoá chất số 06/2007/QH
+Yêu cầu đối với chủ đầu tư và
+nhà máy
+Xử lý ướt
+Quản lý chất thải
+Nghị định 38/2015/ND-CP về quản lý
+chất thải và phế liệu
+Yêu cầu và hướng dẫn cho các
+nhà máy
+Tất cả các công đoạn
+Nghị định 80/2014 về thoát nước và
+xử lý nước thải
+Yêu cầu và hướng dẫn cho các
+nhà máy
+Tất cả các công đoạn
+Quy chuẩn kỹ thuật quốc gia, QCVN
+13-MT:2015/BTNMT (01/12/2014),
+Nước thải công nghiệp dệt
+Yêu cầu đối với các nhà máy
+Xử lý ướt
+Quy chuẩn kỹ thuật quốc gia, QCVN
+40:2011/BTNMT, nước thải công nghiệp
+Yêu cầu đối với các nhà máy
+Xơ, sợi, dệt và may
+Có thể thấy, bên cạnh các yêu cầu pháp lý về hoạt động môi trường mà doanh nghiệp sản xuất trong
+ngành phải tuân thủ như các Luật và các văn bản quy định tương ứng, đã có một số văn bản quy phạm
+pháp luật khác hướng dẫn, định hướng và khuyến khích hỗ trợ ngành bắt đầu chuyển đổi xanh.
+Chương 2.
+Kỹ thuật và thực hành
+tốt nhất hiện có
+© Shutterstock / foxbat / WWF
+Phần 1. Kinh nghiệm từ doanh nghiệp sản xuất
+Khi được áp dụng hợp lý, các kỹ thuật tốt nhất
+hiện có (BATs) và thực hành môi trường tốt nhất
+(BEPs) sẽ giúp doanh nghiệp đạt đồng thời 2 lợi
+ích kinh tế và môi trường, nhờ tiết giảm chi phí
+sản xuất và chi phí tuân thủ, bảo đảm khách
+hàng và đơn hàng, cải thiện hình ảnh và tạo
+niềm tin trong cộng đồng, cũng như góp sức vì môi
+trường xanh sạch hơn. Phụ lục 1 giới thiệu danh mục
+BATs và BEPs từ thực hành trên toàn cầu. Bên cạnh
+đó, một số kinh nghiệm áp dụng BATs và BEPs trong
+khuôn khổ các dự án WWF thực hiện tại Ấn Độ, Trung
+Quốc, Hồng Kông, Việt Nam và Pakistan ...
+Công ty TNHH Crystal Martin (Việt Nam)
+Crystal Martin, được thành lập năm 2004,
+là Ban trang phục mặc sát thân của Tập
+đoàn Crystal International chuyên về các
+sản phẩm đồ bơi và nội y. Tại Việt Nam,
+công ty có trên 10.000 công nhân viên và
+diện tích nhà xưởng là 132.967m2. Quy
+trình sản xuất tinh gọn được áp dụng trong
+các dây chuyền để tối ưu hóa hiệu quả.
+Là thành viên của Tập đoàn Crystal
+International, công ty tuân theo tầm nhìn
+và tiếp cận bền vững của Tập đoàn. Công ty
+Được lắp đặt vào năm 2019, hệ thống năng lượng mặt trời
+áp mái của công ty Crystal Martin gồm 1.800 tấm pin PV dự
+tính sẽ tiết kiệm được 550.000 kWh và giảm phát thải khí
+nhà kính khoảng 500 tấn CO2 quy đổi hàng năm. (Báo cáo
+Bền vững năm 2019 của Tập đoàn Crystal International)
+đã áp dụng HIGG Facility Environmental Module
+và đạt được điểm tự đánh giá cao trên mức trung
+bình ngành (xem giải thích về Higg Index ở
+chương 3, phần 2). Việc kiểm soát các dạng năng
+lượng và tải năng lượng được thực hiện chặt
+chẽ nhờ hệ thống Quản lý năng lượng theo Thời
+gian thực của Tập đoàn. Hệ thống này giúp công
+ty chủ động phân tích được chiều hướng biến
+động trong tiêu thụ năng lượng thông qua số
+liệu để có thể kịp thời tìm được cơ hội nâng cao
+hiệu quả sử dụng năng lượng.
+© Crystal Martin
+Công ty TNHH Saitex International Đồng Nai
+Là một nhà sản xuất denim bền vững hàng
+đầu, Saitex International hiện có năng lực
+sản xuất 16.000 sản phẩm/ngày tại 5 nhà máy
+ở Việt Nam. Với 3.000 công nhân viên, công
+ty hoạt động chuyên hàng demin tất cả các
+chủng loại: quân bò, áo khoác, váy, đầm, bộ
+liền thân. Sản phẩm mang nhãn từ trên 15
+thương hiệu lớn: G-Star Raw, Ralph Lauren,
+Calvin Klein, Tommy Hilfiger, GAP, v.v…
+Bắt đầu từ 2005 là một nhà máy sản xuất hàng
+denim với quy trình truyền thống, Saitex dần
+chuyển sang phương thức bền vững từ năm 2010.
+Sanjeev Bahl, CEO và nhà sáng lập, quan niệm
+rằng: “Bền vững là con cái của mỗi người. Đó tương
+lai mà chúng ta hứa với chúng và lại bị quên đi khi
+tạo ra thế giới tiên tiến mà chúng sẽ sống”.
+Là một thành viên của SAC từ 2012, Saitex đã thực
+hiện đánh giá Higg Index trong 4 năm liên tiếp.
+Năm
+Điểm (tính trên 100)
+Cơ quan đánh giá Elevate Elevate Bureau Veritas Bureau Veritas
+Rô-bốt phun
+KMnO4
+Nhiên liệu
+sinh khối
+Sấy bằng
+không khí
+Tấm pin
+mặt trời
+Tẩy Ozone
+Cắt laser
+© Saitex International
+Saitex duy trì một hệ thông quản lý theo
+các chứng nhận bền vững như ISO 14000,
+Cradle-to-Cradle, bluesign, GRS, Oeko-Tex,
+GOTS, LEED, và B-Corp.
+Saitex ứng dụng các công nghệ sáng tạo
+bao gồm cắt laser, E-flow, rô-bôt mài cát,
+rô-bốt phun KMnO4, tẩy ozone, và tự động
+định lượng hóa chất.
+Công ty thực hiện báo cáo về nước thải và
+bùn thải không chứa chất độc hại theo Tiêu
+chuẩn nước thải7 2 lần/năm.
+Nhờ sử dụng năng lượng tái tạo từ mặt trời và
+sinh khối, hệ thống sấy bằng không khí, tòa nhà
+xanh, trồng cây và phương tiện vận chuyển thay
+thế, Saitex đã giảm tiêu thụ 13 triệu kWh/năm.
+Nhờ ứng dụng hệ thống nước khép kín và giặt
+với luồng nước phun (jet washing), công ty có
+khả năng tiết kiệm tới 252 triệu lít nước/năm.
+Như vậy, Saitex chỉ tiêu tốn 1,5 lít nước cho 1
+quần jeans so với tiêu chuẩn chung của ngành
+là 80 lít.
+7 ZDHC Wastewater Guidelines Phần 2. Kinh nghiệm từ nhãn hàng
+Các nhãn hàng lớn đã và đang thực hiện một số hoạt động quan trọng sau:
+Dưới đây là ví dụ từ một số nghiên cứu điển hình ở cấp độ nhãn hàng
+trong tiến trình xanh hóa các hoạt động sản xuất và kinh doanh ngành Dệt May và thời trang.
+Tăng cường sử dụng cotton
+bền vững và tham gia hỗ
+trợ nông dân trồng bông
+thông qua Tổ chức Better
+Cotton Initiative (BCI)
+Giảm phát thải CO2
+trong vận hành của
+nhãn hàng và toàn bộ
+chuỗi cung ứng của họ
+Thúc đẩy việc sử dụng
+các vật liệu tái chế trong
+ngành thời trang, ví dụ
+polyester, kính, kim loại,
+cotton thải, v.v…
+Đổi mới trong công nghệ
+sản xuất và thiết kế để giảm
+sử dụng nước
+Thu thập các sản phẩm cũ
+để sáng tạo thành style mới
+và hỗ trợ mục đích
+tuần hoàn
+Giảm lượng nhựa sử dụng
+1 lần trong các cửa hàng
+chính hãng
+Cung cấp cho khách hàng
+những chỉ dẫn để bảo
+quản tốt nhất quần áo khi
+sử dụng
+ừ 2010, H&M đã sáng tạo phong
+cách Conscious Exclusive để thúc đẩy
+việc sử dụng vật liệu tái chế trong ngành
+thời trang, ví dụ polyester, kính, hợp
+kim kẽm đồng, sử dụng chất liệu lyocell
+TENCELTM  x REFIBRATM  có 1 phần được làm
+từ cotton thải, v.v… Báo cáo phát triển bền
+vững 2018 cho biết 57% tất cả các nguyên
+liệu được H&M sử dụng đều là vật liệu tái
+chế hoặc có nguồn gốc bền vững. Trong
+năm 2018, có 20.649 tấn hàng dệt may
+được tái sử dụng và tái chế thông qua sáng
+kiến ​thu gom hàng may mặc, tăng 16% so
+với năm trước và tương đương 103 triệu áo
+phông.
+Conscious Exclusive SS20: A journey towards circularity
+Nhãn hàng chú trọng giảm phát thải CO2 từ các
+hoạt động với mức giảm 11% vào năm 2018. Đó là
+một bước tiến quan trọng trong lộ trình đạt được
+chuỗi giá trị có tác động tích cực tới khí hậu vào
+năm 2040.
+Về sử dụng bông bền vững, H&M đã xếp hạng ba
+trong bảng vinh danh Bông bền vững năm 2020.
+Mỗi năm, H&M đã dần tăng tỉ lệ nguồn cung ứng
+bông hữu cơ, bông tái chế và bông BCI8. Đến cuối
+năm 2020, nhãn hàng đã đạt được tỷ lệ này là 100%
+tổng số bông sử dụng. Dự kiến tới 2030, toàn bộ
+vật liệu sử dụng trong các sản phẩm của H&M sẽ
+được chứng nhận bền vững, hữu cơ hoặc tái chế.
+8 Better Cotton Initiative
+GAP Inc.9 ưu tiên các cơ hội lớn nhất để dẫn
+dắt việc tối đa hóa tác động vào 8 lĩnh vực
+trọng tâm cốt lõi: Nước, Khí hậu, Chất thải,
+Nguyên liệu, Tính bền vững của sản phẩm,
+Nhân viên, Cộng đồng và Chuỗi cung ứng.
+Áp dụng tư duy vòng đời sản phẩm, GAP
+Inc. giải quyết các vấn đề môi trường bằng
+cách giảm thiểu tác động của hoạt động
+trực tiếp và của chuỗi cung ứng thông qua
+các hành động sau:
+Cải thiện sản xuất tại các nhà máy và
+xưởng giặt: Cùng với các nhà cung cấp,
+GAP Inc. đã đạt được mục tiêu năm 2020 là
+giảm 10 tỷ lít nước sử dụng trong sản xuất.
+Thực hiện trách nhiệm của mình về vấn
+đề khí hậu và chất thải: GAP Inc. đã thiết
+lập các mục tiêu dựa trên khoa học đầu tiên
+để giảm phát thải KNK trong các hoạt động
+và chuỗi cung ứng của chính mình vào năm
+2030 và cam kết đạt mức cacbon trung hòa
+trong toàn bộ chuỗi giá trị vào năm 2050.
+Nhãn hàng đã cam kết là chuyển đổi 80% rác
+thải từ bãi chôn lấp đối với các hoạt động của họ
+tại Hoa Kỳ vào cuối năm 2020 và loại bỏ nhựa sử
+dụng một lần vào năm 2030.
+Đưa ra các giải pháp cho phụ nữ và nước:
+Chiến lược về nước tập trung vào sự giao thoa
+giữa việc sử dụng nước đáng kể trong sản xuất
+của GAP và quyền cơ bản của con người phải có
+nước sạch và an toàn.
+Nâng cao tính bền vững của các sản phẩm:
+Cam kết tích hợp về tính bền vững của GAP Inc.
+bắt đầu từ các nhóm thiết kế và phát triển các
+sản phẩm phải đảm bảo các yếu tố: trông đẹp
+mắt, ít tác động môi trường và mang lại niềm tin
+cho khách hàng. Để mở rộng các hoạt động theo
+hướng này, GAP Inc. đã sử dụng tác động đòn
+bẩy từ quan hệ đối tác với các tổ chức như Liên
+minh Trang phục Bền vững (SAC), Textile
+Exchange,
+Hong
+Kong
+Resource
+Institute
+of Textiles and Apparel và sáng kiến ​ Ellen
+MacArthur Foundation’s Make Fashion Circular,
+v.v…
+Levi Strauss & Co.
+Levi Strauss & Co. sử dụng khuôn khổ
+vòng đời sản phẩm10 để lập chiến lược cho
+những nỗ lực bền vững.
+Thiết kế: Nhãn hàng đã ra mắt dòng sản
+phẩm Water<Less® từ năm 2011 để thay
+đổi cách đưa ra quyết định trong quy trình
+thiết kế và giúp giảm lượng nước sử dụng
+trong quá trình hoàn tất. 67% sản phẩm
+của Levi’s® là sản phẩm Water<Less®; sau
+đó sẽ tăng lên 80% vào năm 2020; Các sản
+phẩm Wellthread™ năm 2015 đã đạt được
+tính bền vững trong mọi mắt xích của chuỗi
+cung ứng.
+Tìm nguồn hàng: Nhãn hàng hợp tác với
+BCI và các đối tác khác để giúp nông dân
+trồng bông bền vững hơn, giảm sử dụng
+nước và hóa chất, tăng năng suất và cam
+kết sử dụng 100% bông bền vững hơn từ
+những người trồng của BCI, các trang trại
+bông hữu cơ hoặc nhà cung cấp bông tái
+chế vào năm 2020.
+Sản xuất: Nhãn hàng đưa ra Cam kết Khí hậu
+nhằm giảm 90% phát thải khí nhà kính trong
+toàn bộ các cơ sở sở hữu và vận hành bởi Levi và
+40% trong toàn bộ chuỗi cung ứng vào sau năm
+2025. Nhãn hàng cũng có nhiều Chương trình và
+hoạt động Hợp tác như Water Action Strategy
+2025, Screened Chemistry.
+Sử dụng và tái sử dụng: Nhãn hàng đang tăng
+cường thiết kế sản phẩm mang tính tuần hoàn
+thực sự - với 100% vật liệu có thể tái chế - ngay từ
+đầu. Thẻ chăm sóc cho hành tinh (Care Tag for
+Our Planet) cung cấp các mẹo về cách bảo quản
+quần áo tốt nhất. Levi’s® Authorized Vintage là
+dòng sản phẩm phong cách cổ điển không lỗi
+thời được làm từ đồ đã qua sử dụng hoặc sửa
+chữa lại.
+Tuyên bố sứ mệnh bền vững của UNIQLO10
+là "Unlocking the Power of Clothing" (tạm
+dịch là “Mở Khóa Sức mạnh của hàng May
+mặc”), nhằm tìm nguồn cung nguyên liệu
+hợp đạo đức và giảm thiểu tác động môi
+trường. Nhãn hàng có chính sách “đặt công
+nhân lên hàng đầu” và phát triển các vật
+liệu và công nghệ mới vì tương lai tốt hơn.
+Xúc tiến “cuộc đời thứ hai của hàng may
+mặc”. Thông qua Chương trình tái chế,
+UNIQLO tối đa hóa việc sử dụng quần áo
+bằng cách thu lại chúng tại các hộp thu
+hồi đặt ở hệ thống các cửa hàng của mình.
+Tính đến cuối tháng 8/2019, UNIQLO đã thu
+được 90,79 triệu mặt hàng từ 22 quốc gia
+và khu vực và 36,57 triệu mặt hàng đã được
+tặng cho 72 quốc gia và khu vực.
+Áp dụng công nghệ mới trong sản xuất quần
+jean như xử lý laser và giặt vi bọt nano ozone.
+Lượng nước sử dụng cho sản xuất đã giảm tới
+99%. UNIQLO đã thực hiện kế hoạch áp dụng
+công nghệ này cho toàn bộ các dây chuyền sản
+xuất jeans của mình vào năm 2020. Một số công
+nghệ mới khác như giặt với eco-stones và jeans
+mài với công nghệ laser cũng đang được áp
+dụng.
+Giảm sử dụng đồ nhựa sử dụng một lần
+tại các cửa hàng: bắt đầu vào tháng 9/2019,
+UNIQLO có kế hoạch giảm lượng nhựa sử dụng
+một lần, như túi mua sắm và bao bì sản phẩm
+cho khách hàng tại các cửa hàng trên toàn thế
+giới, tới mức 85%, tương đương 7.800 tấn/năm
+vào cuối năm 2020.
+Phần 3. Kinh nghiệm từ cấp quốc gia
+Băng-la-đét
+Ở cấp quốc gia, một loạt các chính sách và thực hành quản lý đã được thi hành và áp dụng tại các nước
+thuộc nhóm 5 quốc gia và khu vực xuất khẩu dệt may hàng đầu thế giới.
+Ngành Dệt May của Băng-la-đét đã hơn
+500 năm tuổi và là ngành sản xuất lớn nhất
+trong các ngành công nghiệp. Xu hướng
+tăng trưởng của ngành Dệt May Băng-la-
+đét dự kiến ​sẽ tiếp tục với mục tiêu xuất
+khẩu đầy tham vọng là đạt 50 tỷ USD vào
+năm 2021 và 66,25 tỷ USD vào năm 203011.
+Băng-la-đét tập trung mở rộng chuỗi giá
+trị hàng dệt may và may mặc thông qua
+khuyến khích hoạt động R&D, cải thiện về
+Áp dụng công nghệ xanh vào các hoạt động
+sử dụng năng lượng, tái sử dụng nước thải,
+hóa chất xanh, công trình xanh và công nghệ
+nano xanh.
+Áp dụng công nghệ thông tin theo hướng đổi
+mới.
+Thúc đẩy việc áp dụng và đăng ký chứng nhận
+LEED (Hội đồng Công trình Xanh Hoa Kỳ) cho
+tất cả các cơ sở công nghiệp ở Băng-la-đét để
+thúc đẩy công trình xanh và nơi làm việc an
+toàn cũng như giảm chi phí kinh doanh.
+Tăng cường thanh tra lao động và bảo đảm
+sức khỏe và an toàn nghề nghiệp.
+Thúc đẩy phương pháp sáng tạo trong thiết
+kế.
+Phân biệt các ngành công nghiệp dệt may
+xanh và không xanh để minh chứng lợi ích
+kinh tế và môi trường cho các nhà sản xuất.
+Công ty Vintage Denim Studio Ltd, một thành viên
+của ABA Group, được chứng nhận LEED bạch kim.
+- Bangladesh leading the world in sustainable
+green industrialization.
+kho vận và dán nhãn sản xuất cho hàng may
+mặc. Tiếp cận công nghệ xanh12 xem xét việc
+kết hợp các chiến lược về năng lượng và các sản
+phẩm sạch, không chất độc hại. Một số điểm nổi
+bật của quá trình xanh hoá ngành Dệt May ở
+đây bao gồm:
+11 Water governance mapping report: Textile industry water use in Bangladesh - Phillia Restiani
+12 The Significance of Green Technology in the Textile Industries of Bangladesh, Paper ID: IE-181, International Conference on Mechanical,
+Industrial and Materials Engineering 2017 (ICMIME2017) 28-30 December, 2017, RUET, Rajshahi, Bangladesh
+© Vintage Denime Studio Ltd
+Trung Quốc
+Ngành Dệt May từ lâu đã trở thành một trụ cột
+của nền kinh tế Trung Quốc nhờ lợi thế về nguồn
+lực và quy mô thị trường. Khối lượng thương mại
+của ngành Dệt May đã tăng 27 lần trong 25 năm
+qua13. Là nhà xuất khẩu sản phẩm dệt may lớn
+nhất thế giới, Trung Quốc đồng thời phải đối mặt
+với những thách thức mạnh mẽ về các hạn chế
+môi trường như sử dụng tài nguyên không hiệu
+quả, tiêu thụ năng lượng lớn và ô nhiễm môi
+trường nghiêm trọng.
+Chính phủ Trung Quốc đã đề xuất các chính sách
+để phát triển ngành Dệt May theo hướng bền
+vững.
+Xây dựng và hình thành các khu công nghiệp
+chuyên biệt. Trong suốt 17 năm phát triển, khu
+vực có các cụm chuyên biệt dệt may đã tăng từ
+38 quận và thị trấn đầu tiên lên 185 thành phố
+vào cuối năm 2016. Nền kinh tế cụm công nghiệp
+dệt may chiếm hơn 80% tổng nền kinh tế dệt
+may của Trung Quốc.
+Đưa ra chính sách để loại bỏ các doanh nghiệp sử
+dụng công nghệ cũ, tiêu hao năng lượng và xả thải
+lớn. Kế hoạch phát triển dệt may của Trung Quốc 5 năm
+lần thứ 13 nhấn mạnh vào đổi mới, phối hợp, xanh
+hóa, cởi mở và chia sẻ để nâng cao chất lượng và hiệu
+quả của sự phát triển, thúc đẩy cải cách cơ cấu nguồn
+cung và chú trọng tăng cường sự đa dạng, đưa ngành
+lên một tầm cao mới với sức mạnh mới.
+Kế hoạch "Made in China 2025" và “Kế hoạch sản
+xuất của công xưởng quần áo Trung Quốc đến năm
+2020 đặt ra các mục tiêu giảm tiêu hao 18% tài nguyên
+năng lượng và 20% nước trên mỗi đơn vị giá trị gia tăng
+của sản phẩm đồng thời cắt giảm 10% lượng chất thải.
+Những kế hoạch này được tăng cường bởi luật thuế
+môi trường Trung Quốc từ năm 2016 với mức đánh
+thuế tăng cao với ô nhiễm không khí, nước, tiếng ồn.14
+Cải thiện lợi thế cạnh tranh công nghiệp thông qua
+chiến lược khai thác nguồn nhân lực và đổi mới về
+khoa học và công nghệ. Năng lực đổi mới kỹ thuật là
+linh hồn cho sự phát triển của các doanh nghiệp và cốt
+lõi cho lợi thế cạnh tranh. Đối với các công ty lớn và các
+nhóm doanh nghiệp, rất cần thiết phải thành lập các
+trung tâm nghiên cứu và phát triển (R&D). Song song
+với đó, một việc cấp bách nữa là đưa ra các chiến lược
+khai thác nguồn nhân lực và thiết lập một cơ chế hành
+chính cho đào tạo nguồn nhân lực cho ngành.
+Đạt được tính bền vững cao hơn trong chuỗi cung
+ứng và có những bước đi hướng tới vòng sản xuất tuần
+hoàn cho toàn ngành.
+13 China’s Textile Industry International Competitive Advantage and Policy Suggestion, YUAN, Tao & XU, Fu
+14 Sách "Ngành công nghiệp Dệt May Việt Nam với cuộc CMCN lần thứ 4”, VINATEX, tháng 7/2020
+© Justin Jin / WWF-US
+Liên minh châu Âu
+Ngành công nghiệp may mặc năm 2018 đã
+đạt doanh thu gần 80 tỷ EUR, với xuất khẩu
+đạt gần 27 tỷ EUR15. Châu Âu là nhà xuất khẩu
+ngành hàng may mặc lớn thứ hai thế giới, sau
+Trung Quốc, chiếm 29% thị trường toàn cầu.
+Ở châu Âu có sự gia tăng mối quan tâm về các
+vấn đề môi trường và niềm tin chung về giá trị
+của lối sống bền vững hơn.
+Số lượng các thương hiệu bền vững đang tăng
+lên, đồng thời, các nhãn hiệu và nhà bán lẻ
+hàng đầu cũng mở rộng danh mục sản phẩm
+của họ với quần áo được làm bằng vật liệu có
+tính bền vững và thương mại công bằng. Phần
+lớn các tác động ảnh hưởng đến tính bền vững
+xảy ra ở giai đoạn sử dụng và thải bỏ trong
+vòng đời sản phẩm. Vì vậy, ngành công nghiệp
+may mặc châu Âu đã và đang giáo dục người
+tiêu dùng về cách mà thói quen của họ có thể
+tạo ra sự khác biệt. “Mua đồ tốt hơn, mua ít
+hơn” đang là quan điểm thời thượng.
+Từ năm 2012, Đức thành lập Nhóm chuyên trách
+về “Công nghiệp 4.0” với các ưu tiên gồm: (i) tiêu
+chuẩn hóa; (ii) cung cấp hạ tầng băng thông rộng
+cho doanh nghiệp; (iii) xây dựng cơ chế và giải pháp
+đảm bảo an ninh thông tin; (iv) đào tạo, phát triển
+chuyên môn, hiệu quả nguồn lực. Mô hình nhà máy
+thông minh ở Trung tâm nghiên cứu Dệt May 4.0
+(Đại học RWTH Aachen) được xây dựng như một
+trung tâm mô phỏng các nhà máy dệt may thông
+minh, làm địa điểm thử nghiệm, thí điểm và mở
+rộng các giải pháp kỹ thuật số mới16.
+Năm 2014, Ủy ban châu Âu đưa ra Gói Kinh tế Tuần
+hoàn, trong đó “tái sử dụng, sửa chữa và tái chế
+là một tiêu chuẩn, chất thải là khái niệm của quá
+khứ”. Quần áo đã qua sử dụng ở đây được tổ chức
+theo ba hướng: i) đồ có thể mặc được bán cho các
+nơi có mức sống thấp hơn (như Đông Âu, châu Phi,
+...); ii) quần áo thải được cắt nhỏ dùng làm vật liệu
+cách nhiệt cho công nghiệp ô tô; iii) phần còn lại vận
+chuyển đến các bãi chôn lấp.
+European Green Deal17 là 1 trong 6 ưu tiên của EU
+cho giai đoạn 2019 - 2024. Đây là chiến lược tăng
+trưởng mới của châu Âu nhằm trở thành lục địa
+trung hòa về khí hậu đầu tiên trên thế giới vào năm
+2050. Kế hoạch hành động của European Green Deal
+đặc biệt tập trung vào các ngành sử dụng nhiều tài
+nguyên như dệt may, xây dựng, điện tử và nhựa để
+tăng cường hiệu quả nguồn tài nguyên nhờ chuyển
+đổi sang nền kinh tế sạch và tuần hoàn, đồng thời
+khôi phục đa dạng sinh học và giảm ô nhiễm.
+Trung tâm nghiên cứu Dệt May 4.0 của Viện Dệt
+May, Đại học RWTH Aachen, Đức
+16 Sách "Ngành công nghiệp Dệt May Việt Nam với cuộc CMCN lần thứ 4”, VINATEX, tháng 7/2020
+© Đại học RWTH Aachen Ấn Độ
+Ấn Độ cũng đứng trong nhóm 5 nhà sản xuất
+và xuất khẩu dệt may hàng đầu thế giới với
+nguồn nguyên liệu thô lớn và thế mạnh trên
+toàn bộ chuỗi giá trị. Ngành có một vị trí quan
+trọng trong nền kinh tế quốc dân về tạo việc
+làm, thu nhập và doanh thu xuất khẩu, đóng
+góp khoảng 14% vào sản xuất công nghiệp và
+khoảng 4% vào GDP.
+Tiruppur là một khu vực sản xuất quần áo may
+sẵn dệt kim quan trọng, đóng góp vào hơn
+70% sản lượng hàng dệt kim của Ấn Độ18. Cụm
+công nghiệp Tiruppur có năng lực tiếp cận rất
+tốt tới nguồn bông thô và được trợ giúp bởi các
+doanh nghiệp có tiềm năng tài chính mạnh.
+Hiện Tiruppur đạt kim ngạch xuất khẩu 353,2
+triệu USD và kim ngạch nội địa 271,7 triệu
+USD, cung cấp việc làm trực tiếp cho 600.000
+người và gián tiếp cho 200.000 người.
+Mặc dù luật môi trường được ban hành lần
+đầu tiên vào đầu những năm 1970, việc giảm
+1 nhà máy xử lý nước thải ở Tiruppur
+thiểu và kiểm soát ô nhiễm vẫn còn nhiều hạn chế
+do năng lực giám sát và thi hành luật của Ban kiểm
+soát ô nhiễm còn chưa tương xứng và số lượng
+vượt trội của các doanh nghiệp quy mô nhỏ thiếu
+năng lực kỹ thuật, tài chính và quản lý để xử lý nước
+thải của chính doanh nghiệp.
+Sự thay đổi mà Ấn Độ đã làm để từng bước xanh
+hóa cụm công nghiệp Dệt May Tiruppur bao gồm
+các hoạt động chính như sau:
+Vận hành các nhà máy xử lý nước thải tập
+trung để xử lý nước thải từ các cơ sở nhuộm.
+Đến năm 1999, có 8 nhà máy xử lý nước thải
+như vậy để phục vụ 278 cơ sở đang hoạt động
+ở đây, và 424 cơ sở đã thiết lập các nhà máy xử
+lý nước thải riêng.
+Năm 2005, Tòa án đã chỉ đạo đóng cửa ngay
+lập tức tất cả các doanh nghiệp và nhà máy
+xử lý nước thải thông thường ở Tiruppur chưa
+tiến hành thiết lập quy trình xử lý bằng phương
+pháp thẩm thấu ngược.
+Ngày nay, Tiruppur có 700 cơ sở nhuộm19 trong
+đó 100 cơ sở được trang bị các nhà máy xử lý
+nước thải riêng. Các cơ sở còn lại đã cùng đầu
+tư vào các nhà máy xử lý nước thải tập trung.
+Tiruppur hiện có 18 nhà máy xử lý nước thải
+tập trung với tổng công suất lắp đặt là 97,9
+triệu lít/ngày.
+Hiện tại, ZLD là tiêu chuẩn cho xử lý nước
+thải dệt may. Do đó, nhiều bên hữu quan có
+đóng góp trong việc thúc đẩy sản xuất xanh
+tại Tiruppur tuyên bố rằng việc xả thải "bằng
+không" đã đạt được.
+© WWF-Ấn Độ
+Chương 3.
+Các xu hướng và chứng nhận
+bền vững toàn cầu trong
+ngành Dệt May
+Nhiều thương hiệu lớn trên toàn cầu đang áp dụng các chứng
+nhận bền vững cho sản phẩm và nguyên liệu của họ, đồng thời
+cũng yêu cầu nhà cung ứng tuân thủ chính sách của họ và đạt
+được chứng nhận liên quan. Các chương trình chứng nhận toàn
+cầu đang là một yếu tố góp phần xúc tiến tiêu chuẩn và thực
+hành tốt nhằm giảm thiểu tác động đến môi trường từ hoạt
+động sản xuất và kinh doanh.
+© WWF-Việt Nam / Nguyễn Ngọc Quang
+Phần 1. Các sáng kiến vật liệu bền vững
+Xanh hóa ngành Dệt May bắt đầu từ việc sản xuất nguyên liệu cho ngành một cách bền vững. Trong
+phần này, người đọc sẽ tìm hiểu một số sáng kiến đáng chú ý đang thịnh hành.
+Global Recycled Standard (GRS)
+Global Recycled Standard (GRS)20 là một tiêu chuẩn sản phẩm
+dùng để theo dõi và xác minh hàm lượng vật liệu tái chế trong sản
+phẩm cuối cùng, đồng thời đảm bảo các yêu cầu sản xuất nghiêm
+ngặt. Tiêu chuẩn này áp dụng cho tất cả công ty có sản xuất hoặc
+kinh doanh các sản phẩm dán nhãn GRS. GRS bao gồm quá trình gia
+công, sản xuất, đóng gói, dán nhãn, kinh doanh và phân phối sản
+phẩm được làm từ tối thiểu 20% vật liệu tái chế.
+Tiêu chuẩn Tái chế Toàn cầu (GRS) là một tiêu chuẩn quốc tế, tự
+nguyện, và một tiêu chuẩn sản phẩm đầy đủ đưa ra yêu cầu đánh
+giá bởi bên thứ ba về các vấn đề sau:
+Nhận dạng và truy xuất về thành phần tái chế trong sản phẩm
+dệt may trong toàn bộ chuỗi tạo nên sản phẩm.
+Yêu cầu về môi trường giúp chống suy thoái bằng cách bảo đảm
+sử dụng vật liệu tái chế.
+Những giới hạn về hóa chất giúp đảm bảo việc không sử dụng
+hóa chất độc hại và gây tác động xấu môi trường và sức khỏe
+của người sử dụng.
+Trách nhiệm xã hội theo các công ước của Tổ chức Lao động
+quốc tế (ILO).
+20 Global Recycled Standards Better Cotton Initiatives (BCI)
+The Better Cotton Initiative (BCI)21 là một tổ chức phi lợi nhuận
+toàn cầu và là chương trình bền vững về bông lớn nhất trên thế giới.
+Mục đích của BCI là giúp cho việc sản xuất bông toàn cầu trở nên
+tốt hơn cho những người trồng, cho môi trường và cho tương lai
+của ngành. BCI thúc đẩy những cải tiến có thể đo lường được trong
+trồng bông để giúp hoạt động này bền vững hơn về mặt kinh tế, môi
+trường và xã hội.
+Các hoạt động của BCI bao gồm:
+Xây dựng các nguyên tắc, tiêu chí sản xuất để đưa ra định nghĩa
+toàn cầu về Better Cotton (bông tốt hơn).
+Hỗ trợ nông dân để thúc đẩy các cơ chế tạo điều kiện từ cấp địa
+phương đến toàn cầu, phối hợp với các đối tác có kinh nghiệm,
+khuyến khích các quỹ hợp tác công tư để triển khai các cơ chế
+này.
+Khuyến khích người trồng bông cải tiến liên tục, thông qua số
+liệu đo đạc và chu kỳ rút kinh nghiệm theo mùa vụ.
+Kết nối cung cầu thông qua các đơn hàng được xác định là 100%
+xơ BCI.
+Các cơ chế giám sát, đánh giá, học hỏi để đo lường tiến độ và
+sự thay đổi, đồng thời đảm bảo hệ thống Better Cotton tạo tác
+động tích cực tới đối tượng hưởng lợi trực tiếp.
+Tạo điều kiện trao đổi các thực hành và kiến thức tốt nhất để
+khuyến khích các hành động tập thể.
+21 Better Cotton Initiative Cradle-to-Cradle (C2C)
+Triết lý của C2C22 là thiết kế lại, định hình
+lại hệ thống thiết kế và sản xuất sản phẩm
+truyền thống thành một hệ thống khép kín,
+trong đó mọi vật liệu đi trong chu trình sử
+dụng và tái sử dụng liên tục.
+Để đạt được chứng nhận C2C, các sản phẩm
+cần được đánh giá về hiệu quả môi trường
+và xã hội theo 5 hạng mục bền vững gồm:
+nguyên liệu bền vững; tái sử dụng nguyên
+liệu; quản lý carbon và năng lượng tái tạo;
+quản trị nước; và công bằng xã hội.
+Chứng nhận C2C được trao dựa trên mức
+độ hoạt động tăng dần và yêu cầu gia hạn
+chứng nhận sau mỗi hai năm. Phương thức
+chứng nhận gồm các bước sau:
+Chọn đơn vị đánh giá được công nhận
+để kiểm tra, phân tích và đánh giá sản
+phẩm của bạn.
+Làm việc với đơn vị đánh giá để tổng
+hợp, đánh giá dữ liệu và lập thành hệ
+thống tài liệu.
+Nhận chứng nhận cho sản phẩm của bạn,
+đưa sản phẩm lên sổ ghi chứng nhận C2C
+của Viện Product Innovation Institute.
+Cập nhật và thông tin tới khách hàng của
+bạn về chứng nhận này.
+Báo cáo tiến độ của bạn mỗi hai năm để
+được tái chứng nhận.
+C2C có ý nghĩa nhiều hơn là một dấu hiệu được
+công nhận về chất lượng sản phẩm. Đăng ký với
+C2C có nghĩa là công ty của bạn:
+Đang tham gia vào một cộng đồng các doanh
+nghiệp sáng tạo, sản xuất ra sản phẩm có
+chất lượng được chứng nhận, và mang lại lợi
+ích về xã hội và môi trường trong nền kinh
+tế tuần hoàn.
+Được phép dùng nhãn thương mại C2C để
+thể hiện cam kết liên tục cải tiến và là một
+tuyên bố chất lượng toàn diện.
+Trở thành đơn vị có sản phẩm đươc ưa
+chọn” cho nhiều chương trình mua hàng
+nhấn mạnh yếu tố môi trường.
+22 Cradle-to-Cradle certification Không xả thải hóa chất nguy hại (ZDHC)
+Chương trình ZDHC Roadmap to Zero23 được khởi xướng năm 2011
+nhằm “bảo vệ hành tinh” bằng cách giảm dấu chân hóa chất của ngành
+công nghiệp trong toàn bộ chuỗi cung ứng. ZDHC đánh giá mức độ
+nghiêm trọng của mối nguy hại từ việc sử dụng hóa chất, nhận diện rủi
+ro, phát triển các phương pháp và công cụ, xây dựng nhân thức và giáo
+dục các bên trong chuỗi cung ứng về sử dụng và quản lý hóa chất có
+trách nhiệm, và cách thức thay thế hóa chất độc hại bằng các lựa chọn
+an toàn hơn.
+Có 2 module trong tiếp cận ZDHC. Đối với nhà sản xuất ngành Dệt May,
+module Hóa chất có vai trò là một công cụ tìm kiếm tiên tiến các loại
+hoá chất và thực hành quản lý hóa chất phù hợp. Còn module Nước thải
+thì đi xa so với tuân thủ quy định pháp luật để bảo đảm doanh nghiệp
+xả nước thải không gây tác động tiêu cực tới môi trường và cộng đồng
+xung quanh.
+Nhà cung ứng được đánh giá dựa trên tiêu chuẩn thống nhất như trong
+Hướng dẫn về Nước thải của ZDHC. Họ có thể kiểm tra nước thải của
+mình và chia sẻ kết quả đồng thời với tất cả các khách hàng. ZDHC có
+86 Phòng thí nghiệm được công nhận trên toàn cầu tính đến cuối năm
+2019. Các nhãn hàng cũng có được lợi ích từ hệ thống này vì họ có thể
+tìm kiếm kết quả từ nhiều nhà cung ứng ngay trên 1 nền tảng, đó là
+ZDHC Gateway của module Nước thải24.
+24 ZDHC Gateway Wastewater Module
+Brands_Labs__Oct_2019.pdf
+Phần 2. Quy trình sản xuất ngành Dệt May
+Trên toàn cầu có rất nhiều cơ chế và công cụ giúp doanh nghiệp sản xuất cải thiện hoạt động môi trường
+để liên tục trở nên “xanh hơn”. Dưới đây là mô tả tóm tắt một số công cụ được công nhận và áp dụng phổ
+biến hàng đầu.
+Higg Index
+Higg Index25 là bộ công cụ tự đánh giá tính bền vững được phát triển bởi
+SAC để xem xét tác động của sản xuất, thương hiệu và sản phẩm ngành
+Dệt May.
+Để đạt được chứng nhận Higg Index, doanh nghiệp cần áp dụng các công
+cụ Higg dưới đây:
+Công cụ cho sản phẩm (Higg Product Tools) giúp các thương hiệu,
+nhà bán lẻ, nhà sản xuất,… hiểu được tác động môi trường của trang
+phục, giày dép và hàng dệt. Có hai công cụ sản phẩm là Chỉ số Bền
+vững Vật liệu Higg (Higg MSI) và Mô-đun Sản phẩm Higg (Higg PM).
+Công cụ cho nhà máy (Higg Facility Tools) đo lường các tác động bền
+vững đến môi trường và xã hội tại các cơ sở sản xuất trên khắp thế
+giới. Có hai công cụ cho nhà máy gồm module Môi trường (Higg FEM)
+và module Lao động & Xã hội (Higg FSLM).
+Công cụ cho nhãn hàng và bán lẻ (Higg Brand and Retail Tool): Nhãn
+hàng và nhà bán lẻ toàn cầu sử dụng công cụ này để đánh giá tính
+bền vững của vòng đời sản phẩm, hiệu quả môi trường và tác động
+xã hội của chuỗi giá trị.
+Higg Index cho phép và khuyến khích các thương hiệu, nhà bán lẻ và nhà
+sản xuất trở nên minh bạch bằng cách truyền đạt công khai thông tin về
+tính bền vững rõ ràng, đáng tin cậy và có ý nghĩa. Higg Index tạo ra các
+giá trị cho doanh nghiệp thông qua:
+Tập trung vào chiến lược bền vững của công ty;
+Xác định các cơ hội thúc đẩy đổi mới đồng thời cắt giảm chi phí và
+chất thải;
+Tránh lãng phí thời gian và chi phí nhờ cách tiếp cận “tự đánh giá”;
+Giảm thời gian chia sẻ dữ liệu, chi phí và độ phức tạp;
+Thúc đẩy cải tiến thông qua lập định mức ngành;
+Tối ưu hóa việc tìm kiếm nguồn cung;
+Hỗ trợ trao đổi thông tin giữa các bên hữu quan.
+25 Higg Index website: bluesign Approved
+bluesign26 là một tiêu chuẩn quốc tế ra đời năm 2000, với mục đích
+quản lý việc không sử dụng các hóa chất độc hại trong sản phẩm,
+đặc biệt là các sản phẩm dệt may. Chứng nhận này thể hiện cho
+mức độ bảo đảm với người tiêu dùng rằng sản phẩm được sản
+xuất với việc sử dụng tài nguyên có trách nhiệm và tác động tới môi
+trường và con người thấp nhất có thể. Các tiêu chí nghiêm ngặt của
+bluesign cung cấp tất cả thông tin liên quan và đảm bảo tính minh
+bạch, nhất quán và khả năng truy xuất nguồn gốc của tất cả các
+bước xử lý nguyên liệu. Các nguyên liệu được tạo ra  trong chuỗi
+sản phẩm hoặc các sản phẩm trung gian được bluesign đánh giá
+và mang nhãn bluesign®APPROVED. Hệ thống quản lý bluesign bao
+gồm:
+Quản lý dòng vào: Loại bỏ chất độc hại và kiểm soát nguồn
+đầu vào.
+Quản lý quá trình sản xuất: Đảm bảo an toàn và thân thiện
+môi trường.
+Quản lý dòng ra: Kiểm tra sản phẩm đầu ra phù hợp với tiêu
+chuẩn chất lượng và yêu cầu của khách hàng.
+Chứng nhận bluesign là phương thức hiệu quả nhất giúp doanh
+nghiệp đảm bảo tuân thủ các tiêu chuẩn mới nhất về Môi trường,
+Sức khỏe và An toàn mà không ảnh hưởng đến chức năng, chất
+lượng hoặc thiết kế sản phẩm của doanh nghiệp nhờ giúp giảm lãng
+phí tài nguyên và chi phí trong mỗi công đoạn của quá trình sản
+xuất và giảm tiêu thụ nước, năng lượng, cũng như lượng hóa chất
+có trong nước thải.
+26 Bluesign website: Global Organic Textile Standard (GOTS)
+GOTS27 được phát triển để định ra các yêu cầu được công nhận trên toàn
+thế giới và đảm bảo đặc tính hữu cơ của hàng dệt từ khâu sử dụng hạt
+giống để trồng bông, quá trình thu hoạch, sử dụng nguyên liệu đảm bảo
+rằng sản phẩm được sản xuất theo đúng nhãn được dán.
+Để được chứng nhận GOTS thì các sản phẩm dệt may phải chứa ít nhất
+70% sợi hữu cơ. Tất cả các hóa chất đầu vào như thuốc nhuộm và chất
+trợ phải đáp ứng các tiêu chí môi trường và độc tính nhất định. Việc trồng
+bông không được sử dụng thuốc trừ sâu độc hại và khó phân hủy và
+phân bón tổng hợp. Lợi ích cho nhà sản xuất bao gồm:
+Giảm thiểu rủi ro: GOTS là công cụ quản lý rủi ro toàn diện cho
+chuỗi cung ứng với các tiêu chí nghiêm ngặt và bao quát về xã hội
+và môi trường.
+Tạo uy tín: Chứng nhận được cấp bởi bên thứ ba độc lập. Chứng
+nhận này bao gồm việc đảm bảo chất lượng kép gồm kiểm tra tại
+chỗ và kiểm nghiệm sản phẩm.
+Hiệu quả và năng suất: Hệ thống quản lý nước thải và các yêu cầu
+khác của GOTS giúp cải thiện hiệu quả sinh thái và tuân thủ các tiêu
+chí xã hội.
+Quản lý chuỗi cung ứng bền vững: Giảm chi phí cho doanh nghiệp
+bởi họ không cần truy vết toàn bộ chuỗi cung ứng của mình.
+Đổi mới và khác biệt: Doanh nghiệp có thể tiếp cận thị trường mới
+như mảng mua sắm công, bởi GOTS được các chính phủ công nhận.
+Phát triển thị trường bền vững: GOTS tạo điều kiện cho việc doanh
+nghiệp trở thành nhà dẫn dắt thị trường.
+27 GOTS website Oeko-Tex
+Standard 100 của OEKO-TEX®28 là một trong những chứng nhận nổi
+tiếng nhất thế giới dành cho hàng dệt may để kiểm tra chất độc hại. Tiêu
+chuẩn này thể hiện sự tin tưởng của khách hàng và độ an toàn cao của
+sản phẩm. Việc đánh giá để cấp chứng nhận được tiến hành bởi các viện
+đối tác OEKO-TEX® độc lập trên danh mục tiêu chí mở rộng của OEKO-
+TEX®, trong đó, có xem xét đến các chất được quy định và không được
+quy định nhưng có thể gây hại cho sức khỏe con người. Việc chứng nhận
+có những điểm đáng chú ý sau:
+Đánh giá các thành phần và vật liệu của sản phẩm theo bộ tiêu chí
+Standard 100.
+Nếu sản phẩm vượt qua sự đánh giá tại phòng lab, và các biện pháp
+đảm bảo chất lượng thường xuyên được thực hiện một cách rõ ràng,
+thì sản phẩm sẽ được cấp chứng nhận Oeko-Tex Standard 100.
+Chuyên gia Oeko-Tex sẽ đánh giá thực tế tại doanh nghiệp, có thể
+trước hoặc ngay sau khi cấp chứng nhận, để xác nhận lại tất cả các
+chi tiết trong đánh giá.
+Các tiêu chí bao gồm cấm sử dụng các chất nhuộm azo, formaldehit,
+các hóa chất độc hại với sức khỏe, và khoảng 100 thông số thử
+nghiệm và có tính đến mục đích sử dụng của hàng dệt may.
+Các nhà sản xuất sẽ thu được lợi ích gồm:
+Sự tin tưởng của khách hàng đối với nhãn OEKO-TEX® Standard 100
+trên các sản phẩm và nguyên vật liệu.
+Chứng nhận Standard 100 giúp tiếp cận nhà mua có các yêu cầu
+khắt khe hơn.
+Công ty có được sự chắc chắn khi lựa chọn các nhà cung cấp mới đáp
+ứng được yêu cầu của mình.
+Tăng cường chất lượng sản xuất và sản phẩm mà không cần tốn
+thêm chi phí cho việc thuê đơn vị đánh giá độc lập.
+28 Oeko-Tex website: ISO 14001
+ISO 1400129 là một phần của bộ tiêu chuẩn quốc tế về quản lý môi
+trường áp dụng cho tất cả mọi tổ chức doanh nghiệp ở bất cứ nơi
+đâu. Tiêu chuẩn này giúp đảm bảo cho hoạt động trong ngành Dệt
+May theo hướng thân thiện với môi trường, thúc đẩy cải tiến liên
+tục và bền vững, cũng như giảm tác động môi trường từ quá trình
+sản xuất. Để được chứng nhận, doanh nghiệp cần tham khảo các
+bước sau:
+Đào tạo nội bộ về yêu cầu của tiêu chuẩn và yêu cầu của pháp
+luật.
+Xây dựng văn bản cho hệ thống quản lý môi trường.
+Thực hiện và giám sát việc thực hiện hệ thống.
+Đánh giá và xác nhận tuân thủ.
+Nhận chứng chỉ.
+Duy trì chứng chỉ.
+Lợi ích cho các nhà sản xuất bao gồm:
+Quản lý môi trường tốt hơn nhờ giảm thiểu phát thải và sử dụng
+nguyên, nhiên liệu hiệu quả hơn.
+Bảo vệ các nguồn tài nguyên thiên nhiên như đất, nước.
+Cải thiện năng suất để cắt giảm chi phí vận hành.
+Cải thiện hình ảnh của doanh nghiệp và tăng cơ hội tiếp cận thị
+trường tốt hơn.
+Đáp ứng các nghĩa vụ pháp lý để giành được sự tin tưởng từ các
+bên hữu quan.
+29 ISO 14000 Environmental Management Standard Phần 3. Nhãn sinh thái trên sản phẩm
+“Nhãn sinh thái” hay còn gọi là “nhãn xanh” là những hệ thống dán nhãn cho các mặt hàng thực phẩm và
+tiêu dùng thiết yếu. Các loại nhãn này là hình thức để thông tin trực tiếp tới người tiêu dùng về tính bền
+vững của sản phẩm và nhằm giúp họ dễ dàng cân nhắc mối quan tâm về môi trường ngay khi mua sắm.
+bluesign PRODUCTS
+Người tiêu dùng ngày càng nhận thức rõ hơn về các vấn đề bền
+vững. Họ muốn biết sản phẩm đó đến từ đâu, được sản xuất theo
+cách nào và trong điều kiện lao động thế nào.
+Các thương hiệu, nhà sản xuất và nhà cung cấp hóa chất trong toàn
+chuỗi sản xuất ngành Dệt May có thể sử dụng hệ thống bluesign.
+Nhấn mạnh “trọng tâm của hệ thống là người tiêu dùng”, hệ thống
+này cho phép phân tích và chứng nhận về nguyên liệu, thành phần
+hóa chất, phát thải, tiêu hao năng lượng, nước và xử lý nước thải.
+Chứng nhận bluesign®PRODUCT dựa trên 5 khía cạnh chủ đạo sau:
+Năng suất sử dụng tài nguyên
+An toàn cho người tiêu dùng
+Nước thải
+Khí thải
+An toàn và sức khỏe nghề nghiệp
+Nhìn chung, quá trình chứng nhận này giúp các doanh nghiệp cắt
+giảm dấu chân sinh thái cho các sản phẩm của họ. Một sản phẩm
+mang nhãn bluesign®PRODUCT cho biết rằng sản phẩm đó đã loại
+trừ các chất có hại khỏi quá trình sản xuất và đảm bảo rằng thành
+phẩm đáp ứng các yêu cầu bảo vệ người tiêu dùng nghiêm ngặt và
+toàn diện nhất.
+EU Ecolabel
+Hệ thống European Ecolabel30 cho phép các nhà sản xuất, nhà bán
+lẻ hoặc nhà cung cấp dịch vụ dùng nhãn “EU Flower” cho mục đích
+tiếp thị sản phẩm của mình trên khắp 27 quốc gia thành viên EU. Hệ
+thống nhãn sinh thái này khuyến khích áp dụng các thực hành bền
+vững trong sản xuất hàng dệt may, bao gồm các hạn chế về lượng
+đối với phát thải nước thải và các chất độc hại. Việc sử dụng các loại
+xơ bền vững cũng được khuyến khích mạnh mẽ.
+Việc đạt được chứng nhận nhãn sinh thái EU mang lại rất nhiều lợi
+ích cho sản phẩm của doanh nghiệp. Nhãn giúp cho sản phẩm nổi
+bật hơn so với các đối thủ cạnh tranh, nâng cao hình ảnh doanh
+nghiệp và quan trọng nhất là tăng doanh số bán hàng và giảm thiểu
+chi phí cho doanh nghiệp. Một số lợi ích khác có thể kể đến bao
+gồm:
+Gia tăng lợi thế cho sản phẩm trong đấu thầu mua sắm công
+và tư.
+Cải thiện hiệu quả môi trường của doanh nghiệp.
+Nâng cao nhận thức về tác động môi trường của sản phẩm với
+các bên hữu quan như nhà bán lẻ, người tiêu dùng, tổ chức phi
+chính phủ và cơ quan quản lý môi trường.
+Với các tiêu chí của mình, nhãn sinh thái EU có thể được sử
+dụng làm cơ sở thiết lập các biện pháp tài khóa nhằm thúc đẩy
+các sản phẩm xanh.
+30 EU Ecolabel Product Groups and Criteria FAIRTRADE
+Thương mại công bằng là một nhãn đạo đức được công nhận rộng rãi. Nhãn
+cho biết các thành phần của sản phẩm được sản xuất bởi các tổ chức nông
+dân quy mô nhỏ đáp ứng các tiêu chuẩn xã hội, kinh tế và môi trường của
+Fairtrade. Các tiêu chí yêu cầu bao gồm bảo vệ môi trường, quyền của người
+lao động, khoản thưởng Fairtrade để hỗ trợ người sản xuất đầu tư các dự án
+kinh doanh hoặc dự án cộng đồng. Mục đích chính của Fairtrade là giúp đỡ
+và hỗ trợ những trang trại quy mô nhỏ - một trong những nhóm yếu thế nhất
+thế giới.
+Các lợi ích mà Fairtrade mang tới bao gồm:
+Bảo vệ người nông dân khỏi biến động giá cả thị trường. Điều này đảm
+bảo nông dân có thể có được một nguồn thu nhập ổn định và lập kế
+hoạch cho tương lai của mình. Fairtrade chương trình chứng nhận duy
+nhất bảo đảm giá bán tối thiểu duy nhất cho nông dân. Thu nhập phụ
+thu được từ các sáng kiến Fairtrade cũng giúp cộng đồng phát triển các kỹ
+thuật canh tác tốt hơn và hiệu quả hơn, tăng quy mô và giá trị sản lượng
+cây trồng.
+Các quy định và tiêu chuẩn Fairtrade bằng giúp bảo vệ môi trường thông
+qua tiêu chí giảm phát thải nhà kính, bảo tồn các giống loài hoang dã và
+ngăn chặn việc sử dụng thuốc trừ sâu có hại.
+Để được chứng nhận Fairtrade, các tổ chức phải tuân thủ các tiêu chuẩn
+nghiêm ngặt về môi trường. Điều này khuyến khích nông dân và người
+trồng tham dự các khóa đào tạo để giúp họ hiểu rõ hơn về tác động môi
+trường của các hoạt động nông nghiệp và cải thiện năng suất.
+Fairtrade thúc đẩy sản xuất hữu cơ, quản lý chất thải có trách nhiệm,
+tránh sử dụng sinh vật biến đổi gen, duy trì các giải pháp giảm tác động
+môi trường của sản xuất và sản phẩm.
+Fairtrade thúc đẩy bình đẳng. Nhà sản xuất các sản phẩm Fairtrade có
+thể kiểm soát nhiều hơn đối với cây trồng của họ, môi trường làm việc an
+toàn và được đảm bảo, và không bị phân biệt đối xử hoặc bị thành kiến.
+Chương 4.
+Triển vọng và hướng dẫn
+chuyển đổi xanh cho ngành
+Dệt May Việt Nam
+© WWF-Việt Nam / Nguyễn Ngọc Quang
+Phần 1. Triển vọng chuyển đổi xanh
+Dấu chân môi trường của ngành
+Ngành Dệt May thường liên quan tới các
+vấn đề như khai thác, sử dụng nhiều nước
+và xả nước thải ở mức độ cao, tiêu thụ
+nhiều năng lượng cho các công đoạn gia
+nhiệt và tạo hơi nước, và vì vậy gây tác động
+đáng kể đến tài nguyên nước và phát thải
+khí nhà kính.
+Sự chuyển đổi xanh ngành Dệt May sẽ
+giúp tiết kiệm chi phí sản xuất, giảm nhẹ
+sự phụ thuộc vào tài nguyên thiên nhiên
+cũng như giảm thiểu các ảnh hưởng bất
+lợi của quá trình sản xuất đến môi trường.
+Mặc dù, tại thời điểm hiện tại thì Việt Nam
+chưa có dữ liệu chính thức nào về kiểm kê
+năng lượng và nước tiêu hao cho tất cả các
+doanh nghiệp sản xuất của ngành, nhưng
+dưới đây là những điểm đáng chú ý về dấu
+chân môi trường của ngành để các bên hữu
+quan dành trọng tâm hoạt động:
+Theo VITAS và USAID, ngành Dệt May
+Việt Nam chi khoảng 3 tỷ USD mỗi năm
+cho tiêu thụ năng lượng31. Thống kê
+cho thấy dệt may chiếm khoảng 8%
+nhu cầu năng lượng của toàn bộ ngành
+công nghiệp và phát thải khoảng 5 triệu tấn
+CO2 mỗi năm.32
+Các quy trình xử lý ướt hàng dệt may (sợi,
+vải và hàng may) có dấu chân môi trường
+bất lợi nhất vì sự thâm dụng nước cho các
+khâu giặt, giũ, tiền xử lý, nhuộm và hoàn tất.
+Nước thải xả ra với lưu lượng lớn và chứa
+nhiều hóa chất sau các quy trình xử lý. Nhiều
+loại hóa chất có thể được dùng trong sản
+xuất như thuốc nhuộm có chứa azo, PFOS
+và PFAS (các chất per- và poly-fluoro -alkyl)
+làm chất chống thấm nước, deca-BDEs làm
+chất chống cháy và clo để tẩy trắng. Những
+chất như vậy đều có tác động nghiêm trọng
+đến môi trường, an toàn và sức khỏe con
+người.
+Trong các cơ sở nhuộm và hoàn tất, tùy vào
+trình độ công nghệ và trang thiết bị, trung
+bình tiềm năng tiết kiệm tính mỗi tấn sản
+phẩm là khoảng 0,2 đến 0,5 kg thuốc nhuộm;
+100 - 200kg hóa chất và các chất phụ trợ; 50
+- 100m3 nước; giảm tiêu thụ khoảng 150kg
+dầu và 50 - 150 KWh điện33.
+31 Hội thảo “Hỗ trợ kỹ thuật ứng dụng công nghệ năng lượng phát thải thấp cho các doanh nghiệp dệt may Việt Nam”, 23/8/2017
+32 Báo cáo “Development of methodology and carry out sector research in garment sector and energy & water auditing to garment processing companies in
+Vietnam” (PROJECT NUMBER: VN205300/VZ1420 & 40001601/510001, WWF/Enerteam
+33 “Thực hiện SXSH trong các doanh nhiệp dệt may Việt Nam”, Tin bài Văn phòng SXSH và Sản xuất tiêu dùng bền vững, đăng ngày 18/10/2018
+Cơ hội chuyển đối xanh đối với ngành Dệt
+May Việt Nam
+Theo VITAS, hiện tại trong ngành có 70% là
+doanh nghiệp may, 6% là sợi, 17% là dệt, 4%
+là nhuộm và hoàn tất, còn lại 3% là các đơn
+vị phụ trợ. Trong số đó, 85% doanh nghiệp
+may là gia công CMT (cut-make-trim, tạm
+dịch là cắt-may-làm sạch) và 15% là thực
+hiện FOB (Free On Board), tức là doanh
+nghiệp chủ động từ nguồn hàng, máy móc,
+chi phí, nhân công cho tới khi chuyển hàng
+ra ngoài cảng biển).34
+Hiện tại có một số xu thế và thực tiễn dưới
+đây được xem là cơ hội tốt để thúc đẩy
+chuyển đổi xanh đối với ngành Dệt May
+Việt Nam:
+Sự dịch chuyển chuỗi cung ứng dệt may từ
+Trung Quốc, Đài Loan và Hồng Kông sang
+Việt Nam. Điều này có tác động một phần
+đáng kể từ các hiệp định thương mại được
+thông qua gần đây gồm CPTPP và EVFTA,
+trong đó có ưu đãi thuế dành cho hàng hóa
+có xuất xứ Việt Nam. Các yếu tố quan trọng
+khác bao gồm sự căng thẳng trong quan
+hệ thương mại Mỹ-Trung, môi trường kinh
+doanh thuận lợi và sự ổn định về chính trị,
+kinh tế của Việt Nam (xem đồ thị minh họa).
+Như đã đề cập ở Chương 2, các nhãn
+hàng lớn dành ưu tiên cho những đối tác
+kinh doanh có trách nhiệm về xã hội và
+môi trường. H&M, Levi Strauss, GAP and
+UNIQLO là những ví dụ về xu hướng hiện tại
+của ngành công nghiệp thời trang. Các nhà
+sản xuất ở Việt Nam cần lưu ý tới yếu tố này
+tăng cường uy tín.
+34 Textile and Garment Sector in Vietnam: Water Risks and Solutions, WWF, 2018
+Trong phạm vi rộng hơn và dài hạn,
+ngành Dệt May đã chấp nhận ý tưởng
+rằng để đạt được tăng trưởng bền
+vững, điều cần thiết là phải mở rộng
+sản xuất của mình sang bán thiết kế
+gốc và sản xuất thương hiệu gốc.
+Ngành ngân hàng Việt Nam đang thực
+hiện các chính sách ngân hàng xanh,
+tín dụng xanh và tăng cường tài trợ cho
+các dự án xanh trong ngành Dệt May.
+Công nghệ trong ngành liên tục đổi
+mới. Công nghệ thông tin về thu nhận
+và quản lý dữ liệu đã giúp cho quá trình
+nhuộm dần ít phụ thuộc vào kỹ năng
+của người lập đơn công nghệ, ổn định
+chất lượng mẻ nhuộm cũng như tăng
+cường tỷ lệ RFT (righ-first-time, tạm
+dịch là đúng ngay từ đầu). Nhiều nhà
+sản xuất đã đạt được tỉ lệ này ở mức
+95-98% thay vì 70-80% khi không ứng
+dụng công nghệ thông tin. Với hoạt
+động của rô-bốt thì việc trải và cắt vải
+cũng giúp giảm nhân công tới 80% và
+tiết kiệm vật liệu 3%.
+Các tổ chức hợp tác phát triển quốc tế
+cũng đang có những hỗ trợ mạnh mẽ
+cho ngành cả về kỹ thuật, tài chính, và
+chia sẻ thông tin và kiến thức. Một số
+chương trình đang chú ý có thể kể tới
+bao gồm:
+- Dự án FABRIC của GIZ nhằm mục đích thúc
+đẩy sản xuất bền vững trong ngành, đặc
+biệt chú trọng tới các công nghệ và quản lý
+quá trình nhuộm, công nghệ và thực hành
+tốt trong xử lý nước thải, và quản lý sản
+xuất nói chung.
+- Nhóm Tài nguyên Nước 2030 thuộc World
+Bank hoạt động ở Việt Nam từ năm 2016.
+Tổ công tác ngành Dệt May thuộc nhóm
+được thành lập cuối năm 2019, do VEA,
+VITAS và MPI đồng
+xúc tiến xử lý tái chế và tái sử dụng nước
+thải ở các nhà máy trong khu công nghiệp
+nhằm góp phần bảo đảm an ninh nguồn
+nước cho quốc gia.
+- Chương trình “Vươn tới đỉnh cao ở Việt
+Nam” thuộc Sáng kiến Thương mại Bền
+vững của IDH là một nỗ lực cộng tác giữa
+các cơ quan quản lý, doanh nghiệp dệt may
+và da giày, nhãn hàng toàn cầu, tổ chức
+quốc tế và tổ chức xã hội dân sự để cùng
+thúc đẩy áp dụng các thực hành sản xuất
+bền vững tại Việt Nam.35
+35 IDH Race to the Top
+practices
+Định vị các bên hữu quan trong quá trình
+chuyển đổi xanh ngành Dệt May Việt Nam
+Một “bản đồ” về các bên hữu quan sẽ giúp
+xác định các tổ chức có vai trò trong quá
+trình chuyển đổi xanh ngành Dệt May Việt
+Nam. Bản đồ có cấu trúc 3 mảng khác nhau
+về bản chất của tổ chức (gồm Khối công,
+Khối tư nhân, Tổ chức xã hội dân sự và Nhà
+tài trợ) và 3 tầng ảnh hưởng bao gồm:
+Bên hữu quan chính là những tổ chức
+có ảnh hưởng đáng kể tới quá trình
+chuyển đổi dựa trên quyền hạn hoặc vị
+trí của mình.
+Bên hữu quan sơ cấp là những tổ chức trực
+tiếp ảnh hưởng hoặc bị ảnh hưởng, tích cực
+hoặc tiêu cực bởi hoạt động của ngành, có
+thể với tư cách là nhà thầu phụ, đối tác hợp
+tác hoặc người thụ hưởng được chỉ định.
+Bên hữu quan thứ cấp hoặc “bên trung
+gian” là những tổ chức có ảnh hưởng gián
+tiếp đến ngành Dệt May.
+Bản đồ dưới đây là định vị hiện tại của các tổ
+chức này và sẽ thay đổi theo thời gian khi các
+tổ chức thay đổi trạng thái, có thể ít liên quan
+hơn hoặc không còn liên quan, hoặc khi có các
+tổ chức khác xuất hiện.
+Bên hữu quan chính
+Cơ sở đào tạo
+chuyên ngành
+World Bank
+Better Work
+EU Switch Asia
+Cơ quan
+xây dựng tiêu chuẩn
+Tổ chức xã hội dân sự
+và nhà tài trợ
+Doanh nghiệp
+xơ và sợi
+Khối tư nhân
+Khối công
+Cơ quan tư vấn
+Nhà cung cấp về:
+- Công nghệ xử lý nước thải
+- Công nghệ xử lý hàng dệt
+Cơ quan lập pháp
+Tổng cục
+Môi trường
+Cộng đồng địa phương
+Nhãn hàng
+UBND Tỉnh thành
+Doanh nghiệp dệt
+Khu công nghiệp
+Nhà cung ứng
+hoá chất
+Ngân hàng và
+tổ chức tài chính
+Doanh nghiệp may
+Trường Đại học
+Cảnh sát
+Môi trường
+Ban Quản lý
+Khu công nghiệp
+cấp tỉnh
+Tổng cục
+Thống kê
+Nhân lực
+ngành
+Bên hữu quan sơ cấp
+Bên hữu quan thứ cấp
+Một bản đồ như vậy sẽ tạo ra nền tảng đa
+bên cho đối thoại hợp tác giữa chính phủ,
+khối tư nhân và khối xã hội dân sự nhằm
+thúc đẩy việc thực hiện các giải pháp bảo vệ
+môi trường hữu hiệu. Ở phạm vi khu vực, bản đồ
+này cũng giúp khối tư nhân tiếp cận với các quá
+trình ra chính sách quản trị các lưu vực nguồn
+nước.
+Phần 2. Tầm nhìn và mục tiêu xanh hóa cho ngành Dệt May Việt Nam tới năm 2030
+Đóng góp vào các cam kết quốc gia và quốc
+tế của Việt Nam
+Sự chuyển đổi xanh của ngành sẽ cùng
+đóng góp vào các nỗ lực quốc gia để đạt
+tới mục tiêu về phát triển bền vững, biến
+đổi khí hậu và bảo vệ môi trường, đặc biệt
+đã được đề cập trong 3 văn bản đáng chú ý
+nhất dưới đây:
+Chương trình nghị sự 2030 về phát
+triển bền vững: các mục tiêu liên quan
+chính gồm Mục tiêu 6 “Đảm bảo đầy đủ
+và quản lý bền vững tài nguyên nước và
+hệ thống vệ sinh cho tất cả mọi người”,
+Mục tiêu 12 “Đảm bảo sản xuất và tiêu
+dùng bền vững” và Mục tiêu 13 “Ứng
+phó kịp thời, hiệu quả với biến đổi khi
+hậu và thiên tai”.
+Thỏa thuận Paris về biến đổi khí hậu:
+thực hiện nhiệm vụ giảm phát thải khí
+nhà kính trong công nghiệp để bảo đảm
+Đóng góp Quốc gia tự quyết định (NDC) phù
+hợp với điều kiện hiện tại trên có sở đánh
+giá nỗ lực toàn cầu hàng năm, bao gồm cả
+thiết lập hệ thống công khai, minh bạch. •
+Chiến lược quốc gia về tăng trưởng xanh:
+Nhiệm vụ số 1 nhấn mạnh vào việc giảm
+cường độ phát thải khí nhà kính và thúc đẩy
+sử dụng các dạng năng lượng sạch và tái
+tạo. Nhiệm vụ số 2 yêu cầu xúc tiến xanh
+hóa sản xuất.
+Tầm nhìn xanh hóa ngành Dệt May
+Năm 2019, với giá trị xuất khẩu ấn tượng, Việt
+Nam đã đứng trong số 5 quốc gia và khu vực
+xuất khẩu dệt may lớn nhất thế giời. Trong dịp
+kỷ niệm 20 năm ngày thành lập Hiệp hội Dệt
+May Việt Nam,
+mạnh kỳ vọng ngành sẽ tiếp tục tăng trưởng để
+tiến tới giữ vị thế trong nhóm 3 quốc gia hàng
+đầu; tăng cường vị thế trong chuỗi cung ứng nguyên liệu cũng như hướng tới mục tiêu
+có 30 thương hiệu của Việt Nam trên thị
+trường thế giới vào năm 2030, đồng thời
+tuân thủ nghiêm ngặt các quy tắc bảo vệ
+môi trường trong toàn bộ chuỗi sản xuất.
+Để đạt được những kỳ vọng trên, một tuyên
+bố tầm nhìn xanh hóa ngành Dệt May được
+đề xuất như sau: “Tới năm 2030, ngành
+Dệt May Việt Nam sẽ trở thành điểm đến
+số 1 cho những khách hàng muốn tìm
+kiếm nguồn cung bền vững các sản phẩm
+dệt may không gây tác động có hại cho
+môi trường và con người. Ngành sẽ hoạt
+động một cách tuần hoàn, hiệu quả và bền
+vững trên khía cạnh sử dụng nước và năng
+lượng, áp dụng các thực hành xả nước thải
+và quản lý chất thải có trách nhiệm.”
+Các mục tiêu xanh hóa ngành Dệt May
+Giảm 40% lượng nước sử dụng trong
+ngành nhuộm bằng cách áp dụng công
+nghệ nhuộm không hoặc ít sử dụng
+nước và sử dụng lại nước thải sau xử
+lý cho các công đoạn giặt, rửa, vệ sinh
+vào năm 2025 và giảm hằng năm lượng
+khai thác và tiêu thụ nước từ sau năm
+Sử dụng ít nhất 20% xơ polyeste tái chế
+và 15% bông hữu cơ tới năm 2025 để giảm
+thiểu các nguyên liệu có nguồn gốc từ dầu
+mỏ và thuốc bảo vệ thực vật (ví dụ: thuốc
+trừ sau, phân bón, hóa chất).36
+Lập kế hoạch hình thành 10 khu công nghiệp
+chuyên dệt may (300 - 500ha mỗi khu) với cơ
+sở hạ tầng và vận hành được thiết kế thân
+thiện với môi trường.37
+Tăng số lượng các sản phẩm chứng nhận
+sinh thái như BCI, Oeko-Tex 100, LEED và
+tăng hàng năm số các nhà sản xuất áp dụng
+và duy trì các chứng nhận phát triển bền
+vững liên quan ở cấp độ nhà máy như Higg
+Index, ZDHC, ISO14001, v.v…
+Giảm hàng năm tiêu hao tài nguyên cũng
+như chất thải vào môi trường nhờ tăng
+cường áp dụng tiếp cận Hiệu quả Tài nguyên
+và Sản xuất sạch hơn, BATs và BEPs, thực
+hành cộng sinh công nghiệp.
+Tăng cường sử dụng điện mặt trời và các
+dạng năng lượng tái tạo khác với mục tiêu
+đạt 10% lượng điện sử dụng từ nguồn tái
+tạo37 vào năm 2025 và tỷ lệ này tăng hằng
+năm trong giai đoạn 2026 - 2030.
+Cường độ phát thải khí nhà kính hàng năm
+giảm đạt 0,4 – 0,7% giữa năm sau so với năm
+trước đó trong giai đoạn 2021 – 2030.
+Liên tục giảm sử dụng hóa chất nguy hại và
+tiến tới không xả thải hóa chất nguy hại vào
+năm 2030.
+36 Phát triển chuỗi giá trị bền vững trong ngành công nghiệp dệt may”, Vinatex, 24/12/2019
+37 Sách "Ngành công nghiệp Dệt May Việt Nam với cuộc CMCN lần thứ 4”, VINATEX, tháng 7/2020
+Phần 3. Các tiếp cận chiến lược hướng tới chuyển đổi xanh
+Xúc tiến chuỗi cung ứng xanh
+Chuyển đổi xanh trong ngành Dệt May hướng tới giảm sự phụ thuộc vào tài nguyên thiên nhiên cũng như
+tác động xấu từ hoạt động sản xuất tới môi trường trong toàn bộ chuỗi cung ứng. Một số tiếp cận mang
+tính chiến lược cần được triển khai trong các mắt xích của chuỗi cung ứng có thể đề xuất tới, nhưng không
+bị giới hạn bởi, bao gồm:
+Giảm chi phí sản xuất song hành với giảm chi
+phí khai thác tài nguyên (cho nguyên liệu, nước,
+năng lượng và hóa chất) và phát thải nguy hại
+vào môi trường. Một số phương pháp đã được
+kiểm chứng bao gồm Hiệu quả Tài nguyên và
+Sản xuất sạch hơn, Giảm thiểu Chất thải, Cộng
+sinh công nghiệp sẽ mang lại hiệu quả khi áp
+dụng liên tục.
+Sử dụng hiệu quả và bền vững
+các nguồn tài nguyên
+“Một nền kinh tế dệt may tuần hoàn mô tả một hệ
+thống công nghiệp nhằm loại bỏ các chất gây quan ngại và phát thải vi sợi; biến đổi cách thức thiết kế
+quần áo, bán và sử dụng sao cho có thể giảm thải ra
+tự nhiên; cải thiện triệt để khả năng tái chế bằng cách
+thay đổi thiết kế, thu gom và tái sản xuất; và sử dụng
+hiệu quả các nguồn tài nguyên và hướng tới sử dụng
+nguyên liệu tái tạo.”38
+Các thực hành
+kinh tế tuần hoàn
+Thiết kế sản phẩm xanh và nhãn sinh thái cho
+hàng dệt may có thể thực hiện được trong toàn bộ
+quá trình sản xuất, bắt đầu từ các vật liệu tự nhiên
+sẽ đi vào sản phẩm, và trong thiết kế có sử dụng
+sợi hữu cơ và thuốc nhuộm tự nhiên, vật liệu tái
+chế, sử dụng tối thiểu hóa chất (ví dụ: không tẩy
+trắng) và triệt để loại bỏ các hóa chất độc hại.
+Thiết kế sản phẩm xanh và nhãn sinh
+thái cho các sản phẩm dệt và may mặc
+Mục tiêu của kho vận (logistics) xanh là vận chuyển và
+lưu trữ nguyên liệu và sản phẩm với chi phí thấp nhất
+có thể trong khi vẫn duy trì các tiêu chuẩn cao nhất và
+giảm thiểu tác động đến môi trường trong quá trình
+này. Kho vận xanh bao hàm sự đổi mới trong tất cả
+các bước của chuỗi cung ứng từ khi hình thành sản
+phẩm đến việc sử dụng sản phẩm cuối cùng.39
+Kho vận xanh
+38 A new textiles economy: Redesigning fashion&#39;s future, (2017,
+39 Green Logistics: The Carbon Agenda. Alan McKinnon. Heriot-Watt University, Edinburgh, United Kingdom. Xơ
+Sợi
+May
+Dệt, nhuộm
+và hoàn tất
+Các ngành
+hỗ trợ
+Sử dụng hiệu quả và bền vững
+các nguồn tài nguyên
+1. Xanh hóa sản xuất
+2. Công nghệ thông minh
+3. Tài chính xanh
+4. Xây dựng năng lực với
+tư duy phát triển bền vững
+Thiết kế xanh
+và tuần hoàn
+Kho vận
+xanh
+trong quá trình hình thành các cụm công nghiệp tuân thủ pháp luật về môi trường
+quốc tế và quốc gia, có thể ứng dụng công nghệ 4.0 trong sản xuất sợi và giám sát
+chất lượng (ví dụ: SpinMaster, WeaveMASTER, KnitMASTER, ESSENTIALRieter Digital
+Spinning Suite), sản xuất và quản lý hiệu suất cho quá trình hoàn thiện hàng dệt (ví
+năng suất.
+Công nghệ thông minh
+Xây dựng nhân lực với tư duy phát triển
+bền vững
+Nhân lực chưa tương xứng là một trong
+những trở ngại chính cho các doanh nghiệp
+dệt may Việt Nam hiện nay để thúc đẩy
+ngành tăng trưởng theo hướng xanh và
+bền vững. Do đó, phát triển nguồn nhân
+lực là một trong những yếu tố quyết định
+của tầm nhìn xanh. Các mục tiêu nhiệm vụ
+quan trọng được đề xuất (nhưng không bị
+hạn chế bởi những điểm nêu dưới đây) bao
+gồm:
+1. Tăng cường số lượng để đáp ứng nhu cầu
+về nhân sự quản lý và giám sát chất lượng
+cao của doanh nghiệp – có năng lực áp
+dụng các mô hình quản lý hiện đại như Sản
+xuất tinh gọn (LEAN manufacturing), quản
+lý “kịp thời” (Just-In-Time), hệ thống hoạch
+định nguồn lực doanh nghiệp, hệ thống
+quản lý năng lượng và môi trường, v.v...
+2. Tăng cường tỷ lệ cán bộ kỹ thuật chuyên
+môn và công nhân lành nghề được đào tạo
+chuyên sâu về các chủ đề “xanh”, BATs và
+BEPs, có thể áp dụng công nghệ 4.0 vào quy
+trình sản xuất để tự động hóa và số hóa
+quy trình sản xuất để nâng cao năng suất
+lao động và chất lượng sản phẩm.
+3. Thiết lập các hoạt động đào tạo phát triển
+kỹ năng thông qua các lớp giáo dục nghề
+nghiệp và đào tạo kỹ thuật, và hỗ trợ các công
+ty thực hiện trách nhiệm xã hội doanh nghiệp
+nhằm nâng cao kiến ​thức và năng lực của nhân
+viên về sản xuất bền vững.
+Thúc đẩy các nguồn tài chính xanh trong nước
+và quốc tế để hỗ trợ đầu tư xanh
+Hệ thống tài chính đưa ra càng nhiều điều kiện
+tín dụng thuận lợi (như lãi suất ưu đãi, hỗ trợ tiền
+ký quỹ, thời gian ân hạn)40 thì các doanh nghiệp
+dệt may càng thực hiện được nhiều dự án đầu
+tư xanh. Điều này sẽ thúc đẩy quá trình chuyển
+đổi xanh ngay từ cấp công ty. Một số nhiệm vụ
+chính (nhưng không bị giới hạn bởi những điểm
+nêu dưới đây) trong thúc đẩy đầu tư xanh bao
+gồm:
+Đa dạng hóa các nguồn hỗ trợ tài chính để
+thực hiện các dự án bảo vệ môi trường.
+Tăng nguồn quỹ trong nước cho các dự án
+đầu tư được thiết kế theo hướng chuyên
+môn hóa, hiện đại hóa và sản xuất thân
+thiện với môi trường.
+Tăng giá trị hỗ trợ tài chính hàng năm từ các
+nguồn trong nước và quốc tế để các doanh
+nghiệp đầu tư thực hiện các dự án, chương
+trình phát triển bền vững, xanh hóa ngành
+Dệt May Việt Nam.
+40 Cơ hội tài chính xanh cho sản xuất bền vững trong ngành dệt may Việt Nam, Tạp chí Thị trường Tài chính Tiền tệ, bài đăng ngày 31/7/2019
+Phần 4. Kế hoạch phối hợp hành động
+Kế hoạch phối hợp hành động này được đề xuất dựa trên “bản đồ” các bên
+hữu quan và gồm có 4 hợp phần với các hành động tương ứng:
+Bảng sau đây mô tả sự phối hợp cần thiết giữa các cơ quan và tổ chức
+hữu quan để tiến hành hiện thực hoá các mục tiêu và chương trình
+chuyển đổi xanh ngành Dệt May.
+Sắp xếp thể chế thúc đẩy
+chuyển đổi xanh
+Xây dựng năng lực
+Vận động chính sách
+Thông tin và
+hoạt động mạng lưới
+Kế hoạch hành động phối hợp chung
+Đơn vị chủ quản
+Đơn vị hỗ trợ
+Hành động
+Hoạt động thể chế thúc đẩy chuyển đổi xanh
+Rà soát và tham khảo các tiêu chuẩn / yêu cầu
+quốc tế để thiết lập và cập nhật định kỳ các tiêu
+chuẩn và định mức của ngành về chất thải, tiêu
+thụ năng lượng, sử dụng nước, sử dụng vật liệu và
+hóa chất (danh mục các chất cấm sử dụng trong
+sản xuất, tuân thủ sức khỏe và an toàn) áp dụng
+cho các doanh nghiệp sản xuất trong ngành. Các
+tiêu chuẩn này sẽ được thông tin cụ thể và rõ
+ràng, có các hướng dẫn thực hiện về thực hiện
+tiêu chuẩn để giảm bất cập về năng lực tuân thủ.
+Các nhãn hàng
+Bộ Công Thương
+Bộ Tài nguyên và Môi trường
+Thi hành việc tuân thủ pháp luật thông qua kiểm
+tra và xử phạt nghiêm các hành vi vi phạm pháp
+luật môi trường với sự phối hợp chặt chẽ giữa
+cảnh sát môi trường và cơ quan quản lý môi
+trường các địa phương.
+Các Sở Tài nguyên và
+Môi trường tỉnh thành phố
+Bộ Tài nguyên và Môi trường
+Cục Cảnh sát phòng,
+chống tội phạm về
+Môi trường
+Xúc tiến áp dụng các thành tựu công nghệ 4.0,
+ví dụ tự động hóa, công nghệ thông tin hiệu quả.
+Bộ Công Thương
+Bộ Khoa học và Công nghệ
+Cung cấp cơ chế hỗ trợ cho các nghiên cứu về
+vật liệu và hóa chất mới (có thể tái tạo hoặc có
+nguồn gốc tự nhiên) thay thế cho các vật liệu
+không bền vững và thiết kế vì sự bền vững trên
+cơ sở đánh giá vòng đời.
+Bộ Khoa học và Công nghệ
+Bộ Công Thương
+Phát triển năng lực
+Đơn vị chủ quản
+Đơn vị hỗ trợ
+Hành động
+Dựa trên dự báo nhu cầu và năng lực sản xuất
+hiện có, lập kế hoạch phát triển và thúc đẩy các
+ngành công nghiệp nguyên phụ liệu, trong đó
+chú trọng tích hợp các tiêu chuẩn/yêu cầu về môi
+trường và xã hội ngay trong các giai đoạn thiết kế,
+lập kế hoạch và đầu tư.
+Bộ Khoa học và Công nghệ
+Bộ Kế hoạch và Đầu tư
+Bộ Công Thương
+UBND các tỉnh thành
+Tăng cường hợp tác giữa các cơ quan quản lý
+ngành Dệt May và chính quyền địa phương để loại
+bỏ rào cản và tăng cường các cơ hội đầu tư cho
+các dự án có định hướng phát triển bền vững được
+thực hiện tại các địa phương.
+Bộ Tài nguyên và Môi trường
+Bộ Công Thương
+UBND các tỉnh thành
+Thúc đẩy dòng hạn mức tín dụng xanh trong hệ
+thống ngân hàng /tổ chức tài chính với các tiêu chí
+và thủ tục rõ ràng để hỗ trợ doanh nghiệp trong
+việc đổi mới xanh hóa sản xuất.
+Ngân hàng Nhà nước
+Các ngân hàng thương mại
+Đào tạo và phát triển công cụ sàng lọc đầu tư
+từ góc độ môi trường để hỗ trợ chính quyền địa
+phương (Sở Kế hoạch và Đầu tư, Sở Công Thương
+và Sở Tài nguyên và Môi trường), ngân hàng và
+nhà đầu tư đưa ra quyết định đối với đề xuất dự
+án đầu tư của ngành.
+Các ngân hàng thương mại
+Bộ Tài nguyên và Môi trường
+UBND các tỉnh thành
+Tăng cường mối liên kết giữa các trường đại học/
+cao đẳng/trường dạy nghề với các doanh nghiệp
+sản xuất và doanh nghiệp dịch vụ kỹ thuật/cung
+cấp hóa chất) để cải thiện sự thu hút của ngành
+đối với sinh viên / học viên và đáp ứng tốt hơn giữa
+nguồn cung với nhu cầu về nhân lực. Chương trình
+giảng dạy và đào tạo cần phải được xây dựng và
+cập nhật phù hợp với nhu cầu của doanh nghiệp
+sản xuất cả ở nội dung lý thuyết trên lớp và thực
+hành tại doanh nghiệp.
+Bộ Công Thương
+Bộ Lao động, Thương binh và
+Xã hội
+Các tổ chức đào tạo
+và dạy nghề
+Các doanh nghiệp
+Xây dựng cẩm nang về các thực hành/công nghệ
+và tiếp cận sản xuất tốt nhất hiện có phù hợp với
+bối cảnh Việt Nam.
+Doanh nghiệp
+Cơ quan tư vấn
+Các tổ chức phát triển
+quốc tế
+Thúc đẩy nâng cao năng lực cho các cơ quan quản
+lý địa phương và doanh nghiệp về tiếp cận tài
+chính xanh. Điều này giúp các doanh nghiệp nắm
+bắt được các cơ hội nhận được tài trợ đầu tư và
+đổi mới sáng tạo, trong khi các cơ quan quản lý có
+đủ năng lực để giám sát quá trình đầu tư và thực
+thi các quy định môi trường tốt hơn.
+Doanh nghiệp
+UBND các tỉnh thành
+Ngân hàng Nhà nước
+Các tổ chức tài chính
+Đơn vị chủ quản
+Đơn vị hỗ trợ
+Hành động
+Tăng cường hợp tác quốc tế về công nghệ / vật liệu
+/ hóa chất tiên tiến, sản xuất xanh, kiến ​thức phát
+triển bền vững, công nghiệp 4.0 để phục vụ nhu
+cầu xây dựng năng lực chuyên sâu.
+Các doanh nghiệp
+Bộ Tài nguyên và Môi trường
+Bộ Công Thương
+Phát triển nguồn nhân lực xây dựng và quảng bá
+thương hiệu Việt Nam để giúp ngành chủ động
+hơn trong việc tìm kiếm nguồn nguyên liệu, bao
+gồm cả nguyên liệu và hóa chất có nguồn gốc
+trong nước.
+Các doanh nghiệp
+Bộ Công Thương
+Tập trung hỗ trợ việc nâng cao năng lực cho các
+doanh nghiệp và các bên hữu quan chủ chốt khác
+của ngành về kỹ năng quản lý và kỹ thuật chuyên
+sâu thông qua cổng thông tin chuyên ngành, các
+hoạt động tham quan học tập, hội chợ thương
+mại, hoạt động mạng lưới, v.v...
+Bộ Công Thương
+Các nhãn hàng
+Các doanh nghiệp
+Thúc đẩy việc áp dụng BATs và BEPs trong các
+doanh nghiệp dệt may thông qua nâng cao nhận
+thức, đào tạo, tham quan học tập, hỗ trợ kỹ thuật,
+v.v…
+Cơ quan tư vấn
+Các nhãn hàng
+Các doanh nghiệp
+Đơn vị chủ quản
+Đơn vị hỗ trợ
+Hành động
+Thực hiện các can thiệp để giảm thiểu sử dụng tài
+nguyên và ô nhiễm đất, nước và không khí (ví dụ:
+sử dụng Higg Index, ZDHC như một công cụ tiêu
+chuẩn để liên tục nâng cao hiệu quả hoạt động
+môi trường của các doanh nghiệp).
+Cơ quan tư vấn
+Các nhãn hàng
+Các doanh nghiệp
+Đẩy mạnh việc nghiên cứu và ứng dụng các kỹ
+thuật/công nghệ tái chế / tái sử dụng các yếu tố
+đầu vào của sản xuất giữa doanh nghiệp này với
+doanh nghiệp khác như một phần của nền kinh tế
+tuần hoàn ngành Dệt May.
+Doanh nghiệp
+Cơ quan tư vấn
+Bộ Khoa học và Công nghệ
+Bộ Tài nguyên và Môi trường
+Thúc đẩy đầu tư công-tư về phát triển khoa học
+và công nghệ, để các doanh nghiệp dễ dàng ứng
+dụng BATs và BEPs.
+Doanh nghiệp
+Cơ quan tư vấn
+Bộ Tài chính
+Ngân hàng Nhà nước
+Bộ Khoa học và Công nghệ
+Xây dựng hệ thống thông tin cập nhật về năng
+lượng, nước và hóa chất sử dụng của các doanh
+nghiệp thông qua việc tích hợp các chỉ số tương
+ứng vào bản Khảo sát Doanh nghiệp hằng năm.
+Điều này giúp các cơ quan quản lý ngành theo dõi
+hiệu quả và thiết lập mục tiêu cải thiện.
+Doanh nghiệp
+Tổng cục Thống kê
+Lập kế hoạch và đầu tư vào các khu/cụm công
+nghiệp chuyên dệt may với các tiêu chuẩn rõ ràng
+và minh bạch về các vấn đề môi trường, xây dựng
+và xã hội. Thúc đẩy mô hình khu công nghiệp
+dệt may sinh thái, bao gồm xúc tiến áp dụng nâng
+cao hiệu quả tài nguyên và sản xuất sạch hơn ở
+cấp độ công ty và cộng sinh công nghiệp ở cấp độ
+khu, đưa ra các ưu tiên hỗ trợ kỹ thuật và tiếp cận
+được nguồn tài chính ưu đãi.
+Bộ Tài nguyên và Môi trường
+Bộ Xây dựng
+Bộ Lao động, Thương binh và Xã hội
+Bộ Kế hoạch và Đầu tư
+Bộ Công Thương
+UBND các tỉnh thành
+Vận động chính sách
+Thiết lập cơ chế kế hoạch báo cáo minh bạch về kết
+quả hoạt động môi trường của các nhà sản xuất.
+Nhãn hàng
+Doanh nghiệp
+Bộ Tài nguyên và Môi trường
+Tổng cục Thống kê
+Cung cấp hướng dẫn và ưu đãi (phương pháp
+luận cải thiện, ưu đãi thuế, hướng dẫn tiếp cận
+các nguồn hỗ trợ tài chính / kỹ thuật) liên quan
+đến ứng dụng công nghệ / thiết bị sạch hơn và các
+thực hành tốt nhất.
+UBND các tỉnh thành
+Bộ Công Thương
+Bộ Tài chính
+Đơn vị chủ quản
+Đơn vị hỗ trợ
+Hành động
+Ưu tiên về giải phóng mặt bằng, miễn giảm tiền
+thuê đất, ưu đãi thuế (thuế thu nhập doanh
+nghiệp, thuế xuất nhập khẩu), lãi suất cho vay v.v
+cho những dự án đầu tư về sản xuất nguyên liệu
+thô và phụ trợ cho ngành may mặc có lồng ghép
+các yếu tố xanh hóa trong thiết kế và vận hành.
+Bộ Công Thương
+Bộ Tài chính
+UBND các tỉnh thành
+Các ngân hàng
+Cung cấp hướng dẫn và thiết lập ưu đãi (thuế, tiếp
+cận hỗ trợ tài chính / kỹ thuật) liên quan đến việc
+sử dụng nguyên liệu thô và phụ trợ trong nước.
+Các Sở Công thương
+Các Sở Tài chính
+Bộ Công Thương
+Bộ Tài chính
+Điều chỉnh các quy đinh luật pháp để tạo điều
+kiện triển khai các hoạt động tái sử dụng / tái chế /
+cộng sinh công nghiệp giữa các doanh nghiệp sản
+xuất đối với vấn đề nước thải và chất thải, nhất là
+tại các khu công nghiệp và cụm công nghiệp.
+Ban Quản lý các Khu công nghiệp
+Bộ Tài nguyên và Môi trường
+Bộ Nông nghiệp và
+Phát triển Nông thôn
+Bộ Xây dựng
+Thông tin và hoạt động mạng lưới
+Đơn vị chủ quản
+Đơn vị hỗ trợ
+Hành động
+Chính phủ và các tổ chức phát triển cung cấp và hỗ
+trợ các doanh nghiệp sản xuất cũng như các cơ quan
+đào tạo nhân lực trong ngành để cập nhật các yêu
+cầu mới về pháp luật, xu hướng quốc tế, quá trình
+xác thực và chứng nhận, ưu đãi và các điều kiện và
+thủ tục tương ứng, các vấn đề rủi ro về môi trường
+mới nổi, v.v… thông qua cổng thông tin điện tử được
+xây dựng cho ngành hoặc tích hợp vào cổng thông
+tin công nghiệp hỗ trợ Việt Nam.
+Nhãn hàng
+Doanh nghiệp
+Bộ Công Thương
+Các tổ chức phát triển
+quốc tế
+Tạo lập cơ chế đối thoại giữa các bên hữu quan
+thông qua các cuộc họp thường niên của VITAS và
+cơ quan quản lý ngành hoặc nền tảng diễn đàn
+trực tuyến để các bên liên quan nhận thức được
+và thực hiện trách nhiệm phù hợp trong quá trình
+xanh hóa ngành.
+Bộ Công Thương
+Nhãn hàng
+Doanh nghiệp
+Tích hợp dữ liệu lớn trong ngành Dệt May Việt
+nam và liên thông với môi trường dữ liệu của các
+nhà mua hàng, các nhà điều hành chuỗi cung ứng
+toàn cầu.
+Nhãn hàng
+Doanh nghiệp
+Bộ Công Thương
+Bộ Khoa học và Công nghệ
+Thiết lập cơ chế hoạt động mạng lưới có sự tham
+gia tích cực của các bên hữu quan chính, sơ cấp và
+thứ cấp.
+Bộ Công Thương
+Nhãn hàng
+Doanh nghiệp
+Cơ quan tư vấn
+Bộ Khoa học và Công nghệ
+Triển khai các diễn đàn định kỳ chia sẻ công nghệ
+bảo vệ môi trường, bài học từ thực tiễn tốt nhất
+toàn cầu, áp dụng công nghệ xanh và cập nhật
+danh mục BATs và BEPs để chia sẻ kinh nghiệm.
+Các tổ chức phát triển quốc tế
+Cơ quan tư vấn
+Bộ Khoa học và Công nghệ
+Bộ Tài nguyên và Môi trường
+Thông tin và hoạt động mạng lưới
+Kết luận
+ệt May là một trong những ngành xuất khẩu quan trọng nhất
+của Việt Nam từ những năm gần đây. Ngành này cũng cung cấp
+việc làm ổn định cho một tỷ lệ lớn lực lượng lao động hiện có ở Việt
+Nam.
+Trong bối cảnh các FTA đã được thông qua giữa Việt Nam với các
+nước và khu vực đối tác, ngành cần có những bước đi mạnh mẽ
+theo hướng tự chủ hơn trong nguồn cung nguyên liệu, đặc biệt là
+phát triển sản xuất vải trong nước để đáp ứng quy tắc xuất xứ của
+EVFTA. Cách duy nhất để thiết lập một lộ trình phát triển bền vững
+cho sản xuất vải và may mặc là thực sự tuân thủ các nguyên tắc và
+thực hành tốt nhất về bảo vệ môi trường, xanh hóa sản xuất, tiết
+kiệm tài nguyên không thể tái tạo như nước, năng lượng, sử dụng
+vật liệu tái chế và quản lý hóa chất hiệu quả.
+Hướng dẫn chỉ ra triển vọng của ngành Dệt May tại Việt Nam và nêu
+bật cái nhìn tổng quan về các công cụ và cơ chế chứng nhận phù
+hợp có thể giúp chuyển đổi xanh của ngành. Kinh nghiệm chuyển
+đổi xanh được minh họa thông qua các nghiên cứu điển hình đến
+từ thực tiễn triển khai từ cấp độ doanh nghiệp, khi họ bắt tay vào
+thực hiện các hoạt động để giảm tác động môi trường từ chính quá
+trình sản xuất của họ. Tuy nhiên, cách duy nhất để thực sự đạt được
+sự chuyển đổi xanh của toàn ngành Dệt May là phải có sự phối hợp
+hành động của tất cả các bên hữu quan đến ngành, cùng hướng tới
+một mục tiêu chung là "tầm nhìn xanh". Hy vọng rằng Hướng dẫn
+này - là một trong những sản phẩm của dự án “Xanh hóa ngành Dệt
+May” do WWF triển khai - sẽ hỗ trợ quá trình chuyển đổi ngành Dệt
+May Việt Nam theo hướng phát triển bền vững và tích cực đóng góp
+vào việc đạt được các mục tiêu phát triển quốc gia.
+Phụ lục 1. Quá trình sản xuất
+Sản xuất hàng dệt may là một chuỗi dài bao gồm nhiều bước xử lý và đầu vào để biến xơ thành sản phẩm
+may sẵn. Sơ đồ dưới đây là tổng quan về chuỗi sản xuất.
+Phụ lục 2. Đầu vào và dòng thải của quá trình sản xuất
+Sơ đồ này cho thấy các đầu vào và các dòng thải của một quá trình xử lý ướt hàng dệt nói chung. Các dòng
+chất thải có thể không thể bị loại bỏ hoàn toàn nhưng chúng có thể được giảm thiểu và làm sạch trước khi
+được sử dụng làm đầu vào cho quá trình khác hoặc xả ra môi trường. Ngành đã ghi nhân những nỗ lực từ các
+bên liên quan trong việc cải tiến kỹ thuật, công nghệ và thực hành quản lý để mang lại tác động tích cực về tài
+chính và môi trường, góp phần vào sự phát triển bền vững của ngành.
+Vải mộc
+Nước
+Kiềm
+Hơi
+Dịch thải (I)
+Điện
+Nước giặt (I)
+Khác
+Nước
+Axit
+Hơi
+Nước
+Nước giặt vải lót in (I)
+Hồ in
+Dịch in tràn (I)
+Điện
+Nước rửa lưới
+và chổi in (I)
+Điện
+Thuốc nhuộm
+Khí nóng
+Điện
+Khói lò (g)
+Hơi
+Nước giặt (I)
+Nước
+Hoá chất hoàn tất
+Nước giặt (I)
+Muối
+Dịch nhuộm thải (I)
+Khác
+Hơi ﬂash (g)
+Khí thông hơi (g)
+Dầu FO
+Khói thải máy phát diesel (g)
+Hơi ﬂash
+Than
+Khói thải lò hơi (g)
+Xỉ lò (s)
+Bùn tẩy trắng (s)
+Các chất thải rắn khác
+Nước ngưng (I)
+Khí nén thất thoát (g)
+Điện
+Phụ lục 3. Danh mục các thực hành tốt nhất và kỹ thuật tốt nhất hiện có trong ngành Dệt May
+BATs và BEPs
+Hành động
+Thực hiện các hoạt động đào tạo nội bộ hoặc cử nhân viên đi đào tạo về các vấn
+đề liên quan tới sử dụng tài nguyên, quá trình sản xuất, và vận hành thiết bị.
+Giáo dục và đào tạo
+nhân viên
+Thực hiện bảo dưỡng công nghiệp tiên tiến: Bảo dưỡng hiệu năng (Productive
+Maintenance PM); Bảo dưỡng Hiệu năng Tổng thể (Total Productive Maintenance -
+TPM) hoặc bảo dưỡng dự đoán (ví dụ: UPTIME, ESSENTIALmaintain).
+Bôi trơn tự động.
+Bảo dưỡng công nghiệp
+Có bản dữ liệu an toàn hóa chất tại nơi làm việc, đã được chuyển ngữ dễ hiểu với
+người lao động.
+Hóa chất độc hại và nguy hiểm nên được lưu trữ riêng biệt.
+Cần có các trang sơ cứu và cơ sở khi cần sơ tán, các thủ tục khẩn cấp tại chỗ và
+diễn tập thường xuyên.
+Hồ sơ về các vụ tai nạn và sự cố phải được lưu giữ.
+Hệ thống phân phối và định lượng hóa chất tự động sẽ chính xác hơn so với
+phương pháp thủ công, tránh rơi vãi, chảy tràn.
+Lưu trữ hóa chất, xử lý,
+định lượng và pha chế
+Các thực hành quản lý chung
+Thường xuyên kiểm tra để sửa đổi các công thức pha chế để giảm các hóa chất
+không cần thiết.
+Ưu tiên lựa chọn hóa chất dễ phân hủy sinh học, độc tính thấp, độ bay hơi thấp
+và cường độ mùi thấp.
+Sử dụng nước chất lượng cao (khi cần thiết) trong các quy trình ướt để tránh /
+giảm việc sử dụng hóa chất thêm nhằm ngăn ngừa tác dụng phụ từ tạp chất.
+Tránh / giảm thiểu việc sử dụng dư thừa hóa chất và chất phụ trợ.
+Tối ưu hóa lịch trình trong sản xuất.
+Tái sử dụng dịch nhuộm/giặt/giũ bất cứ khi nào có thể.
+Giảm thiểu / tối ưu hóa
+hóa chất được sử dụng
+BATs và BEPs
+Hành động
+Nr.
+Phòng pha màu tự động, hệ thống pha chế và định lượng hóa chất tự động.
+Hệ thống tự động chuẩn bị dịch lỏng đáp ứng đúng thời điểm yêu cầu của công
+nghệ.
+Tính toán chính xác và tự động hóa cấp dịch phù hợp lượng vải cần xử lý để giảm
+lượng nước thải và hóa chất thừa.
+Định lượng tự động đối với hóa chất không trộn sẵn trước khi đưa vào máy nhuộm:
+các dòng riêng rẽ được sử dụng cho mỗi sản phẩm.
+Tự động hóa công
+đoạn chuẩn bị và pha
+chế hóa chất
+Đối với nước sinh hoạt có thể sử dụng gioăng kiểm soát lưu lượng tự động để có
+thể giữ ổn định lưu lượng nước rửa tay 5-7 lít/phút, nước vòi hoa sen 9-12 lít/phút.
+Lắp đặt các thiết bị kiểm soát dòng chảy và van dừng tự động trên hệ thống máy
+chạy liên tục.
+Cài đặt bộ điều khiển tự động để kiểm soát chính xác lượng nạp và nhiệt độ dịch
+lỏng.
+Thay thế phương pháp giũ xả tràn (trong các quy trình theo mẻ) theo hướng xả và
+cấp nước từng đợt hoặc các phương pháp giũ thông minh.
+Tối ưu hóa lịch trình sản xuất.
+Tái sử dụng / thu hồi nước khi có thể.
+Tối ưu việc sử dụng
+nước
+Xây dựng hệ thống quản lý năng lượng ISO 50001.
+Bảo ôn bề mặt nóng (đường ống, van, bể chứa, máy móc).
+Tối ưu hóa hệ thống lò hơi.
+Tách các dòng nước thải nóng và lạnh trước khi thu hồi nhiệt và thu hồi nhiệt từ dòng nóng
+Thay máy biến áp thường bằng máy biến áp tự động Zigzag.
+Thay thế đèn chiếu sáng thường bằng đèn LED. Sử dụng hệ thống đèn cảm biến tự
+động tắt-bật khi có thể.
+Thay động cơ thường (standard) bằng động cơ đời mới hiệu suất cao (high efficiency).
+Thay thế dây curoa chữ V bằng truyền động mô-men xoắn cao (High Torque Drive -
+Lắp đặt bộ điều khiển tự động bằng biến tần và có bộ lọc sóng hài.
+Kiểm soát độ ẩm trong không khí lưu thông và trên vải trong stenter.
+Hệ thống điều chỉnh tự động nhiệt độ sấy và thời gian sấy.
+Tối ưu việc sử dụng
+năng lượng
+BATs và BEPs
+Hành động
+Tách các dòng thải lỏng có tải lượng ô nhiễm cao khỏi dòng nước thải ô nhiễm
+thấp để xử lý hiệu quả hơn.
+Tách và thu gom riêng các loại chất thải rắn.
+Giảm thiểu sử dụng bao bì.
+Sử dụng container có thể trả lại.
+Tái chế chất thải dệt (nguyên liệu dư, sản phẩm hỏng, v.v...)
+Quản lý chất thải
+Thiết lập hệ thống nội bộ để đo lường và ghi lại các luồng đầu vào / đầu ra của các
+bước quy trình đơn vị.
+Đánh giá các luồng theo thời gian và tại các địa điểm khác hoặc các quy trình tương
+tự để xác định các cơ hội cải tiến.
+Đánh giá và kiểm kê
+dòng vào / ra
+Các nhà thiết kế phải so sánh một số thiết kế khác nhau của sản phẩm theo các tiêu
+chí như tiêu hao năng lượng, độc tính, tác động axit hóa, khí thải CO2, suy giảm tầng
+ozone, cạn kiệt tài nguyên, v.v…, để có được sản phẩm tối ưu nhất về yếu tố môi
+trường.
+Thiết kế theo vòng đời
+sản phẩm
+Phân loại hàng dệt may thu thập được theo hiện trạng và loại xơ sử dụng.
+Vật liệu hàng dệt được cắt nhỏ hoặc kéo thành xơ, và tùy thuộc vào nhu cầu sử dụng
+cuối cùng của sợi mà các loại xơ khác có thể được phối hợp cùng.
+Xơ đôi khi chỉ cần đơn giản là nén để tạo ra các loại vật liệu nhồi mới.
+Bông và lụa được tái sử dụng để sản xuất giấy, làm giẻ lau dùng cho các ngành công
+nghiệp khác.
+Các loại hàng dệt khác có thể được xử lý lại thành sơi để làm vật liệu bọc, cách nhiệt, và thậm chí làm vật liệu xây dựng.
+Tái chế và tái sử dụng
+Ứng dụng công nghệ 4.0 trong sản xuất sợi và giám sát chất lượng (ví dụ:
+SpinMaster, WeaveMASTER, KnitMASTER, ESSENTIAL-Rieter Digital Spinning Suite),
+Các công nghệ thông
+minh trong quản lý sản xuất Thay thế ethoxylates và các chất hoạt động bề mặt nguy hại khác bằng chất dễ phân
+hủy sinh học hoặc có thể khử bằng sinh học trong nhà máy xử lý nước thải và không
+tạo ra các chất độc hại.
+Chất hoạt động bề mặt
+Tiền xử lý
+Chọn các tác nhân tạo phức có thể phân hủy sinh học hoặc khử bằng sinh học
+(enzymes).
+Tránh hoặc giảm việc sử dụng tác nhân tạo phức trong quá trình tiền xử lý và
+nhuộm bằng cách kết hợp các biện pháp:
+Tác nhân tạo phức
+- Làm mềm nước sạch để loại bỏ sắt và các cation kiềm cứng từ nước đầu vào;
+- Sử dụng quy trình khô để loại bỏ các hạt sắt thô ra khỏi vải trước khi tẩy trắng (ví dụ: dung máy dò từ tính);
+-  Trước khi tẩy trắng các loại vải bị nhiều tạp chất thì cần loại bỏ sắt bên trong xơ
+sợi bằng cách khử khoáng axit, hoặc tốt hơn, sử dụng các chất khử không nguy hại;
+- Sử dụng hydro peroxide trong các điều kiện được kiểm soát tối ưu.
+BATs và BEPs
+Hành động
+Chất chống tạo bọt
+Giảm thiểu hoặc tránh sử dụng các chất này bằng cách:
+- Sử dụng phun khí với ít dịch lỏng để dịch lỏng không bị khuấy trộn bởi vòng
+quay vải;
+- Tái sử dụng dịch đã qua xử lý.
+Chọn các chất chống tạo bọt không chứa dầu khoáng và được đặc trưng bởi khả
+năng có thể khử bằng sinh học cao.
+Dùng vải dệt kim mà chất bôi trơn của máy dệt kim là tan trong nước và phân hủy sinh học thay vì loại gốc dầu khoáng thông thường. Loại bỏ các chất này bằng cách giũ
+với nước. Với các loại vải dệt kim làm từ sợi tổng hợp, bước giũ này cần được tiến hành
+trước khi cố định nhiệt (để tránh việc chúng bị giải phóng dưới dạng khí thải);
+Thực hiện bước cố định nhiệt trước khi giặt và xử lý khí thải của máy stenter bằng hệ
+thống lọc điện khô cho phép thu hồi năng lượng và thu gom dầu riêng biệt;
+Loại bỏ các loại dầu không tan trong nước bằng cách sử dụng dung môi hữu cơ khi giũ;
+Kỹ thuật này thuận tiện khi các chất của khâu chuẩn bị là loại không tan trong nước
+khác như dầu silicon, có mặt trên vải.
+Loại bỏ dầu bôi trơn đối với dệt kim
+BATs và BEPs
+Hành động
+Chọn nguyên liệu được xử lý với các kỹ thuật bổ sung đơn giản (ví dụ làm ướt sơ bộ
+sợi dọc) và các chất hồ sợi sinh học hiệu quả hơn, kết hợp với việc sử dụng các hệ
+thống giặt hiệu quả để giũ hồ và kỹ thuật xử lý nước thải với F/M thấp (tỉ lệ thức ăn/vi
+sinh vật) để cải thiện khả năng khử bằng sinh học của các chất hồ sợi;
+Áp dụng lộ trình oxy hóa khi không thể kiểm soát nguồn gốc nguyên liệu;
+Kết hợp giũ hồ/ nấu chuội và tẩy trắng trong một bước duy nhất;
+Phục hồi và tái sử dụng các chất hồ sợi bằng siêu lọc.
+Giũ hồ
+Sử dụng hydrogen peroxide làm chất tẩy trắng ưu tiên;
+Chỉ giới hạn việc sử dụng sodium hypochlorite trong những trường hợp phải đạt
+được độ trắng cao và đối với các loại vải yếu và dễ bị phá mạch polymer. Trong
+những trường hợp đặc biệt này, để giảm sự hình thành các AOX nguy hại, tẩy
+trắng bằng natri hypoclorit được thực hiện theo quy trình hai bước trong đó
+peroxide được sử dụng ở bước đầu tiên và hypochlorite trong bước thứ hai. Nước
+thải từ quá trình tẩy hypochlorite được giữ tách biệt với các dòng khác và nước
+thải hỗn hợp để giảm sự hình thành AOX.
+Tẩy trắng
+Thu hồi và tái sử dụng kiềm từ nước giũ của bước này.
+Sử dụng lại nước thải có chứa kiềm cho trong các bước xử lý chuẩn bị vải khác.
+Kiềm bóng
+Nhuộm
+Áp dụng công nghệ Dyecoo – giải pháp 100% không dùng nước và hóa chất trong
+nhuộm vải polyeste. Dyecoo dùng CO2 siêu tới hạn như một loại dung môi thay thế
+cho nước trong hệ thống nhuộm truyền thống.
+Nhuộm không dùng nước
+Giảm số loại thuốc nhuộm (ví dụ: giảm số loại thuốc nhuộm là sử dụng hệ thống
+ba màu).
+Sử dụng các hệ thống tự động để định lượng và pha chế thuốc nhuộm.
+Liều lượng và pha chế
+các công thức thuốc
+nhuộm
+BATs và BEPs
+Hành động
+Sử dụng máy móc được trang bị: bộ điều khiển tự động cấp dịch lỏng, nhiệt độ và
+các thông số chu trình nhuộm, hệ thống làm nóng và làm mát gián tiếp, nắp và cửa
+để giảm thiểu thất thoát hơi;
+Chọn máy móc phù hợp nhất với kích thước của lô vải được xử lý để thiết bị hoạt
+động trong phạm vi dung tỷ danh nghĩa theo thiết kế. Các loại thiết bị hiện đại có
+thể vẫn được vận hành ở dung tỷ xấp xỉ không đổi ở mức tải chỉ bằng 60% công
+suất danh nghĩa (hoặc thậm chí 30% công suất danh nghĩa đối với máy nhuộm sợi).
+Chọn thiết bị theo khả năng có thể với các yêu cầu:
+Các quá trình nhuộm
+gián đoạn
+- dung tỷ thấp hoặc siêu thấp;
+- tách nội bộ trong quá trình xử lý của dịch nhuộm khỏi vật liệu;
+- tách nội bộ trong quá trình dịch nhuộm khỏi nước giũ;
+- tách cơ học đối với dịch nhuộm để giảm lượng dịch mang theo và cải thiện hiệu
+quả giũ;
+- giảm thời gian của chu trình nhuộm.
+Tái sử dụng nước giũ cho lần nhuộm tiếp theo, hoặc hoàn nguyên và tái sử dụng
+dịch nhuộm khi kỹ thuật cho phép.
+Sử dụng các hệ thống bổ sung nhỏ dịch nhuộm và giảm thiểu dung tích của máng
+ngấm khi sử dụng kỹ thuật nhuộm ngấm ép.
+Áp dụng các hệ thống pha chế trong đó các hóa chất được phân phối trực tuyến
+theo các luồng riêng biệt, chỉ được trộn ngay trước khi đưa vào thiết bị.
+Sử dụng một trong các hệ thống sau đây để định lượng dung dịch ngấm ép, dựa
+trên đo đạc phần dung dịch đi theo vải: Đo lượng dịch nhuộm tiêu hao theo khối
+lượng vải đưa vào nhuộm (số mét vải nhân với khối lượng riêng), kết quả các giá
+trị được tự động xử lý và sử dụng để chuẩn bị cho mẻ nhuộm tiếp theo; Sử dụng
+kỹ thuật nhuộm nhanh theo mẻ, thay vì chuẩn bị cho cả mẻ trước khi bắt đầu
+nhuộm, dung dịch thuốc nhuộm được chuẩn bị đúng thời điểm, trong một số
+bước, dựa trên đo trực tuyến lượng dịch đi theo vải.
+Tăng hiệu quả giũ theo các nguyên tắc ngược dòng và giảm lượng lỏng mang
+theo.
+Quy trình nhuộm liên tục •
+Thay thế natri dithionite trong khâu xử lý sau đối với PES nhờ một trong hai kỹ
+thuật đề xuất dưới đây:
+Nhuộm PES và PES pha
+bằng thuốc nhuộm
+phân tán
+- Sử dụng tác nhân khử có gốc là dẫn xuất của axit sulphinic. Điều này nên được
+kết hợp với biện pháp để đảm bảo rằng chỉ tiêu thụ một lượng nghiêm ngặt chất
+khử để giảm thuốc nhuộm (ví dụ: bằng cách sử dụng nitơ để loại bỏ oxy khỏi dịch
+nhuộm và không khí trong thiết bị).
+- Sử dụng thuốc nhuộm phân tán sao cho có thể được làm sạch trong môi trường
+kiềm bằng cách hòa tan thủy phân thay vì khử.
+BATs và BEPs
+Hành động
+Sử dụng các công thức thuốc nhuộm được tối ưu hóa với các thuốc nhuộm phân
+tán có độ khử sinh học cao.
+Thay thế thuốc nhuộm lưu huỳnh dạng bột và chất lỏng thông thường bằng thuốc
+nhuộm ổn định không khử sunfua hoặc bằng các công thức thuốc nhuộm lỏng đã
+khử trước với hàm lượng sunfua dưới 1%.
+Thay thế natri sunfua bằng các chất khử không có lưu huỳnh hoặc natri dithionite,
+theo thứ tự ưu tiên đó.
+Áp dụng các biện pháp để đảm bảo rằng chỉ có lượng chất khử nghiêm ngặt cần
+thiết để giảm thuốc nhuộm được tiêu thụ (ví dụ: bằng cách sử dụng nitơ để loại bỏ
+oxy khỏi dịch lỏng và từ không khí trong máy).
+Sử dụng hydro peroxide làm chất oxy hóa.
+Nhuộm bằng thuốc lưu huỳnh
+Sử dụng thuốc nhuộm hoạt tính có độ cố định màu cao, ít muối;
+Tránh sử dụng chất tẩy rửa và chất tạo phức trong các bước giũ và trung hòa sau khi
+nhuộm bằng cách giũ bằng nước nóng kết hợp với thu hồi năng lượng nhiệt từ nước
+thải giũ.
+Nhuộm gián đoạn bằng
+thuốc nhuộm hoạt tính
+Thay thế thuốc nhuộm crom bằng thuốc nhuộm hoạt tính hoặc, nếu không thể, sử
+dụng các phương pháp chứa rất ít mà vẫn đáp ứng tất cả các yêu cầu sau: hệ số phát
+thải 50 mg crom/kg len tương ứng với nồng độ crom là 5 mg/l trong dịch nhuộm crom
+thải đối với dung tỷ 1:10; và không phát hiện thấy crom (VI) trong nước thải (sử dụng
+cùng phương pháp tiêu chuẩn có thể phát hiện Cr VI ở nồng độ <0,1 mg/l).
+Nhuộm len •
+Giảm tổn thất mực in khi in bằng công nghệ in lưới quay bằng cách: giảm thể tích
+hệ thống cấp mực in; thu hồi mực in từ hệ thống cấp mức vào cuối mỗi lần chạy;
+tái chế mực in dư.
+Giảm mức tiêu thụ nước trong vệ sinh thiết bị bằng cách kết hợp các biện pháp:
+điều khiển tắt / bật trong làm sạch đai in; tái sử dụng phần nước rửa sạch nhất của
+rửa chổi in, lưới và thùng chứa; tái sử dụng nước rửa từ rửa đai in.
+Sử dụng máy in phun kỹ thuật số đối với in vải phẳng ngắn (dưới 100 m), khi thị
+trường sản phẩm cho phép.
+Sử dụng máy in phun kỹ thuật số để in thảm và vải cồng kềnh, ngoại trừ in dự bị/
+dự phòng và các tình huống tương tự.
+Thực hành tốt nhất nói
+chung trong in hoa
+Tránh sử dụng ure bằng 2 trong cách sau:
+In hoạt tính
+Dùng hồ in có độ phát thải carbon hữu cơ dễ bay hơi thấp (hoặc không chứa bất
+kỳ dung môi dễ bay hơi nào) và chất kết dính ít formaldehyde. Giá trị phát thải vào
+không khí là <0,4 g Org.-C/kg hàng dệt (giả định với 20m3 không khí/kg hàng dệt).
+Không chứa alkylphenol ethoxylate và có mức độ khử bằng sinh học cao.
+Giảm hàm lượng ammoniac, giá trị phát thải là 0,6 g NH 3 /kg dệt (giả sử 20m3
+không khí/kg hàng dệt).
+In hoa bằng chất màu
+In hoa
+BATs và BEPs
+Hành động
+Đảm bảo phát thải kim loại nặng tối thiểu trong nước thải khi nhuộm len bằng thuốc
+nhuộm phức kim loại. Các giá trị liên quan đến BAT là hệ số phát thải 10 - 20 mg/kg
+len được xử lý, tương ứng với 1 - 2 mg/l crom trong dịch nhuộm thải đối với dung tỷ
+lệ lỏng 1:10. Điều này có thể đạt được bằng cách:
+Ưu tiên cho quy trình được kiểm soát pH khi nhuộm bằng thuốc nhuộm có thể kiểm
+soát pH (thuốc nhuộm axit và thuốc nhuộm bazơ) để đạt độ tận trích tối đa với thuốc
+nhuộm, chất chống côn trùng và sử dụng tối thiểu chất làm đều màu hữu cơ.
+- Sử dụng các chất trợ giúp tăng cường sự hấp thụ thuốc nhuộm;
+- Sử dụng các phương pháp kiểm soát pH để lấy triệt để dịch trong bể nhuộm cuối
+làm chất bổ sung cho mẻ khác.
+- Quy trình 1 bước có bổ sung độ ẩm có kiểm soát, trong đó độ ẩm được đưa vào
+dưới dạng bọt hoặc bằng cách phun sương ở một lượng xác định; hoặc
+- Phương pháp in 2 bước. •
+Giảm thiểu dịch lỏng dư bằng cách: sử dụng các kỹ thuật ứng dụng tối thiểu (ví dụ:
+ứng dụng bọt, phun) hoặc giảm khối lượng bộ lót đệm; tái sử dụng dung dịch ngấm
+nếu chất lượng không bị ảnh hưởng;
+Giảm thiểu mức tiêu thụ năng lượng trong các stenter bằng cách:
+Sử dụng công thức tối ưu hóa với phát thải khí thấp.
+Thực hành tốt nhất
+nói chung trong khâu
+hoàn tất
+Sử dụng các tác nhân liên kết ngang không chứa hoặc chứa ít formaldehyde (hàm
+lượng <0,1% formaldehyde trong thành phần).
+Xử lý chống nhăn
+Áp dụng các kỹ thuật làm mềm bằng máng ngấm ép, hoặc bằng hệ thống phun/
+tạo bọt, thay vì thực hiện xử lý theo mẻ tận trích trên máy nhuộm gián đoạn.
+Xử lý làm mềm
+Công nghệ Ozone Dynamic chỉ sử dụng năng lượng điện và không khí để xử lý
+vải. Lợi ích: không sử dụng hóa chất lỏng; tiết kiệm 67% nước; giảm 85% lượng
+tiêu thụ hóa chất (ozone được coi là một sản phẩm hóa học); tiết kiệm 62% năng
+lượng; giảm 55% trong thời gian sản xuất;
+Công nghệ Nanobubble "eFlow" (đăng ký sáng chế của Jeanologia): có thể thực
+hiện các tùy chọn quy trình hoàn thiện khác nhau (làm mềm, các hiệu ứng (3D,
+chống nước, chống nhăn), nhuộm, …); tiết kiệm tới 50% hóa chất; giảm 86% lượng
+nước tiêu thụ; giảm 44% mức tiêu thụ năng lượng; loại bỏ 97% nước thải.
+Hoàn tất hàng denim
+Hoàn tất
+BATs và BEPs
+Hành động
+- Sử dụng thiết bị khử nước cơ học để giảm lượng nước dư trên vải vào;
+- Tối ưu hóa luồng khí thải qua lò, tự động duy trì độ ẩm khí thải trong khoảng
+0,1 - 0,15 kg nước/kg không khí khô, xem xét thời gian cần thiết để đạt tới điều
+kiện cân bằng;
+- Lắp đặt hệ thống thu hồi nhiệt;
+- Lắp bảo ôn;
+- Đảm bảo bảo trì tối ưu đầu đốt của stenter gia nhiệt trực tiếp.
+Giặt hiệu quả
+BATs và BEPs
+Hành động
+Giặt
+Thay thế giặt/giũ chảy tràn bằng các phương pháp xả/cấp lại hoặc các kỹ thuật "giũ
+thông minh";
+Giảm tiêu thụ nước và năng lượng trong các quy trình liên tục bằng các cách như
+lắp đặt máy giặt hiệu quả cao; và lắp thiết bị thu hồi nhiệt;
+Khi không thể tránh được việc sử dụng dung môi hữu cơ halogen hóa (ví dụ: với các
+loại vải chứa nhiều các chất chuẩn bị vải như dầu silicon khó loại bỏ bằng nước),
+hãy sử dụng thiết bị quy trình khép kín hoàn toàn. Điều cần thiết là thiết bị phải
+đáp ứng các yêu cầu về phân hủy các chất ô nhiễm khó phân hủy trong vòng lặp
+(ví dụ: ứng dụng các quá trình oxy hóa tiên tiến) để tránh mọi sự ô nhiễm vào nước
+ngầm phát sinh do khuếch tán và sự cố.
+Lắp đặt bộ lọc đặc biệt (bộ lọc PlanetCare, bộ lọc san hô, bộ lọc Lint LUV-R, v.v…)
+cho máy giặt/giũ nước trên đường ống thoát nước thải để bẫy vi hạt/vi sợi trước khi
+chúng có thể đi vào nước thải.
+Phụ lục 4: Bài học kinh nghiệm từ các dự án ngành Dệt May của WWF ở các quốc gia
+Quy trình
+Giảm
+chất thải
+Nâng cao
+hiệu quả
+Điều khiển và
+tự động hóa
+Cải thiện thực hành
+Thay đổi
+công nghệ/
+quy trình
+Giải pháp không thay đổi về
+công nghệ/quy trình
+Sản xuất sợi
+Thu hồi nhiệt
+từ nước thải
+Lắp đặt lò hơi
+đốt chất thải
+Tuần hoàn
+nước thải vắt
+ba-lông
+Tái sử dụng
+nước giũ cuối
+Dùng hệ
+thống châm
+và rút dịch
+Tối ưu hóa
+thẩm thấu
+ngược
+Dùng các
+thiết bị dung
+tỷ thấp
+Nâng cấp
+thiết bị dung
+tỷ cao thành
+các thiết bị
+dung tỷ thấp
+Khử cacbon
+trong dầu tải
+nhiệt để cải
+thiện hiệu quả
+gia nhiệt
+Bảo ôn
+phù hợp các
+đường ống
+hơi và bể
+nước cấp
+Tự động
+định lượng
+thuốc nhuộm
+& hóa chất
+Sử dụng gia
+nhiệt nước
+bằng năng
+lượng mặt trời
+Tái sử dụng
+nước thải
+giặt
+Kiểm soát oxy
+ở lò hơi
+Trạm thu hồi
+kiềm
+Tái sử dụng nước làm mát từ
+buồng sấy của máy in để giặt
+đai in.
+Tối ưu hóa quá trìn in hoa để
+giảm số lượng bóng đèn sấy
+đóng rắn.
+Tìm và xử lý rò rỉ khí nén
+Xử lý vật liệu tốt hơn ở khâu
+nhập vải mộc và nhuộm.
+Thu hồi nước ngưng từ các
+thiết bị nhuộm, nồi hấp, tẩy
+trắng, giặt, sấy, đốt lông, hồ,
+in hoa
+In hoa
+Xử lý ướt
+Quy trình
+Giảm
+chất thải
+Nâng cao
+hiệu quả
+Điều khiển và
+tự động hóa
+Cải thiện thực hành
+Thay đổi
+công nghệ/
+quy trình
+Giải pháp không thay đổi về
+công nghệ/quy trình
+Thu hồi kiềm
+Thay bẫy hơi
+ở máy nhuộm
+Kết hợp lọc
+cát và tối ưu
+hóa hệ thống
+làm mềm
+nước
+Giũ hồ bằng
+hóa enzyme
+thay vì dùng
+hóa chất
+Thu hồi hơi ở
+quá trình
+phòng co
+Dùng máy
+nhuộm thổi
+khí (airjet)
+Thu hồi kiềm
+ở quá trình
+kiềm bóng
+Tận dụng
+nhiệt thải từ
+máy nén khí
+cấp để sấy
+Hệ thống làm
+mềm nước
+tự động
+Tái sử dụng
+nước đã xử lý
+hoặc nước
+thải nấu có
+hàm lượng
+kiềm cao
+để xử lý khói
+thải lò hơi
+Gia nhiệt
+bằng dầu tải
+nhiệt thay vì
+gia nhiệt thiết
+bị hoàn tất
+bằng bóng
+đèn truyền
+thống
+Sử dụng chất
+tẩy rửa sinh
+học để loại bỏ
+thuốc nhuộm
+dư khỏi vải
+cotton sau
+khi nhuộm
+Dùng thiết bị
+nhuộm
+Thermosol IR
+dùng ít nước
+Xử lý ướt
+Quy trình
+Giảm
+chất thải
+Nâng cao
+hiệu quả
+Điều khiển và
+tự động hóa
+Cải thiện thực hành
+Thay đổi
+công nghệ/
+quy trình
+Giải pháp không thay đổi về
+công nghệ/quy trình
+Thay thế chất
+tẩy rửa thuốc
+nhuộm dạng
+kiềm +
+Hydrosulphite
+Bằng chất tẩy
+rửa thuốc
+nhuộm dạng
+axit (chỉ dành
+cho polyester)
+Nhuộm ngấm
+ép cuộn ủ
+nguội
+Sử dụng tác
+nhân nấu
+chuội sinh học
+để tiền xử lý
+cotton
+Nâng nhiệt độ
+nước cấp cho
+lò hơi bàn ủi
+nhờ năng
+lượng mặt trời
+Nâng cấp máy
+khâu với mô tơ
+truyền động
+trực tiếp
+Lắp động cơ
+servo cho máy
+khâu
+Công nghệ
+Liquid Indigo
+Ứng dụng
+công nghệ
+e-flow
+Ứng dụng
+công nghệ
+ozone ướt
+Xử lý ướt
+May
+Quy trình
+Giảm
+chất thải
+Nâng cao
+hiệu quả
+Điều khiển và
+tự động hóa
+Cải thiện thực hành
+Thay đổi
+công nghệ/
+quy trình
+Giải pháp không thay đổi về
+công nghệ/quy trình
+Thay thế các
+động tơ quấn
+lại bằng động
+cơ hiệu suất
+năng lượng cao
+Tối ưu hóa
+hệ thống
+cung cấp khí
+nén
+Lắp đặt bộ
+truyền động
+vô cấp VSD
+cho máy nén,
+quạt lò hơi
+Lắp hệ thống thu nước mưa
+Sử dụng đèn LED
+Tối ưu hóa
+máy nén
+bằng biến tần
+Lắp các bộ
+thu hồi nhiệt
+thải cho các
+dòng thải
+mang nhiệt
+Sử dụng vòi
+rửa kiểu
+phun sương
+Nâng cấp các
+dây curoa
+Sử dụng các
+công tơ đo
+nước, khí, hơi
+Tự động hóa
+bộ phận tiền
+xử lý nước
+Thu hồi nhiệt
+ở máy sấy
+văng (stenter)
+Sử dụng các
+van tiết lưu và
+nối kín hệ
+đường ống
+cung cấp
+nước
+Tối ưu viêc
+thu hồi nước
+ngưng và bảo
+ôn bể nước
+ngưng
+Sử dung van
+phao thay vì
+van thủ công
+để xả nước
+ngưng tự
+động
+Toàn bộ chuỗi
+cung ứng
+Quy trình
+Giảm
+chất thải
+Nâng cao
+hiệu quả
+Điều khiển và
+tự động hóa
+Cải thiện thực hành
+Thay đổi
+công nghệ/
+quy trình
+Giải pháp không thay đổi về
+công nghệ/quy trình
+Sử dụng bẫy
+hơi cho
+mỗi bàn ủi
+Thay thế lò
+hơi trung
+tâm bằng lò
+hơi điện phân
+tán ở các
+xưởng may
+Sử dụng quạt
+thông gió
+trực tiếp
+Kiểm soát
+điều hòa để
+cấp gió tưới
+đều khắp
+nhà xưởng
+nhờ tín hiệu
+Bảo ôn các
+van hơi và
+bể chứa nước
+cấp lò hơi
+Toàn bộ chuỗi
+cung ứng
+Chú giải thuật ngữ
+Hệ thống quản lý
+môi trường
+Hệ thống quản lý môi trường là một tập hợp các quy trình và thực
+hành cho phép một tổ chức giảm các tác động đến môi trường và
+tăng hiệu quả hoạt động của tổ chức. Higg Index và ISO 14001 là
+những ví dụ.
+Hệ thống lập kế
+hoạch nguồn lực
+doanh nghiệp
+Hoạch định nguồn lực doanh nghiệp là phần mềm quản lý quy trình
+kinh doanh cho phép một tổ chức sử dụng hệ thống các ứng dụng
+tích hợp để quản lý doanh nghiệp và tự động hóa nhiều chức năng
+văn phòng liên quan đến công nghệ, dịch vụ và nguồn nhân lực.
+Cut, Make, Trim
+Sản xuất cắt, may và làm sạch là nơi một nhà máy may mặc dùng
+thiết kế của bạn và sản xuất chúng theo ba giai đoạn. 'Cắt': vật liệu
+được cắt theo mẫu của bạn và sẵn sàng để may; 'May': các mảnh cắt
+được may lại với nhau và tạo ra sản phẩm; và 'Làm sạch': quần áo đã
+hoàn thành, chỉ thừa và khuyết tật nhỏ đều được loại bỏ và trải qua
+khâu kiểm tra chất lượng cuối cùng và đóng gói.
+Free on board
+Phương thức, trong đó, doanh nghiệp sản xuất nhận đơn đặt hàng
+may mặc sử dụng tất cả những gì vốn có của doanh nghiệp (từ
+nguồn hàng, máy móc, chi phí, nhân công,…) để hoàn thành đơn
+hàng. Doanh nghiệp nhận trách nhiệm đến khi ship hàng ra ngoài
+cảng biển.
+Sản xuất đúng thời điểm
+Sản xuất đúng điểm hoặc còn gọi là Hệ thống sản xuất Toyota (TPS),
+là một phương pháp nhằm giảm thời gian trong hệ thống sản xuất
+cũng như thời gian phản hồi từ nhà cung cấp và khách hàng. Nguồn
+gốc và sự phát triển của nó chủ yếu ở Nhật Bản, phần lớn vào những
+năm 1960 và 1970 và đặc biệt là ở Toyota.
+Tỷ lệ đúng ngay
+lần đầu
+Sản xuất đúng ngay lần đầu (RFT) là một chỉ báo hiệu suất cho sản
+xuất hàng may mặc. Các nhà sản xuất sẽ kiểm tra hàng may mặc và
+đo tỷ lệ lỗi trong lô hàng và lỗi trên hàng trăm đơn vị trong lô. RFT là
+một thước đo khác về hiệu suất chất lượng của một nhà máy. Bằng
+cách đo RFT, một nhà máy may mặc có thể tìm ra mức chất lượng
+của quá trình sản xuất.
+Các Mục tiêu
+Phát triển Bền vững
+Các Mục tiêu Phát triển Bền vững đã được xây dựng tại Hội nghị của
+Liên hợp quốc về Phát triển Bền vững ở Rio de Janeiro vào năm 2012.
+SDGs thay thế các Mục tiêu Phát triển Thiên niên kỷ (MDGs). Giống
+như MDGs, SDGs đặt ra các mục tiêu cho nỗ lực toàn cầu nhằm xóa
+bỏ đói nghèo. Có 17 SDG gồm:
+Mục tiêu 1: Xóa nghèo
+Mục tiêu 2: Không còn nạn đói
+Mục tiêu 3: Sức khỏe và có cuộc sống tốt
+Mục tiêu 4: Giáo dục có chất lượng
+Mục tiêu 5: Bình đẳng giới
+Mục tiêu 6: Nước sạch và Vệ sinh
+Mục tiêu 7: Năng lượng sạch và giá thành hợp lý
+Mục tiêu 8: Công việc tốt và tăng trưởng kinh tế
+Mục tiêu 9: Công nghiệp, sáng tạo và phát triển hạ tầng
+Mục tiêu 10: Giảm bất bình đẳng
+Mục tiêu 11: Các thành phố và cộng đồng bền vững
+Mục tiêu 12: Tiêu thụ và sản xuất có trách nhiệm
+Mục tiêu 13: Hành động vì khí hậu
+Mục tiêu 14: Tài nguyên và môi trường biển
+Mục tiêu 15: Tài nguyên và môi trường đất liền
+Mục tiêu 16: Hòa bình, công lý và các thể chế mạnh mẽ
+Mục tiêu 17: Quan hệ đối tác vì các mục tiêu
+Chuỗi cung ứng
+xanh
+Quản lý chuỗi cung ứng xanh tích hợp các mối quan tâm về môi
+trường vào thực tiễn quản lý chuỗi cung ứng thông thường. Các mối
+quan tâm về môi trường được xem xét ở mọi mắt xích trong chuỗi:
+thiết kế, mua sắm, quy trình, phân phối sản phẩm cuối cùng và quản
+lý sản phẩm cuối vòng đời.
+Kinh tế tuần hoàn
+Nền kinh tế tuần hoàn là một giải pháp thay thế cho nền kinh tế
+tuyến tính truyền thống (chế tạo, sử dụng, thải bỏ), trong đó chúng
+ta giữ các nguồn tài nguyên được sử dụng càng lâu càng tốt, trích
+xuất giá trị tối đa từ chúng khi đang sử dụng, sau đó khôi phục và sử
+dụng lại các bộ phận hoặc vật liệu vào cuối mỗi vòng đời sử dụng.
+Đánh giá
+vòng đời
+Đánh giá vòng đời là một kỹ thuật phân tích từ đầu đến cuối hoặc từ
+nôi đến nôi để đánh giá các tác động môi trường liên quan đến tất
+cả các giai đoạn của vòng đời sản phẩm, từ khai thác nguyên liệu thô
+đến chế biến, sản xuất, phân phối và sử dụng.
+Công nghiệp 4.0
+Công nghiệp 4.0 là sự chuyển đổi kỹ thuật số của sản xuất, chế tạo,
+các ngành liên quan và các quá trình tạo ra giá trị. Công nghiệp 4.0
+được sử dụng thay thế cho thuật ngữ 'cuộc cách mạng công nghiệp
+lần thứ tư' và thể hiện một giai đoạn mới trong tổ chức và kiểm soát
+Nuôi dưỡng thế giới tự nhiên
+vì lợi ích của cả con người và
+muôn loài.
+© 2020
+© Biểu tượng Panda năm 1986 của Tổ chức Quốc tế về Bảo tồn Thiên nhiên - WWF
+(Tên cũ là Quỹ Động vật Hoang dã Thế giới)
+® “WWF” là thương hiệu đã được đăng ký của WWF. WWF, Rue Mauverney 28, 1196
+Gland, Thuỵ Sĩ. Tel. +41 22 364 9111; Fax +41 22 364 0332.
+© David Woodfall / WWF-Anh

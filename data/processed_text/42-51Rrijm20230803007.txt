@@ -1,0 +1,285 @@
+No.03 | March 2023 | The Impact of  ESG Practices on Business Performance in Vietnam: A
+Hanoi, Vietnam In recent years, there are many textile and garment enterprises in Vietnam who are
+interested in understanding the relevance of ESG practices to their business
+performance. The article is researched with the aim of analyzing the relationship
+between ESG practice and the performance of businesses, especially in the textile and
+garment industry in Vietnam. The authors used Cronbach's Alpha accreditation,
+EFA factor analysis, linear regression model, and Bootstrap testing for intermediate
+variables to analyze "The impact of ESG practices on the performance of textile
+enterprises in the period 2018 - 2021". The results showed a positive influence
+between ESG practices and business performance through factors such as customer
+loyalty, corporate reputation and corporate culture. ESG, Environmental, Social, Corporate governance, Business
+Economics, National Economics
+Hai Ba Trung District, Hanoi,
+by-nc-nd/4.0/) Scan and access Online Introduction Today, consumers, investors in the country and around the world are looking for businesses that uphold ESG as a
+core value in the operation of businesses, especially focusing on issues related to employees, communities ... The
+company has a pioneering board of directors and management to apply regulations on ESG disclosure, integrate
+ESG into the strategic plan to increase operational efficiency, better manage risks, and bring value to shareholders
+and increase the resilience of the business in the context of today's volatile world. In Vietnam, the textile and garment industry is on track to reduce resource use and pollution, strengthen worker
+protection and protect the interests of customers. Vietnam's textile and garment industry in recent years is still making efforts to realize green production goals and reduce emissions to contribute to the implementation of the
+Government's commitment to net zero emissions by 2050 at the 26th UN Conference of the Parties on Climate
+Change. In the future, the sustainable development of this industry depends entirely on the use of resources,
+related to water, soil and oil, and recycling products to reduce waste. That requires the textile industry to operate
+on the practice of ESG criteria. Recognizing the above situation as well as to meet the mentioned goals, in this the impact of ESG practice on the performance of textile and garment enterprises in Vietnam. The authors chose to
+use intermediary factors: customer loyalty, corporate reputation, corporate culture and corporate size to consider
+the impact of ESG practices on the performance of Vietnamese textile and garment enterprises. On that basis, we
+propose a number of suitable solution recommendations for textile and garment enterprises in particular and
+enterprises operating in Vietnam in general. Research overview and theoretical basis Research overview
+There are a number of studies that have been done on how ESG affects or influences factors in the business as a
+whole. Their findings are different from research methods and research in different aspects of the business's
+operations. Around the world, many researchers have conducted research on the relationship between ESG and business.
+Weber's (2013) study analyzed the reporting of the top 100 Chinese companies on the green environment,
+resulting in good ESG reporting that provided better financial returns and improved corporate environment
+efficiency. Clark, Feiner and Viehs (2015) studied more than 200 books and newspapers on ESG and found that
+more than 90% of businesses with deep ESG adoption minimize capital costs, 88% of ESG enterprises see an
+improvement in operational efficiency, and 80% of research indicates that:  the adoption of ESG has a positive
+effect on stock prices. In addition, factors such as human and social rights as well as production responsibilities
+have also shown a positive relationship with the rate of return on capital efficiency (Chen, Feldmann and Tang,
+2015). Ali Fatemi, Martin Glaum, Stefanie Kaiser. (2017) studied the relationship between performance and company
+values, they found that the strengths of ESG increase company value and weaknesses reduce that value. Almeyda
+and Darmansyah's (2019) study resulted in a significantly positive relationship between ESG disclosure and
+company performance, which demonstrated that ESG information transparency can improve financial
+performance. In addition, numerous studies show that corporate governance outcomes are positively related to
+the organization's financial performance, and ESG reporting contributes to better financial performance and is
+important in assessing corporate value (Duque-Grisales and Aguilera-Caracue, 2019). ESG ratings can also be suitable for integration into policy standards and financial analysis. Ganlin Pu (2022)
+assessed the non-linearity between ESG activities and the company's performance in the case of emerging markets,
+namely China. The findings from the analysis of 232 listed Chinese companies show a positive association between
+ESG activities and company performance, however, the relationship is non-linear. Rupamanjari Sinha Ray (2022)
+empirically investigates the impact of ESG scores on financial variables that can affect the performance of
+companies in the Indian context. The results show the fact that ESG scores are an emerging indicator for forming
+future risk mitigation and financial performance strategies and, therefore, are of considerable importance from a
+policy perspective. There are also a number of recent studies that have argued in favor of no relationship between
+ESG activities and corporate performance (Friede et al., 2015; Shakil et al., 2019). In Vietnam, Thi Thuy Phung in ESG research with sustainable development of Vietnamese enterprises gives
+research results that ESG indicators evaluate and rank the sustainable development of enterprises. In particular, ESG indicators and reports of enterprises are very important, are the basis for the selection of financial investors,
+business partners and are a competitive tool of enterprises in the market to meet customer expectations in
+modern society. Although there have been many studies related to ESG and enterprises in the world, none have delved into the
+impact of ESG practices on the performance of enterprises in Vietnam, especially textile enterprises. Meanwhile,
+the textile and garment industry in Vietnam is increasingly generating many different types of goods, which means
+an increase in the amount of waste discharged into the environment, and ESG practice is extremely necessary for
+the operation of these textile enterprises. Theoretical basis
+Institutional theory:
+Institutional Theory analyzes the role of institutionalization, as well as the role of meaningful institutions shaping
+the behavior of individuals and businesses in ESG practice. Chatterji and Toffel (2010) explained the impact of ESG
+ratings on improving environmental performance. Jayachandran et al. (2013) demonstrated the impact of social
+activism on corporate performance. In addition, Almeyda and Darmansyah's (2019) study results in a significantly
+positive relationship between ESG disclosure and corporate performance, which in turn encourages investors,
+corporate governance, and industry regulators to consider the importance of ESG disclosure. In general, based on
+institutional theory, corporate ESG practices actually have an impact on a company's performance in many
+respects. Stakeholder theory:
+The Stakeholder Theory was published by Freeman (1983). This theory deals with organizational governance and
+business ethics. Drawing on stakeholder theory, Muller and Kräussl (2011) studied the relationship between
+corporate charitable donations and return on investment. Kölbel et al. (2017) studied the relationship between
+corporate social irresponsibility and financial risk. It can be seen that, based on the theory of stakeholders, research
+on the influence of ESG practices in businesses suggests that businesses that better meet the ESG requirements of
+their stakeholders will perform more effectively than irresponsible businesses. Research hypothesis
+From the basis of the above theory, research hypotheses are formulated and selected as follows: The relationship between your ESG practices and your performance
+Guido Giese, et (2019) studies and suggests that there is a positive association between ESG information and the
+valuation and performance of companies. Harvard Business School (2015) also points out that businesses that
+perform well on ESG tend to have higher profitability and higher valuations than competitors that do not perform
+well on ESG. There is a lot of research on ESG affecting many aspects of business performance, so the authors
+make the first hypothesis along with the expectation of a positive relationship between ESG and business
+performance. H1: There is a direct and positive relationship between ESG and business performance. The relationship between ESG practice and customer loyalty
+A study by Cone Communications (2017) found that 87% of customers will buy products from businesses that
+perform well on ESG, and 76% will share information about these products with friends and family. Research by
+Accenture (2018) has also shown that most customers (62%) in the US, UK and Canada are willing to pay more for
+products and services of businesses that perform well on ESG, with 80% of consumers saying they are more likely
+to choose an environmentally sustainable brand. This indicates a change in the customer's perception of the environmental strategy of the business. These studies all use intermediary variables to increase customer loyalty,
+increase sales to confirm that ESG has a positive impact on customers. The authors therefore hypothesize that:
+H2: There is a positive relationship between ESG and customer loyalty. The relationship between customer loyalty and business performance
+Competition between businesses is generally about customers, namely customer loyalty. When customers are loyal
+to the services or products of the business, it not only improves the operational efficiency of the business but also
+cuts advertising costs and attracts customers. Seaide et al. (2015) conducted research and showed a positive
+relationship between customer loyalty and the financial performance of the business. From there, the authors
+proposed the research hypothesis:
+H3: There is a positive relationship between customer loyalty and business performance. The relationship of ESG practice to the reputation of the business
+Reputation is an extremely valuable intangible asset of a business. It is reputation that is the tool that creates the
+competitive advantage of businesses. Harvard Business School (HBS) mentioned reputation when it comes to ESG:
+This study analyzed more than 2,000 businesses between 1992 and 2010 and demonstrated that businesses with
+better levels of ESG performance tend to have better reputations in the eyes of customers, investors and
+community. ESG and corporate reputation are closely related, so the authors hypothesized that:
+H4: There is a positive relationship between ESG practice and the reputation of the business The relationship between the reputation of the business and the performance of the enterprise
+Several studies have established a positive relationship between a business's reputation and performance. Robert
+and Dowling (2002) found that companies with relatively good reputations are likely to remain highly profitable
+over time. Tan (2007) points out that reputation is directly proportional to the sales of the business. And
+Khojastehpour and Johns (2014) – one of the first CSR on brand reputation has an impact on business profitability. From there, the authors have the following
+hypothesis:
+H5: There is a positive relationship between the reputation of the business and the performance of the business The relationship between ESG practice and corporate culture
+Morgan Stanley's "ESG and Corporate Culture" (2021) surveys how ESG impacts corporate culture, especially in
+terms of corporate values, vision, and motto. PwC's "The Role of the Board'' (2019) outlines the board's role in
+promoting and building a positive corporate culture and how to evaluate and manage ESG elements of business
+operations. Swiss Finance Institute (2018) focuses on studying the link between ESG and corporate culture in the
+banking industry and banks evaluate and manage these factors to enhance trustworthiness. From that connection
+combined with factors in ESG the authors propose the hypothesis:
+H6: There is a positive relationship between ESG practice and corporate culture The relationship between corporate culture and corporate performance
+Shahzad et al. (2012) assert that organizational culture has a profound impact on the diversity of organizational
+processes, its employees, and its performance. Mashal Ahmed & Saima Shafiq (2014) research shows that Hofstede
+cultural aspects influence organizational performance in telecommunications companies. A study by Kotter and
+Heskett (1992) of U.S. businesses also found a positive relationship between corporate culture and corporate
+performance. Researchers have found that businesses with a culture that is long-term oriented, customer- and
+employee-focused, and puts customer value first perform better than businesses without a similar culture. From
+the links between corporate culture and corporate efficiency, the authors propose hypotheses:
+H7: There is a positive relationship between corporate culture and corporate performance
+The relationship between ESG practice and business size Research on the relationship between ESG and business size focuses on whether ESG practices affect business size.
+Harjoto and Jo (2011): Research focused on defining the relationship between ESG and company size. Businesses
+that practice ESG well can attract customers and investors to help grow revenue and scale operations. In addition,
+ESG practices can also help strengthen the financial viability of businesses, making them able to meet the needs of
+expansion and development. On this basis, the authors proposed the hypothesis:
+H8: There is a positive relationship between ESG practice and business size The relationship between business size and business efficiency
+Business size is one of the factors that affects business value and has a positive impact on the profitability of the
+surveyed 1,743 small and medium-sized enterprises in Finland, the results showed that business size has a strong
+correlation with operational efficiency, but this correlation varies depending on the type of industry and
+geographical location of the business. Dr. Satish Kumar and Dr. Senthil Kumar (2017) at Anna University, India's
+research results suggest that enterprise size has a significant impact on its operational efficiency and that large
+enterprises tend to have better operational performance due to their financial strength and ability to invest in
+research and development. From the assertions of previous studies, the authors propose the hypothesis: H9: There is a positive relationship between business size and business efficiency
+The formal research model and research hypotheses are presented in Figure 1. Research Methodology Data collection
+Figure 1: Proposed research model Source: Proposed study authors The authors used research data including both secondary and primary data. Through previous domestic and foreign studies along with the preliminary investigation of a group of research
+subjects and experts in the field, the authors have come up with a research model consisting of 8 large factors and
+49 observational variables used as a scale for the parent factors. Primary data is collected by online and offline survey methods for textile enterprises across the country. Data processing With the model used as multivariate linear regression with intermediate or regulatory variables, the authors used
+data analysis software SPSS version 20.0 with Cronbach's Alpha tools, EFA factor analysis, multivariate regression
+model analysis and Bootstrap test for intermediate variables to assess the influence of multipliers. to dependent
+variables. The tool to measure is a 5-degree Likert scale that denotes the impact of ESG practice on business
+performance. Research results and discussions General description
+The study conducted online and offline surveys for textile and garment enterprises operating in Vietnam obtained
+302 survey samples, of which 268 were valid and put into data processing by SPSS software version 20.0. The report on "ESG practice readiness in Vietnam in 2022, shows that 80% of businesses have committed or plan to
+commit to ESG in the next 2-4 years. This shows that ESG practice is something that businesses need to focus on
+and implement in the coming time if businesses want to stand firm in the market and compete compared to other
+businesses, especially in risk management, attracting customers and investors. Scale reliability testing
+The Cronbach's Alpha test does not remove any observed variables because Cronbach's Alpha is greater than or
+equal to 0.6 and the total variable correlation coefficient is greater than 0.3. The observed variables are suitable for
+analyzing the next step. Table 1: Cronbach's Alpha accreditation results
+Scale
+Number of observed variables
+Cronbach’s Alpha
+ESG – Environmental 0.889
+ESG – Social 0.917
+ESG – Corporate Governance 0.824
+Customer Loyalty 0.737
+Corporate reputation 0.912
+Corporate Culture 0.881
+Enterprise size 0.809
+Business performance 0.948
+Source: Extract from SPSS 20.0 EFA Affirmative Factor Analysis
+The conclusion of the EFA factor analysis revealed 3 groups of factors belonging to independent variables, 4 factors
+belonging to intermediate variables and 1 dependent variable including 48 observed variables. In which 1 variable
+is removed as ESG_S5 independent variable due to the Communalities coefficient < 0.5. Table 2: EFA discovery factor analysis results KMO &
+Bartlett
+Sig
+Number of factors
+extracted
+Number of observed
+variables
+Total variance
+extracted
+Independent variable
+0.000 59.688%
+Intermediate variables
+0.000 64.376%
+Variable dependencies
+0.000 76.418%
+Source: Extract from SPSS 20.0
+The scales of independent and intermediate variables are both satisfactory, capable of convergence and good
+representation of observed variables. The performance-dependent variable scale (7 observed variables) has all
+converged to a column representing a single dependent variable of the study model. Linear regression analysis
+Linear regression analysis according to the Enter method with 3 independent variables: ESG_E, ESG_S, ESG_G and
+dependent variable is Enterprise Performance (HQ) gives results as in Table 3: Table 3: Results of multivariate regression analysis
+Model
+Unstandardized
+Coefficients
+Standardized
+Coefficients
+Sig.
+Collinearity Statistics
+Std. Error
+Beta
+Tolerance
+VIF (Constant)
+Source: Extract from SPSS 20.0 The regression equation with a normalized Beta coefficient looks like this:
+HQ =  0.278*ESG_E + 0.373*ESG_S + 0.357*ESG_G The regression result yielded a corrected 𝑅2 value of 0.738 meaning that 73.8% of the variation of the HQ variable
+was explained by 3 independent variables ESG_E, ESG_S. The model had no correlated phenomena (DW = 1.512)
+and multilinear (VIF < 2). At the same time, the T-test Sig value of the 6 factors < 0.05 means that the factors
+included in the model are consistent and statistically significant with a significance of 5%. Specifically, the influence of factors is arranged according to the degree of decreasing of the standardized β
+coefficient as follows: ESG implementation policies on Society (β = 0.373); ESG implementation policies on
+Governance (β = 0.357); and finally, the impact of environmental policies (β = 0.278). Thus, Social ESG is the factor
+that most affects business performance. Therefore, business administrators need to pay attention to the good
+implementation of policies related to society and community in parallel with the implementation of policies related
+to the environment and corporate governance. Test F in the ANOVA table will check whether this linear regression model is broad and applicable to the whole. Table 4: ANOVA
+Model
+Sum of Squares
+Mean Square
+Sig. Regression
+.000b
+Residual
+71.816 .272 Total
+277.014 Source: Extract from SPSS 20.0 The sig value of the F test is 0.000 < 0.05. Thus, the construction linear regression model is matched to the whole. Bootstrap Testing for Intermediate Variables
+Single regression results:
+ESG → KH, ESG → DT, ESG → VH, ESG → QM show that the unnormalized Beta coefficient is equal to 0.9585,
+respectively; 0.8494; 0.2507; 0.7037 sig tests of ESG variables are less than 0.05 indicating that the relationship
+between ESG variables and KH, DT, VH, QM is statistically significant. ESG practices have a positive impact on
+customer loyalty, corporate reputation, corporate culture, and corporate size. Thus, Hypothesis H2, H4, H6, H8 is supported at a meaningful level of 5%. Multiple regression results:
+ESG, KH → HQ; ESG, DT → HQ; ESG, VH → HQ: The test sig of the variables KH, DT, VH are all less than 0.05,
+indicating that the relationship between the variables KH, DT, VH and HQ is statistically significant, the
+unnormalized beta coefficient of KH, DT, VH is equal to 0.6422, respectively; 0.1146; 0.1338 shows that Customer
+Loyalty, Corporate Reputation and Corporate Culture have a positive impact on business performance. Only ESG, QM → HQ variables: The test sig of QM variable equal to 0.5079 is greater than 0.05 indicating that the
+relationship between QM and HQ variables is not statistically significant, the unnormalized beta of QM equal to
+0.0252 indicates that Enterprise size has an impact on business performance but is not statistically significant. Table 5: Bootstrap test results for KH, DT, VH, QM variables
+Indirect effects(s) of X on Y Effect
+BootSE
+BootLLCI
+BootULCI
+Source: Extract from SPSS 20.0 According to table 4.5 the confidence intervals of the 3-variable indirect effects of KH, DT, VH are [05047;0.7267],
+[0.0125; 0.1966], [0.0106; 0.0673], respectively. The conclusion makes Customer loyalty, corporate reputation and
+corporate culture serve as intermediaries in the relationship between ESG practice and operational performance.
+There is a confidence interval QM variable of [-0.0360; 0.0739] containing a value of 0. The Enterprise Size variable
+does not act as an intermediate variable in the relationship between ESG practice variables and operational
+efficiency. Conclusions and proposals Conclusions
+The research results of the article point to a positive relationship between ESG practice and corporate performance
+through the role of corporate values: customer loyalty, corporate reputation, corporate culture. It mentions the
+same relationship of ESG practice to corporate reputation, customer loyalty, corporate culture, and assesses that
+these three factors all have a positive impact on business performance. Thus, it can be seen that practicing ESG,
+building customer loyalty, reputation and good corporate culture will lead to innovation in a positive way and
+thereby increase operational efficiency in each enterprise, especially for Vietnamese textile and garment
+enterprises. Recommendations
+Based on the views made and analyzed on ESG above, our on ESG implementation as follows: Firstly, businesses need to be properly aware of ESG as well as the importance and necessity of ESG in the current
+trend of globalization and international integration to be able to participate in the global supply chain and for the
+goal of operating effectively towards sustainable development. Secondly, enterprises need to arrange and improve the capacity of specialized personnel in ESG, focusing on and
+improving production management skills, value chain management and customers; develop and effectively implement the Program to support human resource development in the textile and garment sector, focusing on
+new and necessary skills in the context of the industrial revolution 4.0. Thirdly, develop and publish the company's regulations and policies on ESG annually. At the same time, it is
+necessary to amend and supplement policies in a timely manner so that they are reasonable to environmental and
+social circumstances and fully promote the positive impact of ESG on economic consequences.
+Fourth, businesses need to make efforts to transform themselves, catch up with market trends, invest in
+technology machinery, green transformation to adapt to the requirements of brands, and strengthen many
+solutions for development. Fifth, it is necessary to attract foreign investment selectively, giving priority to investment projects in advanced
+textile and dyeing technology, without causing adverse impacts on the environment. Sixth, connecting with domestic garment enterprises, forming a link chain throughout the value chain, offering
+scientific and technological solutions to green the textile industry... aiming for sustainable development, while
+meeting the requirements of major markets in the world. References [1.] Ali Fatemi, M. Glaum, Stefanie Kaiser. (2017). ESG performance and firm value: The moderating role of disclosure.
+Global Finance Journal. j.gfj.2017.03.001
+[2.] Amir Amel-Zadeh & George Serafeim. (2018). Why and How Investors Use ESG Information: Evidence từ a Global
+Survey. Financial Analysts Journal. faj.v74.n3.2
+[3.] Corinne B Bendersky, Beth Burks, Michael Ferguson. (2019). Exploring links to Corporate Financial Performance.
+S&P Global Ratings. Retrieved 2 February 23, 2023, from
+insights/articles/the-esg-advantage-exploring-links-to-corporate-financial-performance
+[4.] David C Broadstock, K. C. (2021). The role of ESG performance during times of financial crisis: Evidence từ COVID-
+19 in China. Finance research letters. j.frl.2020.101716
+[5.] Duy Thanh Nguyen, T. G. (2022). Help or Hurt? The Impact of ESG on Firm Performance in S&P 500 Non-Financial
+Firms. Australasian Accounting, Business and Finance journal. aabfj.v16i2.7
+[6.] Elena Escrig-Olmedo, M. A.-I.-F.-L.-T. (2019). Rating the Raters: Evaluating how ESG Rating Agencies Integrate
+Sustainability Principles. Sustainable Finance. SU11030915
+[7.] Gerhard Halbritter, G. D. (2015). The wages of social responsibility where are they? A critical review of ESG
+investing. Review of Financial Economics. j.rfe.2015.03.004
+[8.] Gerhard Halbritter, G. D. (2015). The wages of social responsibility where are they? A critical review of ESG
+investing. Review of Financial Economics. doi:org/10.1016/j.rfe.2015.03.004
+[9.] Gregory, R. P. (2022). The influence of firm size on ESG score controlling for ratings agency and industrial sector. [10.] Guido Giese, L.-E. L. (2019). Foundations of ESG Investing: How ESG Affects Equity Valuation, Risk, and
+Performance. The
+[11.] Gunnar Friede, T. B. (2015). ESG and financial performance: aggregated evidence từ more than 2000 empirical
+studies. [12.] Morrison, R. (2021). Environmental, Social, and Governance Theory. Competitive Enterprise Institute. Retrieved 2
+February 12, 2023, from [13.] Pratt, L. (2023). Why ESG Means Changes for Company Culture. FutureBusiness - Building a Sustainable World.
+Retrieved 2 Aug 19, 2023, from [14.] Pu, G. (2022). A non-linear assessment of ESG and firm performance relationship: evidence from China. Economic
+Research-Ekonomska Istraživanja. X.2022.2113336
+[15.] Tong Thi Bich Nguyet et al. (2021). The impact of Corporate Social Responsibility on the performance of Vietnam's
+seafood exporters. Author’s Biography: Thi Ngoc Do is currently studying International Economics at National Economics University,
+Hanoi, Vietnam. Thi Ngoc Huyen Nguyen is currently studying International Economics at National Economics
+University, Hanoi, Vietnam. Thu Huong Tran is currently studying International Economics at National Economics University,
+Hanoi, Vietnam. Thi Thuy Tien Tong is currently studying International Economics at National Economics University,
+Hanoi, Vietnam. How Cite this article? Thi, N. D., Thi, N. H. N., Thu, H. T., & Thi, T. T. T. (2023). The Impact of ESG Practices on Business
+Performance in Vietnam: A Study of the Textile and Garment Industry.

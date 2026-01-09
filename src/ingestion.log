@@ -1,0 +1,116 @@
+2026-01-07 23:31:30,928 - INFO - Loading embedding model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2026-01-07 23:31:30,928 - INFO - Use pytorch device_name: cpu
+2026-01-07 23:31:30,928 - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2026-01-07 23:31:38,376 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2026-01-07 23:32:59,899 - WARNING - Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2026-01-07 23:33:05,236 - INFO - Initialized ChromaDB collection: knowledge_base
+2026-01-07 23:33:05,238 - INFO - Current documents in collection: 0
+2026-01-07 23:33:05,239 - INFO - Current database stats:
+2026-01-07 23:33:05,259 - INFO -   total_documents: 0
+2026-01-07 23:33:05,259 - INFO -   collection_name: knowledge_base
+2026-01-07 23:33:05,259 - INFO -   sample_files: []
+2026-01-07 23:33:05,259 - INFO -   embedding_model: 384
+2026-01-07 23:33:05,259 - INFO - 
+Starting data ingestion...
+2026-01-07 23:33:05,260 - INFO - Starting ingestion from D:\NCKH\nckh\src\data\processed_text
+2026-01-07 23:33:05,260 - WARNING - No files found in D:\NCKH\nckh\src\data\processed_text
+2026-01-07 23:33:05,260 - INFO - 
+Testing search functionality...
+2026-01-07 23:38:31,456 - INFO - Loading embedding model: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2026-01-07 23:38:31,456 - INFO - Use pytorch device_name: cpu
+2026-01-07 23:38:31,456 - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2026-01-07 23:38:41,872 - INFO - Initialized ChromaDB collection: knowledge_base
+2026-01-07 23:38:41,876 - INFO - Current documents in collection: 0
+2026-01-07 23:38:41,876 - INFO - Current database stats:
+2026-01-07 23:38:41,888 - INFO -   total_documents: 0
+2026-01-07 23:38:41,888 - INFO -   collection_name: knowledge_base
+2026-01-07 23:38:41,888 - INFO -   sample_files: []
+2026-01-07 23:38:41,890 - INFO -   embedding_model: 384
+2026-01-07 23:38:41,890 - INFO - 
+Starting data ingestion...
+2026-01-07 23:38:41,890 - INFO - Starting ingestion from D:\NCKH\nckh\data\processed_text
+2026-01-07 23:38:41,891 - INFO - Found 54 files to ingest
+2026-01-07 23:38:43,596 - INFO - ✓ Ingested 42-51Rrijm20230803007.txt: 66 chunks
+2026-01-07 23:38:45,744 - INFO - ✓ Ingested 4528-133-10412-1-10-20250331.txt: 88 chunks
+2026-01-07 23:38:55,456 - INFO - ✓ Ingested BaoCaoCuaIfcWorldBankVeXanhHoaNganhDetMayVietNam.txt: 425 chunks
+2026-01-07 23:38:57,407 - INFO - ✓ Ingested BioconfSagegrace202502006.txt: 76 chunks
+2026-01-07 23:39:02,825 - INFO - ✓ Ingested Border-carbon-adjustments-vietnam.txt: 236 chunks
+2026-01-07 23:39:10,542 - INFO - ✓ Ingested CbamQuestionsAndAnswers.txt: 324 chunks
+2026-01-07 23:39:24,297 - INFO - ✓ Ingested CommissionImplementingRegulationEu20231773.txt: 590 chunks
+2026-01-07 23:39:26,466 - INFO - ✓ Ingested DefaultValuesTransitionalPeriod.txt: 85 chunks
+2026-01-07 23:39:26,718 - INFO - ✓ Ingested Deloitte-nl-tax-cbam-compliance-managerTwo-pager.txt: 8 chunks
+2026-01-07 23:39:27,344 - INFO - ✓ Ingested EuCarbonBorderAdjustmentMechanismCbamDeloitte.txt: 24 chunks
+2026-01-07 23:39:28,149 - INFO - ✓ Ingested FdiExportTargetsToPropelSustainability.txt: 31 chunks
+2026-01-07 23:40:42,806 - INFO - ✓ Ingested Greening-textile-industry-in-vietnam-5922q9q6cg.txt: 1619 chunks
+2026-01-07 23:40:55,491 - INFO - ✓ Ingested GreeningTextileSectorInVietnamWwf.txt: 258 chunks
+2026-01-07 23:41:08,626 - INFO - ✓ Ingested GreeningTextileSectorInVietnamWwfEng.txt: 268 chunks
+2026-01-07 23:41:09,404 - INFO - ✓ Ingested GreeningVietNamsTextileAndGarment.txt: 27 chunks
+2026-01-07 23:41:20,083 - INFO - ✓ Ingested GuidanceDocumentOnCbamImplementationForImportersOfGoodsIntoTheEu.txt: 456 chunks
+2026-01-07 23:41:52,905 - INFO - ✓ Ingested GuidanceDocumentOnCbamImplementationForInstallationOperatorsOutsideTheEu.txt: 1304 chunks
+2026-01-07 23:41:54,149 - INFO - ✓ Ingested HowDoesCbamImpactSoutheastAsianEconomies.txt: 22 chunks
+2026-01-07 23:41:58,156 - INFO - ✓ Ingested IfcSustainabilityReportForTextileSector.txt: 76 chunks
+2026-01-07 23:42:01,988 - INFO - ✓ Ingested ImplementingRegulationEu20243210.txt: 75 chunks
+2026-01-07 23:42:07,275 - INFO - ✓ Ingested ImplementingRegulationEu2025486.txt: 105 chunks
+2026-01-07 23:42:08,215 - INFO - ✓ Ingested KpmgCbamReportPdf.txt: 16 chunks
+2026-01-07 23:42:41,134 - INFO - ✓ Ingested LuatBaoVeMoiTruong2020.txt: 674 chunks
+2026-01-07 23:42:43,575 - INFO - ✓ Ingested MappingExistingPoliciesInitiatives.txt: 42 chunks
+2026-01-07 23:42:56,274 - INFO - ✓ Ingested NghiDinh062022Nd-cp.txt: 263 chunks
+2026-01-07 23:43:42,739 - INFO - ✓ Ingested NghiDinh082022Nd-cp.txt: 1117 chunks
+2026-01-07 23:44:26,756 - INFO - ✓ Ingested NghiDinh452022Ndcp.txt: 894 chunks
+2026-01-07 23:44:43,951 - INFO - ✓ Ingested ProposalToSimplifyCbam-OmnibusI.txt: 342 chunks
+2026-01-07 23:44:55,894 - INFO - ✓ Ingested ProposalToSimplifyCbam-OmnibusIi.txt: 245 chunks
+2026-01-07 23:45:22,053 - INFO - ✓ Ingested QuyetDinh012022Qd-ttg.txt: 547 chunks
+2026-01-07 23:45:25,653 - INFO - ✓ Ingested QuyetDinh1055Qd-ttg.txt: 155 chunks
+2026-01-07 23:45:27,313 - INFO - ✓ Ingested QuyetDinh148Qdttg.txt: 67 chunks
+2026-01-07 23:45:29,853 - INFO - ✓ Ingested QuyetDinh1658Qd-ttg.txt: 107 chunks
+2026-01-07 23:45:30,903 - INFO - ✓ Ingested QuyetDinh1973Qdttg.txt: 45 chunks
+2026-01-07 23:45:32,705 - INFO - ✓ Ingested QuyetDinh232Qdttg.txt: 77 chunks
+2026-01-07 23:45:35,206 - INFO - ✓ Ingested QuyetDinh450Qdttg.txt: 108 chunks
+2026-01-07 23:45:37,203 - INFO - ✓ Ingested QuyetDinh888Qdttg.txt: 84 chunks
+2026-01-07 23:45:40,020 - INFO - ✓ Ingested QuyetDinh896Qd-ttg.txt: 122 chunks
+2026-01-07 23:45:49,033 - INFO - ✓ Ingested RegulationEu2023956.txt: 399 chunks
+2026-01-07 23:45:53,553 - INFO - ✓ Ingested RegulationEu20252083.txt: 195 chunks
+2026-01-07 23:45:59,593 - INFO - ✓ Ingested StaffWorkingDocumentAccompanyingTheDocumentCom202587.txt: 254 chunks
+2026-01-07 23:46:01,733 - INFO - ✓ Ingested SustainableDevelopmentOfTextileAndApparelSupplyChain.txt: 85 chunks
+2026-01-07 23:46:02,647 - INFO - ✓ Ingested TheGreenRevolutionEsg.txt: 36 chunks
+2026-01-07 23:46:07,013 - INFO - ✓ Ingested ThongTu012022Tt-btnmt.txt: 177 chunks
+2026-01-07 23:46:10,390 - INFO - ✓ Ingested ThongTu022022Tt-btnmt.txt: 139 chunks
+2026-01-07 23:46:18,183 - INFO - ✓ Ingested ThongTu172022Tt-btnmt.txt: 316 chunks
+2026-01-07 23:46:22,192 - INFO - ✓ Ingested TowardsIndustry50ChallengesForThe.txt: 165 chunks
+2026-01-07 23:46:32,129 - INFO - ✓ Ingested TransitionFromIndustry40ToIndustrRecentAdvancesAndFutureProspects.txt: 415 chunks
+2026-01-07 23:46:39,467 - INFO - ✓ Ingested Vgt.txt: 303 chunks
+2026-01-07 23:46:46,553 - INFO - ✓ Ingested Vgt2.txt: 294 chunks
+2026-01-07 23:46:59,011 - INFO - ✓ Ingested VgtBaocaothuongnien2022.txt: 527 chunks
+2026-01-07 23:47:04,436 - INFO - ✓ Ingested VgtBaocaothuongnien2023.txt: 229 chunks
+2026-01-07 23:47:20,358 - INFO - ✓ Ingested Vietnams-textile-and-garment-sectorPub.txt: 669 chunks
+2026-01-07 23:47:20,537 - INFO - ✓ Ingested VietnamsGarment-textile.txt: 6 chunks
+2026-01-07 23:47:20,544 - INFO - ============================================================
+2026-01-07 23:47:20,544 - INFO - INGESTION SUMMARY
+2026-01-07 23:47:20,544 - INFO - ============================================================
+2026-01-07 23:47:20,544 - INFO - Total files processed: 54
+2026-01-07 23:47:20,544 - INFO - ✓ Successful: 54
+2026-01-07 23:47:20,544 - INFO - ✗ Failed: 0
+2026-01-07 23:47:20,544 - INFO - ⊝ Skipped: 0
+2026-01-07 23:47:20,544 - INFO - Total chunks created: 15277
+2026-01-07 23:47:20,544 - INFO - Total documents in DB: 15277
+2026-01-07 23:47:20,544 - INFO - Stats saved to: D:\NCKH\nckh\data\chroma_db\ingestion_stats.json
+2026-01-07 23:47:20,544 - INFO - ============================================================
+2026-01-07 23:47:20,544 - INFO - 
+Testing search functionality...
+2026-01-07 23:47:20,578 - INFO - 
+Search results for: 'nghiên cứu khoa học'
+2026-01-07 23:47:20,578 - INFO - 
+--- Result 1 ---
+2026-01-07 23:47:20,578 - INFO - File: TransitionFromIndustry40ToIndustrRecentAdvancesAndFutureProspects.txt
+2026-01-07 23:47:20,578 - INFO - Distance: 10.6924
+2026-01-07 23:47:20,578 - INFO - Text preview: gratefully acknowledge the support Science and Technology University, Tangalil. Author Contribution M.T.R.: conceptualization, methodology, data curation, data collecon, formal analysis, validation, v...
+2026-01-07 23:47:20,578 - INFO - 
+--- Result 2 ---
+2026-01-07 23:47:20,578 - INFO - File: NghiDinh062022Nd-cp.txt
+2026-01-07 23:47:20,578 - INFO - Distance: 10.8057
+2026-01-07 23:47:20,578 - INFO - Text preview: khoa học và phát triển công nghệ 1. Nghiên cứu khoa học, phát triển công nghệ, chuyển giao công nghệ giảm nhẹ phát thải khí nhà kính và bảo vệ tâng ô-dôn thực hiện theo quy định của pháp luật về khoa ...
+2026-01-07 23:47:20,578 - INFO - 
+--- Result 3 ---
+2026-01-07 23:47:20,578 - INFO - File: LuatBaoVeMoiTruong2020.txt
+2026-01-07 23:47:20,578 - INFO - Distance: 11.2563
+2026-01-07 23:47:20,578 - INFO - Text preview: thiên fflnen. 4. Hoạt động 11glII.ĩ.eIL cứu khoa học và ffl1at triển công nghệ, chuyển giao mấng nghệ về bảo vệ môi trường được ưu đãi, hỗ trợ theo quy fflnh của pháp luật về khoa học, công nghệ, chuy...

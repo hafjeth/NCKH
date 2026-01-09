@@ -1,8 +1,12 @@
+BÁO CÁO
+THƯỜNG NIÊN
+2024
 Digitally signed by Tập Đoàn Dệt
 May Việt Nam
 DN: C=VN, S=THÀNH PHỐ HÀ NỘI,
 CN=Tập Đoàn Dệt May Việt Nam,
 OID.0.9.2342.19200300.100.1.1=MS
+T:0100100008
 Reason: I am the author of this
 document
 Location: your signing location here
@@ -11,41 +15,86 @@ Foxit Reader Version: 10.1.0
 Tập Đoàn
 Dệt May
 Việt Nam
+2024
+MỤC LỤC
+01
 Chương
+02
+Chương
+04
+Chương
+05
+Chương
+06
+Chương
+03
+Chương
+TỔNG QUAN VINATEX
+14
 Tổng quan về Tập đoàn
+16
 Thông tin về tổ chức và nhân sự
+26
 Tầm nhìn - Sứ mệnh,
 Văn hóa doanh nghiệp,
 Khẩu hiệu -  Biểu tượng
+28
 Các dấu mốc nổi bật
+30
 Lĩnh vực, năng lực sản xuất kinh
 doanh chính
+32
 Top sự kiện tiêu biểu Vinatex
 năm 2024
+BÁO CÁO
+PHÁT TRIỂN BỀN VỮNG
+76
 Chính sách liên quan đến người
-lao động Báo cáo môi trường- năng lượng
+lao động
+78
+Báo cáo môi trường- năng lượng
 năm 2024
+82
 Báo cáo công tác Chuyển đổi số
 năm 2024, định hướng kế hoạch
 năm 2025
+88
 Mở rộng tương lai cho vải và trang
 phục chống cháy
+92
 Hoạt động cộng đồng năm 2024
+BÁO CÁO TÀI CHÍNH
+THÔNG ĐIỆP CỦA CHỦ TỊCH
 HỘI ĐỒNG QUẢN TRỊ VINATEX
-Thông điệp của
+08
+Thông điệp của Chủ tịch
 Hội đồng Quản trị Vinatex
+QUAN HỆ CỔ ĐÔNG VÀ
+NHÀ ĐẦU TƯ
+70
 Quan hệ cổ đông
+QUẢN TRỊ CÔNG TY
+36
 Báo cáo hoạt động và đánh giá
 của Hội đồng Quản trị
+44
 Báo cáo Ban Kiểm soát
+48
 Báo cáo hoạt động của Cơ quan
 Điều hành
+60
 Hợp đồng, giao dịch với người
 nội bộ
+64
 Báo cáo quản trị rủi ro
 Thông điệp01
+CHƯƠNG
+CỦA CHỦ TỊCH
+HỘI ĐỒNG QUẢN TRỊ
+VINATEX
 Thông
 điệp
+2025
 Phát huy sức mạnh nội sinh,
 hội tụ nguồn nhân lực chất
 lượng cao, xây dựng vị thế
@@ -57,6 +106,9 @@ nền khoa học công nghệ
 tiên tiến, chuyển dịch mạnh
 mẽ vào kỷ nguyên kinh tế
 tuần hoàn.
+“
+“
+N
 ăm 2024 qua đi tiếp tục khẳng định tính chất
 bất định khó dự báo của thị trường, 6 tháng
 đầu năm thị trường tuy có khá hơn nhưng vẫn là
@@ -102,9 +154,16 @@ Chấp nhận thách thức, thử nghiệm vào các khu vực sản xuất cá
 dụng công nghệ mới, tìm thị trường mới cho Tập đoàn.
 Nâng cao hình ảnh một Tập đoàn lớn có trách nhiệm, hướng vào sản phẩm dệt may
 xanh trong tương lai. Luôn thực hiện tốt mọi cam kết để trở thành đối tác tin cậy
-trong các chuỗi cung ứng toàn cầu.  BÁO CÁO THƯỜNG NIÊN 2024 - THÔNG ĐIỆP CỦA
+trong các chuỗi cung ứng toàn cầu.
+01
+02
+03
+04
+05
+ BÁO CÁO THƯỜNG NIÊN 2024 - THÔNG ĐIỆP CỦA CHỦ TỊCH HĐQT VINATEX
 8 | TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX
-THÔNG ĐIỆP CỦA TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX | 9
+THÔNG ĐIỆP CỦA CHỦ TỊCH HĐQT VINATEX  - BÁO CÁO THƯỜNG NIÊN 2024 
+TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX | 9
 Năm 2025 là năm có nhiều dấu mốc quan trọng
 với đất nước, 80 năm thành lập nước và đặc biệt
 hơn với quan điểm định hướng “đất nước bước
@@ -179,21 +238,38 @@ dựng, với chiến lược rõ ràng, cùng sự quyết tâm,
 tự lực, tự cường của cả hệ thống, chúng ta tự tin
 bước vào 2025, năm đầu tiên của chặng đường mới
 mà Vinatex nhất định phải tiến bước cùng đất nước
-trong kỷ nguyên mới.  BÁO CÁO THƯỜNG NIÊN 2024 - THÔNG ĐIỆP CỦA
+trong kỷ nguyên mới.
+01
+02
+03
+04
+05
+06
+ BÁO CÁO THƯỜNG NIÊN 2024 - THÔNG ĐIỆP CỦA CHỦ TỊCH HĐQT VINATEX
 10 | TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX
-THÔNG ĐIỆP CỦA TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX | 11
+THÔNG ĐIỆP CỦA CHỦ TỊCH HĐQT VINATEX  - BÁO CÁO THƯỜNG NIÊN 2024 
+TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX | 11
+TỔNG QUAN VINATEX02
+CHƯƠNG
+14
 Tổng quan về Tập đoàn
+16
 Thông tin về tổ chức và nhân sự
+26
 Tầm nhìn - Sứ mệnh,
 Văn hóa doanh nghiệp,
 Khẩu hiệu -  Biểu tượng
+28
 Các dấu mốc nổi bật
+30
 Lĩnh vực, năng lực sản xuất kinh
 doanh chính
+32
 Top sự kiện tiêu biểu Vinatex
 năm 2024
 1. TỔNG QUAN VỀ TẬP ĐOÀN
 Tên giao dịch
+VINATEX
 Vốn điều lệ
 5.000.000.000.000 đồng
 (Năm nghìn tỷ đồng)
@@ -201,23 +277,42 @@ Tên tiếng Việt
 TẬP ĐOÀN DỆT MAY VIỆT NAM
 Tên tiếng Anh
 VIETNAM NATIONAL TEXTILE
+AND GARMENT GROUP
 Giấy chứng nhận
 đăng ký doanh nghiệp số
+0100100008
 Địa chỉ
+* VP HN:
 41A Lý Thái Tổ, Quận Hoàn Kiếm, Hà Nội, Việt Nam
+* VP HCM:
 10 Nguyễn Huệ, Quận 1, TP. Hồ Chí Minh, Việt Nam
 Website
+www.vinatex.com.vn
 Điện thoại
 (+84) 24 3825 7700
 Fax: (+84) 24 3826 2269
 Mã cổ phiếu
+VGT
+VI
+W
+EN
  BÁO CÁO THƯỜNG NIÊN 2024 - TỒNG QUAN VINATEX
 14 | TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX
 TỒNG QUAN VINATEX  - BÁO CÁO THƯỜNG NIÊN 2024 
 TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX | 15
 ĐẠI HỘI ĐỒNG CỔ ĐÔNG
+BAN KIỂM SOÁT
+HỘI ĐỒNG QUẢN TRỊ
+TỔNG GIÁM ĐỐC & CƠ QUAN ĐIỀU HÀNH
 CÁC BAN CHỨC NĂNG, THAM MƯU
+KHỐI CƠ QUAN
+TRUYỀN THÔNG
+KHỐI NGHIÊN CỨU,
+ĐÀO TẠO
+KHỐI ĐƠN VỊ
+PHỤ THUỘC
 1. Đặc san Dệt May và Thời Trang Việt Nam
+2. Website: www.vinatex.com.vn
 1. Trường Đại học Công nghiệp Dệt May Hà Nội
 2. Trường Cao đẳng Công nghiệp Dệt – May Nam Định
 3. Trường Cao đẳng Công nghệ TP. Hồ Chí Minh
@@ -230,6 +325,14 @@ Nam Định
 Phát triển sản phẩm & kinh
 doanh Vinatex ( Vinatex PD&B)
 2. THÔNG TIN VỀ TỔ CHỨC
+VÀ NHÂN SỰ
+2.1. SƠ ĐỒ TỔ CHỨC
+KHỐI CÔNG TY
+TNHH MTV
+KHỐI ĐƠN VỊ
+CHI PHỐI (>50%)
+KHỐI ĐƠN VỊ
+LIÊN KẾT (<50%)
 1. Công ty TNHH Tổng Công ty
 DM Miền Bắc - Vinatex
 2. Công ty TNHH Tổng Công ty
@@ -267,15 +370,27 @@ Dệt 8-3
 TỒNG QUAN VINATEX  - BÁO CÁO THƯỜNG NIÊN 2024 
 TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX | 17
 2.2. HỘI ĐỒNG QUẢN TRỊ, BAN KIỂM SOÁT,
+CƠ QUAN ĐIỀU HÀNH
+STT
 Họ và tên
 Chức vụ tại Tập đoàn
+1
 Lê Tiến Trường
+Chủ tịch HĐQT
+2
 Trần Quang Nghị
-Phó Cao Hữu Hiếu
+Phó Chủ tịch HĐQT
+3
+Cao Hữu Hiếu
 Thành viên HĐQT
+4
 Đặng Vũ Hùng
-Thành viên HĐQT Vũ Hồng Tuấn
-Thành viên HĐQT Nguyễn Xuân Đông
+Thành viên HĐQT
+5
+Vũ Hồng Tuấn
+Thành viên HĐQT
+6
+Nguyễn Xuân Đông
 Thành viên HĐQT
 2.2.1. Hội đồng Quản trị
 Hội đồng Quản trị (HĐQT) là cơ quan quản
@@ -290,21 +405,24 @@ tịch Hội đồng Quản trị từ tháng 8/2020. Ông Trần Quang
 Nghị có hơn 35 năm kinh nghiệm trong ngành Dệt May,
 là một người trưởng thành từ thực tế, hiểu biết sâu
 sắc và toàn diện về ngành dệt may. Trước khi tham gia
-quản lý, điều hành tại Tập đoàn, ông Trần Quang Nghị là vị hàng đầu của ngành Dệt May Việt Nam. Ông đã đảm
-nhiệm vị trí
-6/2014 và
+quản lý, điều hành tại Tập đoàn, ông Trần Quang Nghị là
+Tổng Giám đốc Tổng Công ty CP Phong Phú - một đơn
+vị hàng đầu của ngành Dệt May Việt Nam. Ông đã đảm
+nhiệm vị trí Tổng Giám đốc Vinatex từ tháng 10/2010 –
+6/2014 và Chủ tịch Hội đồng Quản trị Vinatex từ tháng
 1/2015 – 8/2020. Ông là người lãnh đạo, quản lý đầy
 nhiệt huyết, quyết liệt trong quản trị và điều hành, có
 nhiều đóng góp to lớn trong định hướng, chiến lược và
 mục tiêu phát triển của Tập đoàn.
 Ông LÊ TIẾN TRƯỜNG
-Ông Lê Tiến Trường được bổ nhiệm
+Chủ tịch HĐQT chuyên trách
+Ông Lê Tiến Trường được bổ nhiệm Chủ tịch Hội đồng
 Quản trị Vinatex từ tháng  8/2020. Ông Lê Tiến Trường
 có hơn 20 năm làm việc trong ngành Dệt May Việt
 Nam và có hơn 15 năm công tác tại Tập đoàn, từng giữ
-các chức vụ
+các chức vụ Giám đốc Điều hành, Phó Tổng Giám đốc
 Thường trực và đảm nhận vị trí Thành viên Hội đồng
-Thành viên, Hội đồng Quản trị -
+Thành viên, Hội đồng Quản trị - Tổng Giám đốc Vinatex
 từ tháng 7/2014 – 8/2020.
 Ông Lê Tiến Trường: Kỹ sư cơ khí, Thạc sỹ quản trị nhân
 lực, Tiến sĩ Quản trị kinh doanh từng tu nghiệp sau đại
@@ -315,11 +433,16 @@ quản lý có tầm nhìn, tư duy chiến lược, khả năng nắm
 bắt, nhận định vấn đề và đưa ra các quyết định chỉ đạo
 sáng suốt trong quản lý và điều hành Tập đoàn.
 Ông TRẦN QUANG NGHỊ
-Phó
+Phó Chủ tịch HĐQT
 Ông Cao Hữu Hiếu được bầu thành viên HĐQT từ tháng 5/2023. Ông là
 người được đào tạo chuyên sâu về lĩnh vực dệt may với học vị Thạc sỹ
 Vật liệu Dệt. Ông đã có trên 20 năm công tác trong ngành Dệt May, đảm
-nhận nhiều vị trí quan trọng tại Tập đoàn và các đơn vị thành viên như: đoàn, Trưởng Ban Kỹ thuật Đầu tư, Ông CAO HỮU HIẾU
+nhận nhiều vị trí quan trọng tại Tập đoàn và các đơn vị thành viên như:
+Giám đốc Trung tâm xử lý nước thải Khu Công nghiệp Dệt May Phố Nối,
+Chủ tịch HĐQT Công ty CP May Nam Định, Phó Ban Kỹ thuật Đầu tư Tập
+đoàn, Trưởng Ban Kỹ thuật Đầu tư, Giám đốc điều hành Tập đoàn, Phó
+Tổng Giám đốc Tập đoàn, Tổng Giám đốc Tập đoàn.
+Ông CAO HỮU HIẾU
 Thành viên HĐQT
 Ông ĐẶNG VŨ HÙNG
 Thành viên HĐQT
@@ -330,8 +453,10 @@ Thành viên HĐQT
 Ông Đặng Vũ Hùng là Thành viên HĐQT Vinatex từ tháng 1/2015.
 Ông Đặng Vũ Hùng là cán bộ được đào tạo chuyên sâu ngành Dệt
 May với học vị Tiến sỹ Công nghệ Dệt. Với hơn 20 năm công tác,
-ông đã đảm nhiệm các chức vụ: Phó
-CP Phong Phú, đảm nhiệm chức danh Thành viên HĐQT Vinatex,
+ông đã đảm nhiệm các chức vụ: Phó Tổng Giám đốc Tổng Công ty
+CP Phong Phú, Chủ tịch HĐTV Công ty TNHH MTV Dệt 8-3, Phó
+Tổng Giám đốc Vinatex, Tổng Giám đốc Vinatex. Hiện nay, ông đang
+đảm nhiệm chức danh Thành viên HĐQT Vinatex, Chủ tịch HĐQT
 Công ty CP Quốc tế Phong Phú.
 Ông Vũ Hồng Tuấn được bầu là thành viên HĐQT Vinatex từ tháng
 8/2020. Ông Vũ Hồng Tuấn được đào tạo Cử nhân chuyên ngành
@@ -342,7 +467,9 @@ Trưởng ban Quản lý rủi ro của Tổng Công ty Đầu tư và Kinh doan
 vốn Nhà nước.
 Ông Nguyễn Xuân Đông được bầu là thành viên HĐQT Vinatex
 từ tháng 6/2021. Ông Nguyễn Xuân Đông đã có gần 30 năm kinh
-nghiệm trong ngành dệt may và giữ nhiều vị trí quan trọng như Phó ty CP Nhuộm Hà Nội,
+nghiệm trong ngành dệt may và giữ nhiều vị trí quan trọng như Phó
+Giám đốc Công ty TNHH Dệt Nhuộm Trung Thư, Giám đốc Công
+ty CP Nhuộm Hà Nội, Chủ tịch HĐQT kiêm Tổng Giám đốc Công ty
 CP Len Hà Đông, Thành viên HĐQT Tổng Công ty CP May Nhà Bè,
 Thành viên HĐQT Công ty CP Vinatex Đà Nẵng, Thành viên HĐQT
 Công ty CP Dệt Vĩnh Phú.
@@ -357,15 +484,22 @@ Bà  ĐOÀN THỊ THU HƯƠNG
 Thành viên Ban Kiểm soát chuyên trách
 Ban Kiểm soát (BKS) được bầu bởi ĐHĐCĐ của Tập đoàn. Tháng 5/2024, ĐCĐCĐ Tập đoàn đã bầu thay thế 01 thành
 viên Ban Kiểm soát. Ban Kiểm soát hiện có 04 thành viên:
+STT
 Họ và tên
 Chức vụ tại Tập đoàn
+1
 Trần Thị Thu Hằng
 Trưởng Ban Kiểm soát chuyên trách
+2
 Đoàn Thị Thu Hương
 Thành viên Ban Kiểm soát chuyên trách
+3
 Đặng Thị Hồng Lê
-Thành viên Ban Kiểm soát Đào Thị Minh Hòa
+Thành viên Ban Kiểm soát
+4
+Đào Thị Minh Hòa
 Thành viên Ban Kiểm soát đến tháng 5/2024
+5
 Nguyễn Thanh Lê
 Thành viên Ban Kiểm soát từ tháng 5/2024
 Bà Trần Thị Thu Hằng là Cử nhân Tài chính Kế toán, đã
@@ -376,17 +510,19 @@ Trưởng Ban TCKT Tập đoàn Dệt May Việt Nam trước khi
 Bà Đoàn Thị Thu Hương là Cử nhân Luật, Cử nhân Kinh
 tế, đã có trên 20 năm công tác, trong đó có 8 năm kinh
 nghiệm trong công tác Nguồn vốn và Pháp chế. Bà
-Đoàn Thị Thu Hương từng giữ chức vụ
+Đoàn Thị Thu Hương từng giữ chức vụ Giám đốc Nguồn
 vốn và Đầu tư  - Công ty Tài chính Ngân hàng TMCP
 Hàng Hải Việt Nam; Chuyên viên Ban Tổng hợp Pháp
-chế, Thư ký
+chế, Thư ký Tổng Giám đốc Tập đoàn Dệt May Việt Nam.
 Bà  ĐẶNG THỊ HỒNG LÊ
 Thành viên Ban Kiểm soát
 Bà Đặng Thị Hồng Lê là Cử nhân Luật Kinh tế, đã có trên
 20 năm công tác và từng đảm nhiệm các vị trí Trưởng
 ban Pháp chế, Trưởng phòng Tổ chức Hành chính, Giám
-đốc điều hành, TV HĐQT Công ty CP Dệt 19/5 Hà Nội, Thị Hồng Lê hiện đang là Thành viên HĐQT Công ty Dệt
-19/5 Hà Nội và Trưởng ban Pháp chế kiêm
+đốc điều hành, TV HĐQT Công ty CP Dệt 19/5 Hà Nội,
+Giám đốc điều hành Công ty CP Len Hà Đông. Bà Đặng
+Thị Hồng Lê hiện đang là Thành viên HĐQT Công ty Dệt
+19/5 Hà Nội và Trưởng ban Pháp chế kiêm Giám đốc
 điều hành Công ty CP Len Hà Đông.
 Bà  NGUYỄN THANH LÊ
 Thành viên Ban Kiểm soát từ tháng 5/2024
@@ -403,22 +539,40 @@ TỒNG QUAN VINATEX  - BÁO CÁO THƯỜNG NIÊN 2024 
 TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX | 21
 2.2.3. Cơ quan Điều hành
 Cơ quan điều hành (CQĐH) thực hiện điều hành hoạt động kinh doanh theo mục tiêu, kế hoạch đã được HĐQT phê
-duyệt. CQĐH của Tập đoàn bao gồm 01
+duyệt. CQĐH của Tập đoàn bao gồm 01 Tổng Giám đốc cùng với các Phó Tổng Giám đốc, một Giám đốc Điều hành
 và một Kế toán trưởng.
+STT
 Họ và tên
 Chức vụ tại Tập đoàn
+1
 Cao Hữu Hiếu
-Thành viên HĐQT, Phạm Văn Tân
-Phó Lê Trung Hải
-Phó Lê Mạc Thuấn
-Phó Nguyễn Đức Trị
-Phó Nguyễn Song Hải
-Phó Phạm Xuân Trình
+Thành viên HĐQT, Tổng Giám đốc
+2
+Phạm Văn Tân
+Phó Tổng Giám đốc thường trực
+3
+Lê Trung Hải
+Phó Tổng Giám đốc
+4
+Lê Mạc Thuấn
+Phó Tổng Giám đốc
+5
+Nguyễn Đức Trị
+Phó Tổng Giám đốc
+6
+Nguyễn Song Hải
+Phó Tổng Giám đốc
+7
+Phạm Xuân Trình
+Giám đốc điều hành
+8
 Nguyễn Ngọc Cách
 Kế toán trưởng
-Ông CAO HỮU HIẾU (Chi tiết về Ông Cao Hữu Hiếu vui lòng xem
+Ông CAO HỮU HIẾU
+Tổng Giám đốc
+(Chi tiết về Ông Cao Hữu Hiếu vui lòng xem
 Giới thiệu Hội đồng Quản trị)
-Ông PHẠM VĂN TÂN Phó
+Ông PHẠM VĂN TÂN Phó Tổng Giám đốc Thường trực
 Là người được đào tạo bài bản, chuyên
 sâu trong lĩnh vực tài chính với học vị Thạc
 sỹ tài chính và có hơn 20 năm gắn bó với
@@ -426,41 +580,48 @@ ngành Dệt May. Ông từng giữ nhiều vị trí
 quan trọng như Phó Trưởng phòng Kế toán
 Công ty May Đức Giang; Phó Trưởng Ban
 Tài chính Kế toán, Trưởng Ban Tài chính
-Kế toán,
+Kế toán, Giám đốc điều hành kiêm Kế toán
 trưởng Tập đoàn Dệt May Việt Nam.
  BÁO CÁO THƯỜNG NIÊN 2024 - TỒNG QUAN VINATEX
 22 | TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX
 TỒNG QUAN VINATEX  - BÁO CÁO THƯỜNG NIÊN 2024 
 TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX | 23
 Ông LÊ TRUNG HẢI
-Phó
+Phó Tổng Giám đốc
 Kỹ sư chuyên ngành dệt, kỹ sư hóa nhuộm, là người
 trưởng thành từ thực tiễn quản lý và điều hành
 doanh nghiệp với 40 năm kinh nghiệm trong ngành
-Dệt May. Ông từng giữ nhiều vị trí quan trọng như: Phó TGĐ Công ty Dệt Phong Phú, TGĐ Công ty Dệt
-Phước Long,
+Dệt May. Ông từng giữ nhiều vị trí quan trọng như:
+Giám đốc Nhà máy Dệt - Công ty Dệt Phong Phú,
+Phó TGĐ Công ty Dệt Phong Phú, TGĐ Công ty Dệt
+Phước Long, Giám đốc Điều hành Tập đoàn Dệt May
 Việt Nam.
-ÔNG LÊ MẠC THUẤN Phó
+ÔNG LÊ MẠC THUẤN Phó Tổng Giám đốc
 Trình độ chuyên môn Thạc sỹ Quản trị kinh doanh, với
 hơn 30 năm kinh nghiệm trong ngành Dệt May. Ông đã
 đảm nhiệm các chức vụ quan trọng như TGĐ Xí nghiệp
-May Sông Tiền,
-Bè, Phó TGĐ Tổng Công ty May Nhà Bè,
+May Sông Tiền, Giám đốc Điều hành Công ty May Nhà
+Bè, Phó TGĐ Tổng Công ty May Nhà Bè, Giám đốc Điều
 hành Tập đoàn Dệt May Việt Nam.
-Ông NGUYỄN SONG HẢI Phó
+Ông NGUYỄN SONG HẢI Phó Tổng Giám đốc
 Trình độ Kỹ sư ngành Công nghệ Dệt và Cử nhân
 Quản trị kinh doanh tại trường Đại học Bách Khoa
 Hà Nội. Đã trải qua 30 năm công tác thực tế, có kiến
 thức chuyên môn sâu trong lĩnh vực Dệt May, có
 nhiều năm kinh nghiệm thực tế quản lý, điều hành
 doanh nghiệp. Ông đã đảm nhận nhiều vị trí quan
-trọng trong doanh nghiệp như:
-ty CP Dệt May Hoàng Thị Loan; Ông PHẠM XUÂN TRÌNH
+trọng trong doanh nghiệp như: Tổng Giám đốc Công
+ty CP Dệt May Hoàng Thị Loan; Chủ tịch HĐQT, Tổng
+Giám đốc Tổng Công ty CP Dệt May Hà Nội.
+Ông PHẠM XUÂN TRÌNH
+Giám đốc Điều hành
 Trình độ chuyên môn Thạc sỹ Quản trị kinh doanh và chuyên môn
 sâu về sợi dệt với trên 35 năm công tác, gắn bó trong ngành Dệt
 May. Ông đã đảm nhiệm nhiều chức vụ quan trọng tại doanh nghiệp
-thành viên của Tập đoàn như:
-đốc, Ông NGUYỄN NGỌC CÁCH Kế toán trưởng Tập đoàn
+thành viên của Tập đoàn như: Giám đốc Điều hành, Phó Tổng Giám
+đốc, Tổng Giám đốc, Thành viên HĐQT Tổng Công ty CP Phong Phú;
+Chủ tịch HĐTV Công ty TNHH MTV Dệt kim Đông Phương.
+Ông NGUYỄN NGỌC CÁCH Kế toán trưởng Tập đoàn
 Được bổ nhiệm Kế toán trưởng Tập đoàn từ tháng 10/2020, trình
 độ chuyên môn Cử nhân Kinh tế và Kỹ thuật với hơn 30 năm kinh
 nghiệm trong lĩnh vực tài chính kế toán tại các doanh nghiệp dệt
@@ -468,20 +629,21 @@ may. Ông từng đảm nhận nhiều chức vụ như: Kế toán trưởng T�
 Công ty CP Dệt May Hà Nội; Phó Trưởng Ban Tài chính Kế toán,
 Trưởng Ban Tài chính Kế toán Tập đoàn.
 Ông NGUYỄN ĐỨC TRỊ
-Phó
+Phó Tổng Giám đốc
 Trình độ chuyên môn Thạc sỹ Quản trị Kinh doanh
 với hơn 25 năm công tác trong ngành Dệt May. Ông
 đã đảm nhận nhiều vị trí quan trọng trong các doanh
 nghiệp thuộc Tập đoàn như Trưởng phòng Kinh doanh
-Xuất nhập khẩu Chi nhánh Vinatex Đà Nẵng;
-Điều hành, Phó
-tịch HĐQT Tổng Công ty CP Dệt May Hòa Thọ,
-HĐQT Công ty CP Dệt May Huế,
+Xuất nhập khẩu Chi nhánh Vinatex Đà Nẵng; Giám đốc
+Điều hành, Phó Tổng Giám đốc, Tổng Giám đốc, Chủ
+tịch HĐQT Tổng Công ty CP Dệt May Hòa Thọ, Chủ tịch
+HĐQT Công ty CP Dệt May Huế, Giám đốc Điều hành
 Tập đoàn.
  BÁO CÁO THƯỜNG NIÊN 2024 - TỒNG QUAN VINATEX
 24 | TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX
 TỒNG QUAN VINATEX  - BÁO CÁO THƯỜNG NIÊN 2024 
 TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX | 25
+TẦM NHÌN – SỨ MỆNH,
 VĂN HÓA DOANH NGHIỆP
 Tầm nhìn –
 Sứ mệnh
@@ -518,6 +680,7 @@ biểu tượng chữ “VT” còn thể hiện tinh thần đoàn kết, thố
 hiện cho thế đứng vững chắc của VINATEX trên thị trường.
  Biểu tượng sử dụng màu xanh dương đậm, thể hiện tính truyền thống,
 sang trọng mang lại cảm giác ổn định, đáng tin cậy của thương hiệu
+VINATEX.
 KHẨU HIỆU – BIỂU TƯỢNG
  BÁO CÁO THƯỜNG NIÊN 2024 - TỒNG QUAN VINATEX
 26 | TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX
@@ -532,22 +695,32 @@ hùng của dân tộc, bản sắc văn hóa “con Lạc, cháu Hồng” mà 
 phẩm, dịch vụ, thương hiệu của Tập đoàn cần gìn giữ, phát triển, là sự
 quyết tâm vươn lên trên thị trường thế giới bằng nét văn hóa riêng biệt
 của người Việt Nam.
+THÁNG 4 NĂM 1995
 Tổng Công ty Dệt May Việt Nam
 tiền thân của Tập đoàn Dệt May
-Việt Nam được thành lập theo Chính phủ trên cơ sở sáp nhập các
+Việt Nam được thành lập theo
+Quyết định số 253/QĐ-TTg ngày 29
+tháng 4 năm 1995 của Thủ tướng
+Chính phủ trên cơ sở sáp nhập các
 doanh nghiệp thuộc Tổng Công ty
 Dệt Việt Nam và Liên hiệp Sản xuất
 - Xuất nhập khẩu May.
+THÁNG 10 NĂM 2005
 Tổng Công ty Dệt May Việt Nam
 nhận Huân chương Hồ Chí Minh
 năm 2005 theo Quyết định số
 1240/QĐ-CTN ngày 11/10/2005
-của
+của Chủ tịch nước.
+THÁNG 5 NĂM 2010
 Tập đoàn Dệt May Việt Nam vinh
 dự nhận Huân chương Sao vàng
-năm 2010 của
+năm 2010 của Chủ tịch nước theo
 Quyết định số 546/QĐ-CTN ngày
-05/5/2010. THÁNG 1 NĂM 2015
+05/5/2010.
+1995
+2005
+2010
+THÁNG 1 NĂM 2015
 Tập đoàn Dệt May Việt Nam tổ chức
 thành công Đại hội đồng cổ đông
 lần đầu ngày 08/01/2015 và được
@@ -555,19 +728,30 @@ Sở Kế hoạch Đầu tư thành phố Hà
 Nội cấp Giấy chứng nhận đăng ký
 doanh nghiệp Công ty cổ phần vào
 ngày 29/01/2015.
+THÁNG 12 NĂM 2015
 Tập đoàn Dệt May Việt Nam vinh
 dự được Đảng và Nhà nước trao
 tặng phần thưởng cao quý: Danh
 hiệu Anh hùng Lao động theo
 Quyết định số 2688/QĐ-CTN ngày
-02/12/2015 của
+02/12/2015 của Chủ tịch nước.
+NĂM 2025
 Kỷ niệm 30 năm thành lập
 Tập đoàn Dệt May Việt Nam
-(29/4/1995-29/4/2025) NĂM 2014 phương án cổ phần hóa Công ty mẹ
+(29/4/1995-29/4/2025)
+2015
+2025
+NĂM 2014
+Thủ tướng Chính phủ ban hành
+Quyết định số 646/QĐ-TTg ngày 06
+tháng 5 năm 2014 về việc phê duyệt
+phương án cổ phần hóa Công ty mẹ
 - Tập đoàn Dệt May Việt Nam; Tập
 đoàn Dệt May Việt Nam đã thực hiện
 thành công bán cổ phần lần đầu ra
 công chúng vào ngày 22/9/2014.
+2014
+CÁC DẤU MỐC NỔI BẬT
 Quá trình hình thành và phát triển của VINATEX gắn liền với lịch sử hình thành và phát triển ngành
 Dệt May Việt Nam. VINATEX luôn giữ vị trí nòng cốt, đóng góp đáng kể vào sự phát triển của ngành.
 Các mốc phát triển cụ thể:
@@ -575,6 +759,7 @@ Các mốc phát triển cụ thể:
 28 | TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX
 TỒNG QUAN VINATEX  - BÁO CÁO THƯỜNG NIÊN 2024 
 TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX | 29
+LĨNH VỰC, NĂNG LỰC
 SẢN XUẤT KINH DOANH CHÍNH của các đơn vị phụ thuộc và chi phối
 1. NĂNG LỰC CHÍNH CỦA TẬP ĐOÀN
  Năng lực sản xuất:
@@ -615,6 +800,7 @@ Gerber - Mỹ
 TỒNG QUAN VINATEX  - BÁO CÁO THƯỜNG NIÊN 2024 
 TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX | 31
 TOP SỰ KIỆN TIÊU BIỂU VINATEX
+NĂM 2024
 Sản xuất vải chống cháy,
 tìm cơ hội tại thị trường
 ngách
@@ -724,17 +910,28 @@ mang đến cho NLĐ trên 4,5 tỷ đồng (chưa bao gồm các hoạt động
 32 | TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX
 TỒNG QUAN VINATEX  - BÁO CÁO THƯỜNG NIÊN 2024 
 TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX | 33
+QUẢN TRỊ CÔNG TY03
+CHƯƠNG
+QUẢN TRỊ CÔNG TY
+36
 Báo cáo hoạt động và đánh giá
 của Hội đồng Quản trị
+44
 Báo cáo Ban Kiểm soát
+48
 Báo cáo hoạt động của Cơ quan
 Điều hành
+60
 Hợp đồng, giao dịch với người
 nội bộ
+64
 Báo cáo quản trị rủi ro
+BÁO CÁO HOẠT ĐỘNG
+VÀ ĐÁNH GIÁ
 CỦA HỘI ĐỒNG QUẢN TRỊ
 1. TÌNH HÌNH HOẠT ĐỘNG
 CỦA HỘI ĐỒNG QUẢN TRỊ
+(HĐQT) NĂM 2024
 Hội đồng Quản trị Tập đoàn Dệt May Việt Nam (dưới đây
 gọi tắt là Hội đồng Quản trị) hoạt động theo khuôn khổ
 của pháp luật Việt Nam, Luật Doanh nghiệp, các luật
@@ -758,28 +955,35 @@ tổ chức 04 cuộc họp trực tiếp, 17 cuộc họp trực tuyến/
 lấy ý kiến qua email/văn bản và 01 phiên họp HĐQT mở
 rộng. Tất cả các cuộc họp đều được HĐQT thống nhất,
 thông qua, ban hành 26 Nghị quyết và 06 Quyết định.
+TT
 Thành viên HĐQT
 Số buổi họp HĐQT
 tham dự
 Tỷ lệ tham dự họp
 Lý do không tham
 dự họp
+1
 Lê Tiến Trường
 22/22
 100%
+2
 Trần Quang Nghị
 22/22
 100%
+3
 Đặng Vũ Hùng
 22/22
 100%
+4
 Vũ Hồng Tuấn
 22/22
 100%
+5
 Nguyễn Xuân Đông
 21/22
 95,5%
 Đi công tác
+6
 Cao Hữu Hiếu
 22/22
 100%
@@ -792,6 +996,7 @@ trong năm 2024 như sau:
 GIÁM SÁT CỦA HĐQT ĐỐI
 VỚI CƠ QUAN ĐIỀU HÀNH
 Hoạt động giám sát của HĐQT với Cơ quan điều hành
+(Tổng Giám đốc và các Phó Tổng Giám đốc) được thực
 hiện một cách chặt chẽ, định kỳ theo Điều lệ tổ chức
 và hoạt động Tập đoàn Dệt May Việt Nam và Quy chế
 hoạt động của HĐQT. Một số nét chính trong hoạt động
@@ -835,7 +1040,9 @@ pháp luật
 Hội nghị Người đại diện vốn Tập đoàn năm
 2024 kết hợp công tác tổng kết SXKD trong
 năm 2024.
- Tại các cuộc họp định kỳ hàng quý, Tổng động sản xuất kinh doanh toàn Tập đoàn, các
+ Tại các cuộc họp định kỳ hàng quý, Tổng
+Giám đốc đã thực hiện báo cáo tình hình hoạt
+động sản xuất kinh doanh toàn Tập đoàn, các
 đơn vị trọng yếu trong Tập đoàn, đánh giá khả
 năng đạt kế hoạch Tập đoàn giao để kịp thời
 đưa ra những định hướng giải pháp phù hợp.
@@ -924,6 +1131,7 @@ QUẢN TRỊ CÔNG TY  - BÁO CÁO THƯỜNG NIÊN 2024 
 TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX | 39
 4. ĐÁNH GIÁ KẾT QUẢ HOẠT ĐỘNG
 CỦA TẬP ĐOÀN NĂM 2024
+T
 ình hình kinh tế trong nước năm 2024
 khởi sắc hơn so với năm 2023, với GDP
 cả năm tăng 7,09%, vượt mục tiêu do
@@ -1056,6 +1264,7 @@ QUẢN TRỊ CÔNG TY  - BÁO CÁO THƯỜNG NIÊN 2024 
 TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX | 41
 Kết quả SXKD hợp nhất của Tập đoàn:
 5. ĐỊNH HƯỚNG HOẠT ĐỘNG CỦA HĐQT NĂM 2025
+V
 ào cuối năm 2024, các tổ chức kinh tế lớn đều
 đưa ra dự báo tích cực về tăng trưởng kinh tế
 toàn cầu năm 2025, phản ánh kỳ vọng vào sự
@@ -1147,7 +1356,10 @@ chiến lược lâu dài cần kiên trì thực hiện liên tục trong
 nhiều năm, đồng thời phải cùng quyết tâm, kiên cường,
 dũng cảm, sáng tạo, đoàn kết, tận dụng mọi cơ hội và
 nguồn lực để quay trở lại thị trường một cách bền vững.
+BÁO CÁO
+CỦA BAN KIỂM SOÁT
 1. THÀNH VIÊN VÀ CƠ CẤU BAN KIỂM SOÁT
+TT
 Thành viên BKS
 Chức vụ
 Ngày bổ nhiệm/miễn nhiệm
@@ -1165,29 +1377,45 @@ Ngày bổ
 nhiệm
 Ngày miễn
 nhiệm
+1
 Trần Thị Thu Hằng
 Trưởng BKS
 18/08/2020
 5/5
 100%
+100%
+2
 Đoàn Thị Thu Hương
+TV BKS
 18/08/2020
 5/5
 100%
+100%
+3
 Đặng Thị Hồng Lê
+TV BKS
 18/08/2020
 5/5
 100%
+100%
+4
 Nguyễn Thanh Lê
+TV BKS
 13/05/2024
 3/3
 100%
+100%
+5
 Đào Thị Minh Hòa
+TV BKS
 31/05/2023
 13/05/2024
 1/1
 100%
+100%
 2. THÙ LAO VÀ CHI PHÍ
+HOẠT ĐỘNG CỦA BAN
+KIỂM SOÁT
 Thù lao của Ban Kiểm soát thực hiện đúng theo Nghị
 quyết đã được thông qua tại ĐHĐCĐ thường niên
 năm 2024, được trình bày chi tiết tại Báo cáo tài chính
@@ -1195,6 +1423,7 @@ năm 2024, được trình bày chi tiết tại Báo cáo tài chính
 Chi phí hoạt động của Ban kiểm soát năm 2024 tuân
 thủ theo các quy định và quy chế nội bộ của Tập đoàn.
 3. HOẠT ĐỘNG CỦA BAN
+KIỂM SOÁT
 Trong năm 2024, Ban Kiểm soát đã thực hiện nhiệm vụ
 như sau:
 + Giám sát việc thực hiện các nghị quyết ĐHĐCĐ, HĐQT
@@ -1254,30 +1483,58 @@ Cơ quan điều hành Tập đoàn đã nghiêm túc thực hiện, triển kha
 pháp theo chỉ đạo của HĐQT nhằm hoàn thành kế hoạch Đại hội đồng cổ
 đông đề ra, kết quả như sau:
 Đơn vị tính: tỷ đồng
+STT
 Chỉ tiêu
 Thực hiện
 năm 2023
 Năm 2024
 % so sánh
 Kế hoạch Thực hiện
-Số liệu hợp nhất
+TH 2024/ KH 2024
+TH 2024/ TH 2023
+I
+Số liệu hợp nhất 1
 Doanh thu
+17.613,0
+17.900,0
+18.369
 102,6%
 104,3%
+2
 Chi phí
+17.074,4
+17.350,0
+17.533,4
 101,1%
 102,7%
+3
 Lợi nhuận trước thuế
+538,5
+550,0
+835,1
 151,8%
 155,1%
+II
 Công ty mẹ
+1
 Doanh thu
+2.008,5
+2.070,0
+2.241,1
 108,3%
 111,6%
+2
 Chi phí
+1.874,7
+1.920,0
+2.084,7
 108,6%
 111,2%
+3
 Lợi nhuận trước thuế
+134
+150,0
+156,4
 104,2%
 116,9%
  BÁO CÁO THƯỜNG NIÊN 2024 - QUẢN TRỊ CÔNG TY
@@ -1337,7 +1594,9 @@ chính thức chính sách quản trị rủi ro từ năm 2025 tại Công ty m
 và các đơn vị có vốn đầu tư của Tập đoàn.
 4. ĐÁNH GIÁ SỰ PHỐI HỢP
 GIỮA BAN KIỂM SOÁT VỚI
+HỘI ĐỒNG QUẢN TRỊ,
 BAN ĐIỀU HÀNH VÀ CÁC
+CỔ ĐÔNG
 Ban Kiểm soát đã tham dự các phiên họp định kỳ của
 HĐQT, các cuộc họp sơ kết, tổng kết của Tập đoàn. Ban
 Kiểm soát được HĐQT, Ban điều hành cung cấp thông
@@ -1349,6 +1608,8 @@ chức năng nhiệm vụ theo quy định trước các cổ đông
 tại phiên họp ĐHĐCĐ thường niên. Trong năm 2024,
 Ban Kiểm soát không nhận được đơn thư yêu cầu từ
 phía cổ đông.
+5. ĐỊNH HƯỚNG
+HOẠT ĐỘNG NĂM 2025
 Tăng cường việc kiểm tra, giám sát đối với các hoạt
 động trọng yếu của Tập đoàn;
 Phối hợp với các bộ phận chuyên môn để bám sát phát
@@ -1371,6 +1632,7 @@ ngày 31/12/2024; kết quả kinh doanh và lưu chuyển tiền tệ trong nă
 thúc cùng ngày, phù hợp với các chuẩn mực kế toán Việt Nam, chế độ kế
 toán doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc
 lập và trình bày BCTC.
+BÁO CÁO HOẠT ĐỘNG
 CỦA CƠ QUAN ĐIỀU HÀNH
 I. TỔNG QUAN VỀ MÔI TRƯỜNG KINH DOANH
 1. Bối cảnh kinh tế toàn cầu giai đoạn 2020-2025
@@ -1437,15 +1699,34 @@ Năm 2024 đánh dấu sự phục hồi mạnh mẽ trong hoạt động sản 
 khăn do ảnh hưởng của đại dịch Covid-19 và biến động kinh tế toàn cầu.
 a) Kết quả hợp nhất
 Đơn vị tính: tỷ đồng
+TT
+NỘI DUNG
+TH 2023
 Năm 2024
 So sánh (%)
+KH
+TH
+TH/KH
+TH/CK
+1
 Tổng doanh thu và thu nhập
+17.613
+17.900
+18.369
 102,6%
 104,3%
+2
 Tổng chi phí
+17.074,4
+17.350
+17.533,4
 101,1%
 102,7%
+3
 Lợi nhuận trước thuế
+538,5
+550
+835,1
 151,8%
 155,1%
 • Tổng doanh thu và thu nhập hợp nhất đạt 18.369 tỷ
@@ -1464,15 +1745,34 @@ với kế hoạch và tăng 55,1% so với năm trước. Đây là một
 kết quả đáng khích lệ, cho thấy chiến lược kinh doanh
 linh hoạt và các giải pháp ứng phó hiệu quả trước
 những biến động khó lường của thị trường.
+TT
+NỘI DUNG
+TH 2023
 Năm 2024
 So sánh (%)
+KH
+TH
+TH/KH
+TH/CK
+1
 Tổng doanh thu và thu nhập
+2.008,5
+2.070
+2.241,1
 108,3%
 111,6%
+2
 Tổng chi phí
+1.874,7
+1.920
+2.084,7
 108,6%
 111,2%
-Lợi nhuận trước thuế 156,4
+3
+Lợi nhuận trước thuế
+134
+150
+156,4
 104,2%
 116,9%
 b) Kết quả Công ty mẹ
@@ -1512,32 +1812,108 @@ trong ngành gặp khó khăn.
 ở mức 21%/vốn điều lệ 5.000 tỷ đồng trong toàn nhiệm
 kỳ, thể hiện nỗ lực cam kết đảm bảo lợi ích của cổ đông
 trong bối cảnh bất định.
-Chỉ tiêu Tăng trưởng BQ
+TT
+Chỉ tiêu
+2020
+2021
+2022
+2023
+2024
+Tăng trưởng BQ
+1
 Tổng tài sản
 Hợp nhất
+18.020
+20.196
+20.010
+19.076
+19.266
 1,9%
 Công ty mẹ
+8.266
+8.435
+8.543
+8.019
+8.284
+2
 Vốn chủ sở hữu
 Hợp nhất
+8.069
+9.046
+9.403
+9.142
+9.276
 3,7%
 Vốn CSH Công ty mẹ
-Quỹ đầu tư phát triển 9%
+5.812
+6.101
+5.975
+5.789
+5.775
+Quỹ đầu tư phát triển
+586
+628
+730
+777
+825
+9%
 LNST chưa phân phối
-1.228 13,8%
+717
+1.326
+1.228
+875
+931
+13,8%
+3
 Tổng doanh thu
 Hợp nhất
+14.843
+16.985
+19.635
+17.613
+18.369
+6%
 Công ty mẹ
+1.446
+1.629
+1.896
+2.008
+2.241
 11,6%
+4
 Tổng chi phí
 Hợp nhất
+14.249
+15.566
+18.445
+17.074
+17.533
 5,7%
 Công ty mẹ
+1.300
+1.318
+1.636
+1.875
+2.085
 12,8%
+5
 Lợi nhuận trước thuế
 Hợp nhất
+593
+1.419
+1.189
+539
+835,1
 30,8%
-Công ty mẹ 156,4
+Công ty mẹ
+146
+311
+260
+134
+156,4
 16,2%
+6
+ROE
 Hợp nhất
 7,0%
 15,0%
@@ -1564,9 +1940,31 @@ Covid-19 đến các thách thức về kinh tế vĩ mô và địa chính tr�
 trưởng bền vững và đạt được những kết quả đáng khích lệ.
 Đơn vị tính: tỷ đồng
 3. Tình hình tài chính (theo BCTC hợp nhất)
-Chỉ tiêu CHỈ TIÊU VỀ KHẢ NĂNG THANH TOÁN 1. Hệ số thanh toán ngắn hạn
+Chỉ tiêu
+2020
+2021
+2022
+2023
+2024
+CHỈ TIÊU VỀ KHẢ NĂNG THANH TOÁN 1. Hệ số thanh toán ngắn hạn
+1,29
+1,36
+1,34
+1,31
+1,35
 2. Hệ số thanh toán nhanh
+0,86
+0,88
+0,76
+0,86
+0,90
+CHỈ TIÊU HOẠT ĐỘNG
 1. Hiệu suất sử dụng tài sản
+2,11
+2,44
+2,81
+2,71
+3,03
 2. Ngày tồn kho bình quân
 88 ngày
 76 ngày
@@ -1586,21 +1984,56 @@ Chỉ tiêu CHỈ TIÊU VỀ KHẢ NĂNG THANH TOÁN 1. Hệ số thanh toán ng
 264 ngày
 234 ngày
 5. Vòng quay Vốn lưu động
+1,67
+1,90
+1,92
+1,78
+1,87
 KHẢ NĂNG TỰ CHỦ TÀI CHÍNH
 1. Hệ số tổng nợ phải trả / Tổng tài sản
+0,55
+0,55
+0,53
+0,52
+0,52
 2. Hệ số Nợ / Vốn chủ sở hữu
+1,23
+1,23
+1,13
+1,09
+1,08
 3. Khả năng tài trợ vốn dài hạn (tỷ đồng)
+1.627,77
+2.520,23
+2.441,00
+2.117,90
+2.484,68
 HỆ SỐ KHẢ NĂNG SINH LỜI
 6. Tỷ lệ lãi sau thuế (ROA)
+3%
 6,7%
 5,3%
 2,0%
 3,4%
 7. Tỷ lệ lãi ròng (ROE)
+7%
 15%
 11,4%
 4,3%
 7,1%
+PHÂN TÍCH CỔ PHIẾU
+1. EPS
+655
+1.606
+1.189
+124
+649
+2. BVPS
+16.137
+18.091
+18.805
+18.284
+18.553
  BÁO CÁO THƯỜNG NIÊN 2024 - QUẢN TRỊ CÔNG TY
 52 | TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX
 QUẢN TRỊ CÔNG TY  - BÁO CÁO THƯỜNG NIÊN 2024 
@@ -1893,108 +2326,177 @@ và chức danh của người
 nội bộ tại công ty có
 phát sinh hợp đồng, giao
 dịch với Vinatex
+1
 Tổng Công ty Việt Thắng -
+CTCP
 Bán hàng hóa dịch vụ 47,876,153
 Ông Lê Tiến Trường -
+Chủ tịch HĐQT
+2
 Tổng Công ty CP Phong Phú
 Tiền lãi cho vay 38,755,646,127
-Ông Trần Quang Nghị - Bán hàng hóa dịch vụ 506,776,743 Tổng Công ty May 10 -CTCP
+Ông Trần Quang Nghị -
+Chủ tịch HĐQT
+Bán hàng hóa dịch vụ 506,776,743
+3
+Tổng Công ty May 10 -CTCP
 Bán hàng hóa dịch vụ 1,002,078,230
 Ông Đặng Vũ Hùng -
-Phó
-Mua hàng hóa dịch vụ 13,189,206,467 Công ty TNHH Tổng Công ty
+Phó Chủ tịch HĐQT
+Mua hàng hóa dịch vụ 13,189,206,467
+4
+Công ty TNHH Tổng Công ty
 Dệt May Miền Bắc - Vinatex
 Tiền lãi cho vay 501,262,687
-Ông Cao Hữu Hiếu- Ông Nguyễn Song Hải-
+Ông Cao Hữu Hiếu- Chủ tịch HĐTV
+Ông Nguyễn Song Hải-
 Thành viên HĐTV - TGĐ
-Thu hồi gốc vay 11,976,627,755 Công ty CP Dệt - May
+Thu hồi gốc vay 11,976,627,755
+5
+Công ty CP Dệt - May
 Nha Trang
 Bán hàng hóa dịch vụ 400,000
-Ông Đặng Vũ Hùng - Công ty CP Quốc tế
+Ông Đặng Vũ Hùng -
+Chủ tịch HĐQT
+6
+Công ty CP Quốc tế
 Phong Phú
 Bán hàng hóa dịch vụ 1,463,124,000
-Ông Đặng Vũ Hùng - Tổng Công ty CP May
+Ông Đặng Vũ Hùng -
+Chủ tịch HĐQT
+7
+Tổng Công ty CP May
 Nhà Bè - CTCP
 Bán hàng hóa dịch vụ 1,970,988,912
 Ông Nguyễn Xuân Đông -
 Thành viên HĐQT
-Mua hàng hóa dịch vụ 5,043,926,293 Công ty CP Phát triển Hạ
+Mua hàng hóa dịch vụ 5,043,926,293
+8
+Công ty CP Phát triển Hạ
 tầng Dệt May Phố Nối
 Bán hàng hóa dịch vụ 7,784,439,010
 Ông Cao Hữu Hiếu -
+Chủ tịch HĐQT
 Bà Trần Thị Thu Hằng -
 Trưởng BKS
+9
 Tổng Công ty CP Dệt May
 Hà Nội
 Bán hàng hóa dịch vụ 215,349,744,371
-Ông Cao Hữu Hiếu- Ông Nguyễn Ngọc Cách -
+Ông Cao Hữu Hiếu- Chủ tịch HĐQT
+Ông Nguyễn Ngọc Cách -
 Thành viên HĐQT
-Tiền lãi cho vay 15,807,167,749 Công ty CP Vinatex
+Tiền lãi cho vay 15,807,167,749
+10
+Công ty CP Vinatex
 Hồng Lĩnh
 Bán hàng hóa dịch vụ 2,777,778
-Ông Nguyễn Song Hải - Công ty TNHH MTV Dệt kim
+Ông Nguyễn Song Hải -
+Chủ tịch HĐQT
+11
+Công ty TNHH MTV Dệt kim
 Đông Xuân
 Bán hàng hóa dịch vụ 43,222,884,936
-Ông Nguyễn Song Hải - Bà Trần Thị Thu Hằng -
+Ông Nguyễn Song Hải -
+Chủ tịch HĐTV
+Bà Trần Thị Thu Hằng -
 Tổ trưởng TKS
 Tiền lãi cho vay 6,317,563,614
-Mua hàng hóa dịch vụ 8,482,265,126 Tổng Công ty CP Dệt May
+Mua hàng hóa dịch vụ 8,482,265,126
+12
+Tổng Công ty CP Dệt May
 Nam Định
 Tiền lãi cho vay 56,832,377,205
-Ông Phạm Văn Tân - Ông Phạm Xuân Trình-
+Ông Phạm Văn Tân -
+Chủ tịch HĐQT
+Ông Phạm Xuân Trình-
 Thành viên HĐQT
 Bà Trần Thị Thu Hằng -
 Trưởng BKS
 Bán hàng hóa dịch vụ 51,851,598,676
-Mua hàng hóa dịch vụ 271,649,003 Tổng Công ty CP May Việt
+Mua hàng hóa dịch vụ 271,649,003
+13
+Tổng Công ty CP May Việt
 Tiến
 Bán hàng hóa dịch vụ 3,941,829,856
 Bà Trần Thị Thu Hằng -
 Thành viên BKS
-Mua hàng hóa dịch vụ 8,977,281,540 Công ty CP May Nam Định
+Mua hàng hóa dịch vụ 8,977,281,540
+14
+Công ty CP May Nam Định
 Mua thêm cổ phần 4,571,000,000
-Ông Phạm Văn Tân - Công ty CP Sợi Phú Bài
+Ông Phạm Văn Tân -
+Chủ tịch HĐQT
+15
+Công ty CP Sợi Phú Bài
 Bán hàng hóa dịch vụ 185,516,475
-Ông Phạm Văn Tân- Mua hàng hóa dịch vụ 63,891,500 Công ty CP May Hữu Nghị
+Ông Phạm Văn Tân-
+Chủ tịch HĐQT
+Mua hàng hóa dịch vụ 63,891,500
+16
+Công ty CP May Hữu Nghị
 Bán hàng hóa dịch vụ 4,047,619
 Ông Lê Mạc Thuấn -
 Thành viên HĐQT
+17
 Công ty CP May Bình Minh
 Bán hàng hóa dịch vụ 561,729,154
-Ông Lê Mạc Thuấn - Mua hàng hóa dịch vụ 414,190,508 Công ty CP Đầu tư Phát
+Ông Lê Mạc Thuấn -
+Chủ tịch HĐQT
+Mua hàng hóa dịch vụ 414,190,508
+18
+Công ty CP Đầu tư Phát
 triển Vinatex
 Bán hàng hóa dịch vụ 1,332,144,000
 Ông Lê Mạc Thuấn -
+Chủ tịch HĐQT
+19
 Tổng Công ty CP Dệt May
 Hòa Thọ
 Bán hàng hóa dịch vụ 15,849,458,165
 Ông Nguyễn Văn Hải-
+Chủ tịch HĐQT
 Ông Nguyễn Đức Trị -
 Thành viên HĐQT
 Tiền lãi cho vay 15,562,927,088
-Mua hàng hóa dịch vụ 1,992,060,648 Công ty CP Dệt May Huế
+Mua hàng hóa dịch vụ 1,992,060,648
+20
+Công ty CP Dệt May Huế
 Bán hàng hóa dịch vụ 495,250,169
-Ông Nguyễn Đức Trị - Mua hàng hóa dịch vụ 410,580,927
-Tiền lãi cho vay 7,713,404,075 Công ty TNHH MTV Dệt kim
+Ông Nguyễn Đức Trị -
+Chủ tịch HĐQT
+Mua hàng hóa dịch vụ 410,580,927
+Tiền lãi cho vay 7,713,404,075
+21
+Công ty TNHH MTV Dệt kim
 Đông Phương
 Bán hàng hóa dịch vụ 8,628,926,282
-Ông Phạm Xuân Trình- Cho vay vốn
+Ông Phạm Xuân Trình-
+Chủ tịch HĐTV
+Cho vay vốn
+19,798,057,659
 Tiền lãi cho vay
+540,148,880
 Nhận điều chuyển tài sản
+23,543,539,560
 Điều chuyển tài sản
+7,501,375,304
  BÁO CÁO THƯỜNG NIÊN 2024 - QUẢN TRỊ CÔNG TY
 60 | TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX
 QUẢN TRỊ CÔNG TY  - BÁO CÁO THƯỜNG NIÊN 2024 
 TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX | 61
 II. Giao dịch giữa công ty con của Vinatex với các công ty
 có người nội bộ tham gia các chức danh HĐQT, BKS, CQĐH
+STT
 Công ty con của
 Vinatex
 Công ty có người nội bộ của Vinatex
 tham gia các chức danh HĐQT, BKS,
+CQĐH
 Loại giao dịch
 Tổng giá trị giao
 dịch (VNĐ)
+1
 Công ty TNHH MTV
 Dệt kim Đông Xuân
 Tổng Công ty May 10 -CTCP
@@ -2003,8 +2505,10 @@ Mua HHDV 263,117,592
 Công ty CP Phát triển Hạ tầng Dệt May
 Phố Nối
 Mua HHDV
+3,826,333,861
 Tổng Công ty CP May Việt Tiến
 Mua HHDV
+8,462,550,000
 Công ty CP May Nam Định
 Bán HHDV 310,219,577
 Mua HHDV 7,468,519
@@ -2012,10 +2516,13 @@ Công ty CP Dệt kim - Hanosimex
 Mua HHDV 427,589,000
 Tổng công ty CP Dệt May Hà Nội
 Mua HHDV
-24,405,343,171 Tổng Công ty CP Dệt
+24,405,343,171
+2
+Tổng Công ty CP Dệt
 May Hòa Thọ
 Công ty CP Vinatex Phú Hưng
 Mua HHDV
+2,780,094,592
 Tổng Công ty Việt Thắng - CTCP
 Mua HHDV 83,783,700
 Công ty CP Vinatex Đà Nẵng
@@ -2032,19 +2539,27 @@ Công ty CP Dệt May Huế
 Mua HHDV 68,471,316
 Tổng Công ty CP May Nhà Bè - CTCP
 Bán HHDV
+3,751,404,663
 Mua HHDV 122,256,635
 Công ty CP Quốc tế Phong Phú
 Bán HHDV
+1,369,779,001
 Mua HHDV 25,910,220
 Công ty CP Đầu tư Phát triển Vinatex
 Bán HHDV 88,231,510
-Mua HHDV 7,412,850 Tổng Công ty CP Dệt
+Mua HHDV 7,412,850
+3
+Tổng Công ty CP Dệt
 May Nam Định
 Công ty CP Vinatex Phú Hưng
 Bán HHDV
+15,336,327,146
 Mua HHDV
+15,323,603,045
 Tổng công ty Cổ phần Dệt may Hà Nội
-Bán HHDV 7,750,000 Công ty CP Dệt May
+Bán HHDV 7,750,000
+4
+Công ty CP Dệt May
 Huế
 Tổng Công ty CP Dệt May Hòa Thọ
 Mua HHDV 150,166,172
@@ -2059,12 +2574,16 @@ Mua HHDV 99,420,715
 Công ty CP Dệt Vĩnh Phú
 Bán HHDV 7,018,175,670
 Công ty CP Vinatex Quốc tế
-Mua HHDV 1,018,193,963 Công ty CP Phát
+Mua HHDV 1,018,193,963
+5
+Công ty CP Phát
 triển Hạ tầng Dệt
 May Phố Nối
 Công ty CP Dệt kim - Hanosimex
 Bán HHDV
-3,000,535,908 Tổng Công ty CP
+3,000,535,908
+6
+Tổng Công ty CP
 Phong Phú
 Tổng Công ty CP Dệt May Hòa Thọ
 Bán HHDV 2,251,027,071
@@ -2074,10 +2593,13 @@ Công ty CP Sinnika Việt Nam
 Bán HHDV 2,752,493,179
 Công ty CP Quốc tế Phong Phú
 Bán HHDV
+16,391,493,534
 Công ty CP Vinatex Quốc tế
 Bán HHDV 530,765,176
 Tổng Công ty CP May Nhà Bè - CTCP
 Mua HHDV
+444,094,000
+7
 Công ty TNHH Tổng
 Công ty Dệt may
 Miền Nam- Vinatex
@@ -2087,29 +2609,39 @@ Tổng Công ty CP May Nhà Bè - CTCP
 Mua HHDV 2,937,851,564
 Bán HHDV 1,292,028,824
 Tổng Công ty CP Dệt May Hà Nội
-Mua HHDV 8,509,455 Công ty TNHH Tổng
+Mua HHDV 8,509,455
+8
+Công ty TNHH Tổng
 Công ty Dệt may
 Miền Bắc- Vinatex
 Công ty CP Quốc tế Phong Phú
 Bán HHDV
+16,800,000,000
 Tổng Công ty CP Dệt May Hà Nội
 Bán HHDV 2,001,586,301
 Mua HHDV 480,000,000
 Công ty CP Vinatex Hồng Lĩnh
-Bán HHDV 2,406,575,342 Công ty CP SX và
+Bán HHDV 2,406,575,342
+9
+Công ty CP SX và
 Xuất Nhập Khẩu
 Dệt May
 Công ty CP Vinatex Quốc tế
 Bán HHDV
-31,199,996 Công ty cổ phần
+31,199,996
+10
+Công ty cổ phần
 Vinatex Phú Hưng
 Công ty CP Vinatex Hồng Lĩnh
 Mua HHDV
+10,466,558,322
 Bán HHDV
+10,462,491,270
  BÁO CÁO THƯỜNG NIÊN 2024 - QUẢN TRỊ CÔNG TY
 62 | TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX
 QUẢN TRỊ CÔNG TY  - BÁO CÁO THƯỜNG NIÊN 2024 
 TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX | 63
+QUẢN TRỊ RỦI RO
 1. Bối cảnh năm 2024
 Biến động của nền kinh tế: Năm 2024, nền kinh tế thế giới vẫn có nhiều
 biến động, ảnh hưởng đến tỷ giá, chi phí sản xuất và nhu cầu tiêu dùng.
@@ -2276,6 +2808,9 @@ rủi ro.
 QUẢN TRỊ CÔNG TY  - BÁO CÁO THƯỜNG NIÊN 2024 
 TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX | 67
 QUAN HỆ VỚI CỔ ĐÔNG04
+CHƯƠNG
+VÀ NHÀ ĐẦU TƯ
+QUAN HỆ CỔ ĐÔNG
 1. THÔNG TIN CỔ PHẦN
 (tại ngày 31/12/2024)
 Loại cổ phần
@@ -2288,41 +2823,69 @@ Cổ phần chuyển nhượng tự do
 500.000.000 cổ phần
 Cổ phần hạn chế chuyển nhượng
 0 cổ phần
+2. CƠ CẤU CỔ ĐÔNG
 (theo danh sách cổ đông chốt ngày 31/12/2024)
+TT
 Tên cổ đông
 Số lượng cổ đông
 Số cổ phần
 sở hữu
 Tỷ lệ sở hữu
+1
 Tổ chức
+24
+385.103.476
 77,02%
+1.1
 Trong nước
+20
+315.150.176
 63,03%
+1.2
 Nước ngoài
+4
+69.953.300
 13,99%
+2
 Cá nhân
+15.907
+114.896.524
 22,98%
+2.1
 Trong nước
+15.870 114.563.283
 22,91%
+2.2
 Nước ngoài
+37
+333.241
 0,07%
 Tổng cộng
+15.931
+500.000.000
 100,00%
  BÁO CÁO THƯỜNG NIÊN 2024 - QUAN HỆ CỔ ĐÔNG VÀ NHÀ ĐẦU TƯ
 70 | TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX
 QUAN HỆ CỔ ĐÔNG VÀ NHÀ ĐẦU TƯ  - BÁO CÁO THƯỜNG NIÊN 2024 
 TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX | 71
+3. CỔ ĐÔNG LỚN
 (theo danh sách cổ đông chốt ngày 31/12/2024)
+TT
 Tên cổ đông
 Số cổ phần
 sở hữu
 Tỷ lệ sở hữu
+1
 Nhà nước (Tổng Công ty Đầu tư và Kinh doanh
 Vốn Nhà nước – Công ty TNHH)
+267.438.100
 53,49%
+2
 Itochu Corporation
+65.000.000
 13,00%
 Tổng cộng
+332.438.100
 66,49%
 4. THÔNG TIN VỀ CỔ ĐÔNG LÀ NGƯỜI NỘI BỘ
 NĂM 2024 Họ tên
@@ -2334,44 +2897,83 @@ Số CP
 Tỷ lệ
 Số CP
 Tỷ lệ
-Lê Tiến Trường 5.500
+1
+Lê Tiến Trường
+Chủ tịch HĐQT 5.500
 0,001% 5.500
-0,001% - Trần Quang Nghị
+0,001% -
+2
+Trần Quang Nghị
 Phó CT HĐQT
+10.003.900
 2,001% 10.003.900
-2,001% - Nguyễn Xuân Đông
+2,001% -
+3
+Nguyễn Xuân Đông
+TV HĐQT
+15.045.000
 3,009% 15.000.000
 3,000%
-45.000 Đặng Vũ Hùng
+45.000
+4
+Đặng Vũ Hùng
+TV HĐQT 5.000
 0,001% 5.000
-0,001% - Cao Hữu Hiếu
+0,001% -
+5
+Cao Hữu Hiếu
+TV HĐQT -
+Tổng Giám đốc 3.300
 0,001% 3.300
-0,001% - Lê Mạc Thuấn
+0,001% -
+6
+Lê Mạc Thuấn
 Phó TGĐ 5.100
 0,001% 5.100
-0,001% - Lê Trung Hải
+0,001% -
+7
+Lê Trung Hải
 Phó TGĐ 3.100
 0,001% 3.100
-0,001% - Đoàn Thị Thu Hương
+0,001% -
+8
+Đoàn Thị Thu Hương
+TV BKS
+400
 0,00008%
+-
+-
+400
 THÔNG TIN LIÊN LẠC BỘ PHẬN QUAN HỆ CỔ ĐÔNG
 Ban Tổng hợp Pháp chế - Tập đoàn Dệt May Việt Nam
 Địa chỉ: 41A Lý Thái Tổ, Hoàn Kiếm, Hà Nội
 Điện thoại: 024 3825 7700 Fax: 024 3826 2269
-Mục quan hệ cổ đông:  BÁO CÁO THƯỜNG NIÊN 2024 - QUAN HỆ CỔ ĐÔNG VÀ NHÀ ĐẦU TƯ
+Email: qhcd@vinatex.com.vn
+Website: www.vinatex.com.vn
+Mục quan hệ cổ đông: https://vinatex.com.vn/quan-co-dong/
+ BÁO CÁO THƯỜNG NIÊN 2024 - QUAN HỆ CỔ ĐÔNG VÀ NHÀ ĐẦU TƯ
 72 | TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX
 QUAN HỆ CỔ ĐÔNG VÀ NHÀ ĐẦU TƯ  - BÁO CÁO THƯỜNG NIÊN 2024 
 TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX | 73
 PHÁT TRIỂN BỀN VỮNG05
+CHƯƠNG
+76
 Chính sách liên quan đến
-người lao động Báo cáo môi trường- năng lượng
+người lao động
+78
+Báo cáo môi trường- năng lượng
 năm 2024
+82
 Báo cáo công tác Chuyển đổi
 số năm 2024, định hướng kế
 hoạch năm 2025
+88
 Mở rộng tương lai cho vải và
 trang phục chống cháy
-Hoạt động cộng đồng năm CHÍNH SÁCH
+92
+Hoạt động cộng đồng năm
+2024
+CHÍNH SÁCH
 ĐỐI VỚI NGƯỜI LAO ĐỘNG
 1. Duy trì việc làm,
 đảm bảo thu nhập
@@ -2451,7 +3053,9 @@ thống đào tạo bậc đại học, cao đẳng trong Tập đoàn tiếp t�
 30 kỹ sư chuyên ngành Sợi - Dệt dành cho các doanh nghiệp miền Trung
 đã góp phần giải quyết bài toán nhân lực chất lượng cao, đáp ứng nhu cầu
 phát triển lâu dài của Tập đoàn và các đơn vị thành viên.
+BÁO CÁO
 MÔI TRƯỜNG- NĂNG LƯỢNG
+NĂM 2024
 Các lĩnh vực sản xuất chính gồm: Sợi, Dệt, Nhuộm, May
 và Phân phối sản phẩm may mặc. Trong quá trình sản
 xuất, chất thải phát sinh chủ yếu bao gồm: nước thải,
@@ -2468,21 +3072,39 @@ trường xung quanh, phù hợp với mục tiêu phát triển
 bền vững của Tập đoàn.
 Dưới đây là các số liệu tổng hợp liên quan đến hoạt động
 bảo vệ môi trường, tiết kiệm năng lượng của các đơn vị:
+STT
 Tên đơn vị
+STT
+Tên đơn vị
+1
 CN Sợi Nam Định (SNĐ)
+8
 Sợi Phú Hưng (SPH)
+2
 CN Sợi Phú Cường (SPC)
+9
 Sợi Phú Bài (SPB)
+3
 Dệt kim Đông Xuân (DDX)
+10
 Hạ tầng Phố Nối (HPN)
+4
 Dệt 8-3 (D83)
+11
 Dệt May Hòa Thọ (HTG)
+5
 Dệt May Hà Nội (HSM)
+12
 Dệt May Huế (HDM)
+6
 Vinatex Hồng Lĩnh (VHL)
+13
 Dệt May Nam Định (NDT)
+7
 Dệt May Miền Nam (VSC)
+14
 Phong Phú (PPH)
+15
 Việt Thắng (TVT)
  BÁO CÁO THƯỜNG NIÊN 2024 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
 78 | TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX
@@ -2495,11 +3117,17 @@ So với năm 2023
 Điện tiêu thụ
 (kWh)
 Năng lượng
+(TOE)
 Điện tiêu thụ
 (kWh)
 Năng lượng
+(TOE)
 Điện
 Năng lượng
+445.550.004
+77.768
+448.447.465
+74.731
 Tăng
 0,65%
 Giảm 0,08%
@@ -2521,7 +3149,9 @@ Lượng nước tiêu thụ năm 2024
 Tổng lượng
 nước sử
 dụng 2023
-So với năm (%)
+So với năm
+2023
+(%)
 Nguồn nước
 sử dụng
 Giá
@@ -2533,11 +3163,16 @@ Nước
 sinh hoạt
 Tổng lượng
 nước SD
+7.731.061
+621.258
+8.352.319
+7.723.619
 Tăng
 8,2%
 Chủ yếu là nước
 khai thác và mua
 từ đơn vị khác
+14.000
 tiêu thụ điện/kg sợi (quy đổi Ne30) đã giảm 9,1% so với
 năm 2023, từ 3,3 kWh/kg còn 3,0 kWh/kg. Kết quả này
 phản ánh nỗ lực nâng cao hiệu quả sử dụng năng lượng
@@ -2553,6 +3188,7 @@ Lượng nước thải năm 2024
 (m3/năm)
 Tổng lượng
 nước thải đã
+XL 2023
 (m3/năm)
 So với năm
 2023 (%)
@@ -2568,12 +3204,20 @@ Nước sinh
 hoạt
 Tổng lượng
 NT đã xử lý
+6.011.495
+345.711
+6.377.703
+5.553.063
 Tăng 14,85%
 Chủ yếu sử dụng
 phương pháp: cơ
 học + yếm khí + Hóa
 lý + vi sinh
+NTSX:
+20.000-
+25.000
 3. TÌNH HÌNH QUẢN LÝ CHẤT THẢI THÔNG THƯỜNG VÀ
+CHẤT THẢI NGUY HẠI
 Bảng 4 - Chất thải thông thường và chất thải nguy hại
 Chất thải thông thường
 So với năm
@@ -2585,8 +3229,13 @@ Năm 2023
 Năm 2024
 Năm 2023
 Năm 2024
+19.914
+23.998
 Tăng
-20,5 % Giảm
+20,5 %
+414
+385
+Giảm
 7,11 %
 Lượng chất thải thông thường năm 2024 tăng nhiều so
 với năm 2023, chủ yếu do lượng bùn thải của Công ty
@@ -2604,6 +3253,7 @@ TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX | 81
 4. PHÁT THẢI KHÍ NHÀ KÍNH
 Lượng phát thải khí nhà kính năm 2024 được tính toán từ các nguồn: điện, nhiên liệu hóa thạch và nước thải:
 614.402 tCO2tđ
+5. TỔNG KẾT
 Trong giai đoạn 2020-2024, các doanh nghiệp thành viên của Tập đoàn đã tập trung hiện đại hóa gắn với phát
 triển bền vững và thân thiện môi trường thông qua các hoạt động sau:
 Tăng cường sử dụng
@@ -2652,6 +3302,7 @@ Các đơn vị nằm trong QĐ13 của TTg đã thực hiện hoạt động ki
 kính theo quy định, ở cấp độ Tập đoàn cũng đã thực hiện tính toán phát
 thải khí nhà kính của các đơn vị chi phối theo các số liệu về điện, nhiên liệu
 hóa thạch và nước thải từ báo cáo của các đơn vị.
+BÁO CÁO CÔNG TÁC
 CHUYỂN ĐỔI SỐ NĂM 2024,
 định hướng kế hoạch năm 2025
  BÁO CÁO THƯỜNG NIÊN 2024 - BÁO CÁO PHÁT TRIỂN BỀN VỮNG
@@ -2699,7 +3350,9 @@ Bổ sung các chức năng còn thiếu:
 doanh thông qua công cụ Power BI.
  Xây dựng lộ trình thống kê dữ liệu quản trị sản xuất theo thời gian thực, bằng cách lắp
 đặt hệ thống IoT cho một số nhà máy sợi.
+MỞ RỘNG TƯƠNG LAI
 CHO VẢI VÀ TRANG PHỤC
+CHỐNG CHÁY
 Tập đoàn Dệt May Việt Nam (Vinatex) và Tập đoàn Coats (Anh Quốc) vừa tổ
 chức Kỷ niệm 1 năm Ký kết biên bản ghi nhớ hợp tác (MOU) giữa hai bên về
 sản xuất vải và trang phục chống cháy. Đồng thời, ký kết thỏa thuận thành lập
@@ -2743,6 +3396,7 @@ tham quan.
 Để làm hài lòng tất cả các khách hàng, vải chống cháy
 của Vinatex đang hướng đến những tiêu chuẩn sau:
 Tiêu chuẩn
+OEKO-TEX 100.
 NFPA 2112: Tiêu chuẩn
 chống cháy nổ trên
 quần áo bảo vệ nhân
@@ -2856,6 +3510,8 @@ phục chống cháy của dự án thành “Giải pháp toàn cầu
 về vải & trang phục bảo vệ con người”. Đây không chỉ
 là một dự án kinh doanh đơn thuần mà còn là sứ mệnh
 bảo vệ an toàn cho người lao động trên toàn thế giới”.
+HOẠT ĐỘNG CỘNG ĐỒNG
+NĂM 2024
 Trước ảnh hưởng của cơn bão số 3 (YAGI) gây
 ra Tập đoàn, Công đoàn Dệt May Việt Nam đã tổ
 chức quyên góp mỗi người lao động ủng hộ ít nhất
@@ -2896,6 +3552,8 @@ tiền tàu xe cho công nhân về quê nghỉ tết, tổ
 chức đón xuân, tặng quà và hỗ trợ thêm cho công
 nhân ở các tỉnh xa không có điều kiện về quê đón
 tết cùng gia đình.
+BÁO CÁO TÀI CHÍNH06
+CHƯƠNG
 Quý cổ đông vui lòng theo dõi
 Báo cáo tài chính hợp nhất năm 2024
 đã kiểm toán của Tập đoàn Dệt May
@@ -2904,24 +3562,32 @@ Việt Nam theo QR code sau 
 96 | TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX
 BÁO CÁO TÀI CHÍNH  - BÁO CÁO THƯỜNG NIÊN 2024 
 TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX | 97
-Quyết định Thành lập số Giấy Chứng nhận
-Đăng ký Doanh nghiệp số Giấy Chứng nhận Đăng ký Doanh nghiệp của Tập đoàn Dệt May Việt Nam đã được sửa đổi nhiều lần và lần gần đây
-nhất là Giấy Chứng nhận Đăng ký Doanh nghiệp
+Quyết định Thành lập số 974/QĐ-TTg
+ngày 25 tháng 6 năm 2010
+Giấy Chứng nhận
+Đăng ký Doanh nghiệp số 0100100008
+ngày 29 tháng 1 năm 2015
+Giấy Chứng nhận Đăng ký Doanh nghiệp của Tập đoàn Dệt May Việt Nam đã được sửa đổi nhiều lần và lần gần đây
+nhất là Giấy Chứng nhận Đăng ký Doanh nghiệp công ty cổ phần số 0100100008 ngày 6 tháng 10 năm 2021. Giấy
 Chứng nhận Đăng ký Doanh nghiệp và các bản điều chỉnh do Sở Kế hoạch và Đầu tư Thành phố Hà Nội cấp.
 Hội đồng Quản trị
-Ông Lê Tiến Trường Ông Trần Quang Nghị
-Phó Ông Cao Hữu Hiếu
+Ông Lê Tiến Trường
+Chủ tịch Ông Trần Quang Nghị
+Phó Chủ tịch Ông Cao Hữu Hiếu
 Thành viên Ông Đặng Vũ Hùng
 Thành viên Ông Vũ Hồng Tuấn
 Thành viên Ông Nguyễn Xuân Đông
 Thành viên
-Cơ quan
-Ông Cao Hữu Hiếu Ông Nguyễn Song Hải
-Phó Ông Lê Trung Hải
-Phó Ông Phạm Văn Tân
-Phó Ông Lê Mạc Thuấn
-Phó Ông Nguyễn Đức Trị
-Phó Ông Phạm Xuân Trình Ban Kiểm soát
+Cơ quan Tổng Giám đốc
+Ông Cao Hữu Hiếu
+Tổng Giám đốc Ông Nguyễn Song Hải
+Phó Tổng Giám đốc Ông Lê Trung Hải
+Phó Tổng Giám đốc Ông Phạm Văn Tân
+Phó Tổng Giám đốc Ông Lê Mạc Thuấn
+Phó Tổng Giám đốc Ông Nguyễn Đức Trị
+Phó Tổng Giám đốc Ông Phạm Xuân Trình
+Giám đốc điều hành
+Ban Kiểm soát
 Bà Trần Thị Thu Hằng
 Trưởng ban Bà Đoàn Thị Thu Hương
 Thành viên Bà Đặng Thị Hồng Lê
@@ -2934,23 +3600,28 @@ Công ty kiểm toán
 Công ty TNHH KPMG Việt Nam
 TẬP ĐOÀN DỆT MAY VIỆT NAM
 Báo cáo tài chính hợp nhất cho năm 2024
-Cơ quan
-của Tập đoàn Dệt May Việt Nam và các công ty con (sau đây gọi chung l
-Cơ quan
+Kết thúc ngày 31 tháng 12 năm 2024
+Cơ quan Tổng Giám đốc Tập đoàn Dệt May Việt Nam trình bày báo cáo này và báo cáo tài chính hợp nhất đính kèm
+của Tập đoàn Dệt May Việt Nam và các công ty con (sau đây gọi chung là “Tập đoàn”) cho năm kết thúc ngày 31
+tháng 12 năm 2024.
+Cơ quan Tổng Giám đốc Tập đoàn Dệt May Việt Nam chịu trách nhiệm lập và trình bày trung thực và hợp lý báo cáo
 tài chính hợp nhất theo các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định
-pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính. Theo ý kiến của Cơ quan
+pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính. Theo ý kiến của Cơ quan Tổng Giám đốc:
 (a)
 báo cáo tài chính hợp nhất được trình bày từ trang 6 đến trang 83 đã phản ánh trung thực và hợp lý tình
-hình tài chính hợp nhất của
+hình tài chính hợp nhất của Tập đoàn Dệt May Việt Nam tại ngày 31 tháng 12 năm 2024, kết quả hoạt động
 kinh doanh hợp nhất và lưu chuyển tiền tệ hợp nhất của Tập đoàn Dệt May Việt Nam cho năm kết thúc cùng
 ngày, phù hợp với các Chuẩn mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định
 pháp lý có liên quan đến việc lập và trình bày báo cáo tài chính; và
 (b)
-tại ngày lập báo cáo này, không có lý do gì để Cơ quan
+tại ngày lập báo cáo này, không có lý do gì để Cơ quan Tổng Giám đốc cho rằng Tập đoàn Dệt May Việt Nam
 sẽ không thể thanh toán các khoản nợ phải trả khi đến hạn.
-Tại ngày lập báo cáo này, Cơ quan
-Thay mặt Cơ quan
-CAO HỮU HIẾU  BÁO CÁO THƯỜNG NIÊN 2024 - BÁO CÁO TÀI CHÍNH
+Tại ngày lập báo cáo này, Cơ quan Tổng Giám đốc đã phê duyệt phát hành báo cáo tài chính hợp nhất đính kèm.
+Thay mặt Cơ quan Tổng Giám đốc
+CAO HỮU HIẾU
+Tổng Giám đốc
+Hà Nội, ngày 31 tháng 3 năm 2025
+ BÁO CÁO THƯỜNG NIÊN 2024 - BÁO CÁO TÀI CHÍNH
 98 | TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX
 BÁO CÁO TÀI CHÍNH  - BÁO CÁO THƯỜNG NIÊN 2024 
 TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX | 99
@@ -2958,13 +3629,13 @@ BÁO CÁO KIỂM TOÁN ĐỘC LẬP
 Kính gửi các Cổ đông và Hội đồng Quản trị
 Tập đoàn Dệt May Việt Nam
 Chúng tôi đã kiểm toán báo cáo tài chính hợp nhất đính kèm của Tập đoàn Dệt May Việt
-Nam, bao gồm bản
+Nam, bao gồm bảng cân đối kế toán hợp nhất tại ngày 31 tháng 12 năm 2024, báo cáo kết
 quả hoạt động kinh doanh hợp nhất và báo cáo lưu chuyển tiền tệ hợp nhất liên quan cho
-năm kết thúc cùng ngày và các thuyết minh kèm theo được Cơ quan
-đoàn Dệt Ma
+năm kết thúc cùng ngày và các thuyết minh kèm theo được Cơ quan Tổng Giám đốc Tập
+đoàn Dệt May Việt Nam phê duyệt phát hành ngày 31 tháng 3 năm 2025, được trình bày từ
 trang 6 đến trang 83.
-Trách nhiệm của Cơ quan
-Cơ quan
+Trách nhiệm của Cơ quan Tổng Giám đốc
+Cơ quan Tổng Giám đốc Tập đoàn Dệt May Việt Nam chịu trách nhiệm lập và trình bày trung
 thực và hợp lý báo cáo tài chính hợp nhất này theo các Chuẩn mực Kế toán Việt Nam, Chế
 độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và
 trình bày báo cáo tài chính, và chịu trách nhiệm về kiểm soát nội bộ mà Cơ quan Tổng Giám
@@ -2985,18 +3656,22 @@ kiểm toán viên xem xét kiểm soát nội bộ của Tập đoàn liên qua
 báo cáo tài chính trung thực và hợp lý nhằm thiết kế các thủ tục kiểm toán phù hợp với tình
 hình thực tế, tuy nhiên không nhằm mục đích đưa ra ý kiến về hiệu quả của kiểm soát nội
 bộ của Tập đoàn. Công việc kiểm toán cũng bao gồm việc đánh giá tính thích hợp của các
-chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Cơ quan Tổng Chúng tôi tin rằng các bằng chứng kiểm toán mà chúng tôi thu được là đầy đủ và thích hợp
+chính sách kế toán được áp dụng và tính hợp lý của các ước tính kế toán của Cơ quan Tổng
+Giám đốc, cũng như đánh giá việc trình bày tổng thể báo cáo tài chính.
+Chúng tôi tin rằng các bằng chứng kiểm toán mà chúng tôi thu được là đầy đủ và thích hợp
 làm cơ sở cho ý kiến kiểm toán ngoại trừ của chúng tôi.
 BÁO CÁO KIỂM TOÁN ĐỘC LẬP
 Cơ sở của ý kiến kiểm toán ngoại trừ
 Tiền thuê đất và tiền chậm nộp
-Như được trình bày tại Thuyết minh 45 của báo cáo tài chính hợp nhất, khi lập báo cáo tài phần Phong Phú, một công ty con của Tập đoàn, đã thực hiện điều chỉnh lại một số số liệu
+Như được trình bày tại Thuyết minh 45 của báo cáo tài chính hợp nhất, khi lập báo cáo tài
+chính cho năm kết thúc ngày 31 tháng 12 năm 2024, Ban lãnh đạo của Tổng Công ty Cổ
+phần Phong Phú, một công ty con của Tập đoàn, đã thực hiện điều chỉnh lại một số số liệu
 so sánh liên quan đến chi phí thuê đất phải nộp cho giai đoạn từ năm 2007 đến năm 2020
 tại Khu đất số 2 Trường Chinh, Phường Tây Thạnh, Quận Tân Phú, Thành phố Hồ Chí Minh
 với số tiền là 19.029 triệu VND căn cứ vào số tiền thuê đất phải nộp theo các thông báo của
 Chi cục Thuế Quận Tân Phú. Trong năm 2024, Tổng Công ty Cổ phần Phong Phú đã nhận
 được thông báo của Cục Thuế Thành phố Hồ Chí Minh và Sở Tài nguyên Môi trường Thành
-phố Hồ Chí Minh về việc xá
+phố Hồ Chí Minh về việc xác định lại đơn giá thuê đất từ ngày 10 tháng 4 năm 2017 đến ngày
 31 tháng 12 năm 2024 cũng như diện tích và mục đích sử dụng đất tương ứng với diện tích
 và vị trí đất thuê. Theo đó, số tiền thuê đất phải nộp có thể khác với số tiền được thông báo
 bởi Chi cục Thuế Quận Tân Phú. Tại ngày báo cáo, Tổng Công ty Cổ phần Phong Phú vẫn
@@ -3009,60 +3684,136 @@ chưa thực hiện được các thủ tục kiểm toán cần thiết và thu
 kiểm toán liên quan đến số tiền thuê đất mà Tổng Công ty Cổ phần Phong Phú phải nộp đối
 với khu đất nói trên và các chi phí chậm nộp liên quan, nếu có. Theo đó, chúng tôi không
 thể xác định được các điều chỉnh có thể là cần thiết đối với các khoản mục thuế và các
-khoản phải nộp Nhà nước và lợi nhu
-nhuận sau thuế thu nhập doa  BÁO CÁO THƯỜNG NIÊN 2024 - BÁO CÁO TÀI CHÍNH
+khoản phải nộp Nhà nước và lợi nhuận sau thuế chưa phân phối tại ngày 31 tháng 12 năm
+2024 và ngày 1 tháng 1 năm 2024; và các khoản mục chi phí quản lý doanh nghiệp và lợi
+nhuận sau thuế thu nhập doanh nghiệp cho các năm kết thúc ngày 31 tháng 12 năm 2024
+và ngày 31 tháng 12 năm 2023.
+ BÁO CÁO THƯỜNG NIÊN 2024 - BÁO CÁO TÀI CHÍNH
 100 | TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX
 BÁO CÁO TÀI CHÍNH  - BÁO CÁO THƯỜNG NIÊN 2024 
 TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX | 101
 Ý kiến kiểm toán ngoại trừ
 Theo ý kiến của chúng tôi, ngoại trừ ảnh hưởng của vấn đề được mô tả tại đoạn “Cơ sở của ý kiến kiểm toán ngoại
 trừ”, báo cáo tài chính hợp nhất đã phản ánh trung thực và hợp lý, trên các khía cạnh trọng yếu, tình hình tài chính
-hợp nhất của
+hợp nhất của Tập đoàn Dệt May Việt Nam tại ngày 31 tháng 12 năm 2024, kết quả hoạt động kinh doanh hợp nhất và
 lưu chuyển tiền tệ hợp nhất của Tập đoàn Dệt May Việt Nam cho năm kết thúc cùng ngày, phù hợp với các Chuẩn
 mực Kế toán Việt Nam, Chế độ Kế toán Doanh nghiệp Việt Nam và các quy định pháp lý có liên quan đến việc lập và
 trình bày báo cáo tài chính.
 Vấn đề cần nhấn mạnh – số liệu so sánh
-Chúng tôi lưu ý đến Thuyết minh 45 của báo cáo tài chính hợp nhất trong đó đề cập đến việc một số thông tin so phần Phong Phú, một công ty con của Tập đoàn, đã được điều chỉnh lại. Ý kiến kiểm toán của chúng tôi có nội dung
+Chúng tôi lưu ý đến Thuyết minh 45 của báo cáo tài chính hợp nhất trong đó đề cập đến việc một số thông tin so
+sánh tại ngày 1 tháng 1 năm 2024 liên quan đến tiền thuê đất và tiền chậm nộp tiền thuê đất tại Tổng Công ty Cổ
+phần Phong Phú, một công ty con của Tập đoàn, đã được điều chỉnh lại. Ý kiến kiểm toán của chúng tôi có nội dung
 ngoại trừ như đã nêu ở trên có thể ảnh hưởng đến thông tin so sánh đã được điều chỉnh lại này.
 BÁO CÁO KIỂM TOÁN ĐỘC LẬP
 Mã số
 Thuyết
 minh
 31/12/2024
+VND
 1/1/2024
+VND
 Đã điều chỉnh lại
+TÀI SẢN
 Tài sản ngắn hạn
 (100 = 110 + 120 + 130 + 140 + 150)
-Tiền và các khoản tương đương tiền 1.004.605.536.998
-Tiền 334.076.336.998
+100
+9.551.568.540.428
+9.011.900.252.286
+Tiền và các khoản tương đương tiền
+110
+6
+1.004.605.536.998
+668.657.670.914
+Tiền
+111
+334.076.336.998
+288.504.356.537
 Các khoản tương đương tiền
+112
+670.529.200.000
+380.153.314.377
 Đầu tư tài chính ngắn hạn
+120
+2.470.361.179.586
+2.186.376.596.809
 Đầu tư nắm giữ đến ngày đáo hạn
+123
 7(a)
+2.470.361.179.586
+2.186.376.596.809
 Các khoản phải thu ngắn hạn
-Phải thu ngắn hạn của khách hàng 2.275.337.763.396
+130
+2.605.636.273.056
+2.777.087.805.014
+Phải thu ngắn hạn của khách hàng
+131
+8
+2.275.337.763.396
+2.419.776.222.141
 Trả trước cho người bán ngắn hạn
-Phải thu về cho vay ngắn hạn 4.542.860.000
+132
+210.121.976.970
+159.928.122.085
+Phải thu về cho vay ngắn hạn
+135
+9
+4.542.860.000
+28.707.530.808
 Phải thu ngắn hạn khác
+136
 10(a)
-Dự phòng phải thu ngắn hạn khó đòi (323.937.380.285)
+438.691.971.804
+502.203.453.844
+Dự phòng phải thu ngắn hạn khó đòi
+137
+11
+(323.937.380.285)
 (335.257.228.993)
 Tài sản thiếu chờ xử lý
-Hàng tồn kho 3.217.895.959.803
+139
+879.081.171
+1.729.705.129
 Hàng tồn kho
+140
+12
+3.217.895.959.803
+3.116.488.111.528
+Hàng tồn kho
+141
+3.290.341.262.584
+3.218.969.665.585
 Dự phòng giảm giá hàng tồn kho
+149
 (72.445.302.781)
 (102.481.554.057)
 Tài sản ngắn hạn khác
-Chi phí trả trước ngắn hạn 18(a)
+150
+253.069.590.985
+263.290.068.021
+Chi phí trả trước ngắn hạn
+151
+18(a)
+33.510.806.237
+29.974.282.311
 Thuế giá trị gia tăng được khấu trừ
+152
+206.720.345.742
+217.852.479.237
 Thuế và các khoản khác phải thu Nhà nước
+153
 21(a)
+11.656.762.056
+15.086.728.144
 Tài sản ngắn hạn khác
+155
+1.181.676.950
+376.578.329
 Mẫu B 01 – DN/HN
 (Ban hành theo Thông tư số 202/2014/TT-BTC
 ngày 22/12/2014 của Bộ Tài chính)
-BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT  BÁO CÁO THƯỜNG NIÊN 2024 - BÁO CÁO TÀI CHÍNH
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+TẠI NGÀY 31 THÁNG 12 NĂM 2024
+ BÁO CÁO THƯỜNG NIÊN 2024 - BÁO CÁO TÀI CHÍNH
 102 | TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX
 BÁO CÁO TÀI CHÍNH  - BÁO CÁO THƯỜNG NIÊN 2024 
 TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX | 103
@@ -3070,163 +3821,462 @@ Mã số
 Thuyết
 minh
 31/12/2024
+VND
 1/1/2024
+VND
 Đã điều chỉnh lại
 Tài sản dài hạn
 (200 = 210 + 220 + 230 + 240 + 250 +
 260)
+200
+9.714.281.621.524
+10.064.370.417.603
 Các khoản phải thu dài hạn
-Phải thu về cho vay dài hạn 2.342.860.000
+210
+48.299.560.798
+47.424.641.529
+Phải thu về cho vay dài hạn
+215
+9
+2.342.860.000
+4.685.720.000
 Phải thu dài hạn khác
+216
 10(b)
-Dự phòng phải thu dài hạn khó đòi (106.109.924.796)
+152.066.625.594
+148.848.846.325
+Dự phòng phải thu dài hạn khó đòi
+219
+11
+(106.109.924.796)
 (106.109.924.796)
 Tài sản cố định
-Tài sản cố định hữu hình 5.306.725.844.505
+220
+5.553.947.899.230
+5.871.927.505.393
+Tài sản cố định hữu hình
+221
+13
+5.306.725.844.505
+5.631.367.708.397
 Nguyên giá
+222
+14.183.089.852.907
+14.066.042.299.637
 Giá trị hao mòn lũy kế
+223
 (8.876.364.008.402)
 (8.434.674.591.240)
-Tài sản cố định hữu hình thuê tài chính 154.704.015.687
+Tài sản cố định hữu hình thuê tài chính
+224
+14
+154.704.015.687
+146.632.497.134
 Nguyên giá
+225
+176.072.027.534
+168.730.898.213
 Giá trị hao mòn lũy kế
+226
 (21.368.011.847)
 (22.098.401.079)
-Tài sản cố định vô hình 92.518.039.038
+Tài sản cố định vô hình
+227
+15
+92.518.039.038
+93.927.299.862
 Nguyên giá
+228
+151.254.837.986
+146.689.808.395
 Giá trị hao mòn lũy kế
+229
 (58.736.798.948)
 (52.762.508.533)
-Bất động sản đầu tư 264.931.476.421
+Bất động sản đầu tư
+230
+16
+264.931.476.421
+275.630.323.034
 Nguyên giá
+231
+366.591.995.896
+369.186.255.985
 Giá trị hao mòn lũy kế
+232
 (101.660.519.475)
 (93.555.932.951)
 Tài sản dở dang dài hạn
-Xây dựng cơ bản dở dang 400.958.692.169
+240
+400.958.692.169
+448.831.940.444
+Xây dựng cơ bản dở dang
+242
+17
+400.958.692.169
+448.831.940.444
 Đầu tư tài chính dài hạn
+250
+3.138.795.610.940
+3.098.825.758.060
 Đầu tư vào các công ty liên kết
+252
 7(b)
+2.991.643.306.334
+2.904.444.477.366
 Đầu tư góp vốn vào đơn vị khác
+253
 7(b)
-Dự phòng đầu tư tài chính dài hạn (184.906.788.083)
+183.478.443.353
+182.643.001.466
+Dự phòng đầu tư tài chính dài hạn
+254
+7
+(184.906.788.083)
 (147.947.320.772)
 Đầu tư nắm giữ đến ngày đáo hạn
+255
 7(a)
+148.580.649.336
+159.685.600.000
 Tài sản dài hạn khác
+260
+307.348.381.966
+321.730.249.143
 Chi phí trả trước dài hạn
+261
 18(b)
-Tài sản thuế thu nhập hoãn lại 15.280.437.512
+291.486.585.521
+307.068.866.879
+Tài sản thuế thu nhập hoãn lại
+262
+19
+15.280.437.512
+14.080.023.331
 Tài sản dài hạn khác
+268
+581.358.933
+581.358.933
 TỔNG TÀI SẢN (270 = 100 + 200)
+270
+19.265.850.161.952
+19.076.270.669.889
 Mã số
 Thuyết
 minh
 31/12/2024
+VND
 1/1/2024
+VND
 Đã điều chỉnh lại
+NGUỒN VỐN
 NỢ PHẢI TRẢ (300 = 310 + 330)
+300
+9.989.507.702.920
+9.979.132.994.373
 Nợ ngắn hạn
-Phải trả người bán ngắn hạn 1.258.590.848.176
+310
+7.066.893.150.833
+6.938.776.243.591
+Phải trả người bán ngắn hạn
+311
+20
+1.258.590.848.176
+1.182.952.139.583
 Người mua trả tiền trước ngắn hạn
+312
+92.831.620.899
+75.532.036.141
 Thuế và các khoản phải nộp Nhà nước
+313
 21(b)
+70.518.290.948
+261.123.892.074
 Phải trả người lao động
+314
+705.297.556.707
+624.352.705.250
 Chi phí phải trả ngắn hạn
+315
 22(a)
-Doanh thu chưa thực hiện ngắn hạn 22.642.981.106
+50.784.050.757
+68.511.969.277
+Doanh thu chưa thực hiện ngắn hạn
+318
+23
+22.642.981.106
+18.563.614.433
 Phải trả ngắn hạn khác
+319
 24(a)
+562.649.754.189
+529.410.745.830
 Vay và nợ thuê tài chính ngắn hạn
+320
 25(a)
-Dự phòng phải trả ngắn hạn 62.473.188.366
-Quỹ khen thưởng, phúc lợi 201.072.736.859
+4.040.032.122.826
+3.901.104.879.367
+Dự phòng phải trả ngắn hạn
+321
+26
+62.473.188.366
+62.473.188.366
+Quỹ khen thưởng, phúc lợi
+322
+27
+201.072.736.859
+214.751.073.270
 Nợ dài hạn
+330
+2.922.614.552.087
+3.040.356.750.782
 Phải trả người bán dài hạn
+331
+17.600.000
+17.600.000
 Người mua trả tiền trước dài hạn
+332
+-
+1.998.966.784
 Chi phí phải trả dài hạn
+333
 22(b)
-Doanh thu chưa thực hiện dài hạn 298.311.893.472
+9.296.985.600
+9.761.834.880
+Doanh thu chưa thực hiện dài hạn
+336
+23
+298.311.893.472
+308.089.739.186
 Phải trả dài hạn khác
+337
 24(b)
-Vay và nợ thuê tài chính dài hạn 25(b)
-Thuế thu nhập hoãn lại phải trả 166.053.734.923
+76.708.423.953
+70.211.376.973
+Vay và nợ thuê tài chính dài hạn
+338
+25(b)
+2.372.225.914.139
+2.544.059.889.073
+Thuế thu nhập hoãn lại phải trả
+341
+19
+166.053.734.923
+106.217.343.886
 Mẫu B 01 – DN/HN
 (Ban hành theo Thông tư số 202/2014/TT-BTC
 ngày 22/12/2014 của Bộ Tài chính)
-BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT Mẫu B 01 – DN/HN
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+TẠI NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+Mẫu B 01 – DN/HN
 (Ban hành theo Thông tư số 202/2014/TT-BTC
 ngày 22/12/2014 của Bộ Tài chính)
-BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT  BÁO CÁO THƯỜNG NIÊN 2024 - BÁO CÁO TÀI CHÍNH
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+TẠI NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+ BÁO CÁO THƯỜNG NIÊN 2024 - BÁO CÁO TÀI CHÍNH
 104 | TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX
 BÁO CÁO TÀI CHÍNH  - BÁO CÁO THƯỜNG NIÊN 2024 
 TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX | 105
 Mẫu B 01 – DN/HN
 (Ban hành theo Thông tư số 202/2014/TT-BTC
 ngày 22/12/2014 của Bộ Tài chính)
-BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT Mã số
+BẢNG CÂN ĐỐI KẾ TOÁN HỢP NHẤT
+TẠI NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+Mã số
 Thuyết
 minh
 31/12/2024
+VND
 1/1/2024
+VND
 Đã điều chỉnh lại
-VỐN CHỦ SỞ HỮU (400 = 410 + 430) 9.276.342.459.032
+VỐN CHỦ SỞ HỮU (400 = 410 + 430)
+400
+28
+9.276.342.459.032
+9.097.137.675.516
 Vốn chủ sở hữu
-Vốn cổ phần 5.000.000.000.000
+410
+9.257.028.236.045
+9.076.964.785.614
+Vốn cổ phần
+411
+29
+5.000.000.000.000
+5.000.000.000.000
+-
 Cổ phiếu phổ thông có
 quyền biểu quyết
 411a
+5.000.000.000.000
+5.000.000.000.000
 Thặng dư vốn cổ phần
+412
+30.361.932.352
+30.361.932.352
 Vốn khác của chủ sở hữu
+414
+216.823.916.584
+214.733.466.584
 Chênh lệch đánh giá lại tài sản
+416
 (747.830.122.185)
-Quỹ đầu tư phát triển 824.954.603.341
+(747.830.122.185)
+Quỹ đầu tư phát triển
+418
+30
+824.954.603.341
+777.414.063.148
 Lợi nhuận sau thuế (“LNST”)
 chưa phân phối
+421
+930.921.957.951
+852.462.153.175
+-
 LNST chưa phân phối lũy kế đến
 cuối năm trước
 421a
+606.539.021.397
+686.935.220.277
+-
 LNST chưa phân phối năm nay
 421b
-Nguồn vốn đầu tư xây dựng cơ bản 543.092.845.095
+324.382.936.554
+165.526.932.898
+Nguồn vốn đầu tư xây dựng cơ bản
+422
+31
+543.092.845.095
+543.092.845.095
 Lợi ích cổ đông không kiểm soát
+429
+2.458.703.102.907
+2.406.730.447.445
 Nguồn kinh phí và các quỹ khác
-Nguồn kinh phí đã hình thành tài sản cố định 19.314.222.987
+430
+19.314.222.987
+20.172.889.902
+Nguồn kinh phí đã hình thành tài sản cố định
+432
+19.314.222.987
+20.172.889.902
 TỔNG NGUỒN VỐN (440 = 300 + 400)
-19.265.850.161.952 Người lập:
+440
+19.265.850.161.952
+19.076.270.669.889
+Ngày 31 tháng 3 năm 2025 Người lập:
 Người duyệt: NGUYỄN THỊ NGA
-CAO HỮU HIẾU Phó Ban Tài chính Kế toán Kế toán trưởng Mã
+NGUYỄN NGỌC CÁCH
+CAO HỮU HIẾU Phó Ban Tài chính Kế toán Kế toán trưởng
+Tổng Giám đốc
+Mã
+số
 Thuyết
 minh
-Doanh thu bán hàng và cung cấp dịch vụ 17.355.740.531.077
-Các khoản giảm trừ doanh thu 29.913.829.942
-Doanh thu thuần về bán hàng và cung cấp dịch vụ (10 = 01 - 02) 17.325.826.701.135
-Giá vốn hàng bán và dịch vụ cung cấp 15.450.851.660.073
+2024
+VND
+2023
+VND
+Doanh thu bán hàng và cung cấp dịch vụ
+01
+33
+17.355.740.531.077
+16.490.720.404.195
+Các khoản giảm trừ doanh thu
+02
+33
+29.913.829.942
+24.790.201.865
+Doanh thu thuần về bán hàng và cung cấp dịch vụ (10 = 01 - 02)
+10
+33
+17.325.826.701.135
+16.465.930.202.330
+Giá vốn hàng bán và dịch vụ cung cấp
+11
+34
+15.450.851.660.073
+15.237.810.341.260
 Lợi nhuận gộp (20 = 10 - 11)
-Doanh thu hoạt động tài chính 396.309.051.170
-Chi phí tài chính 600.559.282.943
+20
+1.874.975.041.062
+1.228.119.861.070
+Doanh thu hoạt động tài chính
+21
+35
+396.309.051.170
+371.823.186.831
+Chi phí tài chính
+22
+36
+600.559.282.943
+535.280.688.102
 Trong đó: Chi phí lãi vay
+23
+339.634.191.748
+347.746.865.398
 Phần lãi trong công ty liên kết
+24
 7(b)
-Chi phí bán hàng 497.484.713.811
-Chi phí quản lý doanh nghiệp 933.490.786.336
+564.162.269.974
+564.025.195.885
+Chi phí bán hàng
+25
+37
+497.484.713.811
+444.585.396.813
+Chi phí quản lý doanh nghiệp
+26
+38
+933.490.786.336
+801.613.210.510
 Lợi nhuận thuần từ hoạt động
 kinh doanh
 {30 = 20 + (21 - 22) + 24 - (25 +26)}
-Thu nhập khác 82.210.609.671
-Chi phí khác 51.030.130.153
+30
+803.911.579.116
+382.488.948.361
+Thu nhập khác
+31
+39
+82.210.609.671
+211.198.203.347
+Chi phí khác
+32
+40
+51.030.130.153
+55.156.773.240
 Kết quả từ các hoạt động khác (40 = 31 - 32)
+40
+31.180.479.518
+156.041.430.107
 Lợi nhuận kế toán trước thuế
 (50 = 30 + 40)
-Chi phí thuế TNDN hiện hành 120.995.932.118
-Chi phí thuế TNDN hoãn lại 58.657.603.122
+50
+835.092.058.634
+538.530.378.468
+Chi phí thuế TNDN hiện hành
+51
+42
+120.995.932.118
+100.370.733.824
+Chi phí thuế TNDN hoãn lại
+52
+42
+58.657.603.122
+42.275.897.319
 Lợi nhuận sau thuế TNDN
 (60 = 50 - 51 - 52)
 (chuyển sang trang sau)
+60
+655.438.523.394
+395.883.747.325
 Mẫu B 02 – DN/HN
 (Ban hành theo Thông tư số 202/2014/TT-BTC
 ngày 22/12/2014 của Bộ Tài chính)
-BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT CHO  BÁO CÁO THƯỜNG NIÊN 2024 - BÁO CÁO TÀI CHÍNH
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT CHO
+NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024
+ BÁO CÁO THƯỜNG NIÊN 2024 - BÁO CÁO TÀI CHÍNH
 106 | TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX
 BÁO CÁO TÀI CHÍNH  - BÁO CÁO THƯỜNG NIÊN 2024 
 TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX | 107
@@ -3236,51 +4286,122 @@ ngày 22/12/2014 của Bộ Tài chính)
 Mẫu B 03 – DN/HN
 (Ban hành theo Thông tư số 202/2014/TT-BTC
 ngày 22/12/2014 của Bộ Tài chính)
-BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT CHO BÁO CÁO LƯU CHUYỂN TIỀ
+BÁO CÁO KẾT QUẢ HOẠT ĐỘNG KINH DOANH HỢP NHẤT CHO
+NĂM KẾT THÚC NGÀY 31 THÁNG 12 NĂM 2024 (tiếp theo)
+BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT CHO NĂM KẾT THÚC
+NGÀY 31 THÁNG 12 NĂM 2024 (Phương pháp gián tiếp)
+Mã
+số
 Thuyết
 minh
+2024
+VND
+2023
+VND
 Lợi nhuận sau thuế TNDN
 (60 = 50 - 51 - 52)
 (mang sang từ trang trước)
+60
+655.438.523.394
+395.883.747.325
 Phân bổ cho:
-Cổ đông của công ty mẹ 324.382.936.554
-Cổ đông không kiểm soát 331.055.586.840
+Cổ đông của công ty mẹ
+61
+324.382.936.554
+165.526.932.898
+Cổ đông không kiểm soát
+62
+331.055.586.840
+230.356.814.427
 Lãi trên cổ phiếu
-Lãi cơ bản trên cổ phiếu Lãi suy giảm trên cổ phiếu Người lập:
+43
+Lãi cơ bản trên cổ phiếu
+70
+609
+289 Lãi suy giảm trên cổ phiếu
+71
+549
+261
+Ngày 31 tháng 3 năm 2025 Người lập:
 Người duyệt: NGUYỄN THỊ NGA
-CAO HỮU HIẾU Phó Ban Tài chính Kế toán Kế toán trưởng Mã
+NGUYỄN NGỌC CÁCH
+CAO HỮU HIẾU Phó Ban Tài chính Kế toán Kế toán trưởng
+Tổng Giám đốc
+Mã
+số
 Thuyết
 minh
+2024
+VND
+2023
+VND
 LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG KINH DOANH
 Lợi nhuận trước thuế
+01
+835.092.058.634
+538.530.378.468
 Điều chỉnh cho các khoản
 Khấu hao và phân bổ
+02
+786.693.122.385
+758.126.091.055
 Các khoản dự phòng
+03
 (4.396.632.673)
 (221.829.724.815)
 Lỗ chênh lệch tỷ giá do đánh giá lại các
-khoản mục tiền tệ có gốc ngoại tệ 63.304.469.469
-Lãi từ hoạt động đầu tư (729.186.337.824)
+khoản mục tiền tệ có gốc ngoại tệ
+04
+63.304.469.469
+58.843.341.358
+Lãi từ hoạt động đầu tư
+05
+(729.186.337.824)
 (846.687.924.724)
 Chi phí lãi vay
+06
+339.634.191.748
+347.746.865.398
 Lợi nhuận từ hoạt động kinh doanh trước
 những thay đổi vốn lưu động
+08
+1.291.140.871.739
+634.729.026.740
 Biến động các khoản phải thu
+09
+76.567.685.862
 (138.009.609.508)
-Biến động hàng tồn kho (84.807.000.787)
-Biến động các khoản phải trả và nợ phải trả khác 35.347.948.790
-Biến động chi phí trả trước 325.825.506
+Biến động hàng tồn kho
+10
+(84.807.000.787)
+1.176.411.741.631
+Biến động các khoản phải trả và nợ phải trả khác
+11
+35.347.948.790
+53.223.324.734
+Biến động chi phí trả trước
+12
+325.825.506
+12.801.340.767
+1.318.575.331.110
+1.739.155.824.364
 Tiền lãi vay đã trả
+14
 (371.128.972.686)
 (383.904.018.232)
 Thuế thu nhập doanh nghiệp đã nộp
+15
 (130.449.931.752)
 (100.012.767.963)
 Tiền chi khác cho hoạt động kinh doanh
+17
 (86.400.261.113)
 (65.998.445.413)
 Lưu chuyển tiền thuần từ hoạt động
 kinh doanh
+20
+730.596.165.559
+1.189.240.592.756
  BÁO CÁO THƯỜNG NIÊN 2024 - BÁO CÁO TÀI CHÍNH
 108 | TẬP ĐOÀN DỆT MAY VIỆT NAM - VINATEX
 BÁO CÁO TÀI CHÍNH  - BÁO CÁO THƯỜNG NIÊN 2024 
@@ -3291,47 +4412,109 @@ ngày 22/12/2014 của Bộ Tài chính)
 Mẫu B 03 – DN/HN
 (Ban hành theo Thông tư số 202/2014/TT-BTC
 ngày 22/12/2014 của Bộ Tài chính)
-BÁO CÁO LƯU CHUYỂN TIỀ
+BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT CHO NĂM KẾT THÚC
+NGÀY 31 THÁNG 12 NĂM 2024 (Phương pháp gián tiếp - tiếp theo)
+BÁO CÁO LƯU CHUYỂN TIỀN TỆ HỢP NHẤT CHO NĂM KẾT THÚC
+NGÀY 31 THÁNG 12 NĂM 2024 (Phương pháp gián tiếp - tiếp theo)
+Mã
+số
 Thuyết
 minh
+2024
+VND
+2023
+VND
 LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG ĐẦU TƯ
 Tiền chi mua sắm, xây dựng tài sản cố định
 và tài sản dài hạn khác
+21
 (467.534.639.674)
 (513.387.308.134)
 Tiền thu từ thanh lý, nhượng bán tài sản cố
 định và tài sản dài hạn khác
+22
+13.994.996.364
+225.077.067.271
 Tiền chi cho vay, gửi tiền gửi có kỳ hạn và
-mua trái phiếu (1.566.040.143.789)
+mua trái phiếu
+23
+(1.566.040.143.789)
 (2.268.567.357.674)
 Tiền thu hồi cho vay, rút tiền gửi có kỳ hạn và
-bán trái phiếu 1.319.377.811.720
-Tiền chi đầu tư góp vốn vào các đơn vị khác (16.997.681.887)
+bán trái phiếu
+24
+1.319.377.811.720
+2.165.979.620.101
+Tiền chi đầu tư góp vốn vào các đơn vị khác
+25
+(16.997.681.887)
 (14.400.477.234)
-Tiền thu hồi đầu tư góp vốn vào các đơn vị khác 19.761.289.994
-Tiền thu lãi cho vay, lãi tiền gửi và cổ tức 711.329.947.259
+Tiền thu hồi đầu tư góp vốn vào các đơn vị khác
+26
+19.761.289.994
+22.720.320.000
+Tiền thu lãi cho vay, lãi tiền gửi và cổ tức
+27
+711.329.947.259
+747.988.439.642
 Lưu chuyển tiền thuần từ hoạt động đầu tư
+30
+13.891.579.987
+365.410.303.972
 LƯU CHUYỂN TIỀN TỪ HOẠT ĐỘNG TÀI CHÍNH
 Tiền thu từ phát hành cổ phiếu, nhận góp
-vốn của cổ đông không kiểm soát 360.000.000
+vốn của cổ đông không kiểm soát
+31
+360.000.000
+3.969.720.000
 Tiền thu từ đi vay
-Tiền trả nợ gốc vay (11.641.239.697.781)
+33
+11.591.257.960.139
+12.108.747.250.217
+Tiền trả nợ gốc vay
+34
+(11.641.239.697.781)
 (13.090.927.399.289)
-Tiền trả cổ tức (362.318.362.583)
+Tiền trả cổ tức
+36
+(362.318.362.583)
 (528.614.873.289)
 Lưu chuyển tiền thuần từ hoạt động
 tài chính
+40
 (411.940.100.225)
 (1.506.825.302.361)
+Mã
+số
 Thuyết
 minh
+2024
+VND
+2023
+VND
 Lưu chuyển tiền thuần trong năm
 (50 = 20 + 30 + 40)
+50
+332.547.645.321
+47.825.594.367
 Tiền và các khoản tương đương tiền
 đầu năm
+60
+668.657.670.914
+615.868.535.508
 Ảnh hưởng của thay đổi tỷ giá hối đoái
 quy đổi ngoại tệ
+61
+3.400.220.763
+4.963.541.039
 Tiền và các khoản tương đương tiền cuối
-năm (70 = 50 + 60 + 61) 1.004.605.536.998 Người lập:
+năm (70 = 50 + 60 + 61)
+70
+6
+1.004.605.536.998
+668.657.670.914
+Ngày 31 tháng 3 năm 2025 Người lập:
 Người duyệt: NGUYỄN THỊ NGA
+NGUYỄN NGỌC CÁCH
 CAO HỮU HIẾU Phó Ban Tài chính Kế toán Kế toán trưởng
+Tổng Giám đốc
