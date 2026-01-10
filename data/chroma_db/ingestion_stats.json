@@ -1,0 +1,336 @@
+{
+  "total_files": 54,
+  "successful": 54,
+  "failed": 0,
+  "skipped": 0,
+  "total_chunks": 15277,
+  "start_time": "2026-01-07T23:38:41.892709",
+  "details": [
+    {
+      "status": "success",
+      "filename": "42-51Rrijm20230803007.txt",
+      "chunks": 66,
+      "total_chars": 28321
+    },
+    {
+      "status": "success",
+      "filename": "4528-133-10412-1-10-20250331.txt",
+      "chunks": 88,
+      "total_chars": 39404
+    },
+    {
+      "status": "success",
+      "filename": "BaoCaoCuaIfcWorldBankVeXanhHoaNganhDetMayVietNam.txt",
+      "chunks": 425,
+      "total_chars": 191595
+    },
+    {
+      "status": "success",
+      "filename": "BioconfSagegrace202502006.txt",
+      "chunks": 76,
+      "total_chars": 32150
+    },
+    {
+      "status": "success",
+      "filename": "Border-carbon-adjustments-vietnam.txt",
+      "chunks": 236,
+      "total_chars": 100569
+    },
+    {
+      "status": "success",
+      "filename": "CbamQuestionsAndAnswers.txt",
+      "chunks": 324,
+      "total_chars": 140369
+    },
+    {
+      "status": "success",
+      "filename": "CommissionImplementingRegulationEu20231773.txt",
+      "chunks": 590,
+      "total_chars": 254323
+    },
+    {
+      "status": "success",
+      "filename": "DefaultValuesTransitionalPeriod.txt",
+      "chunks": 85,
+      "total_chars": 36419
+    },
+    {
+      "status": "success",
+      "filename": "Deloitte-nl-tax-cbam-compliance-managerTwo-pager.txt",
+      "chunks": 8,
+      "total_chars": 3271
+    },
+    {
+      "status": "success",
+      "filename": "EuCarbonBorderAdjustmentMechanismCbamDeloitte.txt",
+      "chunks": 24,
+      "total_chars": 10144
+    },
+    {
+      "status": "success",
+      "filename": "FdiExportTargetsToPropelSustainability.txt",
+      "chunks": 31,
+      "total_chars": 13276
+    },
+    {
+      "status": "success",
+      "filename": "Greening-textile-industry-in-vietnam-5922q9q6cg.txt",
+      "chunks": 1619,
+      "total_chars": 698508
+    },
+    {
+      "status": "success",
+      "filename": "GreeningTextileSectorInVietnamWwf.txt",
+      "chunks": 258,
+      "total_chars": 116287
+    },
+    {
+      "status": "success",
+      "filename": "GreeningTextileSectorInVietnamWwfEng.txt",
+      "chunks": 268,
+      "total_chars": 114068
+    },
+    {
+      "status": "success",
+      "filename": "GreeningVietNamsTextileAndGarment.txt",
+      "chunks": 27,
+      "total_chars": 11367
+    },
+    {
+      "status": "success",
+      "filename": "GuidanceDocumentOnCbamImplementationForImportersOfGoodsIntoTheEu.txt",
+      "chunks": 456,
+      "total_chars": 196453
+    },
+    {
+      "status": "success",
+      "filename": "GuidanceDocumentOnCbamImplementationForInstallationOperatorsOutsideTheEu.txt",
+      "chunks": 1304,
+      "total_chars": 563074
+    },
+    {
+      "status": "success",
+      "filename": "HowDoesCbamImpactSoutheastAsianEconomies.txt",
+      "chunks": 22,
+      "total_chars": 9255
+    },
+    {
+      "status": "success",
+      "filename": "IfcSustainabilityReportForTextileSector.txt",
+      "chunks": 76,
+      "total_chars": 31944
+    },
+    {
+      "status": "success",
+      "filename": "ImplementingRegulationEu20243210.txt",
+      "chunks": 75,
+      "total_chars": 31860
+    },
+    {
+      "status": "success",
+      "filename": "ImplementingRegulationEu2025486.txt",
+      "chunks": 105,
+      "total_chars": 45475
+    },
+    {
+      "status": "success",
+      "filename": "KpmgCbamReportPdf.txt",
+      "chunks": 16,
+      "total_chars": 7004
+    },
+    {
+      "status": "success",
+      "filename": "LuatBaoVeMoiTruong2020.txt",
+      "chunks": 674,
+      "total_chars": 302552
+    },
+    {
+      "status": "success",
+      "filename": "MappingExistingPoliciesInitiatives.txt",
+      "chunks": 42,
+      "total_chars": 18074
+    },
+    {
+      "status": "success",
+      "filename": "NghiDinh062022Nd-cp.txt",
+      "chunks": 263,
+      "total_chars": 118677
+    },
+    {
+      "status": "success",
+      "filename": "NghiDinh082022Nd-cp.txt",
+      "chunks": 1117,
+      "total_chars": 505861
+    },
+    {
+      "status": "success",
+      "filename": "NghiDinh452022Ndcp.txt",
+      "chunks": 894,
+      "total_chars": 402208
+    },
+    {
+      "status": "success",
+      "filename": "ProposalToSimplifyCbam-OmnibusI.txt",
+      "chunks": 342,
+      "total_chars": 147410
+    },
+    {
+      "status": "success",
+      "filename": "ProposalToSimplifyCbam-OmnibusIi.txt",
+      "chunks": 245,
+      "total_chars": 105466
+    },
+    {
+      "status": "success",
+      "filename": "QuyetDinh012022Qd-ttg.txt",
+      "chunks": 547,
+      "total_chars": 247983
+    },
+    {
+      "status": "success",
+      "filename": "QuyetDinh1055Qd-ttg.txt",
+      "chunks": 155,
+      "total_chars": 69817
+    },
+    {
+      "status": "success",
+      "filename": "QuyetDinh148Qdttg.txt",
+      "chunks": 67,
+      "total_chars": 30223
+    },
+    {
+      "status": "success",
+      "filename": "QuyetDinh1658Qd-ttg.txt",
+      "chunks": 107,
+      "total_chars": 48116
+    },
+    {
+      "status": "success",
+      "filename": "QuyetDinh1973Qdttg.txt",
+      "chunks": 45,
+      "total_chars": 20290
+    },
+    {
+      "status": "success",
+      "filename": "QuyetDinh232Qdttg.txt",
+      "chunks": 77,
+      "total_chars": 34717
+    },
+    {
+      "status": "success",
+      "filename": "QuyetDinh450Qdttg.txt",
+      "chunks": 108,
+      "total_chars": 48562
+    },
+    {
+      "status": "success",
+      "filename": "QuyetDinh888Qdttg.txt",
+      "chunks": 84,
+      "total_chars": 37897
+    },
+    {
+      "status": "success",
+      "filename": "QuyetDinh896Qd-ttg.txt",
+      "chunks": 122,
+      "total_chars": 54852
+    },
+    {
+      "status": "success",
+      "filename": "RegulationEu2023956.txt",
+      "chunks": 399,
+      "total_chars": 172663
+    },
+    {
+      "status": "success",
+      "filename": "RegulationEu20252083.txt",
+      "chunks": 195,
+      "total_chars": 83991
+    },
+    {
+      "status": "success",
+      "filename": "StaffWorkingDocumentAccompanyingTheDocumentCom202587.txt",
+      "chunks": 254,
+      "total_chars": 109777
+    },
+    {
+      "status": "success",
+      "filename": "SustainableDevelopmentOfTextileAndApparelSupplyChain.txt",
+      "chunks": 85,
+      "total_chars": 36271
+    },
+    {
+      "status": "success",
+      "filename": "TheGreenRevolutionEsg.txt",
+      "chunks": 36,
+      "total_chars": 15165
+    },
+    {
+      "status": "success",
+      "filename": "ThongTu012022Tt-btnmt.txt",
+      "chunks": 177,
+      "total_chars": 78889
+    },
+    {
+      "status": "success",
+      "filename": "ThongTu022022Tt-btnmt.txt",
+      "chunks": 139,
+      "total_chars": 62917
+    },
+    {
+      "status": "success",
+      "filename": "ThongTu172022Tt-btnmt.txt",
+      "chunks": 316,
+      "total_chars": 142930
+    },
+    {
+      "status": "success",
+      "filename": "TowardsIndustry50ChallengesForThe.txt",
+      "chunks": 165,
+      "total_chars": 71199
+    },
+    {
+      "status": "success",
+      "filename": "TransitionFromIndustry40ToIndustrRecentAdvancesAndFutureProspects.txt",
+      "chunks": 415,
+      "total_chars": 176551
+    },
+    {
+      "status": "success",
+      "filename": "Vgt.txt",
+      "chunks": 303,
+      "total_chars": 136879
+    },
+    {
+      "status": "success",
+      "filename": "Vgt2.txt",
+      "chunks": 294,
+      "total_chars": 125701
+    },
+    {
+      "status": "success",
+      "filename": "VgtBaocaothuongnien2022.txt",
+      "chunks": 527,
+      "total_chars": 235749
+    },
+    {
+      "status": "success",
+      "filename": "VgtBaocaothuongnien2023.txt",
+      "chunks": 229,
+      "total_chars": 103192
+    },
+    {
+      "status": "success",
+      "filename": "Vietnams-textile-and-garment-sectorPub.txt",
+      "chunks": 669,
+      "total_chars": 283731
+    },
+    {
+      "status": "success",
+      "filename": "VietnamsGarment-textile.txt",
+      "chunks": 6,
+      "total_chars": 2418
+    }
+  ],
+  "end_time": "2026-01-07T23:47:20.538679",
+  "total_documents_in_db": 15277
+}

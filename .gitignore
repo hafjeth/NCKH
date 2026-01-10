@@ -1,21 +1,20 @@
-# Environment variables
+# Bỏ qua file môi trường chứa Key mật
 .env
 
-# Python
-__pycache__/
-*.pyc
+
+
+# Bỏ qua folder môi trường ảo (nếu có)
+env/
+.venv/
 
 # Virtual environments
-venv/
 venv311/
-.venv/
-env/
 src/venv/
 src/venv311/
 
-# Databases / vector stores
-data/chroma_db/
-*.sqlite3
+# Python cache
+__pycache__/
+*.pyc
 
 # OS
 .DS_Store
