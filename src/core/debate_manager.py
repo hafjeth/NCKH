@@ -1,104 +1,161 @@
 import logging
+import time
 import os
+import sys
 from typing import List
 from src.core.agent_base import BaseAgent
+from src.core.moderator import ModeratorAgent
 
+# --- CẤU HÌNH LOGGER ---
+logger = logging.getLogger(__name__)
+
+# --- 1. KIỂM TRA MODULE PERSONAS (BẮT BUỘC) ---
+try:
+    from src.knowledge.personas import PersonaManager, PersonaType
+except ImportError:
+    logger.critical("❌ LỖI NGHIÊM TRỌNG: Không tìm thấy module 'src.knowledge.personas'.")
+    logger.critical("👉 Vui lòng kiểm tra lại file personas.py.")
+    sys.exit(1)
+
+# --- 2. KIỂM TRA MODULE RAG (BẮT BUỘC) ---
 try:
     from src.knowledge.retrieval import RetrievalSystem
-    RAG_AVAILABLE = True
 except ImportError:
-    print("[WARNING] Could not import RetrievalSystem. Running in NO-RAG mode.")
-    RAG_AVAILABLE = False
-
-logger = logging.getLogger(__name__)
+    logger.critical("❌ LỖI NGHIÊM TRỌNG: Không tìm thấy module 'src.knowledge.retrieval'.")
+    sys.exit(1)
 
 class DebateManager:
     def __init__(self):
         self.debate_history: List[str] = []
         self.agents: List[BaseAgent] = []
+        self.moderator = None
         self.retriever = None
+        self.persona_manager = PersonaManager()
 
-        if RAG_AVAILABLE:
-            try:
-                logger.info("Initializing RAG System...")
-                
-                # Calculate absolute path for database
-                current_dir = os.path.dirname(os.path.abspath(__file__))
-                project_root = os.path.dirname(os.path.dirname(current_dir))
-                db_path = os.path.join(project_root, "data", "chroma_db")
-                
-                self.retriever = RetrievalSystem(
-                    chroma_db_dir=db_path,
-                    collection_name="knowledge_base",
-                    top_k=3
-                )
-                logger.info("RAG System ready.")
-            except Exception as e:
-                logger.error(f"Error initializing RAG: {e}")
+        # --- KHỞI TẠO RAG (CHẾ ĐỘ NGHIÊM NGẶT) ---
+        try:
+            # Tính toán đường dẫn đến data/chroma_db
+            current_file = os.path.abspath(__file__)
+            project_root = os.path.dirname(os.path.dirname(os.path.dirname(current_file)))
+            db_path = os.path.join(project_root, "data", "chroma_db")
+            
+            logger.info(f"🔌 Đang kết nối RAG tại: {db_path}")
+            
+            # Kiểm tra xem thư mục DB có tồn tại không
+            if not os.path.exists(db_path) or not os.listdir(db_path):
+                raise FileNotFoundError(f"Thư mục Database trống hoặc không tồn tại: {db_path}")
+
+            self.retriever = RetrievalSystem(
+                chroma_db_dir=db_path,
+                collection_name="knowledge_base",
+                top_k=3
+            )
+            logger.info("✅ KẾT NỐI RAG THÀNH CÔNG.")
+            
+        except Exception as e:
+            logger.critical("\n" + "="*50)
+            logger.critical("⛔ KHÔNG THỂ KHỞI ĐỘNG HỆ THỐNG VÌ LỖI RAG!")
+            logger.critical(f"Lỗi chi tiết: {e}")
+            logger.critical("👉 HƯỚNG DẪN FIX: Hãy xóa thư mục 'data/chroma_db' và chạy lại 'python src/knowledge/ingestion.py'")
+            logger.critical("="*50 + "\n")
+            sys.exit(1) # Dừng chương trình ngay lập tức
+
+    def _get_persona_prompt(self, p_type):
+        """Lấy system prompt từ PersonaManager"""
+        raw = self.persona_manager.get_system_prompt(p_type)
+        return raw.replace("{context}", "").replace("{question}", "")
 
     def setup_agents(self):
-        # Agent 1: Expert (Uses RAG)
-        agent_expert = BaseAgent(
-            name="ChuyenGia_PhapLy",
-            role="Bạn là chuyên gia pháp lý môi trường. Hãy tranh luận dựa trên văn bản luật, nghị định 06, 45 và dữ liệu CBAM. Luôn trích dẫn cụ thể.",
-            retriever=self.retriever
+        self.moderator = ModeratorAgent()
+
+        # --- AGENT 1: CHÍNH PHỦ (Cần RAG) ---
+        agent_gov = BaseAgent(
+            name="DaiDien_BoTNMT",
+            role=self._get_persona_prompt(PersonaType.GOVERNMENT),
+            retriever=self.retriever # Bắt buộc có RAG
         )
 
-        # Agent 2: Business (No RAG)
-        agent_business = BaseAgent(
-            name="DoanhNghiep_DetMay",
-            role="Bạn là chủ doanh nghiệp dệt may. Bạn lo lắng về chi phí kiểm kê và thuế suất cao. Hãy phản biện gay gắt về tính khả thi.",
-            retriever=None
+        # --- AGENT 2: DOANH NGHIỆP (Thực tế) ---
+        agent_biz = BaseAgent(
+            name="HiepHoi_DetMay",
+            role=self._get_persona_prompt(PersonaType.ENTERPRISE),
+            retriever=None 
         )
 
-        self.agents = [agent_expert, agent_business]
-        logger.info(f"Agents setup complete. Total: {len(self.agents)}")
+        # --- AGENT 3: NGO / CHUYÊN GIA (Cần RAG) ---
+        agent_ngo = BaseAgent(
+            name="ChuyenGia_KinhTe",
+            role=self._get_persona_prompt(PersonaType.NGO),
+            retriever=self.retriever # Bắt buộc có RAG
+        )
+
+        self.agents = [agent_gov, agent_biz, agent_ngo]
+        logger.info(f"✅ Đã thiết lập 3 Agents: Chính phủ, Doanh nghiệp, NGO.")
 
     def construct_prompt(self, current_agent_name: str, current_agent_role: str, topic: str) -> str:
-        if not self.debate_history:
-            return (
-                f"CHỦ ĐỀ TRANH LUẬN: {topic}\n"
-                f"NHIỆM VỤ: Bạn là người mở đầu. Hãy trình bày quan điểm cốt lõi dựa trên vai trò: {current_agent_role}.\n"
-                f"YÊU CẦU: Đưa ra ít nhất 2 luận điểm chính kèm số liệu hoặc dẫn chứng."
-            )
-        
-        history_str = "\n".join(self.debate_history)
-        
-        prompt = (
-            f"CHỦ ĐỀ GỐC: {topic}\n\n"
-            f"--- DIỄN BIẾN TRANH LUẬN ---\n"
-            f"{history_str}\n"
-            f"-----------------------------\n\n"
-            f"Đến lượt bạn: {current_agent_name}\n"
-            f"Vai trò: {current_agent_role}\n\n"
-            f"NHIỆM VỤ PHẢN BIỆN:\n"
-            f"1. TÓM TẮT: Đối phương vừa nói gì?\n"
-            f"2. PHẢN BÁC: Tìm điểm yếu trong lập luận đó (chi phí, tính pháp lý, thực tế).\n"
-            f"3. BẢO VỆ: Đưa ra luận điểm của phe mình.\n\n"
-            f"QUY TẮC:\n"
-            f"- KHÔNG dùng từ sáo rỗng.\n"
-            f"- Tranh luận trực diện, gay gắt nhưng logic."
+        history_excerpt = "\n".join(self.debate_history[-3:])
+        return (
+            f"CHỦ ĐỀ: {topic}\n"
+            f"LỊCH SỬ GẦN NHẤT:\n{history_excerpt}\n\n"
+            f"VAI TRÒ: {current_agent_role}\n"
+            f"NHIỆM VỤ: Phản biện ngắn gọn, tập trung vào số liệu và dẫn chứng."
         )
-        return prompt
 
-    def run_round(self, topic: str, max_rounds: int = 1):
-        print(f"\n=== BẮT ĐẦU TRANH LUẬN: {topic} ===\n")
+    def run_round(self, topic: str, max_rounds: int = 2):
+        print(f"\n=== BẮT ĐẦU TỌA ĐÀM: {topic} ===\n")
+        if not self.agents: self.setup_agents()
+
+        # MC mở màn
+        print("🎙️ [MC] Đang khai mạc...")
+        mc_intro = self.moderator.chat(f"Chủ đề: '{topic}'. Giới thiệu ngắn 3 bên tham gia.")
+        print(f"-> MC: {mc_intro}\n")
+        self.debate_history.append(f"[MC]: {mc_intro}")
+        time.sleep(5)
+
+        should_continue = True
+        round_count = 1
         
-        if not self.agents:
-            self.setup_agents()
-
-        for round_num in range(1, max_rounds + 1):
-            print(f"--- VÒNG {round_num} ---")
+        while round_count <= max_rounds and should_continue:
+            print(f"--- VÒNG {round_count} ---")
             
-            for agent in self.agents:
+            for i, agent in enumerate(self.agents):
+                # 1. Agent phát biểu
                 prompt = self.construct_prompt(agent.name, agent.role, topic)
+                print(f"🤔 [{agent.name}] đang suy nghĩ...")
+                
                 response = agent.chat(prompt)
                 
-                formatted_response = f"[{agent.name}]: {response}"
-                self.debate_history.append(formatted_response)
+                print(f"🗣️ {agent.name}: {response}\n")
+                self.debate_history.append(f"[{agent.name}]: {response}")
                 
-                print(f"-> {agent.name} đã trả lời.") 
-                print(f"{formatted_response}\n")
+                # --- QUAN TRỌNG: CHỜ 20S ĐỂ KHÔNG BỊ KHÓA API ---
+                print("⏳ Đang nghỉ 20s để hồi phục API Gemini...")
+                time.sleep(20)
+
+                # 2. MC điều phối
+                next_idx = (i + 1) % len(self.agents)
+                next_name = self.agents[next_idx].name
+                is_last_turn = (round_count == max_rounds) and (i == len(self.agents) - 1)
                 
-        print("\n=== KẾT THÚC TRANH LUẬN ===")
+                print(f"🎙️ [MC] Đang điều phối...")
+                mc_resp = self.moderator.moderate(
+                    last_speaker=agent.name,
+                    last_message=response,
+                    next_speaker=next_name,
+                    current_round=max_rounds + 1 if is_last_turn else round_count,
+                    max_rounds=max_rounds
+                )
+                
+                print(f"-> MC: {mc_resp}\n")
+                self.debate_history.append(f"[MC]: {mc_resp}")
+
+                if "KẾT THÚC" in mc_resp.upper():
+                    should_continue = False
+                    break
+                
+                time.sleep(5)
+            
+            round_count += 1
+            
+        print("\n=== KẾT THÚC ===")
         return self.debate_history
