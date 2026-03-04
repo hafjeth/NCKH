@@ -1,104 +1,255 @@
-import logging
-import os
-from typing import List
-from src.core.agent_base import BaseAgent
+"""
+Debate Manager (Research-Grade Version)
+======================================
+Multi-agent academic debate controller for policy analysis
 
-try:
-    from src.knowledge.retrieval import RetrievalSystem
-    RAG_AVAILABLE = True
-except ImportError:
-    print("[WARNING] Could not import RetrievalSystem. Running in NO-RAG mode.")
-    RAG_AVAILABLE = False
+Agents:
+- Government Agent (Policy authority)
+- Business Agent (Industry representative)
+- Expert Agent (Independent analytical synthesis ONLY)
+- Moderator Agent (Neutral academic controller)
+"""
+
+import sys
+import logging
+from pathlib import Path
+from typing import List, Tuple, Optional
+
+# ======================================================
+# PATH SETUP
+# ======================================================
+PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
+
+# ======================================================
+# IMPORTS
+# ======================================================
+from src.core.base_agent import BaseAgent
+from src.core.moderator import ModeratorAgent
+from src.knowledge.personas import AGENT_PERSONAS
+from src.knowledge.retrieval import KnowledgeRetriever
 
 logger = logging.getLogger(__name__)
 
+
 class DebateManager:
+    """
+    Academic multi-agent debate orchestrator
+
+    Debate pipeline:
+    1. Government ↔ Business debate
+    2. Expert analytical synthesis (NO advocacy)
+    3. Moderator academic summary
+    """
+
     def __init__(self):
-        self.debate_history: List[str] = []
-        self.agents: List[BaseAgent] = []
-        self.retriever = None
+        self.debate_history: List[dict] = []
 
-        if RAG_AVAILABLE:
-            try:
-                logger.info("Initializing RAG System...")
-                
-                # Calculate absolute path for database
-                current_dir = os.path.dirname(os.path.abspath(__file__))
-                project_root = os.path.dirname(os.path.dirname(current_dir))
-                db_path = os.path.join(project_root, "data", "chroma_db")
-                
-                self.retriever = RetrievalSystem(
-                    chroma_db_dir=db_path,
-                    collection_name="knowledge_base",
-                    top_k=3
-                )
-                logger.info("RAG System ready.")
-            except Exception as e:
-                logger.error(f"Error initializing RAG: {e}")
+        self.government_agent: Optional[BaseAgent] = None
+        self.business_agent: Optional[BaseAgent] = None
+        self.expert_agent: Optional[BaseAgent] = None
+        self.moderator: Optional[ModeratorAgent] = None
 
+        self.retriever = KnowledgeRetriever()
+
+    # ======================================================
+    # AGENT SETUP
+    # ======================================================
     def setup_agents(self):
-        # Agent 1: Expert (Uses RAG)
-        agent_expert = BaseAgent(
-            name="ChuyenGia_PhapLy",
-            role="Bạn là chuyên gia pháp lý môi trường. Hãy tranh luận dựa trên văn bản luật, nghị định 06, 45 và dữ liệu CBAM. Luôn trích dẫn cụ thể.",
-            retriever=self.retriever
-        )
+        """Initialize agents from personas"""
 
-        # Agent 2: Business (No RAG)
-        agent_business = BaseAgent(
-            name="DoanhNghiep_DetMay",
-            role="Bạn là chủ doanh nghiệp dệt may. Bạn lo lắng về chi phí kiểm kê và thuế suất cao. Hãy phản biện gay gắt về tính khả thi.",
-            retriever=None
-        )
-
-        self.agents = [agent_expert, agent_business]
-        logger.info(f"Agents setup complete. Total: {len(self.agents)}")
-
-    def construct_prompt(self, current_agent_name: str, current_agent_role: str, topic: str) -> str:
-        if not self.debate_history:
-            return (
-                f"CHỦ ĐỀ TRANH LUẬN: {topic}\n"
-                f"NHIỆM VỤ: Bạn là người mở đầu. Hãy trình bày quan điểm cốt lõi dựa trên vai trò: {current_agent_role}.\n"
-                f"YÊU CẦU: Đưa ra ít nhất 2 luận điểm chính kèm số liệu hoặc dẫn chứng."
+        def build_agent(key):
+            p = AGENT_PERSONAS[key]
+            return BaseAgent(
+                name=p["agent_name"],
+                role=self._build_role_prompt(p),
+                retriever=self.retriever
             )
-        
-        history_str = "\n".join(self.debate_history)
-        
-        prompt = (
-            f"CHỦ ĐỀ GỐC: {topic}\n\n"
-            f"--- DIỄN BIẾN TRANH LUẬN ---\n"
-            f"{history_str}\n"
-            f"-----------------------------\n\n"
-            f"Đến lượt bạn: {current_agent_name}\n"
-            f"Vai trò: {current_agent_role}\n\n"
-            f"NHIỆM VỤ PHẢN BIỆN:\n"
-            f"1. TÓM TẮT: Đối phương vừa nói gì?\n"
-            f"2. PHẢN BÁC: Tìm điểm yếu trong lập luận đó (chi phí, tính pháp lý, thực tế).\n"
-            f"3. BẢO VỆ: Đưa ra luận điểm của phe mình.\n\n"
-            f"QUY TẮC:\n"
-            f"- KHÔNG dùng từ sáo rỗng.\n"
-            f"- Tranh luận trực diện, gay gắt nhưng logic."
-        )
-        return prompt
 
-    def run_round(self, topic: str, max_rounds: int = 1):
-        print(f"\n=== BẮT ĐẦU TRANH LUẬN: {topic} ===\n")
-        
-        if not self.agents:
+        self.government_agent = build_agent("government")
+        self.business_agent = build_agent("business")
+        self.expert_agent = build_agent("expert")
+
+        self.moderator = ModeratorAgent(
+            name="Moderator",
+            max_rounds=3
+        )
+
+        logger.info("Agents initialized successfully")
+
+    def _build_role_prompt(self, persona: dict) -> str:
+        def fmt(items):
+            return "\n".join(f"- {i}" for i in items)
+
+        return f"""
+{persona['role_description']}
+
+REPRESENTED ENTITY:
+{persona['represented_entity']}
+
+CORE OBJECTIVES:
+{fmt(persona['core_objectives'])}
+
+POLICY PRIORITIES:
+{fmt(persona['policy_priorities'])}
+
+CONSTRAINTS:
+{fmt(persona['constraints_and_challenges'])}
+
+REASONING STYLE:
+{persona['reasoning_style']}
+
+{persona['response_guidelines']}
+""".strip()
+
+    # ======================================================
+    # DEBATE PROMPT
+    # ======================================================
+    def build_debate_prompt(self, agent_name, topic, is_first_turn, recent_history):
+        if is_first_turn:
+            return f"""
+DEBATE TOPIC:
+{topic}
+
+You are {agent_name}.
+Present your initial position.
+
+Requirements:
+- 2–3 core arguments
+- Evidence-based reasoning
+- Academic tone
+- 150–200 words
+"""
+
+        history_text = "\n".join(h["content"] for h in recent_history)
+
+        return f"""
+DEBATE TOPIC:
+{topic}
+
+RECENT DISCUSSION:
+{history_text}
+
+YOUR TASK ({agent_name}):
+1. Briefly summarize previous arguments (1–2 sentences)
+2. Respond or counter-argue from your perspective
+3. Add new analytical insights if relevant
+
+Requirements:
+- Academic tone
+- Evidence-based
+- 150–200 words
+"""
+
+    # ======================================================
+    # EXPERT SYNTHESIS (CORE FIX)
+    # ======================================================
+    def expert_synthesis(self, topic: str) -> str:
+        """
+        Independent analytical synthesis of debate
+        (NO policy advocacy)
+        """
+
+        gov_views = [h["content"] for h in self.debate_history if h["agent"] == "Government"]
+        biz_views = [h["content"] for h in self.debate_history if h["agent"] == "Business"]
+
+        prompt = f"""
+You are an INDEPENDENT POLICY ANALYST.
+
+TASK:
+1. Summarize the Government's position
+2. Summarize the Business sector's position
+3. Compare the two perspectives
+4. Identify:
+   - Key trade-offs
+   - Areas of consensus
+   - Core disagreements
+
+IMPORTANT RULES:
+- DO NOT propose new policies
+- DO NOT take sides
+- DO NOT introduce external arguments
+- ONLY synthesize what was debated
+
+DEBATE TOPIC:
+{topic}
+
+GOVERNMENT ARGUMENTS:
+{" ".join(gov_views)}
+
+BUSINESS ARGUMENTS:
+{" ".join(biz_views)}
+
+OUTPUT:
+- Structured academic analysis
+- Neutral tone
+- 250–350 words
+"""
+
+        return self.expert_agent.chat(prompt)
+
+    # ======================================================
+    # RUN FULL DEBATE
+    # ======================================================
+    def run_debate(self, topic: str, max_rounds: int = 2) -> Tuple[str, List[dict]]:
+
+        if not all([self.government_agent, self.business_agent, self.expert_agent, self.moderator]):
             self.setup_agents()
 
+        logger.info(f"Starting debate on: {topic}")
+
+        agents = [self.government_agent, self.business_agent]
+
         for round_num in range(1, max_rounds + 1):
-            print(f"--- VÒNG {round_num} ---")
-            
-            for agent in self.agents:
-                prompt = self.construct_prompt(agent.name, agent.role, topic)
+            for idx, agent in enumerate(agents):
+                prompt = self.build_debate_prompt(
+                    agent.name,
+                    topic,
+                    is_first_turn=(round_num == 1 and idx == 0),
+                    recent_history=self.debate_history[-4:]
+                )
+
                 response = agent.chat(prompt)
-                
-                formatted_response = f"[{agent.name}]: {response}"
-                self.debate_history.append(formatted_response)
-                
-                print(f"-> {agent.name} đã trả lời.") 
-                print(f"{formatted_response}\n")
-                
-        print("\n=== KẾT THÚC TRANH LUẬN ===")
-        return self.debate_history
+                self.debate_history.append({
+                    "round": round_num,
+                    "agent": agent.name,
+                    "content": response
+                })
+
+            if round_num < max_rounds:
+                last = self.debate_history[-1]
+                mod_text, _ = self.moderator.moderate(
+                    last_speaker=last["agent"],
+                    last_content=last["content"],
+                    round_num=round_num,
+                    debate_history=[h["content"] for h in self.debate_history]
+                )
+                self.debate_history.append({
+                    "round": round_num,
+                    "agent": "Moderator",
+                    "content": mod_text
+                })
+
+        # Expert synthesis
+        expert_text = self.expert_synthesis(topic)
+        self.debate_history.append({
+            "round": "post",
+            "agent": "Expert",
+            "content": expert_text
+        })
+
+        # Moderator final summary
+        final_summary = self.moderator.summarize_debate(
+            [h["content"] for h in self.debate_history]
+        )
+
+        self.debate_history.append({
+            "round": "final",
+            "agent": "Moderator",
+            "content": final_summary
+        })
+
+        logger.info("Debate pipeline completed")
+
+        return expert_text, self.debate_history

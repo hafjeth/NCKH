@@ -1,21 +1,44 @@
-# Bỏ qua file môi trường chứa Key mật
-.env
-
-
-
-# Bỏ qua folder môi trường ảo (nếu có)
-env/
-.venv/
-
-# Virtual environments
-venv311/
-src/venv/
-src/venv311/
-
-# Python cache
+﻿# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.class
+*.so
+.Python
+venv/
+venv310/
+env/
+ENV/
+
+# Data
+data/raw/
+data/intermediate/
+data/processed/
+data/vector_stores/
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+
+# Temp
+temp_images/
+*.tmp
 
 # OS
 .DS_Store
 Thumbs.db
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Docker
+docker-compose.override.yml

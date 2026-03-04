@@ -1,0 +1,20 @@
+﻿models:
+  claude:
+    name: 'claude-sonnet-4-20250514'
+    max_tokens: 4096
+    temperature: 0.7
+  
+  embeddings:
+    name: 'text-embedding-3-small'
+    dimensions: 1536
+
+agents:
+  legal_agent:
+    model: 'claude-sonnet-4-20250514'
+    temperature: 0.3
+    max_tokens: 2048
+  
+  business_agent:
+    model: 'claude-sonnet-4-20250514'
+    temperature: 0.5
+    max_tokens: 2048

@@ -1,0 +1,27 @@
+﻿pdf_processing:
+  ocr:
+    language: 'vie+eng'
+    dpi: 300
+  
+  quality_threshold: 0.8
+  
+  normalization:
+    remove_extra_spaces: true
+    fix_encoding: true
+
+chunking:
+  business:
+    chunk_size: 1000
+    chunk_overlap: 200
+  
+  legal:
+    chunk_size: 800
+    chunk_overlap: 150
+  
+  semantic:
+    similarity_threshold: 0.85
+
+retrieval:
+  top_k: 5
+  similarity_threshold: 0.7
+  use_reranking: true

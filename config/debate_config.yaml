@@ -1,0 +1,14 @@
+debate:
+  name: "Carbon Tax Policy Debate for Vietnam Textile Industry"
+  description: >
+    Multi-agent structured debate analyzing the impacts of carbon tax policy
+    on Vietnam's textile and garment industry, balancing environmental goals
+    and economic competitiveness.
+
+  rounds: 3
+  language: "vi"
+  turn_order:
+    - government
+    - enterprise
+
+  output_format: "json"
