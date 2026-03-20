@@ -1,0 +1,3601 @@
+{
+  "instructions": {
+    "legal": {
+      "human_clause_type": "Chon 1: obligation|definition|prohibition|permission|procedure|condition|responsibility|sanction|general",
+      "human_subjects": "Chon nhieu: state_agency|enterprise|organization|individual|household|producer|importer|unspecified",
+      "human_domains": "Chon nhieu: water|air|waste|plastic|emission|environmental_permit|EIA|recycling|general_environment"
+    },
+    "business": {
+      "human_stance": "Chon 1: concern|support|neutral",
+      "human_focus": "Chon nhieu: cost|compliance|competitiveness|risk|opportunity",
+      "human_cbam_relevance": "true neu lien quan CBAM, false neu khong"
+    },
+    "note": "Dien nhan vao cac truong human_*. Giu nguyen auto_*. Chi can dien 50 mau."
+  },
+  "legal_samples": [
+    {
+      "id": "legal_1309",
+      "type": "legal",
+      "text": "Tổ chức vận hành thị trường các-bon\nBộ Tài nguyên và Môi trường chủ trì, phối hợp với Bộ Tài chính, Bộ Nông nghiệp và Phát triển nông thôn, Bộ Xây dựng, Bộ Công Thuong, Bộ Giao thông vận tải và các bộ, ngành, cơ quan có liên quan tô chức vận hành thị trường các-bon trong nước, đảm bảo không dé phát triển tự do, tự phát, gây thất thoát tài nguyên, tài sản của Nhà nước, ảnh hưởng đến an ninh quốc gia, trật tự xã hội.\nNhiệm vụ quản lý nhà nước đối với thị trường các-bon của Bộ Tài nguyên và Môi trư",
+      "source_file": "Quyết định 232 QĐ‑TTg.txt",
+      "article": 6,
+      "clause": 5,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency",
+        "organization"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0228",
+      "type": "legal",
+      "text": "Nội dung đăng ký\na) Lĩnh vực sử dụng chất được kiểm soát:\nFˆ Sản xuất chất được kiểm soát;\nš Nhập khẩu chất được kiểm soát;\n™ Xuất khẩu chất được kiểm soát;\nLˆ Sản xuất thiết bị, sản phẩm có chứa hoặc sản xuất từ chất được kiểm soát;\nFˆ Nhập khẩu thiết bị, sản phẩm có chứa hoặc sản xuất từ chất được kiểm soát;\n` Sở hữu máy điều hòa không khí có năng suất lạnh danh định lớn hơn 26,5 kW (90.000 BTU/h) và có tông năng suat lạnh danh định của các thiết bị lớn hơn 586kW (2.000.000 BTU/h);\n\n3 :\nrc Sở ",
+      "source_file": "Nghị định 06 2022 NĐ-CP.txt",
+      "article": 35,
+      "clause": 2,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency",
+        "importer"
+      ],
+      "auto_domains": [
+        "air"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0051",
+      "type": "legal",
+      "text": "Chất ô nhiễm tác động trực tiếp đến sức khỏe con người phải được quản lý như sau:\na) Nhận diện, đánh giá, cảnh báo, phòng ngừa và kiếm soát chất ô nhiễm | có khả năng tác động đến sức khỏe con người; các van đề về bệnh tật và sức khỏe con người có liên quan trực tiếp đến chất ô nhiém; _\n\n‹ 33 b) Kiểm soát và xử lý từ nguồn phát sinh đối với chất ô nhiễm có tác động đến sức khỏe con người và vấn đề về bệnh tật được xác định có nguyên nhân trực tiếp từ chat 6 nhiễm;\nc) Quản lý, chia sẻ, công bé th",
+      "source_file": "Luật Bảo vệ Môi trường 2020.txt",
+      "article": 62,
+      "clause": 3,
+      "auto_clause_type": "obligation",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1518",
+      "type": "legal",
+      "text": "Lựa chọn và thu thập số liệu hoạt động kiểm kê khí nhà kính cấp CƠ SỞ.",
+      "source_file": "Thông tư 17 2022 TT-BTNMT.txt",
+      "article": 14,
+      "clause": 3,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "emission"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0563",
+      "type": "legal",
+      "text": "Cơ quan, tổ chức, cá nhân thực hiện quan trắc môi trường quy định tại khoản 3 và khoản 4 Điêu này khi công bô thông tin chat lượng môi trường cho.\ncộng dong phải kèm theo thông tin về vi tri quan trắc, phương pháp quan trắc và độ chính xác của thiệt bị hoặc giới hạn báo cáo của phương pháp và chịu trách nhiệm về két quả công bô thông tin chat lượng môi trường của minh.",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 96,
+      "clause": 5,
+      "auto_clause_type": "obligation",
+      "auto_subjects": [
+        "state_agency",
+        "organization",
+        "individual"
+      ],
+      "auto_domains": [
+        "waste"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0501",
+      "type": "legal",
+      "text": "Trường hợp tổ chức, cá nhân được phép đầu tư, xây dựng và vận hành bãi chôn lâp chât thải chuyên nhượng quyên hoặc mua bán, đôi tên, sáp nhập, hợp nhat doanh nghiệp thì tô chức, cá nhân nhận chuyền nhượng hoặc tô chức, cá nhân là chủ sở hữu mới của doanh nghiệp phải tiép tục thực hiện các nghĩa vu vé cai tạo môi trường và ký quỹ cải tạo môi trường.",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 76,
+      "clause": 6,
+      "auto_clause_type": "obligation",
+      "auto_subjects": [
+        "state_agency",
+        "enterprise",
+        "organization",
+        "individual"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0457",
+      "type": "legal",
+      "text": "Cơ SỞ thực hiện dịch vụ thu gom, vận chuyển theo quy định tại điểm a khoản 2 Điêu này có trách nhiệm sau:\na) Ký hợp đồng dịch vụ thu gom, vận chuyên và xử lý với cơ quan, t6 chức, cơ sở sản xuât, kinh doanh, dịch vụ, chủ đâu tư xây dựng và kinh doanh hạ tâng khu sản xuất, kinh doanh, dịch vụ tập trung, cụm công nghiệp có phát sinh chât thải rắn sinh hoạt;\nb) Thu gom, vận chuyển chất thải rắn sinh hoạt đến cơ sở xử lý do chính quyền\n\n` 89 địa phương lựa chọn theo quy định tại khoản 2",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 78,
+      "clause": 4,
+      "auto_clause_type": "obligation",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "waste"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0285",
+      "type": "legal",
+      "text": "Mục tiêu và phạm vi quản lý chất lượng môi trường không khí: hiện trang và diễn bien chat lượng môi trường không khí, hiện trạng công tác quản lý chât lượng môi trường không khí ở địa phương.",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 8,
+      "clause": 5,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "air"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1508",
+      "type": "legal",
+      "text": "Đánh giá độ không chắc chắn của kiểm kê khí nhà kính cấp lĩnh vực.",
+      "source_file": "Thông tư 17 2022 TT-BTNMT.txt",
+      "article": 4,
+      "clause": 7,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "emission"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0209",
+      "type": "legal",
+      "text": "Mức phát thải khí nhà kính dự kién của cơ sở khi không áp dung công nghệ, biện pháp giảm nhẹ phát thải khí nhà kính.",
+      "source_file": "Nghị định 06 2022 NĐ-CP.txt",
+      "article": 35,
+      "clause": 4,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "emission"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1385",
+      "type": "legal",
+      "text": "| Phát triển các mô hình cộng đồng ứng phó với biến đổi khí hậu tại Các địa phương Các bộ, ngành 2022 - 2030 các địa phương liên quan",
+      "source_file": "Quyết định 888 QĐ‑TTg.txt",
+      "article": 3,
+      "clause": 2,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1516",
+      "type": "legal",
+      "text": "Có thay đối về các phương pháp định lượng khí nhà kính, số liệu hoạt động và hệ sô phát thải.",
+      "source_file": "Thông tư 17 2022 TT-BTNMT.txt",
+      "article": 12,
+      "clause": 2,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "emission"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1116",
+      "type": "legal",
+      "text": "| tai Quỳnh Phụ Quỳnh Phụ, tỉnh Thái Bình Sản xuất giày dép 1.477 . . Lô A2, KCN Nguyễn Đức Cảnh, thành phố Thai], ;.,. :",
+      "source_file": "Quyết định 01 2022 QĐ-TTg.txt",
+      "article": 3,
+      "clause": 607,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0178",
+      "type": "legal",
+      "text": "Bộ Công Thương chịu trách nhiệm phối hợp với Bộ Tài nguyên và Môi trường phân bô, điều chỉnh, bô sung hạn ngạch nhập khâu, san xuât đôi với các chat được kiêm soát; có ý kiên vê danh mục hàng hóa câm xuât nhập khâu, hang hóa xuất nhập khâu theo điêu kiện trong phạm vi quản lý.",
+      "source_file": "Nghị định 06 2022 NĐ-CP.txt",
+      "article": 29,
+      "clause": 2,
+      "auto_clause_type": "responsibility",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "waste"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1209",
+      "type": "legal",
+      "text": "| Công ty TNHH Chơn Chính Đồng Tháp Xay xát và sản xuât bột 2.839 7. Tỉnh Kiên Giang ¡sao | Công ty Cổ phần gỗ MDF VRG[KCN Thạnh Lộc, xã Thạnh Lộc, huyện Châu | Sản xuất gỗ dán, gỗ lạng, mm.\n7 | Kiên Giang Thanh, tỉnh Kiên Giang ván ép và ván mỏng khác 5.022 1550, | Công ty Cô phan Bia Sài Gòn - Kiên | KCN Thạnh Lộc, xã Thạnh Lộc, huyện Châu | Sản xuất bia và mạch nha ủ 4 \" | Giang Thành, tỉnh Kiên Giang men bia 3.793 ị 8. Tinh Long An . a Lô số 10, 12 đường An Ha, KCN Tân Đức, xã Đức |, gk _- C",
+      "source_file": "Quyết định 01 2022 QĐ-TTg.txt",
+      "article": 3,
+      "clause": 1548,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "plastic"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0864",
+      "type": "legal",
+      "text": "i) Phat tiền từ 130.000.000 đồng đến 150.000.000 đồng trong trường hợp lưu lượng khí thai từ 35.000 m°/giờ đên dưới 40.000 m°/giờ;\nk) Phạt tiền từ 150.000.000 đồng đến 200.000.000 đồng trong trường hợp lưu lượng khí thải từ 40.000 m?/giờ đên dưới 45.000 m°/giờ;",
+      "source_file": "Nghị định 45 2022 NĐ‑CP.txt",
+      "article": 20,
+      "clause": 60,
+      "auto_clause_type": "condition",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "air"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0065",
+      "type": "legal",
+      "text": "Chất thải rắn công nghiệp thông thường phải được lưu giữ riêng theo loại đã được phân loại; không dé lẫn chất thai nguy hại với chat thải ran công . nghiệp thông thường; không làm phát tán bụi, rò rỉ nước thải ra môi trường; lưu giữ bằng các thiết bị, dụng cụ, khu vực lưu giữ phù hợp theo quy định của Bộ _ trưởng Bộ Tài nguyên và Môi trường, \" 5. Việc vận chuyển chất thải rắn công nghiệp thông thường phải đáp ứng yêu cầu sau đây: \" ¬ a) Chat thai phải được chứa, đựng trong các thiết bị, dụng cụ ",
+      "source_file": "Luật Bảo vệ Môi trường 2020.txt",
+      "article": 75,
+      "clause": 4,
+      "auto_clause_type": "obligation",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "water",
+        "waste"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0061",
+      "type": "legal",
+      "text": "Ủy ban nhân dân cấp xã có trách nhiệm sau đây: | | a) Kiểm tra việc tuân thủ quy định của pháp luật về bảo vệ môi trường trong — - | việc thu gom, vận chuyển chất thải rắn sinh hoạt; xử lý hành vi vi phạm pháp luật | về quản lý chất thải rắn sinh hoạt theo thâm quyền; xem xét, giải quyết kiến nghị, | - phản ánh của tô chức, cộng đồng dân cư, hộ gia đình, cá nhân có liên quan đền việc thu gom, vận chuyển chất thải ran sinh hoạt;\n| b) Chủ trì, phối hợp với cơ sở thu gom, vận chuyển chất thải rắn s",
+      "source_file": "Luật Bảo vệ Môi trường 2020.txt",
+      "article": 75,
+      "clause": 7,
+      "auto_clause_type": "obligation",
+      "auto_subjects": [
+        "state_agency",
+        "organization",
+        "individual",
+        "household"
+      ],
+      "auto_domains": [
+        "waste"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0191",
+      "type": "legal",
+      "text": "Phát thải khí nhà kính từ các hoạt động vận tải đường bộ ˆ",
+      "source_file": "Nghị định 06 2022 NĐ-CP.txt",
+      "article": 35,
+      "clause": 2,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "emission"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0447",
+      "type": "legal",
+      "text": "Việc mai táng, hỏa táng đối với đồng bào dân tộc thiểu số, người theo tôn giáo tại khuôn viên nhà thờ, nhà chùa, thánh that tôn giáo va các cơ sở tôn giáo khác thực hiện theo quy định của pháp luật về tín ngưỡng, tôn giáo và phải đáp ứng các yêu cau vê bảo vệ môi trường quy định tại điểm c và điểm d khoản 2 Điêu này. Uy ban nhân dan cap tỉnh hướng dan hoạt động mai táng, hỏa tang phủ hợp với phong tục, tập quán, tín ngưỡng và bao đảm vệ sinh môi trường.\n- ChươngV QUAN LY CHAT THAI _ Mucl | . .\nQ",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 55,
+      "clause": 3,
+      "auto_clause_type": "obligation",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0476",
+      "type": "legal",
+      "text": "Chuyển giao chất thải rắn công nghiệp thông thường theo quy định của khoản 1 Điêu 82 Luật Bảo vệ môi trường; được phép chuyên giao chat thải ran công nghiệp thông thường quy định tại khoản 1 Điêu 65 Nghị định này sau khi phân loại theo đúng quy định cho tô chức, cá nhân có nhu câu.\n__3. Sử dụng biên bản bàn giao chất thải rắn công nghiệp thông thường theo mâu do Bộ Tài nguyên và Môi trường ban hành khi chuyên giao nhóm chat thai ran công nghiệp thông thường phải xử lý quy định tại diém c khoản 1",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 66,
+      "clause": 2,
+      "auto_clause_type": "obligation",
+      "auto_subjects": [
+        "state_agency",
+        "individual"
+      ],
+      "auto_domains": [
+        "waste"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1034",
+      "type": "legal",
+      "text": "Đội trưởng Đội đặc nhiệm phòng chống ma túy và tội phạm thuộc Đoàn đặc nhiệm phòng chông ma túy và tội phạm có quyên: .\na) Phat canh cao;\nb) Phat tiền đến 10.000.000 đồng;\nc) Tịch thu tang vật, phương tiện vi phạm hành chính có giá trị đến 20.000.000 đồng;\nd) Áp dụng biện pháp khắc phục hậu quả quy định tại điểm a, c và đ khoản 3 Điêu 4 Nghị định này.",
+      "source_file": "Nghị định 45 2022 NĐ‑CP.txt",
+      "article": 60,
+      "clause": 3,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1232",
+      "type": "legal",
+      "text": "Mục tiêu\na) Mục tiêu chung\n__ Kế hoạch quốc gia thích ứng với biến đổi khí hậu nhằm giảm thiểu tính dé bị tôn thương và rủi ro trước những tác động của biên đôi khí hậu thông qua việc tăng cường khả năng chong chịu, năng lực thích ứng của cộng đông, các thành phân kinh tê và hệ sinh thái; thúc đây việc lông ghép thích ứng với biên đôi khí hậu vào hệ thông chiên lược, quy hoạch.\n\nb) Mục tiêu cụ thé .\n- Nâng cao hiệu quả thích ứng với biến đổi khí hậu thông qua việc tăng cường công tác quan lý nhà",
+      "source_file": "Quyết định 1055 QĐ-TTg.txt",
+      "article": 7,
+      "clause": 2,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0054",
+      "type": "legal",
+      "text": "'Tổ chức, cá nhân vận chuyển hàng nguy hiểm phải bảo đảm đáp ứng đủ điều kiện, năng lực về bảo vệ môi trường theo quy định của pháp luật. - 4. Việc vận chuyên hàng hóa, vật liệu có nguy cơ gây 6 nhiễm, sự cố môi trường phải được thực hiện bằng thiết bị, phương tiện chuyên dụng, bảo đảm không rò rỉ, phát tán ra môi trường.\n_ 5. Việc xây dựng công trình giao thông phải có giải pháp hạn chế, giảm thiểu các tác động đến địa hình, cảnh quan, địa chất, di sản thiên nhiên.\n| ..... 6 Ủy ban nhân dân cấp",
+      "source_file": "Luật Bảo vệ Môi trường 2020.txt",
+      "article": 65,
+      "clause": 3,
+      "auto_clause_type": "obligation",
+      "auto_subjects": [
+        "state_agency",
+        "organization",
+        "individual"
+      ],
+      "auto_domains": [
+        "air",
+        "emission"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1149",
+      "type": "legal",
+      "text": "| Công ty TNHH Nhựa Long Thanh Tân, thành phố Hé Chí Minh Sản xuât sản phâm từ nhựa 3.339 . am ._ | Lô II,4, 5, 10, 11 đường số 13, nhóm CN II, KCN 993, | Công ty Co phân Bao Bì Nhựa Tân | Tạn Bình, phường Tây Thạnh, quận Tân Phú, thành | Sản xuất bao bì từ nhựa Tiên kar mea 4.118 Ộ : phô Hô Chí Minh - Công ty Cổ phan Sản xuất Nhựa | Số 298 Hồ Hoc Lam, phường An Lạc, quận Bình | Sản xuất các sản phẩm từ ăn ' | Duy Tân Tân, thành phố Hồ Chí Minh nhựa 5.384 _ A . qs. | Lô 14, 16A đường C KCN Tân T",
+      "source_file": "Quyết định 01 2022 QĐ-TTg.txt",
+      "article": 3,
+      "clause": 902,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "plastic"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0407",
+      "type": "legal",
+      "text": "Điều kiện cơ sở vật chất, hạ tầng kỹ thuật bảo vệ môi trường đối với cơ sở phá đỡ tàu biên:\na) Có khu vực và thiết bị phá đỡ tàu biển chuyên dụng phù hợp với từng chủng loại và tải trọng tàu, bảo đảm không đề rò rỉ, phát tán các chât thải chưa qua xử lý, quản lý ra bên ngoài khu vực phá đỡ gây ô nhiễm môi trường nước, đât và không khí;\n\nb) Có khu vực lưu giữ vật liệu, thiết bi sau khi phá đỡ có cao độ nền bảo đảm không bị ngập lụt; sàn bảo đảm kín khít, không rạn nứt, bằng vật liệu chống thấm, đ",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 43,
+      "clause": 2,
+      "auto_clause_type": "obligation",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "air",
+        "waste"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1466",
+      "type": "legal",
+      "text": "Mẫu biên bản kiểm tra việc vận hành thử nghiệm công trình xử lý chất thải đối với dự án đầu tu, cơ sở sử dụng phế liệu làm nguyên liệu san xuất, dịch vụ xử lý chất thải nguy hại theo quy định tại Mẫu số 46 Phụ lục II ban hành kém theo Thông tư này.",
+      "source_file": "Thông tư 02 2022 TT-BTNMT.txt",
+      "article": 46,
+      "clause": 25,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "waste"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1330",
+      "type": "legal",
+      "text": "Tăng cường thực thi chính sách, pháp luật về bảo vệ môi trường\n- Ra soát, sửa đôi, bỗ sung các chế tài xử phạt hành chính theo hướng tăng mức phat; sửa đối, bô sung, hoàn thiện các quy định và thực hiện xử lý hình sự đôi với các tội phạm về môi trường.\n\n` 15 : - Tăng cường kiểm tra, giám sát đối với các cơ sở sản xuất, kinh doanh có nguy cơ gay ô nhiễm môi trường cao, áp dụng cơ chê thanh tra đột xuât khi có dâu hiệu vi phạm. Đây mạnh phôi hợp hiệu quả giữa các cơ quan thanh tra và lực lượng cản",
+      "source_file": "Quyết định 450 QĐ‑TTg.txt",
+      "article": 1,
+      "clause": 4,
+      "auto_clause_type": "sanction",
+      "auto_subjects": [
+        "state_agency",
+        "enterprise",
+        "individual"
+      ],
+      "auto_domains": [
+        "waste"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1436",
+      "type": "legal",
+      "text": "Biên bản họp của hội đồng thâm định báo cáo đánh giá tác động môi trường theo quy định tại Mẫu số 08 Phụ lục II ban hành kèm theo Thông tư này.",
+      "source_file": "Thông tư 02 2022 TT-BTNMT.txt",
+      "article": 15,
+      "clause": 6,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "EIA"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0859",
+      "type": "legal",
+      "text": "Phat tiền từ 180.000.000 đồng đến 200.000.000 đồng trong trường hợp thải lượng nước thải từ 600 m3/ngay (24 giờ) dén dưới 800 m?/ngay (24 gio);\n| m) Phạt tiền từ 200.000.000 đồng đến 220.000.000 đồng trong trường hợp thải lượng nước thải từ 800 m?/ngay (24 giờ) dén dưới 1.000 m?/ngày (24 giờ);\nn) Phạt tiền từ 220.000.000 đồng đến 250.000.000 đồng trong trường hợp thải lượng nước thải từ 1.000 m3/ngày (24 giờ) đên dưới 1.200 m?/ngày (24 gid);\no) Phạt tiền từ 250.000.000 đồng đến 300.000.000 đồng ",
+      "source_file": "Nghị định 45 2022 NĐ‑CP.txt",
+      "article": 19,
+      "clause": 1,
+      "auto_clause_type": "condition",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "water",
+        "waste"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0451",
+      "type": "legal",
+      "text": "Việc thu gom, vận chuyển chất thải rắn phát sinh từ hoạt động của khu phi thuê quan, khu chê xuât, doanh nghiệp chê xuât vào nội địa được thực hiện theo quy định của Nghị định này về thu gom, vận chuyên chat thải ngoài khu phi thuê quan, khu chê xuât, doanh nghiệp chê xuât.",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 56,
+      "clause": 5,
+      "auto_clause_type": "permission",
+      "auto_subjects": [
+        "enterprise"
+      ],
+      "auto_domains": [
+        "waste"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0919",
+      "type": "legal",
+      "text": "Phat tiền từ 200.000.000 đồng đến 250.000.000 đồng đối với hành vi ' vận chuyên chât thải nguy hại khi không có giây phép môi trường, trừ các\ntrường hợp: vận chuyên chât thải nguy hại phát sinh từ quá trình sinh hoạt hoặc cơ sở kinh doanh, dịch vụ (không bao gôm sản xuât) quy mô hộ gia đình, ca nhân được quan ly, xử lý theo quy định về thu hôi, xử lý sản phâm thai bỏ; vận - | | chuyên chat thải nguy hại thuộc kê hoạch thu gom, vận chuyên, lưu git, trung chuyên chat thải nguy hại do Uy ban nhân d",
+      "source_file": "Nghị định 45 2022 NĐ‑CP.txt",
+      "article": 30,
+      "clause": 6,
+      "auto_clause_type": "condition",
+      "auto_subjects": [
+        "state_agency",
+        "enterprise",
+        "household"
+      ],
+      "auto_domains": [
+        "waste"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1206",
+      "type": "legal",
+      "text": "` a ae Tiéu thu STT Tên co sở Neant ng ni hình TOE 1485. | Công ty TNHH MTV Nguyên Liêm | °° lá: tin Ai sà dân tran Hoà Thành, | cà\" xuất tỉnh bột mì 2 309 1486. | Công ty TNHH Sầm Nhứt Xã 7 ap on Binh, xã Hoa Hiệp, huyện Tan Biên, 3321 .\nCông ty TNHH San xuất ThươnB | £_ og nA¬ vz Thái Bì an Chan Th3 1487. | mai Dịch vụ tổng hợp Xuất nhập tàu wae xã Thái Binh, huyện Châu Thành, |.\" xuất tinh bột mi `2 sso khẩu Hữu Đức Tây Ninh aay VIII. DONG BANG SONG CUU LONG ' 7 1. Tỉnh An Giang : 1488. | Côn",
+      "source_file": "Quyết định 01 2022 QĐ-TTg.txt",
+      "article": 3,
+      "clause": 121,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency",
+        "enterprise",
+        "importer"
+      ],
+      "auto_domains": [
+        "plastic"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0569",
+      "type": "legal",
+      "text": "Kết quả quan trắc nước thải định kỳ, quan trắc nước thải tự động, liên tục được sử dụng dé theo dõi và đánh giá hiệu qua, sự phù hợp của công trình xử lý nước thai, sử đụng dé kê khai và nộp phí bảo vệ môi trường đối với nước thải và\n\n` 127 xử phạt vi phạm hành chính trong lĩnh vực bảo vệ môi trường (nếu có).",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 97,
+      "clause": 5,
+      "auto_clause_type": "sanction",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "water"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0013",
+      "type": "legal",
+      "text": "Tình trang 6 nhiễm môi trường không khí phải được thông báo và cảnh .\n__ báo kịp thời nhằm giảm thiểu tác động đến sức khỏe cộng dong. - | 4. Các nguồn phát thải bụi, khí thải phải được quan trắc, đánh giá và kiểm soát theo quy định của pháp luật. _",
+      "source_file": "Luật Bảo vệ Môi trường 2020.txt",
+      "article": 12,
+      "clause": 3,
+      "auto_clause_type": "obligation",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "air",
+        "emission"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1554",
+      "type": "legal",
+      "text": "Khi các văn bản quy phạm pháp luật được dẫn chiếu áp dụng tại Thông tư này được sửa đôi, bô sung hoặc thay thê thì áp dụng theo quy định mới.",
+      "source_file": "Thông tư 17 2022 TT-BTNMT.txt",
+      "article": 37,
+      "clause": 3,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0326",
+      "type": "legal",
+      "text": "Ủy ban nhân dân cấp tỉnh ban hành quyết định về xác định vị trí, ranh giới của vùng bảo vệ nghiêm ngặt, vùng hạn chê phát thải trên địa bàn quản lý đã được xác định trong quy hoạch tỉnh trong kỳ quy hoạch.",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 23,
+      "clause": 3,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "emission"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1429",
+      "type": "legal",
+      "text": "Đại biểu tham gia phiên họp của hội đồng thâm định do cơ quan thâm định quyết định trong trường hợp cần thiết. Đại biểu tham gia được phát biểu ý kiến trong các phiên họp của hội đồng thâm định. chịu sự điều hành của người chủ trì phiên hop, được hưởng thù lao theo quy định của pháp luật.",
+      "source_file": "Thông tư 02 2022 TT-BTNMT.txt",
+      "article": 13,
+      "clause": 5,
+      "auto_clause_type": "condition",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0865",
+      "type": "legal",
+      "text": "Phat tiền từ 200.000.000 đồng đến 250.000.000 đồng trong trường hợp lưu lượng khí thải từ 45.000 m°/giờ đên dưới 50.000 m°/g1ờ;\nm) Phạt tiền từ 250.000.000 đồng đến 300.000.000 đồng trong trường hợp lưu lượng khí thải từ 50.000 m?/giờ đên dưới 55.000 m3/giờ;\n: n) Phat tiền từ 300.000.000 đồng đến 350.000.000 đồng trong trường hợp lưu lượng khí thải từ 55.000 m°/giờ đên dưới 60.000 m°/giờ;\no) Phạt tiền từ 350.000.000 đồng đến 400.000.000 đồng trong trường hợp lưu lượng khí thải từ 60.000 m°/giờ d",
+      "source_file": "Nghị định 45 2022 NĐ‑CP.txt",
+      "article": 20,
+      "clause": 1,
+      "auto_clause_type": "condition",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "air",
+        "waste"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0696",
+      "type": "legal",
+      "text": "Các bộ, cơ quan ngang bộ căn cứ chức năng, nhiệm vụ và lĩnh vực quản lý nhà nước được giao, có trách nhiệm:\na) Xây dựng, phê duyệt kế hoạch hành động thực hiện kinh tế tuần hoàn của ngành, lĩnh vực, sản phâm phù hợp với kê hoạch hành động quôc gia quy định tại khoản 5 Điêu này;\n__ b) Tổ chức tuyên truyền, phô biến kiến thức pháp luật, giáo dục, đào tạo vê nội dung kinh tê tuân hoàn;\nc) Lồng ghép các tiêu chí cụ thể thực hiện kinh tế tuần hoàn ngay trong quá trinh xây dựng các chiên lược, quy hoạ",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 139,
+      "clause": 2,
+      "auto_clause_type": "obligation",
+      "auto_subjects": [
+        "state_agency",
+        "organization"
+      ],
+      "auto_domains": [
+        "waste",
+        "recycling"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0318",
+      "type": "legal",
+      "text": "Bộ Tài nguyên và Môi trường hướng dẫn kỹ thuật việc đề cử, công nhận danh hiệu quôc tê đôi với di sản thiên nhiên của Việt Nam theo quy định của các tô chức quốc tê; chỉ định đâu môi thông tin, liên lạc với các tô chức quôc tê dé hướng dân, ho trợ kỹ thuật vê quan ly, bảo vệ môi trường, bảo tôn thiên nhiên và đa dang sinh học đôi với di sản thiên nhiên được tô chức quốc tê công nhận.",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 20,
+      "clause": 4,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0440",
+      "type": "legal",
+      "text": "Xác định khoảng cách an toàn về môi trường đối với khu dan cư:\na) Khoảng cách an toàn về môi trường từ cơ sở sản xuất, kinh doanh, dịch vụ và kho tàng quy định tại các điểm a, b và c khoản 2",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 53,
+      "clause": 2,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency",
+        "enterprise"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1563",
+      "type": "legal",
+      "text": "Hàm lượng métan trong khí sinh học phải dựa trên phân tích cu thé và tránh các giá trị tiêu chuẩn càng nhiều càng tối.\nEm = Nm°CH; * 0,714/1000 * 21\nEm là phát thai trực tiếp CH, từ mô hình nội bộ (tan CO, tương đương)\n2.7.3. Phát thải từ doi khí tại bãi chôn lấp\n2.7.3.1 Phát thải từ đốt khí CH, không hoàn toàn:\nEc = ye * (1 — 188) * 0,000714 x GWPcụ¿ 100 100\nTrong đó:\nE, là phát thai từ đốt khí metan không hoàn toàn (tan CO; tương đương) V là thé tích khí sinh học đã được xử ly (Nm?) P là hàm l",
+      "source_file": "Thông tư 17 2022 TT-BTNMT.txt",
+      "article": 37,
+      "clause": 6,
+      "auto_clause_type": "obligation",
+      "auto_subjects": [
+        "state_agency",
+        "household"
+      ],
+      "auto_domains": [
+        "water",
+        "air",
+        "waste",
+        "emission",
+        "recycling"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0689",
+      "type": "legal",
+      "text": "_ 2. Việc trợ giá đối với sản phẩm, dich vụ công ích quy định tại khoản 1 Điêu này thực hiện theo quy định của Chính phủ về giao nhiệm vụ, đặt hang hoặc dau thâu cung cap sản phâm, dịch vụ công sử dụng ngân sách nhà nước từ nguôn kinh phí chi thường xuyên.\n'",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 135,
+      "clause": 166,
+      "auto_clause_type": "procedure",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0189",
+      "type": "legal",
+      "text": "| 2 |Céngnghigpsanxuat | | | | | | | a [Satvathé> | aacca | b |Hóachấtvàhóadu | | | | | _ | | co |Gidy,bétgidyvainan | | | | | ` | d | Thực phẩm, đồ uống thuốclá | | | | | —_ -| | đ |Khongphikm | | | | | | | e |Thiếtbvậni | | | | | | | g |Thb,máyvmóc | | | | | _ —- | h |Khaikhápg = | | | | | | | i |Gỗvàcácsảnphmtừpổ | | [| | | | | k [Détmayvaddda | | TT — |.\n| 1 | Công nghiệp không xácđnh | [| LT | — | 3 |Lmhvwkheco | | | |} |} |.\n| a |ThươnmạivàDjhu | | | | | | | b |Danduyng | | | | | —-| | 12 ",
+      "source_file": "Nghị định 06 2022 NĐ-CP.txt",
+      "article": 35,
+      "clause": 3,
+      "auto_clause_type": "permission",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "emission"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0778",
+      "type": "legal",
+      "text": "Bãi bỏ Nghị định số 127/2014/NĐ-CP ngày 31 tháng 12 năm 2014 của Chính phủ quy định điêu kiện của tô chức hoạt động dịch vụ quan trac môi trường.",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 33,
+      "clause": 9,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0198",
+      "type": "legal",
+      "text": "Phát thải khí nhà kính từ các hoạt động trong quá trình sản xuất thủy tỉnh, kính xây dựng",
+      "source_file": "Nghị định 06 2022 NĐ-CP.txt",
+      "article": 35,
+      "clause": 3,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "emission"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0735",
+      "type": "legal",
+      "text": "Các hoạt động quản lý nhà nước khác về bảo vệ môi trường, ứng phó với biên đôi khí hậu có tính chât chị thường xuyên thuộc trách nhiệm của trung ương theo quy định của pháp luật; các hoạt động bảo vệ môi trường khác do Thủ tướng Chính phủ quyét định.",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 73,
+      "clause": 0,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "waste"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0704",
+      "type": "legal",
+      "text": "Bộ Cống Thương chủ trì, phối hợp với Bộ Tài nguyên và Môi trường, Bộ Khoa học và Công nghệ, các bộ, cơ quan ngang bộ có liên quan xây dựng,\n\n172 › trình Thủ tướng Chính ban hành danh mục cụ thể công nghệ, thiết bị, sản phẩm ngành công nghiệp môi trường quy định tại khoản 1 Điêu này.",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 141,
+      "clause": 2,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1236",
+      "type": "legal",
+      "text": "Giai đoạn 2026 - 2030\nTrong giai đoạn 2026 - 2030 tiếp tục tăng cường công tác quản lý nhà nước về biến đổi khí hậu, phối hợp, lồng ghép các hoạt động trong triển khai các nhiệm vụ, giải pháp nhằm nâng cao năng lực của các ngành, lĩnh vực, các thành phan kinh tế, cộng đồng và hệ sinh thái để tăng cường khả năng chống chịu, sẵn sàng điều chỉnh trước những thay đổi của khí hậu. Tiếp tục nâng cao năng lực\n¬¬ chống chịu của hệ thống cơ sở hạ tầng, khả năng thích ứng của hệ sinh thái tự nhiên, đa dạn",
+      "source_file": "Quyết định 1055 QĐ-TTg.txt",
+      "article": 7,
+      "clause": 2,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0541",
+      "type": "legal",
+      "text": "Hoạt động quan trắc môi trường phục vụ mục đích quản lý của ngành, lĩnh vực quy định tại các khoản 2, 3 và 4 Điêu 109 Luật Bảo vệ môi trường được thực hiện theo quy định pháp luật của ngành, lĩnh vực.",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 89,
+      "clause": 6,
+      "auto_clause_type": "permission",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0088",
+      "type": "legal",
+      "text": "Cơ quan phê duyét kế hoạch phục hồi môi trường có trách nhiệm công | bế kết thúc giai đoạn phục hồi môi trường cho cộng đồng din cư, cơ quanbáo - - chí, truyền thông. :",
+      "source_file": "Luật Bảo vệ Môi trường 2020.txt",
+      "article": 126,
+      "clause": 6,
+      "auto_clause_type": "obligation",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "waste"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1494",
+      "type": "legal",
+      "text": "Quy trình đóng bãi chôn lấp chat thải ran sinh hoạt:\na) Bãi chôn lấp chất thải rắn sinh hoạt phải có lớp đất phủ trên cùng có hàm lượng sét hoặc lớp vải nhựa HDPE hoặc chất liệu tương đương lớn hơn 30%, bảo đảm độ âm tiêu chuân và được đầm nén cần thận. chiều dày lớn hơn hoặc bằng 60 cm. Độ đốc từ chân đến đỉnh bãi tăng dan từ 3% đến 5%, luôn bảo đảm thoát nước tốt và không trượt lở, sụt lún. Sau đó thực hiện các hoạt động: phủ lớp đệm bằng đất có thành phan phô biến là cát day từ 50 cm đến 60 c",
+      "source_file": "Thông tư 02 2022 TT-BTNMT.txt",
+      "article": 32,
+      "clause": 3,
+      "auto_clause_type": "obligation",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "water",
+        "air",
+        "waste",
+        "plastic"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0940",
+      "type": "legal",
+      "text": "Hành vi nhập khẩu tàu biển đã qua sử dụng dé phá dỡ, phá dỡ tàu biển đã qua sử dụng trái quy định về bảo vệ môi trường, trừ các trường hợp hành vi tội phạm về môi trường, bi xử phạt như sau: -\na) Phạt tiền từ 30.000.000 đồng đến 50.000.000 đồng đối với hành vi không thực hiện báo cáo định kỳ với cơ quan nhà nước có thâm quyền về công tác bảo vệ môi trường trong hoạt động phá dỡ tàu biên đã qua sử dụng theo quy định;\nb) Phạt tiền từ 50.000.000 đồng đến 100.000.000 đồng đối với hành vi không áp dụ",
+      "source_file": "Nghị định 45 2022 NĐ‑CP.txt",
+      "article": 34,
+      "clause": 3,
+      "auto_clause_type": "condition",
+      "auto_subjects": [
+        "state_agency",
+        "importer"
+      ],
+      "auto_domains": [
+        "waste"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1098",
+      "type": "legal",
+      "text": "| Cong ty TNHH FJ Plastics Viét Nam | phường Cam Thượng, thành phô Hải Dương, tinh | Sản xuât sản pham từ nhựa 1.015 Hai Duong , Công ty TNHH Hóa nhựa Dé nhất - | KCN Nam Sách, phường Ai Quốc, thành phố Hải |... ¿ ae 396. | Chi nhánh Hải Dương Duong, tinh Hai Duong San xuat sản phâm tirnbwa | ¡ 9¢5 397, | Công ty TNHH Kuroda Kagaku |KCN Phúc Điển, huyện Cảm Giang, tỉnh Hải | Sản xuất các sản phẩm `_ | Việt nam Dương khác từ nhựa 1.420 _ Công ty TNHH Nishoku| KCN Tân Trường, huyện Cẩm Giang, tinh",
+      "source_file": "Quyết định 01 2022 QĐ-TTg.txt",
+      "article": 3,
+      "clause": 395,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "plastic"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0255",
+      "type": "legal",
+      "text": "Nước làm mát là nước phục vụ mục đích giải nhiệt cho thiết bị, máy móc trong quá trình sản xuất, không tiếp xúc trực tiếp với nguyên liệu, vật liệu, nhiên liệu, hóa chất sử dụng trong các công đoạn sản xuất.\n\n3 v",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 3,
+      "clause": 4,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0775",
+      "type": "legal",
+      "text": "Bãi bỏ Nghị định số 18/2015/NĐ-CP ngày 14 tháng 02 năm 2015 của Chính phủ quy định về quy hoạch bảo vệ môi trường, đánh giá môi trường chiên lược, đánh giá tác động môi trường và kê hoạch bảo vệ môi trường.",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 33,
+      "clause": 6,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "EIA"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0161",
+      "type": "legal",
+      "text": "Đối tượng thuộc quy định tại khoản Ì Điều này thành lập, hoạt động sau ngày 31 tháng 12 năm 2022 có trách nhiệm thực hiện thủ tục đăng ký gửi Bộ Tài nguyên và Môi trường và báo cáo tình hình sử dụng các chât được kiêm soát theo quy định tại Điêu này.",
+      "source_file": "Nghị định 06 2022 NĐ-CP.txt",
+      "article": 24,
+      "clause": 7,
+      "auto_clause_type": "obligation",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "waste"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1130",
+      "type": "legal",
+      "text": "| Tam Điệp (Công ty TNHH Thép | KCN Tam Điệp, tinh Ninh Bình Sản xuât thép xây dựng 5 522 Kyoei Việt Nam) R ata Lô C12 KCN Khanh Phú, huyện Yên Khánh, tỉnh | Sản xuất và sơ chế phôi _ Công ty TNHH Chang xin Việt Nam Ninh Bình kim loại 6431 670 Công ty Cổ phần thực phẩm xuất | Phường Trung Sơn, thành phó Tam Điệp, tỉnh Ninh | Kinh doanh chế biến rau củ “| khâu Đông Giao Bình quả 1.799\n\n55 ` x rà Tiêu thụ STT Tên cơ sở Địa chỉ Ngành nghề/Loại hình năng lượng kinh doanh OE Il. BẮC TRUNG BO 1. Tinh ",
+      "source_file": "Quyết định 01 2022 QĐ-TTg.txt",
+      "article": 3,
+      "clause": 668,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0600",
+      "type": "legal",
+      "text": "Cơ sở dữ liệu môi trường các cấp phải tuân thủ các quy định pháp luật có liên quan; tuân thủ khung kiến trúc Chính phủ điện tử Việt Nam và kiến trúc Chính phủ điện tử cấp bộ hoặc kiến trúc Chính quyền điện tử cấp tỉnh hiện hành; đáp ứng các tiêu chuẩn, quy chuẩn kỹ thuật theo quy định; sử đụng thống nhất danh mục đữ liệu dùng chung, dữ liệu chủ trong cơ sở đữ liệu môi trường quốc gia.",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 114,
+      "clause": 5,
+      "auto_clause_type": "obligation",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1287",
+      "type": "legal",
+      "text": "Kinh nghiệm quản lý môi trường tốt nhất (BEP)'” là việc áp dụng và kêt hợp một cách phù hợp nhât các giải pháp và chiên lược trong quản lý môi trường.\n6 Khái niệm công trình xanh được giải thích dựa trên tham chiếu các khái niệm công trình xanh của Ủy ban Tòa nhà xanh Mỹ, khái niệm công trình xanh (công trình bền vững) của Hội đồng Công trình xanh Việt Nam và trên cơ sở thực tiễn triển khai áp dụng chứng chỉ công trình xanh tại Việt Nam.\n\"Giải thích về “Cú sốc bên ngoài” được tham chiêu từ các k",
+      "source_file": "Quyết định 1658 QĐ-TTg.txt",
+      "article": 3,
+      "clause": 12,
+      "auto_clause_type": "definition",
+      "auto_subjects": [
+        "state_agency",
+        "organization"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1266",
+      "type": "legal",
+      "text": "Tăng trưởng xanh là sự nghiệp của cả hệ thống chính trị, toàn dân, cộng đông doanh nghiệp và các cơ quan, to chức liên quan, được thúc đây băng tinh thân đôi mới sáng tạo và khát vọng phát triên dat nước phon vinh, bên vững.\nII. MỤC TIÊU",
+      "source_file": "Quyết định 1658 QĐ-TTg.txt",
+      "article": 1,
+      "clause": 6,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency",
+        "enterprise"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0740",
+      "type": "legal",
+      "text": "Bảo tồn thiên nhiên, đa dang sinh học; bảo vệ môi trường di sản thiên.\nnhiên; ứng phó với biên đối khí hậu, bao gôm:\na) Điều tra, khảo sát, đánh giá, quản lý và bảo vệ môi trường đi sản thiên nhiên; xác lập, thâm định và công nhận di sản thiên nhiên thuộc nhiệm vụ của\n\n182 , địa phương;\nb) Dau tư bảo tồn và phát triển bền vững đa dang sinh học theo quy định tại khoản 2",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 152,
+      "clause": 5,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1182",
+      "type": "legal",
+      "text": "| Công ty TNHH PB Tin Phat huyện Phú Giáo, tỉnh Binh Dương ván ép và ván mỏng khác | 1.274 L1192. | Công ty Cổ phần Latitude Việt Nam, Số 29, đường DT 743, KCN Sóng Thần 2, thành | Sản xuất giường, tủ, bàn ma.",
+      "source_file": "Quyết định 01 2022 QĐ-TTg.txt",
+      "article": 3,
+      "clause": 1191,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0393",
+      "type": "legal",
+      "text": "Kể từ ngày 01 tháng 01 năm 2023, thông báo chấp thuận đăng ký miễn trừ chat POP của Bộ Tài nguyên và Môi trường là cơ sở đê cơ quan hải quan xem xét, cho phép làm thủ tục hải quan đôi với các chât POP.",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 38,
+      "clause": 4,
+      "auto_clause_type": "procedure",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1442",
+      "type": "legal",
+      "text": "Phiên họp chính thức của hội đồng thâm định hoặc triển khai đoàn kiểm tra chỉ được tiến hành khi có day đủ các điều kiện sau đây:\na) Hội đồng thâm định phải có sự hiện diện trực tiếp tại phiên họp hoặc tham gia họp trực tuyến của tối thiểu 2/3 (hai phần ba) số thành viên, trong đó phải có chủ tịch hoặc phó chủ tịch hội đồng được ủy quyên. tô trưởng hoặc phó tổ trưởng được ủy quyền (sau đây gọi chung là người chủ trì) và thành viên thư ký:\nb) Đoàn kiểm tra phải có sự tham gia trực tiếp tại cuộc k",
+      "source_file": "Thông tư 02 2022 TT-BTNMT.txt",
+      "article": 18,
+      "clause": 4,
+      "auto_clause_type": "obligation",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0142",
+      "type": "legal",
+      "text": "Trình tự, thủ tục xác nhận\na) Tổ chức, cá nhân có nhu cầu xác nhận tín chỉ các-bon, hạn ngạch phát thải khí nhà kính được giao dịch quy định tại khoản 1 Điêu này nộp đơn theo Mau số 01 của Phụ lục V ban hành kèm theo Nghị định này về Bộ Tài nguyên\n-_ và Môi trường qua hệ thông dich vụ công trực tuyên dé được xác nhận;\n\nb) Trong thời han 15 ngày làm việc, Bộ Tài nguyên và Môi trường tô chức xác minh, cap giây xác nhận và gửi thông báo cho tô chức, cá nhân; trong trường hợp không câp giây xác nhận",
+      "source_file": "Nghị định 06 2022 NĐ-CP.txt",
+      "article": 18,
+      "clause": 2,
+      "auto_clause_type": "obligation",
+      "auto_subjects": [
+        "state_agency",
+        "organization",
+        "individual"
+      ],
+      "auto_domains": [
+        "emission"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0093",
+      "type": "legal",
+      "text": "Cơ sở phat thải khí nhà kính tham gia các cơ chế trao đổi, bù trừ tín chỉ - | .. cắc-bơn trong nước và quốc tế phù hợp với quy định của pháp luật và điêu ước - _ quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên được phép ¬ trao đổi tín chỉ.các-bon trên thị trường các-bon trong nước. ` \" 1. Cơ sở phát thải khí nhà kính tham gia thị trường các-bon trong nước .\nthực hiện trao đổi, đâu giá, vay mượn, nộp trả, chuyển giao hạn ngạch, tín chỉ các-bon; thực hiện các cơ chế trao đổi, bù t",
+      "source_file": "Luật Bảo vệ Môi trường 2020.txt",
+      "article": 91,
+      "clause": 6,
+      "auto_clause_type": "permission",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "emission"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1354",
+      "type": "legal",
+      "text": "Nghiên cứu khoa học, déi mới sáng tao, tăng cường năng lực, truyền thông\n- Đánh giá nhu cầu công nghệ sạch, phát thải các-bon thấp trong các ngành, lĩnh vực dé thực hiện cam kết đạt mức phát thải ròng bằng “0” vào năm 2050. Triển khai các nhiệm vụ khoa học và công nghệ, hoạt động đôi mới sáng tạo phát triển\ncác-bon thấp trong các ngành, lĩnh vực.\n- Nghiên cứu và triển khai thí điểm các giải pháp thu hồi và lưu giữ các-bon từ các nguôn phát thải lớn cho một số lĩnh vực, vùng có tiềm năng, đảm bảo",
+      "source_file": "Quyết định 888 QĐ‑TTg.txt",
+      "article": 1,
+      "clause": 7,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "emission"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0466",
+      "type": "legal",
+      "text": "Cơ sở xử lý chất thải rắn sinh hoạt được thanh toán đúng và đủ giá dịch vụ xử lý chat thải ran sinh hoạt theo hợp dong đã ký kết.\n-",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 62,
+      "clause": 2,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "waste"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0592",
+      "type": "legal",
+      "text": "Thực hiện kết nói, liên thông đữ liệu, thông tin về môi trường từ các bộ,\ncơ quan ngang bộ, địa phương, kêt nôi với Công đữ liệu quốc gia phục vụ vận hành Chính phủ điện tử, phát triên Chính phủ sô, kinh tê sô, xã hội sô và đô thị thông minh.",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 103,
+      "clause": 2,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0163",
+      "type": "legal",
+      "text": "Việc phân bổ lượng hạn ngạch còn lại được thực hiện theo thứ tự ưu tiên sau:\na) Tổ chức sử dụng chất được kiểm soát có tiềm năng làm nóng lên toàn cầu thấp có nhu cầu bé sung hạn ngạch. Giá trị tiêm năng làm nóng lên toàn câu thâp được xác định căn cứ theo Kê hoạch quôc gia về quan ly, loại trừ các chât được kiêm soát của Việt Nam;\nb) Tổ chức đăng ký sau ngày 31 tháng 12 năm 2022;\nc) Tổ chức đã được phân bổ hạn ngạch có nhu cầu bổ sung hạn ngạch.",
+      "source_file": "Nghị định 06 2022 NĐ-CP.txt",
+      "article": 22,
+      "clause": 4,
+      "auto_clause_type": "permission",
+      "auto_subjects": [
+        "organization"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0206",
+      "type": "legal",
+      "text": "Thông tin về người đại diện của cơ sở trước pháp luật.",
+      "source_file": "Nghị định 06 2022 NĐ-CP.txt",
+      "article": 35,
+      "clause": 2,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0928",
+      "type": "legal",
+      "text": "Biện pháp khắc phục hậu quả:\na) Buộc khôi phục lại tình trạng môi trường ban đầu đo hành vi vi phạm quy định tại khoản 7 Điêu này gây ra;\nb) Buộc phải thực hiện các biện pháp khắc phục tình trạng ô nhiễm môi trường và báo cáo kêt qua đã khắc phục xong hậu quả vi phạm trong thời hạn\ndo người có thầm quyên xử phạt ân định trong quyét định xử phạt vi phạm hành chính đôi với các vi phạm quy định tại Điều này gây ra;\nc) Buộc chỉ trả kinh phí trưng cầu giám định, kiểm định, đo đạc và phân tích mau môi",
+      "source_file": "Nghị định 45 2022 NĐ‑CP.txt",
+      "article": 31,
+      "clause": 9,
+      "auto_clause_type": "obligation",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "waste"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1301",
+      "type": "legal",
+      "text": "Quan điểm chỉ đạo\na) Quản lý chất lượng môi trường không khí phải phù hợp với điều kiện kinh tê - xã hội của Việt Nam dé đảm bảo tính hiệu quả, lây phòng ngừa 6 nhiêm là chính, kêt hợp với xử lý, khắc phục 6 nhiễm, từng bước cải thiện va nâng cao chât lượng môi trường không khí xung quanh.\nb) Quản lý chất lượng môi trường không khí phải dựa trên phân tích chi phí lợi ích, được tiên hành thường xuyên, trọng tâm, trọng điềm, lộ trình quản lý phù hợp với điêu kiện của Việt Nam.\nc) Quản lý chất lượn",
+      "source_file": "Quyết định 1973 QĐ‑TTg.txt",
+      "article": 1,
+      "clause": 2,
+      "auto_clause_type": "obligation",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "air",
+        "waste",
+        "emission"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0747",
+      "type": "legal",
+      "text": "Bộ Tài chính, Bộ Kế hoạch và Đầu tư, Ngân hàng Nhà nước Việt Nam căn cứ chức năng, nhiệm vụ được giao, ho trợ các tô chức tín dụng, chi nhánh ngân hàng nước ngoài tại Việt Nam tiép nhận nguon von viện trợ, cho vay ưu đãi nước ngoài dé tài trợ cho dự án thuộc danh mục phân loại xanh quy định tại khoản 2 Dieu 154 Nghị định nay theo quy định của pháp luật về ngân sách nhà nước, đầu tư công và pháp luật khác có liên quan.",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 156,
+      "clause": 2,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0333",
+      "type": "legal",
+      "text": ",\nb) Cơ quan, tổ chức có liên quan trực tiếp đến dy án đầu tư, bao gồm: Ủy ban nhân dân cap xã, Uy ban Mặt trận Tô quôc Việt Nam cap xã nơi thực hiện dự án; Ban quản lý, chủ đầu tư xây dựng và kinh doanh hạ tầng khu sản xuất, kinh doanh, dịch vụ tập trung, cụm công nghiệp nơi dự án nằm trong ranh giới quản lý; cơ quan nhà nước quản lý công trình thủy lợi đối với dy án có xả nước thải vào công trình thủy lợi hoặc có chiếm dụng công trình thủy lợi; cơ quan quản lý nhà nước được giao quản lý các kh",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 26,
+      "clause": 32,
+      "auto_clause_type": "permission",
+      "auto_subjects": [
+        "state_agency",
+        "organization"
+      ],
+      "auto_domains": [
+        "water"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0758",
+      "type": "legal",
+      "text": "Trách nhiệm cụ thể quản lý nhà nước về bảo vệ môi trường của một số bộ, cơ quan ngang bộ:\na) Bộ Công Thương chỉ đạo phát triển ngành công nghiệp môi trường;\nphôi hợp tô chức thực hiện các yêu cau về bảo vệ môi trường trong hoạt động quản lý hóa chât, xuât khâu, nhập khâu, sản xuât, kinh doanh, sử dụng chât ô nhiềm khó phân hủy và nguyên liệu, nhiên liệu, vật liệu, sản phâm, hàng hóa, thiệt bị có chứa chat ô nhiễm khó phân hủy theo quy định của pháp luật;\nb) Bộ Xây dựng tổ chức xây dựng, ban hành",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 159,
+      "clause": 2,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency",
+        "organization"
+      ],
+      "auto_domains": [
+        "water",
+        "waste",
+        "recycling"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0727",
+      "type": "legal",
+      "text": "Xử lý, cải tạo, phục hồi chất lượng môi trường, bao gồm:\nXử lý ô nhiễm, cai tạo, phục hồi môi trường đối với khu vực ô nhiễm môi trường dat do lich sử dé lai hoặc không xác định được tô chức, cá nhân gây ô nhiễm, gôm: khu vực bị ô nhiễm tôn lưu hóa chât trong chiên tranh; khu vực bị ô nhiêm tôn lưu hóa chat bảo vệ thực vật; khu vực dat bi ô nhiễm khác thuộc trách nhiệm xử lý của trung ương; xử ly ô nhiém môi trường nước mặt sông, hô liên tỉnh.",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 151,
+      "clause": 2,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "individual"
+      ],
+      "auto_domains": [
+        "waste"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0429",
+      "type": "legal",
+      "text": "Có công trình, thiết bị phòng ngừa, ứng phó sự cỗ môi trường theo quy định của pháp luật. ¬\n\n` 78 :",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 97,
+      "clause": 5,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1372",
+      "type": "legal",
+      "text": "| Phát triển các nhà máy xử lý đốt chất thải rắn phát điện . Các địa phương Bộ TNMT, các Bộ,| 2022-2030 ngành liên quan 26. | Phát triển các dự án điện gió ngoài khơi : Các địa phương Các Bộ: Công 2022 - 2030 Thương, TNMT; các : Bộ, ngành liên quan\n\nSTT Nhóm nhiệm vụ Cơ quan chủ trì | Cơ quan phối hợp Thời gian , thực hién/ hoan thanh 27. | Dé án bảo vệ, phát triển và nâng cao năng suất chất lượng rừng, tăng | Bộ Nông nghiệp và | Các Bộ, ngành, dia} 2022 - 2030 lượng hấp thụ và lưu giữ các-bon t",
+      "source_file": "Quyết định 888 QĐ‑TTg.txt",
+      "article": 3,
+      "clause": 25,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "waste"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0546",
+      "type": "legal",
+      "text": "Điều kiện đối với hoạt động quan trắc hiện trường:\na) Có tối thiểu 02 cán bộ chuyên trách thực hiện hoạt động quan trắc tại\nhiện trường. Trường hợp tổ chức đăng ký hoạt động lấy mẫu hiện trường đối với các thông số ô nhiễm dạng hạt PM (dạng hỗn hợp các hạt rắn và các giọt lỏng) hoặc hợp chất hữu cơ dễ bay hơi (VOC) trong khí thải thì phải có tối thiểu 04 cán bộ chuyên trách thực hiện hoạt động quan trắc tại hiện trường: các cán bộ có đủ năng lực thực hiện quan trắc hiện trường đối với các thông ",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 91,
+      "clause": 3,
+      "auto_clause_type": "obligation",
+      "auto_subjects": [
+        "state_agency",
+        "organization"
+      ],
+      "auto_domains": [
+        "air",
+        "waste"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1437",
+      "type": "legal",
+      "text": "Thông báo kết quả thâm định báo cáo đánh giá tác động môi trường theo quy định tại Mẫu số 09 Phụ lục II ban hành kèm theo Thông tư này.",
+      "source_file": "Thông tư 02 2022 TT-BTNMT.txt",
+      "article": 15,
+      "clause": 7,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "EIA"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1399",
+      "type": "legal",
+      "text": "Bộ Tài nguyên và Môi trường\n- Chủ trì, phối hợp với các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và Ủy ban nhân dân các tỉnh, thành phô trực thuộc trung ương tô chức thực hiện Chiên lược trên phạm vi cả nước; định ky sơ két 5 năm, 10 năm và kiên nghị Thủ tướng Chính phủ quyêt định điêu chỉnh Chiên lược phù hợp với tình hình thực tiên.\n- Chủ trì, phối hợp với các bộ, ngành và địa phương xác định các chương\ntrình, dự án, nhiệm vụ trọng tâm, trọng diém dé thực hiện cam két quôc tê về ‹ biên đô",
+      "source_file": "Quyết định 896 QĐ-TTg.txt",
+      "article": 1,
+      "clause": 1,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "emission"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1327",
+      "type": "legal",
+      "text": "Đổi mới tư duy của các cấp, các ngành; nâng cao nhận thức, ý thức bảo vệ môi trường của doanh nghiệp, cộng đông và người dân\n- Phé biến, nâng cao nhận thức của các cấp, các ngành về quan điểm coi\n: “môi trường là điều kiện, nên tang, là yêu tô tiên quyêt cho phát triên kinh tê -\n\n` 13 xã hội bền vững” theo Kết luận số 56-KL/TW ngày 23 tháng 8 năm 2019 của Bộ Chính trị về tiếp tục thực hiện Nghị quyết Trung ương 7 Khóa XI về chủ động ứng phó với biến đổi khí hậu, tăng cường quản lý tài nguyên và ",
+      "source_file": "Quyết định 450 QĐ‑TTg.txt",
+      "article": 1,
+      "clause": 1,
+      "auto_clause_type": "condition",
+      "auto_subjects": [
+        "state_agency",
+        "enterprise",
+        "organization"
+      ],
+      "auto_domains": [
+        "waste"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0146",
+      "type": "legal",
+      "text": "Đối tượng quy định tại khoản 1 Điều này thực hiện chương trình, dự án theo cơ chế trao đối, bù trừ tín chỉ các-bon trong khuôn khô Công ước khung của Liên hợp quốc về biến đối khí hậu, điêu ước và thỏa thuận quôc tê mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên nộp hô sơ đăng ký đề nghị chấp thuận chương trình, dự án tới Bộ Tài nguyên và Môi trường theo một trong các hình thức: nộp trực tiếp, trực tuyên hoặc gửi qua dịch vụ bưu chính. Hồ sơ dé nghị chap thuận dự án bao gôm:\na) Đơn đề ",
+      "source_file": "Nghị định 06 2022 NĐ-CP.txt",
+      "article": 20,
+      "clause": 2,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1247",
+      "type": "legal",
+      "text": "Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Ủy ban nhân dân các tỉnh, thành phô trực thuộc trung ương\n- Chủ động triển khai các nội dung công việc được phân công trong bảng danh mục nhiệm vụ kèm theo; tập trung huy động và bô trí nguôn lực thực hiện các nhiệm vu, đảm bao chat lượng và tiên độ theo yêu cau;\n- Rà soát các quy hoạch, kế hoạch phát triển ngành, lĩnh vực và địa phương đê lông ghép với các hoạt động của Kê hoạch quôc gia thích ứng với biên đôi khí hậu, đảm bảo tính liên kêt đôn",
+      "source_file": "Quyết định 1055 QĐ-TTg.txt",
+      "article": 7,
+      "clause": 5,
+      "auto_clause_type": "obligation",
+      "auto_subjects": [
+        "state_agency",
+        "enterprise",
+        "organization"
+      ],
+      "auto_domains": [
+        "water",
+        "waste"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1300",
+      "type": "legal",
+      "text": "Y tế thông minh” là cách thức cung cấp các dịch vụ chăm sóc sức khỏe từ phòng bệnh, chân đoán, điều trị, quản lý theo dõi diễn tiến của bệnh ở bất cứ lúc nào và bất cứ nơi đâu bằng cách kết nối các đữ liệu sinh học của con người vào các thiết bị y tế được nhúng nền tảng công nghệ thông tin.\n20 “Phan loại xanh, bền vững” được giải thích trên co sở tham chiếu từ khái niệm hệ thống phân loại các hoạt động kinh tế bền vững hay” làm căn cứ để xác định các mục tiêu năng lượng và khí hậu dén năm 2030 v",
+      "source_file": "Quyết định 1658 QĐ-TTg.txt",
+      "article": 3,
+      "clause": 26,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency",
+        "organization"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0350",
+      "type": "legal",
+      "text": "Hoạt động thẩm định, cấp giấy phép môi trường đối với trường hợp quy định tại khoản 8 Điều này được thực hiện thông qua tổ thậm định do cơ quan có thâm quyền cấp giấy phép môi trường thành lập với không quá 05 thành viên đối với trường hợp thuộc thâm quyền cấp giấy phép môi trường của Bộ Tài nguyên và Môi trường, Bộ Quốc phòng, Bộ Công an; không quá 03 thành viên\n_ đối với trường hợp thuộc thâm quyền cấp giấy phép môi trường của Ủy ban nhân dân cấp tỉnh và Ủy ban nhân dân cấp huyện. Cơ quan cấp ",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 43,
+      "clause": 9,
+      "auto_clause_type": "permission",
+      "auto_subjects": [
+        "state_agency",
+        "organization"
+      ],
+      "auto_domains": [
+        "environmental_permit"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1093",
+      "type": "legal",
+      "text": "Nam Lý, tỉnh Hà Nam Sản xuat xo, sol 5 586\nChi nhánh Tổng Công ty Cổ phần a.ư . ¬ att TTR anh m4",
+      "source_file": "Quyết định 01 2022 QĐ-TTg.txt",
+      "article": 3,
+      "clause": 357,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1493",
+      "type": "legal",
+      "text": "Trước khi bắt dau tiền hành đóng bãi chôn lap, chủ xử lý chat thải phải gửi thông báo tới cơ quan chuyên môn về bảo vệ môi trường cấp tỉnh trên địa bàn về thời gian đóng bãi chôn lap chất thải ran sinh hoạt dé giám sát.",
+      "source_file": "Thông tư 02 2022 TT-BTNMT.txt",
+      "article": 32,
+      "clause": 2,
+      "auto_clause_type": "obligation",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "waste"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0334",
+      "type": "legal",
+      "text": "Nội dung tham vấn khác quy định tại điểm đ khoản 3",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 26,
+      "clause": 2,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0946",
+      "type": "legal",
+      "text": "Phạt tiền từ 80.000.000 đồng đến 150.000.000 đồng đối với một trong các hành vi sau đây:\na) Hoạt động khai thác nguồn lợi, tài nguyên biển và hoạt động khác liên quan đến khai thác, sử dụng tài nguyên biên thực hiện không đúng theo quy hoạch đã được phê duyệt;\nb) Không xử lý đạt quy chuẩn kỹ thuật môi trường đối với chất thải và các yêu tô gây ô nhiễm khác từ hoạt động sản xuất, kinh doanh, dịch vụ, xây dựng, giao thông, vận tải, khai thác trên biên;\nc) Dé, lưu giữ phương tiện vận tai, kho tang,",
+      "source_file": "Nghị định 45 2022 NĐ‑CP.txt",
+      "article": 36,
+      "clause": 2,
+      "auto_clause_type": "obligation",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "waste"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0777",
+      "type": "legal",
+      "text": "Bãi bỏ Nghị định số 38/2015/NĐ-CP ngày 24 tháng 4 năm 2015 của Chính phủ về quản lý chat thai và phê liệu.",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 33,
+      "clause": 8,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0552",
+      "type": "legal",
+      "text": "Hồ sơ đề nghị điều chỉnh nội dung giấy chứng nhận đủ điều kiện hoạt động dịch vụ quan trắc môi trường được lập thành 01 bộ, bao gôm:\na) Văn bản đề nghị điều chỉnh nội dung giấy chứng nhận đủ điều kiện hoạt động dich vụ quan trắc môi trường thực hiện theo mau quy định tại Phụ luc XXVII- ban hành kèm theo Nghị định này;\nb) Hồ sơ năng lực của tô chức thực hiện theo mẫu quy định tại Phụ luc XXVI ban hành kèm theo Nghị định này.",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 94,
+      "clause": 3,
+      "auto_clause_type": "procedure",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "general_environment"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1310",
+      "type": "legal",
+      "text": "Lộ trình triển khai thị trường các-bon ¡ ¬\na) Giai đoạn thực hiện thí điểm từ năm 2025 đến hết năm 2028\n- Triển khai thực hiện thí điểm thị trường các-bon trên toàn quốc. Việc chuyên nhượng tín chỉ các-bon, kêt quả giảm nhẹ phát thải khí nhà kính cho đôi tác nước ngoài, quôc tê được nghiên cứu, quy định cụ thê tại các văn bản quy phạm pháp luật và được cấp có thâm quyền xem xét, quyết định.\n- Toàn bộ hạn ngạch phát thải khí nhà kính được nghiên cứu, xem xét phân bé miễn phí cho các cơ sở phát th",
+      "source_file": "Quyết định 232 QĐ‑TTg.txt",
+      "article": 6,
+      "clause": 6,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "emission"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1409",
+      "type": "legal",
+      "text": "Chủ nguồn thải là tô chức, cá nhân sở hữu hoặc được giao quản ly, điều hành cơ sở phát sinh chất thải.",
+      "source_file": "Thông tư 02 2022 TT-BTNMT.txt",
+      "article": 3,
+      "clause": 1,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency",
+        "individual"
+      ],
+      "auto_domains": [
+        "waste"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1140",
+      "type": "legal",
+      "text": "| Công ty Đường Quảng Ngãi Quảng Ngãi Sản xuât đường các loại 3.155 A Rak ot Gà: ca KCN Quang Phú, thành phố Quảng Ngãi, tinh | Sản xuất bia và mach nha ủ 789. | Công ty Cô phân Bia Sài Gòn Quảng Ngãi men bia 1.384 Nhà máy sản xuất tinh bột mì Quảng | ........ ˆ ae ; .. | Sản xuất tinh bột và các sản má 790. Ngãi (cơ sở Tinh Phong Xã Tịnh Phong, huyện Sơn Tịnh, tỉnh Quảng Ngãi nhẳm từ tỉnh bột 1017 4. Tỉnh Bình Định R aA Cụm công nghiệp Cat Trinh, xã Cat Trinh, huyện | ,, Ất Đà x 791. | Công ty ",
+      "source_file": "Quyết định 01 2022 QĐ-TTg.txt",
+      "article": 3,
+      "clause": 788,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency"
+      ],
+      "auto_domains": [
+        "plastic"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_0449",
+      "type": "legal",
+      "text": "Giảm thiểu chất thai rắn phát sinh thông qua việc áp dụng các giải pháp tăng hiệu quả sản xuât hoặc hiệu quả sử dụng sản phâm.\n| 3. Việc sử dung sản phẩm thải bd, chất thai rắn phát sinh trong hoạt động ' sản xuất, kinh doanh, dich vụ và tiêu ding phải theo nguyên tắc tận dụng tối da giá trị của sản phâm thải bỏ, chât thải răn thông qua việc áp dụng các giải pháp\ntheo thứ tự ưu tiên sau:\na) Tái sử đụng sản phẩm thải bỏ; .\nb) Sửa chữa, bảo dưỡng, bao trì hoặc nâng cấp sản phẩm bị lỗi, sản phẩm cũ",
+      "source_file": "Nghị định 08 2022 NĐ-CP.txt",
+      "article": 56,
+      "clause": 2,
+      "auto_clause_type": "obligation",
+      "auto_subjects": [
+        "unspecified"
+      ],
+      "auto_domains": [
+        "waste",
+        "recycling"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    },
+    {
+      "id": "legal_1402",
+      "type": "legal",
+      "text": "Các Bộ: Công Thương, Giao thông vận tải, Nông nghiệp và Phát triển nông thôn, Xây dựng\n_ 7 Rà soát, sửa đổi, bỗ sung các luật chuyên ngành, chiến lược, quy hoạch, kê hoạch ngành phù hợp với các mục tiêu thích ứng với biên đôi khí hậu và giảm phát thải khí nhà kính; xây dựng và thực hiện kê hoạch giảm phát thải khí nhà kính các lĩnh vực theo lộ trình đạt mức phát thải ròng băng “0” vào năm 2050..\n_ 7 Tăng cường năng lực triển khai Thỏa thuận Paris và các tuyên bố, cam kêt của Việt Nam tại Hội ngh",
+      "source_file": "Quyết định 896 QĐ-TTg.txt",
+      "article": 1,
+      "clause": 4,
+      "auto_clause_type": "general",
+      "auto_subjects": [
+        "state_agency",
+        "organization"
+      ],
+      "auto_domains": [
+        "emission"
+      ],
+      "human_clause_type": "",
+      "human_subjects": [],
+      "human_domains": [],
+      "notes": ""
+    }
+  ],
+  "business_samples": [
+    {
+      "id": "biz_0041",
+      "type": "business",
+      "text": "Avonmenfa/ , c‹# e E - Environmental: Môi trường liên quan E đến cách doanh nghiệp quản lý tài nguyên, giảm khí thải và xử lý chất thải.\nvi PHANG ° : social: éu tố lu 1 tap trung vào điều eo anes nose Energy Group kiện lao động, quyền lợi người lao động va cộng đồng.\n° ong g LÃ % e G - Governance: Quan trị đề cập đến cách 2, tổ chức hoạt động minh bach, trách nhiệm và hiệu quả.\nIn today's market, sustainability is the new currency. Consumers are increasingly scrutinizing the brands they support,",
+      "source_file": "The green revolution ESG_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "compliance",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0007",
+      "type": "business",
+      "text": "Commission européenne/Europese Commissie, 1049 Bruxelles/Brussel, BELGIQUE/BELGIË – Tel. +32 22991111 EUROPEAN COMMISSION DIRECTORATE-GENERAL TAXATION AND CUSTOMS UNION Indirect Taxation and Tax Administration CBAM, Energy and Green Taxation Brussels, 22 December 2023 DEFAULT VALUES FOR THE TRANSITIONAL PERIOD OF THE CBAM BETWEEN 1 OCTOBER 2023 AND 31 DECEMBER 2025\n2 CONTENTS 1 INTRODUCTION 3 2 DEFAULT VALUES FOR CBAM GOODS OTHER THAN ELECTRICITY IN THE TRANSITIONAL CBAM PERIOD 5 2.1 General 5 2",
+      "source_file": "Default values transitional period_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": true,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0029",
+      "type": "business",
+      "text": "Strengthening Sustainability in the Textile Industry\nINTERNATIONAL FINANCE CORPORATION 2 About IFC IFC—a member of the World Bank Group—is the largest global development institution focused on the private sector in emerging markets. We work in more than 100 countries, using our capital, expertise, and influence to create markets and opportunities in developing countries.\nIn fiscal year 2022, IFC committed a record $32.8 billion to private companies and financial institutions in developing countr",
+      "source_file": "IFC Sustainability Report for textile sector._paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0004",
+      "type": "business",
+      "text": "© Shutterstock / ANAID Studio NGHIÊN CỨU KHẢ THI TIỀM NĂNG TÍN DỤNG XANH CỦA NGÀNH DỆT MAY VIỆT NAM\n© Shutterstock / Onizu3d LỜI CẢM ƠN WWF là một trong những tổ chức phi chính phủ quốc tế đầu tiên hoạt động tại Việt Nam. Từ năm 1985, WWF đã hỗ trợ Việt Nam xây dựng chiến lược bảo tồn quốc gia và kể từ đó hợp tác chặt chẽ với chính phủ và các đối tác nhằm giải quyết những thách thức môi trường tại Việt Nam. WWF-Việt Nam là một phần của WWF–Greater Mekong bao gồm WWF-Campuchia, WWF-Lào, WWF-Thái ",
+      "source_file": "Báo cáo của IFC World Bank về Xanh hóa ngành dệt may Việt Nam._paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": true,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0040",
+      "type": "business",
+      "text": "Studies Management and Finance Economics, of Journal 0504 - 2644 (online):\nISSN 0490, - 2644 (print):\nISSN 5 202 March 03 Issue 8 0 Volume 8.317 Factor:\nImpact , 18 - i3 - 10.47191/jefms/v8 DOI:\ncle Arti 11 16 - 4 60 1 No:\nPage JEFMS, Volume 08 Issue 03 March 2025 www.ijefm.co.in Page 1604 Sustainable Development of Textile and Apparel Supply Chain for Garment Exporting Companies in Vietnam in the Current Green Context Thi Cam Loan Nguyen University of Finance – Marketing, Vietnam Email: camloan",
+      "source_file": "Sustainable Development of Textile and Apparel Supply Chain_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": true,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0051",
+      "type": "business",
+      "text": "20 Page 4 of 37 Materials Circular Economy (2025) 7:20 provided real-world examples of Industry 5.0 implementa- clothing industry has been crucial to the historical develop- tions in apparel manufacturing that provide practical insights ments of industrial revolutions.\ninto successful strategies. In the final part, the review identi- fied future challenges and opportunities including existing gaps, | Industry 1.0 potential advancements, and the role of policy frameworks in shaping the industry. ",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0034",
+      "type": "business",
+      "text": "3 BACKGROUND 1.\nTextile industry is one of the key economic drivers in Vietnam as the textile and garment export valued at USD 31 billion in 2017, increased at 10.23% compared to 2016 figures1; and is expected to reach USD 34 billion by the end of 20182. The sector is a heavy energy and water user/polluter while remains weak in waste treatment. Normally, textile manufacturing consumes a significant amount of energy for machinery operation and great volume of domestic water for water boiling and ",
+      "source_file": "MAPPING EXISTING POLICIES, INITIATIVES,_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0008",
+      "type": "business",
+      "text": "© 2024 Deloitte The Netherlands Automatically create and submit quarterly CBAM xml Reports.\nStandardized simplified communication and process management controls that enables you to request relevant CBAM data and documentation from suppliers or producers.\nAutomated direct and indirect emission allocation to EU imports, either through a fully automatic system-to-system interface, a batch upload or a manual entry of import and emissions data.\nReporting model and content is kept up-to- date and mai",
+      "source_file": "deloitte-nl-tax-cbam-compliance-manager_two-pager_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk"
+      ],
+      "auto_cbam_relevance": true,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0027",
+      "type": "business",
+      "text": "Impacts of CBAM in ASEAN Countries\nStrong trade ties between ASEAN and the EU mean the CBAM will have a noticeable influence, although the severity will differ across the region. This is because some countries rely more heavily on exports with high carbon footprints. Indonesia, Malaysia, Thailand, and Vietnam are likely to be most affected due to their significant exports in sectors covered by CBAM. Conversely, Cambodia, Lao PDR, Myanmar, and Singapore are expected to see minimal impacts as thei",
+      "source_file": "How does CBAM Impact Southeast Asian Economies_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": true,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0072",
+      "type": "business",
+      "text": "Materials Circular Economy (2025) 7:20 Page 250f37 20 Enablers and Future Directions of Industry flexible manufacturing, which enables clothing brands to 5.0 in the Clothing Industry efficiently generate small-batch or on-demand orders and quickly adjust to market changes. Production systems that The clothing industry stands to gain greatly from Industry are interconnected improve the visibility and responsive- 5.0, which ushers in a new era of innovation, sustainabil- ness of the supply chain, ",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0088",
+      "type": "business",
+      "text": "20 | NATIONAL STRATEGY TO BOOST VIETNAM’S TEXTILE AND GARMENT PRODUCTIVITY THROUGH INNOVATION AND TECHNOLOGY CURRENT STATE OF THE TEXTILE AND GARMENT INDUSTRY IN VIETNAM VIETNAM INCREASINGLY SHIFTED TOWARD ENERGY-INTENSIFIED PRODUCTION OVER TIME Source: UNESCAP and DEPP, 2023 FIGURE 13 0 2,000 4,000 6,000 8,000 10,000 12,000 14,000 Mining Food, beverage and tobacco processing Textile Wood and products from wood Pulp and paper Chemical production Metallic production Manufacturing machinery and eq",
+      "source_file": "Vietnam‘s-Textile-and-Garment-Sector_PUB_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": true,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0084",
+      "type": "business",
+      "text": "Materials Circular Economy (2025) 7:20 Page 37 of 37. 20 temperature and optical brightening agent concentration on vari- Zou C, Zhao Q, Zhang G, Xiong B (2016) Energy revolution: from a ous properties of stretch denim fabric. Int J Syst Eng 5(1):43. fossil energy era to a new energy era. Nat Gas Industry B 3(1):I— https://doi.org/10.11648/j.ijse.20210501.16 11. https://doi.org/10.1016/j.ngib.2016.02.001\nZhang C, Wang Z, Zhou G, Chang F, Ma D, Jing Y, Cheng W, Ding Zulfiqar A, Manzoor T, Ijaz MB",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "neutral",
+      "auto_focus": [
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0063",
+      "type": "business",
+      "text": "20 Page 16 of 37 Materials Circular Economy (2025) 7:20 more sustainable and customized solutions in apparel manu- deeper connection between manufacturers and consumers facturing, leading to a more human-centered approach inthe (Jin and Muqaddam 2019; Vadicherla and Saravanan 2015).\nadvancement of smart manufacturing technologies.\nSustainable Production Integration of Robotics Industry 5.0 places a strong emphasis on sustainability in the Industry 5.0 brings Cobots system with active and direct ",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "compliance",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0050",
+      "type": "business",
+      "text": "Materials Circular Economy (2025) 7:20 Page 30f37 20 manufacturing of clothing. The steps undertaken to conduct __ Inclusion Criteria this review are described in the following sub-sections.\nThe transition from Industry 4.0 to Industry 5.0 in textile and Database Selection and Keyword Strategy apparel manufacturing has gained significant attention with research focusing on sustainable and additive manufacturing An extensive search was conducted using Google Scholar and technologies in apparel pr",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0058",
+      "type": "business",
+      "text": "Materials Circular Economy (2025) 7:20 Page 11o0f37 20 Blockchain Protective s 3D printing textiles o Technologies for ac:\nElectrospinning e—————— = additive = \" ‘2 —————9Aufomation [ manufacturing = = ° Wearables Multi-functional (A) @ (5) textiles Cobots Fig.4 Technologies for implementing Industry 5.0 in the clothing sector visualize and simulate apparel clothing items in real-time. It | on-demand production based on specific body measurements enhances creativity and reduces errors during the",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "compliance",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0018",
+      "type": "business",
+      "text": "Rooftop solar panels are a primary way factories like Viet Long are investing in clean energy - these initiatives are often influenced by sourcing brands.\nYet, new challenges continue emerge for brands and factories alike as they try to meet their goals.\n“We were asked by brands to reduce our CO2 emissions by 2030. To meet such requirements, we installed solar panels on our facilities rooftops. Still, the resulting electricity would merely cover 10-20% of our needs.\nFor the rest, we need to buy ",
+      "source_file": "Greening Viet Nam’s textile and garment_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "compliance",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0033",
+      "type": "business",
+      "text": "Prepared by MCG Management Consulting December 2018 For further information, please contact:  Ms. Shannon Siyao Wang, WWF Greater Mekong, shannon.siyaowang@wwfgreatermekong.org  Mr. Viet Hoang, WWF Vietnam, viet.hoang@wwf.org.vn MAPPING EXISTING POLICIES, INITIATIVES, STAKEHOLDERS AND GAPS TO SUPPORT TEXTILE SECTOR WITH SUSTAINABILITY TRANSITION IN VIETNAM REPORT ON KEY FINDINGS\nTable of Content Background ........................................................................................",
+      "source_file": "MAPPING EXISTING POLICIES, INITIATIVES,_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0017",
+      "type": "business",
+      "text": "Still, those efforts come at a difficult time. Garment factories have been facing a decline in orders over the last year. Exports decreased by nearly 17.7% year over year (YoY) in the first quarter of 2023, according to statistics from the General Department of Viet Nam Customs. Garment factories are placed in a precarious position - to manage the financial strain while also prioritizing energy-saving and emission- reducing measures.\n“We are facing the challenges of the country’s economic downtu",
+      "source_file": "Greening Viet Nam’s textile and garment_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "compliance",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0031",
+      "type": "business",
+      "text": "COMMISSION IMPLEMENTING REGULATION (EU) 2025/486 of 17 March 2025 laying down rules for the application of Regulation (EU) 2023/956 of the European Parliament and of the Council as regards the conditions and procedures related to the status of authorised CBAM declarant THE EUROPEAN COMMISSION, Having regard to the Treaty on the Functioning of the European Union, Having regard to Regulation (EU) 2023/956 of the European Parliament and of the Council of 10 May 2023 establishing a carbon border adj",
+      "source_file": "Implementing Regulation (EU) 2025 486_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "compliance",
+        "competitiveness",
+        "risk"
+      ],
+      "auto_cbam_relevance": true,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0071",
+      "type": "business",
+      "text": "20 Page 24 of 37 Materials Circular Economy (2025) 7:20 pollution and greenhouse gas emissions. Additionally, there | achieved by implementing advanced technologies including is a need for new standards and regulations to ensure that automation, robots, and AI-driven process optimization (H.- sustainability efforts align with global environmental goals, 'W. Hsu et al. 2024a, b; Senthilkannan Muthu Editor 2020).\nwhich can be slow to develop. Textile industries need to These technologies aid in wa",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0068",
+      "type": "business",
+      "text": "Materials Circular Economy (2025) 7:20 Page 21o0f37 20 track a product’s lifecycle, optimize its use, and ensure the Challenges of Implementing Industry 5.0 materials are repurposed at the end of life, thus reducing waste and promoting sustainability (Andrews 2015). Itnot The transition from Industry 4.0 to Industry 5.0 presents a only minimizes environmental impacts but also opens new number of challenges for the clothing industry. It promises avenues for business models focused on apparel repa",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0076",
+      "type": "business",
+      "text": "Materials Circular Economy (2025) 7:20 Page 29 of 37 20 manufacturers and recyclers using digital platforms and of decentralized and intelligent manufacturing models that marketplaces. Additionally, Industry 5.0 promotes sustain- | encourage mass personalization of clothing while adhering able practices by facilitating the use of renewable materials, to circular economy principles. Investigating the long-term recycling, and reducing carbon footprints, all while main- impact of Industry 5.0 on th",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "compliance",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0054",
+      "type": "business",
+      "text": "Materials Circular Economy (2025) 7:20 Page 7of37 20 expertise remains central for decision-making. Addition- | Human-Machine Centricity ally, hyper-personalization enables customized production designed to individual preferences using advanced data ana- Industry 5.0 places a strong emphasis on collaboration lytics. Cobots play a significant role in this specific approach = between humans and machines while acknowledging its as it works alongside human to improve productivity, safety, own specia",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "compliance",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0087",
+      "type": "business",
+      "text": "NATIONAL STRATEGY TO BOOST VIETNAM’S TEXTILE AND GARMENT PRODUCTIVITY THROUGH INNOVATION AND TECHNOLOGY | 7 CURRENT STATE OF THE TEXTILE AND GARMENT INDUSTRY IN VIETNAM AVERAGE MONTHLY WAGE ACROSS COUNTRIES Source: ILO labor survey FIGURE 3 362 275 250 218 161 144 139 120 Thailand Vietnam Cambodia Philippines Current $US Sri Lanka Bangladesh Myanmar Pakistan Despite these competitive wages, employment in the sector is characterized by a high proportion of temporary contractual arrangements. Whil",
+      "source_file": "Vietnam‘s-Textile-and-Garment-Sector_PUB_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0046",
+      "type": "business",
+      "text": "— — 8Ô. \"= = - ee ¬¬—=_— =.\n` : : :\n= | mm s R :\nEclat Fabric factory solar power project - Vung Tau - 1.2 MWp Total Men Chuen - Dong Nai, Vietnam The Total Men Chuen project, commissioned in 2020, boasts a 1 MWp capacity. It features 2,348 high-efficiency Jinko 405W solar panels, nine Huawei inverters, and a robust support frame and cabling system designed for over 30 years of durability. This solar power system enables the client to significantly reduce monthly electricity costs, boost product",
+      "source_file": "The green revolution ESG_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0028",
+      "type": "business",
+      "text": "Malaysia €Q Asuene IMPACTS OF CBAM IN ASEAN COUNTRIES Price mechanism on carbon intensive goods entering the EU EU's Ranking as ¬ vi #3 #5 #4 #4 ——— 14.4 74 10 7.9 ana 5 6.2 1.49 7.9 Most Impacted Sector Iron & Steel Iron & Steel Iron & Steel Iron & Steel The European Union (EU) is a significant and growing trade partner for Malaysia, accounting for 7.9% of its total trade and ranking as its 4th largest export destination in 2022. This market holds even greater potential, with Malaysian exports ",
+      "source_file": "How does CBAM Impact Southeast Asian Economies_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": true,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0075",
+      "type": "business",
+      "text": "20 Page 28 of 37 Materials Circular Economy (2025) 7:20 preferences, style choices, and body measurements. It allows like AI, automation, and smart materials, clothes can be them to provide personalized recommendations and made- designed to be recyclable from the start (Kazancoglu et al.\nto-order clothes. It can include using surveys, focus groups, 2023). It allow apparels to be taken apart and their mate- and digital analytics to collect and analyze data directly from rials reused, cutting down",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "compliance",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0065",
+      "type": "business",
+      "text": "(2025) 7:20 Circular Economy 5.0. The ials Ci ry 9. \" Materi rating Indust , relation- f incorpo rmoniou see- ds o a ha 5 over ck recor tential for ith workers ci- ccessful tra trates the po human, wih ta-driven de :\nsu ms d ata- mar ility demo ines an dles nds : ° facility d n machines the AI han lvement a ative Page 18 of 3 S hip betwee ks while human invo and innov. 1 a s lex tasks wl of hu tive, evolv- 20 — s ing comp bination ilient, adap meet the re || SBS a = s ions. ds to m ing indus rov",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0080",
+      "type": "business",
+      "text": "Materials Circular Economy (2025) 7:20 Page 33 of 37 20 in emerging economies. Inf Syst Front. https://doi.org/10.1007/ Lee Y-A (2022) Trends of emerging technologies in the fashion product $10796-023-10430-5 design and development process. In Leading Edge Technolo- Khan M, Haleem A, Javaid M (2023) Changes and improvements in gies in Fashion Innovation, Springer International Publishing, pp Industry 5.0: a strategic approach to overcome the challenges of 1-16. https://doi.org/10.1007/978-3-030-",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "cost",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0011",
+      "type": "business",
+      "text": "Vietnam's Textile and Garment Industry (H1 2024) Export turnover in 2024 (Projected): US$44 billion \"¬ 9 Growth rate: 5.04% y-o-y ae » _Ö@ Industry annual growth rate (Projected): 8-10% ) k=› | I I iN FDI capital: US$37 billion; 3,500 projects (As of May 13, 2024) / ‘4 / « ý FDI firms made up 65% of total export revenues (As of May 13, 2024) @ Leading localities with FDI firms in textile and garment sector:\nDong Nai, Binh Duong, Tay Ninh, Long An, Nam Dinh, Hai Duong, and Binh Phuoc Source: GSO,",
+      "source_file": "FDI, Export Targets to Propel Sustainability_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0048",
+      "type": "business",
+      "text": "Materials Circular Economy (2025) 7:20 https://doi.org/10.1007/s42824-025-00176-7 REVIEW ® “updates.\nTransitioning from Industry 4.0 to Industry 5.0 for Sustainable and Additive Manufacturing of Clothing: Framework, Case Studies, Recent Advances, and Future Prospects Md.Tareque Rahaman! - Arnob Dhar Pranta! - Samin Ahmed?\nReceived: 28 February 2025 / Revised: 24 March 2025 / Accepted: 26 April 2025 ©The Author(s), under exclusive licence to Springer Nature Singapore Pte Ltd. 2025 Abstract Indust",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0003",
+      "type": "business",
+      "text": "VU Kim Ngan NGUYEN Ngoc Ha HOANG Thi Minh Hang TRAN Phuong Ngoc TRAN Duc Phu LE Thi Thanh Tam September 2024 © 2024 International Institute for Sustainable Development | IISD.org Border Carbon Adjustment Mechanisms and Impacts on Vietnam IISD REPORT\n© 2024 International Institute for Sustainable Development Published by the International Institute for Sustainable Development This publication is licensed under a Creative Commons Attribution- NonCommercial-ShareAlike 4.0 International License.\nInt",
+      "source_file": "border-carbon-adjustments-vietnam_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": true,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0055",
+      "type": "business",
+      "text": "20 Page 8 of 37 Materials Circular Economy (2025) 7:20\nAdvanced Data analytics the continuous optimization and troubleshooting without\ndisrupting actual operations (Javaid et al. 2023; Leng et al.\nAdvanced data analytics plays a pivotal role in enhancing 2021). The clothing industry can be particularly beneficial decision making and optimizing processes. Industry 5.0 through digital twins as it has the traits to test and simu- uses big data analytics and machine learning, among other late proces",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0091",
+      "type": "business",
+      "text": "Vietnam's garment-textile industry stitching a greener, smarter future Supported by 17 next-generation free trade agreements (FTAs) already in effect, the industry is poised for further growth, targeting 48 billion USD in export revenue this year.\nA garment factory in Dong Nai province (Photo: VNA) Hanoi (VNA) - Vietnam, the world’s second largest garment-textile exporter, is betting on green fabric to cement its place in the global supply chain.\nAccording to Chairman of the Vietnam Textile and ",
+      "source_file": "Vietnam’s garment-textile_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0009",
+      "type": "business",
+      "text": "Carbon Border Adjustment Mechanism (CBAM)\n03 Carbon Border Adjustment Mechanism (CBAM) The EU ETS | Reducing industrial emissions • The EU Emissions Trading System is the core EU mechanism that ensures industrial decarbonisation in line with the Green Deal. It aims to achieve this by reducing the permitted cap on GHG emissions of the target sectors over time, and reducing the allotted free emission allowances.\n• The Green Deal provides a roadmap and sets goals to reach climate neutrality by 2050",
+      "source_file": "EU Carbon Border Adjustment Mechanism (CBAM) – Deloitte_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": true,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0082",
+      "type": "business",
+      "text": "Materials Circular Economy (2025) 7:20 Page 350f37 20 Technol, Market, Complexity 10(4):100435. https://doi.org/10. on Industry 5.0 pillars for textile SMEs, pp 602-624. https://doi.\n1016/j.joitmce.2024.100435 org/10.1007/978-3-03 1-30592-4_40\nRahaman MT, Hasan MK, Shakib M, Khan H (2025a) Environmental Rejeb A, Simske S, Rejeb K, Treiblmaier H, Zailani S (2020) Internet impact measurement and chromatic performance evaluation of things research in supply chain management and logistics: a of deni",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0010",
+      "type": "business",
+      "text": "e eye FDI, Export Targets to Propel Sustainability e e k4 lj e Adoption in Vietnam's Garment and Textile oste Vietnam Briefing tte Vu Nguyen Hanh ec e: 6 minutes The stakes are high for Vietnam's garment and textile sector as key exports markets and competing producer markets intensify their push for green targets, influencing brand appeal to consumers and sourcing decisions by global fashion retailers.\nAccording to the Vietnam Textile and Apparel Association (VITAS), as FIND BUSINESS SUPPORT of",
+      "source_file": "FDI, Export Targets to Propel Sustainability_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0079",
+      "type": "business",
+      "text": "20 Page 32 of 37 Materials Circular Economy (2025) 7:20 Design, Technol Educ 16(3):319-329. https://doi.org/10.1080/ Igarashi Y, Igarashi T, Suzuki H (2008) Knitting a 3D model. Com- 17543266.2023.2209589 puter Graphics Forum 27(7):1737—1743. https://doi.org/10.\nGhobakhloo M, Iranmanesh M, Morales ME, Nilashi M, Amran A 1111/j.1467-8659.2008.01318.x (2023) Actions and approaches for enabling Industry 5.0-driven Ingaldi M, Ulewicz R (2019) Problems with the implementation of sustainable industria",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "cost",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0043",
+      "type": "business",
+      "text": "In Vietnam, where the textile industry forms a significant portion of national exports, robust ESG implementation is becoming a prerequisite for accessing premium markets, retaining customers, and enhancing brand value. Furthermore, to export to demanding markets like the US and Europe, Vietnamese textile enterprises must provide clear evidence of carbon neutrality. The EU’s Carbon Border Adjustment Mechanism (CBAM), effective from January 1, 2026, particularly underscores the urgent need for Vi",
+      "source_file": "The green revolution ESG_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": true,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0081",
+      "type": "business",
+      "text": "20 Page 34 of 37 Materials Circular Economy (2025) 7:20\nMitra S, Datta PP (2014) Adoption of green supply chain management Ozdamar Ertekin Z, Atik D (2015) Sustainable markets. J Macromark practices and their impact on performance: an exploratory study 35(1):53-69. https://doi.org/10.1177/02761467 14535932 of Indian manufacturing firms. Int J Prod Res 52(7):2085-2107. Ozdemir V, Hekim N (2018) Birth of Industry 5.0: making sense of https://doi.org/10.1080/00207543.2013.849014 big data with artif",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "cost",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0038",
+      "type": "business",
+      "text": "REGULATION (EU) 2025/2083 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 8 October 2025 amending Regulation (EU) 2023/956 as regards simplifying and strengthening the carbon border adjustment mechanism (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 192(1) thereof, Having regard to the proposal from the European Commission, After transmission of the draft leg",
+      "source_file": "Regulation (EU) 2025 2083_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": true,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0089",
+      "type": "business",
+      "text": "NATIONAL STRATEGY TO BOOST VIETNAM’S TEXTILE AND GARMENT PRODUCTIVITY THROUGH INNOVATION AND TECHNOLOGY | 35 MEGATRENDS IN THE TEXTILE AND GARMENT INDUSTRY IN VIETNAM A SNAPSHOT OF SOME SUSTAINABILITY STANDARDS AND CERTIFICATIONS FIGURE 21 Environmental Management Standards:\nClimate and net zero frameworks:\nEnergy Management Standards:\nSocial Responsibility:\n• \u0007ISO 14001: Environmental Management Systems ISO 14064-1: Greenhouse Gas Inventories (Part 1) ISO 14064-2: Greenhouse Gas Projects (Part ",
+      "source_file": "Vietnam‘s-Textile-and-Garment-Sector_PUB_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": true,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0024",
+      "type": "business",
+      "text": "Commission européenne/Europese Commissie, 1049 Bruxelles/Brussel, BELGIQUE/BELGIË – Tel. +32 22991111 EUROPEAN COMMISSION DIRECTORATE-GENERAL TAXATION AND CUSTOMS UNION Indirect Taxation and Tax Administration CBAM, Energy and Green Taxation Brussels, 30 May 2024 GUIDANCE DOCUMENT ON CBAM IMPLEMENTATION FOR IMPORTERS OF GOODS INTO THE EU This guidance document represents the views of the European Commission Services at the time of publication. It is not legally binding.\n2 VERSION HISTORY Date Ve",
+      "source_file": "Guidance document on CBAM implementation for importers of goods into the EU_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": true,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0060",
+      "type": "business",
+      "text": "Materials Circular Economy (2025) 7:20 Page 13 of 37. 20 many manufacturing components work independently, mak- 5.0 can be capable of critical thinking, problem-solving, crea- ing coordination and data management more challenging, its tivity, and technical proficiency (Giirdiir Broo et al. 2022).\nfragmented systems and lack of interoperability can result Textile manufacturers need to make investments in employee in inefficiencies in the apparel manufacturing industry (Dil- _ training and upskill",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "cost",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0052",
+      "type": "business",
+      "text": "Materials Circular Economy (2025) 7:20 Page5of37 20 Industry 2.0 Industry 5.0 Technological developments in the late nineteenth and early A new transition in manufacturing is emerging with the twentieth century had taken place in textile manufacturing advent of “Industry 5.0” which emphasizes the easier combi- (Rosenberg 1963). The clothing industry observed initial nation of human skills and advanced technology (Grabowska technological improvements during the 2\" industrial revolu- et al. 2022).",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0090",
+      "type": "business",
+      "text": "NATIONAL STRATEGY TO BOOST VIETNAM’S TEXTILE AND GARMENT PRODUCTIVITY THROUGH INNOVATION AND TECHNOLOGY | 99 APPENDIX THE PRODUCTION STRUCTURE OF NON-PROCESSING BUNDLE AND NON-TECHNOLOGY BUNDLE INDUSTRIES.\nSource: Pant (2007); Cai et al. (2015) FIGURE 2.2 Source n CES function Import Source 1 Source n Source 1 Domestic CES function Nat.Res.\nCapital Labor Land Electricity Petrol Gas Coal CES Function Factor composite CES/Leontief Function Energy-factor composite CRESH Function Energy composite Le",
+      "source_file": "Vietnam‘s-Textile-and-Garment-Sector_PUB_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0073",
+      "type": "business",
+      "text": "20 Page 26 of 37 Materials Circular Economy (2025) 7:20 - _ scale, enhancing customization options for consumers while Physical < Virtual reducing waste and optimizing production efficiency (Di World World ` Maio et al. 2017). Real-time monitoring of manufacturing if \\ À parameters is made possible by sensors and AI-driven sys- ` HH can and suman có AI = Ho ALS \\ tems, which enables manufacturers to promptly detect flaws {0ä saatantabs Si SSt2REesopsrbi| storage and | or departures from quality ",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "compliance",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0016",
+      "type": "business",
+      "text": "Greening Viet Nam’s textile and garment sector: a high stakes challenge 19 Jul 2023 HO CHI MINH CITY, Viet Nam - With a coastline stretching more than 3,000 kilometres, Viet Nam is one of the world’s most vulnerable countries to climate change and sea level rise. It’s also one of the most carbon intensive economies in Asia.\nThe country’s rapid economic growth, urbanization, and industrialization over the last 30 years have been powered by a coal-dependent energy supply that has resulted in some ",
+      "source_file": "Greening Viet Nam’s textile and garment_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "compliance",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0035",
+      "type": "business",
+      "text": "EN EN EUROPEAN COMMISSION Brussels, 26.2.2025 COM(2025) 84 final 2025/0040 (COD) Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulations (EU) 2015/1017, (EU) 2021/523, (EU) 2021/695 and (EU) 2021/1153 as regards increasing the efficiency of the EU guarantee under Regulation (EU) 2021/523 and simplifying reporting requirements\nEN 1 EN EXPLANATORY MEMORANDUM 1. CONTEXT OF THE PROPOSAL • Reasons for and objectives of the proposal The Commission emphasises the im",
+      "source_file": "Proposal to simplify CBAM - Omnibus II_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0000",
+      "type": "business",
+      "text": "RESEARCH REVIEW International Journal of Multidisciplinary e-ISSN: 2455-3085 | Vol.08 | No.03 | March 2023 | pp. 42-51 Double-Blind Peer Reviewed/Refereed Journal https://rrjournals.com/ 42 RESEARCH PAPER The Impact of ESG Practices on Business Performance in Vietnam: A Study of the Textile and Garment Industry *1Thi Ngoc Do, 2Thi Ngoc Huyen Nguyen, 3Thu Huong Tran & 4Thi Thuy Tien Tong 1,2,3,4School of Trade and International Economics, National Economics University, 207 Giai Phong Road, Hai Ba",
+      "source_file": "42-51_RRIJM20230803007_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0059",
+      "type": "business",
+      "text": "20 Page 12 of37 Materials Circular Economy (2025) 7:20 3D Printed Accessories production process from material sourcing to final product delivery.It enhances the reliability of product information, Industry 5.0 represents a paradigm transition where human = minimizes fraud, and improves accountability. The integra- intelligence, creativity, and collaboration are integrated tion of blockchain with IoT devices further elevates Indus- with advanced technologies. In the realm of 3D printing, try 5.0",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0086",
+      "type": "business",
+      "text": "The Asian Productivity Organization (APO) is an intergovernmental organization that promotes productivity as a key enabler for socioeconomic development and organizational and enterprise growth. It promotes productivity improvement tools, techniques, and methodologies; supports the National Productivity Organizations of its members; conducts research on productivity trends; and disseminates productivity information, analyses, and data. The APO was established in 1961 and comprises 21 members.\nAP",
+      "source_file": "Vietnam‘s-Textile-and-Garment-Sector_PUB_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0066",
+      "type": "business",
+      "text": "Materials Circular Economy (2025) 7:20 Page 190f37 20 shoes. Adidas provides consumers personalized items while clothing items throughout the supply chain is made possible cutting lead times and waste by combining digital design by the radio-frequency identification (RFID) and NFC (near tools with localized production (Galluccio 2022). field communication) technologies included in these labels (Schaefer and Cheung 2018). Avery Dennison assists tex- Patagonia’s Worn Wear Initiative tile manufactu",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0021",
+      "type": "business",
+      "text": "Greening Textile Industry in Vietnam Nguyen Thi Phuong Loan\nThesis committee Thesis supervisors Prof. dr. ir. A.P.J. Mol Professor of Environmental Policy, Wageningen University Prof. dr. ir. W.H. Rulkens Professor of Environmental Technology, Wageningen University Thesis co-supervisor Dr. ir. H. Bruning Assistant professor, Sub-department Environmental Technology, Wageningen University Other members Prof. dr. C. Kroeze, Wageningen University Prof. dr. ir. J. B. van Lier, Delft University of Tec",
+      "source_file": "greening-textile-industry-in-vietnam-5922q9q6cg_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0042",
+      "type": "business",
+      "text": "Together, these three interconnected pillars form the bedrock for businesses aiming to operate sustainably and adhere to international standards.\n\\ronmentay , , cÑ « E - Environmental: Môi trường liên quan E đến cách doanh nghiệp quản lý tài nguyên, giảm khí thải và xử lý chất thải.\nG xk ° « S - Social: Yếu tố xã hội tập trung vào điều VLI2HXXNG ñ : XỐ A0 6P ang váo đá © wince Zsoo Energy Group kiện lao động, quyền lợi người lao động va cộng đồng.\n° ong g g, % « G - Governance: Quan trị đề cập đ",
+      "source_file": "The green revolution ESG_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "compliance",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0077",
+      "type": "business",
+      "text": "20 Page 30 of 37 Materials Circular Economy (2025) 7:20 Ahmad S, Miskon S, Alabdan R, Tlili I (2020) Towards sustainable Arora S, Majumdar A (2022) Machine learning and soft computing textile and apparel industry: exploring the role of business intel- applications in textile and clothing supply chain: bibliomet- ligence systems in the era of industry 4.0. Sustainability (Swit- ric and network analyses to delineate future research agenda.\nzerland) 12(7). https://doi.org/10.3390/su 12072632 Expert",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "compliance",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0053",
+      "type": "business",
+      "text": "20 Page 6 of 37 Materials Circular Economy (2025) 7:20\nMass production, assembly line lo, machine leaming '\né HH 2.0 é Industry 4.0 H\nSS LE -..\n® Gà Industry 1.0 | Industry 3.0 Industry 5.0 Mechani zation (water and h Automation Human-Al collaboration steam power) h ;\n@ @sso\nFig.2_ Different stages of industrial revolutions intuition, and problem-solving skills, and the capabilities | enhances a more environmentally sustainable approach to of machines, AI, and robots (Rahardjo et al. 2024). Itis",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0056",
+      "type": "business",
+      "text": "Materials Circular Economy (2025) 7:20 Page9of37 20 Manufacturers can now use sustainable production meth- _ generated on-site (Schroeder et al. 2019). The strategy holds ods, recycling, and upcycling to advanced technologies. Tex- the potential to revolutionize the approach, reducing the tile manufacturers can encourage a more environmentally need for exploring natural resources while simultaneously conscious and sustainable manufacturing ecosystem (Reike extending the lifespan of landfills. Re",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0047",
+      "type": "business",
+      "text": "Vol.:(0123456789) 1 3 Information Systems Frontiers https://doi.org/10.1007/s10796-023-10430-5 Towards Industry 5.0 Challenges for The Textile and Apparel Supply Chain for The Smart, Sustainable, and Collaborative Industry in Emerging Economies Yigit Kazancoglu1  · Sachin Kumar Mangla2,3 · Yalcin Berberoglu4 · Cisem Lafci1 · Jitender Madaan5 Accepted: 22 August 2023 © The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature 2023 Abstract Industrial ",
+      "source_file": "Towards_Industry_5_0_Challenges_for_The_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0070",
+      "type": "business",
+      "text": "Materials Circular Economy (2025) 7:20 Page 23 of 37 20 communication, and workplace expectations can create chal- sensitive information being shared and processed increase lenges to effective training programs. Language differences, significantly. It widespread the integration of smart systems resistance to change due to deeply ingrained work traditions, raises concerns about unauthorized access, cyber-attacks, and varying levels of technological exposure among employ- and data breaches that ca",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0045",
+      "type": "business",
+      "text": "This trend underscores that to maintain reputation and competitive advantage, major brands are compelled to publicly disclose their carbon footprint and ensure full transparency across their entire production process, from raw materials to finished goods. Consequently, they demand that their manufacturing and supply partners in Vietnam meet similar ESG criteria:\nrigorous environmental management, guaranteed labor rights, and clear information disclosure.\nTherefore, ESG is no longer an optional c",
+      "source_file": "The green revolution ESG_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "compliance",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0064",
+      "type": "business",
+      "text": "Table 1 Brands with successful track records of implementing Industry 5.0 = a D___Ầ______D_....._____—Ầ_Ầ___D_____________________ oD Brand Adoption level of Industry 5.0 Sustainability impact Economic viability References a 14 Patagonia High—integrates circular economy principles, Very high—focuses on waste reduction, using High—strong consumer loyalty, premium Biirklin (2019); O’ Rourke a AI, and robotics sustainable materials, and carbon footprint pricing, expanding market share in sustain- a",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "cost",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0032",
+      "type": "business",
+      "text": "Carbon tax policies are a fundamental instrument used by governments to achieve their decarbonization commitments and reach their emission reduction targets. The Carbon Border Adjustment Mechanism (CBAM) that entered into force in the EU on 1 October 2023, marks a major step in the EU carbon pricing policy that will affect businesses, including Swiss-based companies, operating in the EU region.\nThe CBAM will introduce a carbon price on imports of specific products with a high risk of emissions t",
+      "source_file": "KPMG CBAM Report (PDF)_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": true,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0092",
+      "type": "business",
+      "text": "With over 7,000 apparel companies employing more than three million workers, Vietnam’s garment-textile industry is a true powerhouse. Up to 80% of its production capacity is dedicated to exports, while the remainder serves domestic consumption. Last year alone, Vietnam’s apparel exports reached nearly 44 billion USD, up 11.26% annually. This achievement solidifies Vietnam’s position as the world’s second largest garment-textile exporter, behind only China.\nSupported by 17 next-generation free tr",
+      "source_file": "Vietnam’s garment-textile_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0061",
+      "type": "business",
+      "text": "20 Page 14 of37 Materials Circular Economy (2025) 7:20 Technological Inequalities commitment (Sezer et al. 2018). Industry 4.0 technologies frequently come with a hefty initial cost associated with Industry 4.0 heavily relies on automation, AI, and data- _ infrastructure, equipment, and training. Textile manufactur- driven decision-making and it often leads to a significant ers can find it more difficult to make the easier transition gap between technologically advanced nations and those __ to I",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0036",
+      "type": "business",
+      "text": "EN EN EUROPEAN COMMISSION Brussels, 26.2.2025 COM(2025) 87 final 2025/0039 (COD) Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL amending Regulation (EU) 2023/956 as regards simplifying and strengthening the carbon border adjustment mechanism (Text with EEA relevance) {SWD(2025) 58 final}\nEN 1 EN EXPLANATORY MEMORANDUM 1. CONTEXT OF THE PROPOSAL • Reasons for and objectives of the proposal In his report on ‘The Future of European Competitiveness’, Mario Draghi emphasised ",
+      "source_file": "Proposal to simplify CBAM - Omnibus I_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": true,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0020",
+      "type": "business",
+      "text": "Environmental sustainability is one of the top priorities in Better Works current strategic period, fitting into the larger ILO commitment to a just transition to global environmental sustainability. The programme has started working with other ILO units and key partners in Viet Nam, focusing on the skills required to transition to greener production and leveraging energy and resource efficiency“s contributions to productivity, while promoting the workers’ well-being.\n“In Viet Nam, we are part o",
+      "source_file": "Greening Viet Nam’s textile and garment_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0078",
+      "type": "business",
+      "text": "Materials Circular Economy (2025) 7:20 Page 310f37 20 applications. Multimedia Tools Appl 51(1):341—377. https:// Dilberoglu UM, Gharehpapagh B, Yaman U, Dolen M (2017) The role doi.org/10.1007/s 1 1042-010-0660-6 of additive manufacturing in the era of Industry 4.0. Procedia\nCelent L, Mladineo M, Gjeldum N, Crnjac Zizic M (2022) Multi-crite- Manufacturing 11:545—554. https://doi.org/10.1016/j.promfg.\nria decision support system for smart and sustainable machining 2017.07.148 process. Energies 1",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0026",
+      "type": "business",
+      "text": "How does CBAM Impact Southeast Asian Economies?\nThe European Commission adopted in August 2023 detailed reporting rules for its newly created Carbon Border Adjustment Mechanism (CBAM). CBAM is a mechanism that aims to incentivize exporting countries to decarbonize their industries. However, for Southeast Asia’s economies, collectively known as ASEAN, which rely heavily on the EU export market, CBAM presents a potential double-edged sword. While it could spur much-needed environmental progress, i",
+      "source_file": "How does CBAM Impact Southeast Asian Economies_paragraphs.json",
+      "auto_stance": "neutral",
+      "auto_focus": [
+        "compliance",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": true,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0030",
+      "type": "business",
+      "text": "COMMISSION IMPLEMENTING REGULATION (EU) 2024/3210 of 18 December 2024 laying down rules for the application of Regulation (EU) 2023/956 of the European Parliament and of the Council as regards the CBAM registry (Text with EEA relevance) THE EUROPEAN COMMISSION, Having regard to the Treaty on the Functioning of the European Union, Having regard to Regulation (EU) 2023/956 of the European Parliament and of the Council of 10 May 2023 establishing a carbon border adjustment mechanism (1), and in par",
+      "source_file": "Implementing Regulation (EU) 2024 3210_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": true,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0019",
+      "type": "business",
+      "text": "Meanwhile, the Vietnam Textile and Apparel Association (VITAS) has recently proposed to the government to secure a 18.5 million USD investment for a sustainable development programme for its partner factories.\nStill, incentives and investments are not yet as available as local factories would like, making their journey lengthy and costly.\n“Our company laid out an environmental sustainability plan in 2021 and started its implementation in 2022 as requested by our brands,” says Nguyen Thuy An, Hum",
+      "source_file": "Greening Viet Nam’s textile and garment_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0006",
+      "type": "business",
+      "text": "COMMISSION IMPLEMENTING REGULATION (EU) 2023/1773 of 17 August 2023 laying down the rules for the application of Regulation (EU) 2023/956 of the European Parliament and of the Council as regards reporting obligations for the purposes of the carbon border adjustment mechanism during the transitional period (Text with EEA relevance) THE EUROPEAN COMMISSION, Having regard to the Treaty on the Functioning of the European Union, Having regard to Regulation (EU) 2023/956 of the European Parliament and",
+      "source_file": "Commission Implementing Regulation (EU) 2023 1773_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": true,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0069",
+      "type": "business",
+      "text": "20 Page 22 of 37 Materials Circular Economy (2025) 7:20 =.=. - _ SÀN...\nais nN Hum an-robot co- SS Regulatory œ working Data security Privacy com pliance Skilled workforce Scalability | Challenges of Industry 5.0 | Fig.8 Challenges of implementing Industry 5.0 poses a financial burden, especially for small and medium _ Resistance to Change enterprises. Without strategic planning and government or industry encourage, the lack of skilled professionals may | Some workers can be reluctant to pick up",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0074",
+      "type": "business",
+      "text": "Materials Circular Economy (2025) 7:20 Page 27 of 37 20 respond more efficiently to consumer demands. By utiliz- customization, improve supply chain transparency, and pro- ing AT-driven analytics, clothing manufacturers can predict mote greater collaboration between humans and machines.\ntrends, optimize production schedules, and manage inven- tory more effectively (Barreto et al. 2017). The clothing Adaptability industry’s SCM is enhanced by Industry 5.0 technology.\nManufacturers can ensure tran",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0005",
+      "type": "business",
+      "text": "1 Carbon Border Adjustment Mechanism (CBAM) Questions and Answers Last updated on 17 December 2024. Document last updated on 17 December 2024. Overview of recent Changes (compared to version from 24 October 2024) Answers updated 7, 14, 40, 77, 92, 116, 118, 132, 134 Questions added 71, 86, 95, 111, 112, 128, 129, 130, 131 Outline General ...................................................................................................................................................... 8 1. Why ",
+      "source_file": "CBAM_Questions and Answers_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": true,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0057",
+      "type": "business",
+      "text": "20 Page 10 of 37 Materials Circular Economy (2025) 7:20 into packaging (Motaleb et al. 2024). By adopting these prac- | Wearable Textiles tices, businesses are able to reduce environmental impact.\nValuable resources can be conserved, and waste and pollution In smart and wearable textiles, Industry 5.0 technologies from packaging materials can be minimized. This approach focus on enhancing the interaction between humans and emphasizes the importance of prioritizing green packaging = machines for ",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0023",
+      "type": "business",
+      "text": "FUNDING This thesis was mainly financial support by the REFINE project, which was funded by the Ministry of Foreign Affairs of the Netherlands. For researches in Vietnam was financially supported by Center for Environmental Technology & Management.\nCover design: Huynh Hieu Xung",
+      "source_file": "greening-textile-industry-in-vietnam-5922q9q6cg_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0083",
+      "type": "business",
+      "text": "20 Page 36 of 37 Materials Circular Economy (2025) 7:20 Schroeder P, Anggraeni K, Weber U (2019) The relevance of circular Tokatli N (2008) Global sourcing: insights from the global clothing economy practices to the sustainable development goals. J Ind industry-the case of Zara, a fast fashion retailer. J Econ Geogr Ecol 23(1):77-95. https://doi.org/10.1111/jiec.12732 8(1):21-38. https://doi.org/10.1093/Jeg/Ibm035 Seeber I, Bittner E, Briggs RO, de Vreede T, de Vreede GJ, Elkins Tomory L (2016) ",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "cost",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0025",
+      "type": "business",
+      "text": "Commission européenne/Europese Commissie, 1049 Bruxelles/Brussel, BELGIQUE/BELGIË – Tel. +32 22991111 EUROPEAN COMMISSION DIRECTORATE-GENERAL TAXATION AND CUSTOMS UNION Indirect Taxation and Tax Administration CBAM, Energy and Green Taxation Brussels, 8 December 2023 GUIDANCE DOCUMENT ON CBAM IMPLEMENTATION FOR INSTALLATION OPERATORS OUTSIDE THE EU This guidance document represents the views of the European Commission Services at the time of publication. It is not legally binding.\n2 VERSION HIST",
+      "source_file": "Guidance document on CBAM implementation for installation operators outside the EU_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": true,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0037",
+      "type": "business",
+      "text": "REGULATION (EU) 2023/956 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 10 May 2023 establishing a carbon border adjustment mechanism (Text with EEA relevance) THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, Having regard to the Treaty on the Functioning of the European Union, and in particular Article 192(1) thereof, Having regard to the proposal from the European Commission, After transmission of the draft legislative act to the national parliaments, Having regard to the opini",
+      "source_file": "Regulation (EU) 2023 956_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": true,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0062",
+      "type": "business",
+      "text": "Materials Circular Economy (2025) 7:20 Page 150f37 20 Transitioning from Industry 4.0 to Industry show a trend toward more customization, flexibility, sustain- 5.0 ability, and human-machine collaboration.\nThe transition from Industry 4.0 to Industry 5.0 represents Human-Centric Manufacturing a significant transition in the way industries operate with a focus on the integration of human-centric values with — Industry 4.0 primarily focuses on the digitization and auto- advanced technology. Indust",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0015",
+      "type": "business",
+      "text": "Hướng dẫn Xanh hóa ngành Dệt May ở Việt Nam © Adam Oswell / WWF-Greater Mekong\nMục lục Tóm tắt tài liệu 2 Chỉ dẫn nội dung cho đối tượng người đọc 4 Lời nói đầu 1 Chương 1. Vì sao Việt Nam cần xanh hóa ngành Dệt May 6 Phần 1. Động lực của sự chuyển đổi 7 Phần 2. Các yêu cầu từ thị trường 9 Phần 3. Các chính sách của Việt Nam về môi trường liên quan tới ngành Dệt May 12 Chương 2. Kỹ thuật và thực hành tốt nhất hiện có 16 Phần 1. Kinh nghiệm từ doanh nghiệp sản xuất 17 Phần 2. Kinh nghiệm từ nhãn ",
+      "source_file": "Greening Textile Sector in Vietnam (WWF)._paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0001",
+      "type": "business",
+      "text": "VNU Journal of Science: Policy and Management Studies, Vol. 41, No. 1 (2025) 55-67 55 Original Article Analysis of Circular Economy Models in the Textile Industry: International Experiences and Practices in Vietnam Le Thi Ngoc Anh1, Nguyen Van Linh2, Nguyen Hoang Nam3,*, Nguyen Dieu Dieu Ngoc1, Vo Ngoc Ha1, Nguyen Huy Manh4 1School of Trade and International Economics, National Economics University, 207 Giai Phong, Hanoi, Vietnam 2School of Advanced Education Programs, National Economics Univers",
+      "source_file": "4528-133-10412-1-10-20250331_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": true,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0013",
+      "type": "business",
+      "text": "Major investors in this sector come primarily from South Korea,\nFIND BUSINESS SUPPORT Taiwan, Hong Kong, and China, with South Korea being the largest Identify the Optimal Investment foreign investor. The expansion of FDI has accelerated the growth and Destination with Cross Country capacity of the local textile and garment sector. Vietnam, now the\nCompetitiveness Benchmarking —› world's third-largest textile and garment exporter, trails only China and Bangladesh.\nY To stay competitive, especial",
+      "source_file": "FDI, Export Targets to Propel Sustainability_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0049",
+      "type": "business",
+      "text": "20 Page 2 of 37 Materials Circular Economy (2025) 7:20 (S. Rani et al. 2024). The incorporation of Industry 5.0tech- number of challenges. The biggest of these is having to get rid nologies enables real-time adaptability in production, where ofoutdated systems and infrastructure that can make it harder AT-driven design systems work alongside human creativity for new technologies to be adopted. Many textile manufactur- to develop unique and functional apparels (Donmezer et al. ers work in setting",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0067",
+      "type": "business",
+      "text": "20 Page 20 of 37 Materials Circular Economy (2025) 7:20 Fig. 7 Strategies for Industry Cyber-Physical Systems 5.0 in the clothing sector ¬ / \\ “@ mm ` / XN ý / \\ Blockchain 4 ) = ye ¿ X Internet of Things Recent sition 4 —, of Industry 5.0 / _— X Reskilling and / * A ) ` upskiling \\ '..-.'= /\\ ((f Dee ) Machine learning / / ' 3 / AB W, © Ko / À—⁄/ \\ / Human-machine co-working policies enable real-time monitoring and control, the implementation forecast equipment faults (S. Arora and Majumdar 202",
+      "source_file": "Transition from Industry 4.0 to Industr..., Recent Advances and Future Prospects_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0022",
+      "type": "business",
+      "text": "ABOUT THE AUTHOR Nguyen Thi Phuong Loan was born on the 3rd February 1963 in Saigon, Vietnam. In 1998 she obtained her diploma in Chemical Engineering at Polytechnic University, Ho Chi Minh City-Vietnam and completed her master degree on Environmental Science at Wageningen University, The Netherlands in 2001. She has worked for Center for Environmental Technology & Management (CENTEMA) in Ho Chi Minh City since 1995. At the end of 2001 she has participated in lecture at Department of Environment",
+      "source_file": "greening-textile-industry-in-vietnam-5922q9q6cg_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0044",
+      "type": "business",
+      "text": "Vietnams Evolving Legal and Policy Framework for ESG In recent years, Vietnam has consistently refined its legal system concerning environmental, social, and corporate governance (ESG) to foster sustainable development and international integration. These new regulations are particularly impactful for the textile and garment industry.\nEnvironmentally, the Environmental Protection Law 2020, along with guiding decrees and decisions, has tightened controls on emissions, wastewater treatment, and ha",
+      "source_file": "The green revolution ESG_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "compliance",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0085",
+      "type": "business",
+      "text": "ANNUAL REPORT 2024 Digitally signed by Tập Đoàn Dệt May Việt Nam DN: C=VN, S=THÀNH PHỐ HÀ NỘI, CN=Tập Đoàn Dệt May Việt Nam, OID.0.9.2342.19200300.100.1.1=MST:\n0100100008 Reason: I am the author of this document Location: your signing location here Date: 2025.04.18 17:40:00+07'00' Foxit Reader Version: 10.1.0 Tập Đoàn Dệt May Việt Nam\n2024 ANNUAL REPORT BUILDING TRUST FUTURE FORWARD INNOVATIVE VITALITY EMPOWER TALENT Vinatex focuses on building corporate values through continuous innovation and ",
+      "source_file": "vgt2_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0039",
+      "type": "business",
+      "text": "EN EN EUROPEAN COMMISSION Brussels, 26.2.2025 SWD(2025) 58 final COMMISSION STAFF WORKING DOCUMENT Accompanying the document Proposal for a Regulation of the European Parliament and of the Council amending Regulation (EU) 2023/956 as regards simplifying and strengthening the carbon border adjustment mechanism {COM(2025) 87 final}\n1 1. Introduction The European Union has set itself the legal objective of becoming a climate-neutral and climate resilient continent by 2050 as enshrined in Regulation",
+      "source_file": "Staff Working Document Accompanying the document COM(2025) 87_paragraphs.json",
+      "auto_stance": "concern",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": true,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0012",
+      "type": "business",
+      "text": "US sustainability regulations In the US, several states have enacted sustainability regulations:\nCalifornia Senate Bill No. 253 (passed) Senate Bill No. 253 was approved by the California governor and filed with the Secretary of State on October 7, 2023. This bill adds Section 38532 to the Health and Safety Code, relating to greenhouse gases, and makes an appropriation for its implementation. The section is officially known as the Climate Corporate Data Accountability Act. It requires businesses",
+      "source_file": "FDI, Export Targets to Propel Sustainability_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0014",
+      "type": "business",
+      "text": "Guidelines for Greening the Textile Sector in Viet Nam © Adam Oswell / WWF-Greater Mekong\nTable of Contents About these Guidelines 2 Reading Guide for specific audience group 4 Preface 1 Part 1. Why Vietnam needs a green textile and garment sector 6 Section 1. Drivers of change 7 Section 2. Market requirements 9 Section 3. Vietnamese policies concerning the textile and garment sector 12 Part 2. Best Available Technologies and Best Environmental Practices 16 Section 1. What manufacturers are doin",
+      "source_file": "Greening Textile Sector in Vietnam (WWF). eng_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": false,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    },
+    {
+      "id": "biz_0002",
+      "type": "business",
+      "text": "The ASEAN’s Green Trade Policy in Response to EU CBAM: A Comparative Study of Indonesia and Vietnam Zainur Ridho1 and Arie Kusuma Paksi1* 1Department of International Relations, Universitas Muhammadiyah Yogyakarta, Indonesia Abstract. The European Union’s Carbon Border Adjustment Mechanism (CBAM), part of the \"Fit for 55\" package, embeds carbon accountability into global trade. This study examines how Indonesia and Vietnam, two ASEAN member states, respond to CBAM through differing green trade s",
+      "source_file": "bioconf_sagegrace2025_02006_paragraphs.json",
+      "auto_stance": "support",
+      "auto_focus": [
+        "cost",
+        "compliance",
+        "competitiveness",
+        "risk",
+        "opportunity"
+      ],
+      "auto_cbam_relevance": true,
+      "human_stance": "",
+      "human_focus": [],
+      "human_cbam_relevance": null,
+      "notes": ""
+    }
+  ]
+}

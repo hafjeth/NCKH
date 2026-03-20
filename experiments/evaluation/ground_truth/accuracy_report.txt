@@ -1,0 +1,18 @@
+SEMANTIC TAGGING ACCURACY REPORT
+============================================================
+
+LEGAL SEMANTIC TAGGING
+----------------------------------------
+Samples labeled   : 100
+Clause type accuracy: 52.0%  (52/100)
+Subjects  P/R/F1  : 44.5% / 46.3% / 44.1%
+Domains   P/R/F1  : 68.5% / 70.5% / 68.5%
+Overall F1        : 54.9%
+
+BUSINESS SEMANTIC TAGGING
+----------------------------------------
+Samples labeled    : 93
+Stance accuracy    : 91.4%  (85/93)
+Focus     P/R/F1   : 91.9% / 89.4% / 89.0%
+CBAM accuracy      : 98.9%  (92/93)
+Overall F1         : 93.1%

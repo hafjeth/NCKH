@@ -1,0 +1,14 @@
+{
+  "n_samples": 30,
+  "source": "human_labeled",
+  "coherence": {
+    "mae": 0.1667,
+    "exact_match_pct": 83.3,
+    "within1_pct": 100.0
+  },
+  "factuality": {
+    "mae": 0.1,
+    "exact_match_pct": 90.0,
+    "within1_pct": 100.0
+  }
+}

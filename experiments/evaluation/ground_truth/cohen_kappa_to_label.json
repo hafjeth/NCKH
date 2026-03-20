@@ -1,0 +1,310 @@
+{
+  "instructions": {
+    "task": "Chấm điểm Coherence và Factuality cho từng câu trả lời",
+    "coherence": "Tính mạch lạc, logic của lập luận (1-10). 1=hoàn toàn không logic, 10=rất mạch lạc",
+    "factuality": "Độ chính xác dựa trên bằng chứng pháp lý (1-10). 1=sai hoàn toàn, 10=rất chính xác",
+    "note": "Điền điểm vào human_coherence và human_factuality. Chỉ cần điền số nguyên 1-10."
+  },
+  "samples": [
+    {
+      "question_id": 1,
+      "question": "Theo Nghị định 06/2022/NĐ-CP, ngưỡng phát thải tối thiểu để cơ sở sản xuất dệt may bắt buộc phải thực hiện kiểm kê khí nhà kính là bao nhiêu tấn CO2 tương đương/năm trở lên?",
+      "response_preview": "[GOVERNMENT AGENT]\nTheo Nghị định 06/2022/NĐ-CP, ngưỡng phát thải tối thiểu để các cơ sở sản xuất dệt may bắt buộc thực hiện kiểm kê khí nhà kính là 1.000 tấn CO2 tương đương/năm. Điều này thể hiện sự cam kết của Chính phủ Việt Nam trong việc thực hiện các nghĩa vụ quốc tế, đặc biệt là theo Hiệp định Paris về biến đổi khí hậu, nhằm giảm thiểu phát thải khí nhà kính và hướng tới mục tiêu phát thải \n...\n[EXPERT SUMMARY]\n### Phân Tích Cuộc Tranh Luận Chính Sách Về Kiểm Kê Khí Nhà Kính Trong Ngành Dệt May Việt Nam\n\n#### 1. Tóm Tắt Lập Trường Chính Phủ\nTrong ba vòng tranh luận, lập trường của Chính phủ Việt Nam thể hiện rõ ràng cam kết trong việc thực hiện các nghĩa vụ quốc tế về giảm phát thải khí nhà kính, đặc biệt là theo Hiệp định Paris. Theo Nghị định 06/2022/NĐ-CP, ngưỡng phát thải tối thiểu để các cơ sở sản xuất dệt may thực hiện kiểm kê khí nhà kính là 1.000 tấn CO2 tương đương/năm. Chính phủ nhấn mạnh rằng việc này không chỉ nhằm giảm thiểu phát thải mà còn hỗ trợ phát triển bền vững cho ngành dệt may thông qua việc tăng cường năng lực đo lường, báo cáo và xác minh (MRV) [Nguồn: Nghị định 06/2022/NĐ-CP]. Hơn nữa, Chính phủ cam kết triển khai các chương trình hỗ trợ cho các doanh nghiệp vừa và nhỏ (S",
+      "llm_coherence": 8,
+      "llm_factuality": 9,
+      "human_coherence": 8,
+      "human_factuality": 9,
+      "notes": ""
+    },
+    {
+      "question_id": 2,
+      "question": "Luật Bảo vệ Môi trường 2020 quy định việc kiểm kê khí nhà kính phải được thực hiện theo chu kỳ bao nhiêu năm một lần?",
+      "response_preview": "[GOVERNMENT AGENT]\nChính phủ Việt Nam khẳng định rằng việc kiểm kê khí nhà kính (GHG) là một yêu cầu quan trọng nhằm thực hiện các cam kết quốc tế về biến đổi khí hậu, đặc biệt là theo Hiệp định Paris và mục tiêu Net Zero vào năm 2050. Theo quy định tại Điều 78 của Luật Bảo vệ Môi trường 2020, việc kiểm kê khí nhà kính phải được thực hiện định kỳ 2 năm một lần, nhằm đảm bảo tính chính xác và kịp t\n...\n[EXPERT SUMMARY]\n### Phân tích cuộc tranh luận về việc kiểm kê khí nhà kính theo Luật Bảo vệ Môi trường 2020\n\n#### 1. Tóm tắt lập trường Chính phủ\nTrong ba vòng tranh luận, Chính phủ Việt Nam khẳng định rằng việc kiểm kê khí nhà kính (GHG) là một yêu cầu thiết yếu nhằm thực hiện các cam kết quốc tế về biến đổi khí hậu, đặc biệt là theo Hiệp định Paris và mục tiêu Net Zero vào năm 2050. Theo Điều 78 của Luật Bảo vệ Môi trường 2020, việc kiểm kê khí nhà kính phải được thực hiện định kỳ hai năm một lần, nhằm đảm bảo tính chính xác và kịp thời trong việc theo dõi và đánh giá phát thải khí nhà kính của các ngành, lĩnh vực trong cả nước [Nguồn: Luật Bảo vệ Môi trường 2020]. Chính phủ nhấn mạnh rằng cơ sở pháp lý này không chỉ thể hiện cam kết quốc gia mà còn góp phần xây dựng cơ sở dữ liệu vững chắc cho các chín",
+      "llm_coherence": 8,
+      "llm_factuality": 9,
+      "human_coherence": 8,
+      "human_factuality": 9,
+      "notes": ""
+    },
+    {
+      "question_id": 3,
+      "question": "Theo Quyết định 232/QĐ-TTg đã phê duyệt Đề án phát triển thị trường carbon tại Việt Nam với mục tiêu vận hành chính thức vào năm nào?",
+      "response_preview": "[GOVERNMENT AGENT]\nChính phủ Việt Nam khẳng định cam kết phát triển thị trường carbon với mục tiêu vận hành chính thức vào năm 2025, như đã nêu trong Quyết định 232/QĐ-TTg. Đề án này không chỉ nhằm thực hiện các cam kết quốc tế của Việt Nam theo Hiệp định Paris mà còn hướng tới mục tiêu đạt mức phát thải ròng bằng không vào năm 2050, phù hợp với Chiến lược quốc gia về biến đổi khí hậu [Nguồn: Quyế\n...\n[EXPERT SUMMARY]\n### Phân Tích Cuộc Tranh Luận Về Đề Án Phát Triển Thị Trường Carbon Tại Việt Nam\n\n#### 1. Tóm Tắt Lập Trường Chính Phủ\nTrong vòng tranh luận đầu tiên, Chính phủ Việt Nam khẳng định cam kết phát triển thị trường carbon với mục tiêu vận hành chính thức vào năm 2025, như đã nêu trong Quyết định 232/QĐ-TTg. Đề án này không chỉ nhằm thực hiện các cam kết quốc tế của Việt Nam theo Hiệp định Paris mà còn hướng tới mục tiêu đạt mức phát thải ròng bằng không vào năm 2050, phù hợp với Chiến lược quốc gia về biến đổi khí hậu [Nguồn: Quyết định 232/QĐ-TTg]. Chính phủ nhấn mạnh rằng việc phát triển thị trường carbon sẽ tạo ra khung pháp lý vững chắc cho các hoạt động giảm phát thải, đồng thời khuyến khích ngành dệt may chuyển đổi sang công nghệ sạch và bền vững. Lộ trình chính sách dài hạn sẽ bao gồm c",
+      "llm_coherence": 8,
+      "llm_factuality": 7,
+      "human_coherence": 8,
+      "human_factuality": 7,
+      "notes": ""
+    },
+    {
+      "question_id": 4,
+      "question": "Theo Quyết định 01/2022/QĐ-TTg, có 294 doanh nghiệp ngành dệt may và da giày phải thực hiện kê khai khí nhà kính. Nếu ngành dệt may Việt Nam có khoảng 6.000 doanh nghiệp (theo VITAS), thì tỷ lệ doanh nghiệp bắt buộc kiểm kê là bao nhiêu phần trăm? Con số này cho thấy điều gì về quy mô tác động của chính sách?",
+      "response_preview": "[GOVERNMENT AGENT]\nTheo Quyết định 01/2022/QĐ-TTg, có 294 doanh nghiệp trong ngành dệt may và da giày phải thực hiện kê khai khí nhà kính, trong khi tổng số doanh nghiệp trong ngành này ước tính khoảng 6.000. Tỷ lệ doanh nghiệp bắt buộc kiểm kê là 4.9% (294/6000 x 100). Con số này cho thấy rằng chính sách hiện tại chỉ tác động đến một phần nhỏ trong tổng số doanh nghiệp, điều này có thể dẫn đến nh\n...\n[EXPERT SUMMARY]\n### Tóm tắt lập trường Chính phủ\n\nTrong ba vòng tranh luận, lập trường của Chính phủ thể hiện sự cam kết mạnh mẽ đối với việc thực hiện các nghĩa vụ quốc tế về giảm phát thải khí nhà kính, đặc biệt là theo Hiệp định Paris và mục tiêu Net Zero 2050. Ở vòng đầu tiên, Chính phủ chỉ ra rằng tỷ lệ 4.9% doanh nghiệp trong ngành dệt may và da giày phải thực hiện kê khai khí nhà kính theo Quyết định 01/2022/QĐ-TTg cho thấy chính sách hiện tại chỉ tác động đến một phần nhỏ trong tổng số doanh nghiệp, điều này có thể gây khó khăn trong việc đạt được mục tiêu giảm phát thải một cách toàn diện [Nguồn: Quyết định 01/2022/QĐ-TTg]. Vòng hai nhấn mạnh rằng việc mở rộng đối tượng kê khai là cần thiết để đảm bảo hiệu quả trong quản lý môi trường, đồng thời nhấn mạnh rằng các cơ chế hỗ trợ cho doanh nghiệp n",
+      "llm_coherence": 8,
+      "llm_factuality": 9,
+      "human_coherence": 8,
+      "human_factuality": 9,
+      "notes": ""
+    },
+    {
+      "question_id": 5,
+      "question": "Theo Nghị định 06/2022/NĐ-CP, doanh nghiệp phải kiểm kê khí nhà kính định kỳ 2 năm/lần. Nếu một doanh nghiệp dệt may hoạt động trong 20 năm tới (2025-2045), họ phải thực hiện kiểm kê bao nhiêu lần? Với việc mỗi lần kiểm kê tốn khoảng 1-2 tuần công của nhân viên chuyên trách, tổng thời gian dành cho công tác này là bao nhiêu?",
+      "response_preview": "[GOVERNMENT AGENT]\nTheo Nghị định 06/2022/NĐ-CP, các doanh nghiệp phải thực hiện kiểm kê khí nhà kính định kỳ hai năm một lần. Do đó, trong khoảng thời gian 20 năm từ 2025 đến 2045, một doanh nghiệp dệt may sẽ phải thực hiện kiểm kê khí nhà kính tổng cộng 10 lần. Mỗi lần kiểm kê ước tính tốn khoảng 1-2 tuần công của nhân viên chuyên trách, dẫn đến tổng thời gian dành cho công tác này là từ 10 đến \n...\n[EXPERT SUMMARY]\n### Tóm tắt lập trường Chính phủ\n\nTrong ba vòng tranh luận, lập trường của Chính phủ chủ yếu tập trung vào việc thực hiện kiểm kê khí nhà kính theo Nghị định 06/2022/NĐ-CP. Theo đó, các doanh nghiệp dệt may sẽ phải thực hiện kiểm kê khí nhà kính định kỳ hai năm một lần, dẫn đến tổng cộng 10 lần trong khoảng thời gian từ 2025 đến 2045. Mỗi lần kiểm kê ước tính tốn khoảng 1-2 tuần công của nhân viên chuyên trách, tổng thời gian dành cho công tác này là từ 10 đến 20 tuần trong suốt 20 năm. Chính phủ nhấn mạnh rằng việc kiểm kê không chỉ là nghĩa vụ pháp lý mà còn là một phần trong cam kết quốc gia đối với các hiệp định quốc tế nhằm giảm thiểu phát thải khí nhà kính, đồng thời khẳng định rằng việc này sẽ tạo ra cơ hội cho các doanh nghiệp nâng cao hiệu quả sản xuất và cải thiện hình ảnh thương",
+      "llm_coherence": 8,
+      "llm_factuality": 9,
+      "human_coherence": 8,
+      "human_factuality": 9,
+      "notes": ""
+    },
+    {
+      "question_id": 6,
+      "question": "Nghị định 06/2022/NĐ-CP yêu cầu 294 doanh nghiệp dệt may nộp báo cáo kiểm kê vào tháng 3/2025 và bắt đầu tuân thủ hạn ngạch phát thải từ 2026. Tuy nhiên, nhiều SME phàn nàn về khó khăn nguồn lực. Việt Nam nên ưu tiên: (A) Hỗ trợ DN tuân thủ đúng lộ trình, hay (B) Đàm phán gia hạn thời gian sang 2027-2028?",
+      "response_preview": "[GOVERNMENT AGENT]\nChính phủ Việt Nam khẳng định rằng việc hỗ trợ doanh nghiệp dệt may tuân thủ đúng lộ trình quy định tại Nghị định 06/2022/NĐ-CP là ưu tiên hàng đầu. Đầu tiên, việc tuân thủ hạn ngạch phát thải từ năm 2026 không chỉ là nghĩa vụ pháp lý mà còn là cam kết quốc tế của Việt Nam trong khuôn khổ Thỏa thuận Paris, nhằm giảm thiểu tác động của biến đổi khí hậu và hướng tới mục tiêu phát \n...\n[EXPERT SUMMARY]\n### Tóm tắt lập trường Chính phủ\n\n**Vòng 1:** Chính phủ Việt Nam khẳng định rằng việc hỗ trợ doanh nghiệp dệt may tuân thủ đúng lộ trình quy định tại Nghị định 06/2022/NĐ-CP là ưu tiên hàng đầu. Chính phủ nhấn mạnh rằng việc tuân thủ hạn ngạch phát thải từ năm 2026 không chỉ là nghĩa vụ pháp lý mà còn là cam kết quốc tế trong khuôn khổ Thỏa thuận Paris. Điều này nhằm giảm thiểu tác động của biến đổi khí hậu và hướng tới mục tiêu phát thải ròng bằng 0 vào năm 2050 [Nguồn: Nghị định 06/2022/NĐ-CP].\n\n**Vòng 2:** Chính phủ phản bác lại lập luận của doanh nghiệp rằng việc gia hạn thời gian tuân thủ có thể ảnh hưởng đến cam kết quốc tế của Việt Nam. Chính phủ đã cam kết cung cấp các gói hỗ trợ tài chính và kỹ thuật cho SMEs, bao gồm đào tạo về công nghệ xanh và giải pháp tiết kiệm năng lượng, nh",
+      "llm_coherence": 8,
+      "llm_factuality": 9,
+      "human_coherence": 7,
+      "human_factuality": 8,
+      "notes": ""
+    },
+    {
+      "question_id": 7,
+      "question": "CBAM (Carbon Border Adjustment Mechanism) của EU chính thức áp dụng thu phí carbon từ năm nào? Giai đoạn báo cáo chuyển tiếp kéo dài từ khi nào đến khi nào?",
+      "response_preview": "[GOVERNMENT AGENT]\nChính phủ Việt Nam nhận thức rõ tầm quan trọng của Cơ chế Điều chỉnh Biên giới Carbon (CBAM) của Liên minh Châu Âu, chính thức áp dụng thu phí carbon từ năm 2026, với giai đoạn báo cáo chuyển tiếp diễn ra từ năm 2023 đến năm 2025. Điều này không chỉ ảnh hưởng đến ngành xuất khẩu mà còn đặt ra thách thức cho các ngành công nghiệp trong nước, đặc biệt là ngành dệt may, vốn đóng gó\n...\n[EXPERT SUMMARY]\n### Phân Tích Toàn Bộ Cuộc Tranh Luận Về Cơ Chế Điều Chỉnh Biên Giới Carbon (CBAM)\n\n#### 1. Tóm Tắt Lập Trường Chính Phủ\nTrong ba vòng tranh luận, Chính phủ Việt Nam đã thể hiện sự nhận thức sâu sắc về tác động của Cơ chế Điều chỉnh Biên giới Carbon (CBAM) của Liên minh Châu Âu, chính thức áp dụng thu phí carbon từ năm 2026, với giai đoạn báo cáo chuyển tiếp từ năm 2023 đến năm 2025. Chính phủ khẳng định rằng CBAM không chỉ ảnh hưởng đến ngành xuất khẩu mà còn đặt ra thách thức cho các ngành công nghiệp trong nước, đặc biệt là ngành dệt may, vốn đóng góp lớn vào nền kinh tế quốc dân. Để đối phó, Chính phủ đã phê duyệt Quyết định 888/QĐ-TTg nhằm phát triển các mô hình an sinh xã hội và chuyển đổi công bằng, đồng thời nhấn mạnh trong Luật Bảo vệ Môi trường 2020 về tầm quan trọng của việc giả",
+      "llm_coherence": 8,
+      "llm_factuality": 9,
+      "human_coherence": 8,
+      "human_factuality": 9,
+      "notes": ""
+    },
+    {
+      "question_id": 8,
+      "question": "Theo CBAM, các sản phẩm dệt may xuất khẩu vào EU có bị áp thuế carbon trực tiếp từ 2026 hay không? Nếu không, cơ chế gián tiếp nào có thể ảnh hưởng đến ngành dệt may?",
+      "response_preview": "[GOVERNMENT AGENT]\nTheo quy định của Cơ chế điều chỉnh biên giới carbon (CBAM) của Liên minh Châu Âu (EU), các sản phẩm dệt may xuất khẩu vào EU sẽ không phải chịu thuế carbon trực tiếp từ năm 2026. Tuy nhiên, ngành dệt may Việt Nam sẽ phải đối mặt với các cơ chế gián tiếp ảnh hưởng đến khả năng cạnh tranh của sản phẩm. \n\nThứ nhất, việc áp dụng CBAM sẽ yêu cầu các nhà xuất khẩu chứng minh rằng sản\n...\n[EXPERT SUMMARY]\n### Phân Tích Cuộc Tranh Luận Về Cơ Chế Điều Chỉnh Biên Giới Carbon (CBAM) Đối Với Ngành Dệt May Việt Nam\n\n#### 1. Tóm Tắt Lập Trường Chính Phủ\nTrong vòng tranh luận đầu tiên, Chính phủ khẳng định rằng theo quy định của CBAM, sản phẩm dệt may xuất khẩu vào EU sẽ không phải chịu thuế carbon trực tiếp từ năm 2026. Tuy nhiên, Chính phủ nhấn mạnh rằng ngành dệt may sẽ phải đối mặt với các cơ chế gián tiếp, như yêu cầu chứng minh tuân thủ tiêu chuẩn phát thải carbon, dẫn đến chi phí gia tăng trong quy trình sản xuất và chứng nhận [Nguồn: Quyết định 888/QĐ-TTg]. Đồng thời, Chính phủ cam kết đạt mục tiêu phát thải ròng bằng không vào năm 2050, yêu cầu ngành dệt may chuyển đổi sang mô hình sản xuất bền vững hơn [Nguồn: Luật Bảo vệ Môi trường 2020].\n\nTrong vòng tranh luận thứ hai, Chính phủ phản bá",
+      "llm_coherence": 8,
+      "llm_factuality": 9,
+      "human_coherence": 8,
+      "human_factuality": 8,
+      "notes": ""
+    },
+    {
+      "question_id": 9,
+      "question": "Một doanh nghiệp dệt may Việt Nam xuất 10.000 tấn hàng/năm sang EU, cường độ phát thải là 2.5 tấn CO2/tấn sản phẩm. Giá carbon EU là 80 EUR/tấn. Nếu CBAM mở rộng sang dệt may, doanh nghiệp này phải trả bao nhiêu EUR thuế carbon mỗi năm? Nếu tỷ giá 1 EUR = 27.000 VNĐ, đây là bao nhiêu VNĐ?",
+      "response_preview": "[GOVERNMENT AGENT]\nTrong bối cảnh Việt Nam đang chuẩn bị cho việc thực hiện cơ chế điều chỉnh biên giới carbon (CBAM) của Liên minh châu Âu (EU), Chính phủ khẳng định rằng doanh nghiệp dệt may xuất khẩu 10.000 tấn hàng/năm với cường độ phát thải 2.5 tấn CO2/tấn sản phẩm sẽ phải chịu thuế carbon. Cụ thể, với giá carbon EU là 80 EUR/tấn, doanh nghiệp này sẽ phải trả 2.000.000 EUR (10.000 tấn x 2.5 t\n...\n[EXPERT SUMMARY]\n### Tóm tắt lập trường Chính phủ\n\n**Vòng 1:** Chính phủ Việt Nam khẳng định rằng doanh nghiệp dệt may xuất khẩu 10.000 tấn hàng/năm với cường độ phát thải 2.5 tấn CO2/tấn sản phẩm sẽ phải chịu thuế carbon theo cơ chế điều chỉnh biên giới carbon (CBAM) của EU. Cụ thể, doanh nghiệp này sẽ phải trả 2.000.000 EUR mỗi năm, tương đương 54.000.000.000 VNĐ, với mục tiêu giảm phát thải khí nhà kính theo Hiệp định Paris và đạt mục tiêu Net Zero vào năm 2050 [Nguồn: Quyết định 888/QĐ-TTg; Luật Bảo vệ Môi trường 2020].\n\n**Vòng 2:** Chính phủ nhấn mạnh rằng việc áp dụng thuế carbon sẽ được thực hiện theo cường độ phát thải, không phải tổng lượng phát thải. Chính phủ cam kết hỗ trợ các doanh nghiệp nhỏ và vừa (SME) trong ngành dệt may để giảm thiểu gánh nặng tài chính và khuyến khích chuyển đổi sang côn",
+      "llm_coherence": 8,
+      "llm_factuality": 7,
+      "human_coherence": 8,
+      "human_factuality": 7,
+      "notes": ""
+    },
+    {
+      "question_id": 10,
+      "question": "CBAM cho phép trừ thuế carbon đã đóng ở nước xuất khẩu. Với việc Việt Nam chưa có thuế carbon, doanh nghiệp VN sẽ phải đối mặt với bất lợi cạnh tranh nào so với các nước đã có carbon pricing (như Trung Quốc đang thí điểm ETS)?",
+      "response_preview": "[GOVERNMENT AGENT]\nChính phủ Việt Nam nhận thức rõ rằng việc áp dụng cơ chế Điều chỉnh Biên giới Carbon (CBAM) sẽ tạo ra những thách thức đáng kể cho các doanh nghiệp trong nước, đặc biệt là trong ngành dệt may. Đầu tiên, do Việt Nam chưa triển khai thuế carbon, các doanh nghiệp sẽ không được hưởng lợi từ việc trừ thuế carbon đã đóng ở nước xuất khẩu, dẫn đến bất lợi cạnh tranh so với các quốc gia\n...\n[EXPERT SUMMARY]\n### Tóm tắt lập trường Chính phủ\n\nTrong ba vòng tranh luận, Chính phủ Việt Nam đã thể hiện rõ lập trường của mình về việc áp dụng cơ chế Điều chỉnh Biên giới Carbon (CBAM) trong bối cảnh chưa có thuế carbon nội địa. Ở vòng đầu tiên, Chính phủ nhấn mạnh rằng việc không có thuế carbon sẽ tạo ra bất lợi cạnh tranh cho các doanh nghiệp Việt Nam, đặc biệt là trong ngành dệt may, so với các quốc gia như Trung Quốc, nơi đã triển khai hệ thống giao dịch phát thải (ETS) [Nguồn: Quyết định 888/QĐ-TTg]. Đồng thời, Chính phủ cam kết thực hiện các chính sách carbon pricing hiệu quả nhằm đáp ứng các cam kết quốc tế về giảm phát thải khí nhà kính theo Hiệp định Paris [Nguồn: Luật Bảo vệ Môi trường 2020].\n\nỞ vòng thứ hai, Chính phủ tiếp tục nhấn mạnh tầm quan trọng của việc thiết lập cơ chế thuế carbon nh",
+      "llm_coherence": 8,
+      "llm_factuality": 9,
+      "human_coherence": 8,
+      "human_factuality": 9,
+      "notes": ""
+    },
+    {
+      "question_id": 11,
+      "question": "EU sẽ review mở rộng CBAM vào cuối 2025 (CBAM Reg Art. 30). Nếu dệt may được đưa vào CBAM từ 2028-2030, Việt Nam nên: (A) Chủ động xây dựng carbon pricing ngay từ 2025-2026 để chuẩn bị, hay (B) Đợi đến khi CBAM chính thức công bố danh sách mở rộng rồi mới hành động?",
+      "response_preview": "[GOVERNMENT AGENT]\nChính phủ Việt Nam khuyến nghị chủ động xây dựng cơ chế định giá carbon từ năm 2025-2026 nhằm chuẩn bị cho khả năng dệt may được đưa vào danh sách mở rộng của Cơ chế Điều chỉnh Biên giới Carbon (CBAM) vào giai đoạn 2028-2030. Thứ nhất, việc triển khai sớm cơ chế này sẽ giúp ngành dệt may Việt Nam nâng cao năng lực cạnh tranh trên thị trường quốc tế, đồng thời tuân thủ các cam kế\n...\n[EXPERT SUMMARY]\n### Tóm tắt lập trường Chính phủ\n\nTrong ba vòng tranh luận, Chính phủ Việt Nam đã nhất quán khuyến nghị việc chủ động xây dựng cơ chế định giá carbon từ năm 2025-2026. Lập luận này dựa trên ba điểm chính. Thứ nhất, việc triển khai sớm cơ chế định giá carbon sẽ nâng cao năng lực cạnh tranh cho ngành dệt may Việt Nam trên thị trường quốc tế, đồng thời đảm bảo tuân thủ các cam kết quốc tế về giảm phát thải khí nhà kính theo Thỏa thuận Paris và mục tiêu Net Zero 2050 [Nguồn: Quyết định 888/QĐ-TTg]. Thứ hai, việc xây dựng khung pháp lý cho định giá carbon sẽ thúc đẩy phát triển công nghệ sạch và bền vững trong ngành dệt may, phù hợp với các quy định của Luật Bảo vệ Môi trường 2020 [Nguồn: Luật Bảo vệ Môi trường 2020]. Cuối cùng, Chính phủ nhấn mạnh rằng việc chủ động này sẽ giúp duy trì uy tín ",
+      "llm_coherence": 8,
+      "llm_factuality": 9,
+      "human_coherence": 8,
+      "human_factuality": 9,
+      "notes": ""
+    },
+    {
+      "question_id": 12,
+      "question": "Ngoài CBAM, các thương hiệu thời trang lớn như H&M, Zara, Nike đang yêu cầu nhà cung cấp công bố carbon footprint và đặt mục tiêu giảm phát thải. Áp lực từ buyer requirements này có mạnh hơn CBAM không? Doanh nghiệp dệt may VN nên ưu tiên tuân thủ điều nào trước?",
+      "response_preview": "[GOVERNMENT AGENT]\nChính phủ Việt Nam nhận thức rõ rằng áp lực từ các yêu cầu của thương hiệu lớn như H&M, Zara, và Nike về việc công bố carbon footprint có thể có tác động mạnh mẽ hơn so với cơ chế điều chỉnh biên giới carbon (CBAM) của EU. Đầu tiên, việc tuân thủ các yêu cầu này không chỉ giúp doanh nghiệp dệt may Việt Nam duy trì hợp tác với các đối tác quốc tế mà còn nâng cao uy tín thương hiệ\n...\n[EXPERT SUMMARY]\n### Tóm tắt lập trường Chính phủ\n\nTrong ba vòng tranh luận, Chính phủ Việt Nam đã nhấn mạnh tầm quan trọng của việc tuân thủ các yêu cầu về carbon footprint từ các thương hiệu lớn như H&M, Zara và Nike. Chính phủ cho rằng áp lực từ các yêu cầu này có thể có tác động mạnh mẽ hơn so với cơ chế điều chỉnh biên giới carbon (CBAM) của EU. Lập luận này được củng cố bởi Luật Bảo vệ Môi trường 2020, trong đó nhấn mạnh trách nhiệm của tổ chức và cá nhân trong việc bảo vệ môi trường và giảm thiểu phát thải [Nguồn: Luật Bảo vệ Môi trường 2020]. Chính phủ cũng nhấn mạnh cam kết quốc tế của Việt Nam trong khuôn khổ Thỏa thuận Paris, yêu cầu giảm phát thải khí nhà kính, và khẳng định rằng doanh nghiệp cần chủ động thực hiện các biện pháp giảm thiểu phát thải [Nguồn: Quyết định 888/QĐ-TTg]. Lộ trình chín",
+      "llm_coherence": 8,
+      "llm_factuality": 9,
+      "human_coherence": 8,
+      "human_factuality": 9,
+      "notes": ""
+    },
+    {
+      "question_id": 13,
+      "question": "Theo báo cáo của VITAS và USAID, ngành dệt may Việt Nam phát thải bao nhiêu triệu tấn CO2 mỗi năm? Chiếm bao nhiêu % nhu cầu năng lượng của toàn ngành công nghiệp?",
+      "response_preview": "[GOVERNMENT AGENT]\nTheo báo cáo của Hiệp hội Dệt may Việt Nam (VITAS) và Cơ quan Phát triển Quốc tế Hoa Kỳ (USAID), ngành dệt may Việt Nam phát thải khoảng 2,5 triệu tấn CO2 mỗi năm, chiếm khoảng 10% nhu cầu năng lượng của toàn ngành công nghiệp. Trước thực trạng này, Chính phủ Việt Nam cam kết thực hiện các mục tiêu giảm phát thải theo các hiệp định quốc tế, đặc biệt là Thỏa thuận Paris và mục ti\n...\n[EXPERT SUMMARY]\n### Tóm tắt lập trường Chính phủ\n\nTrong ba vòng tranh luận, lập trường của Chính phủ Việt Nam tập trung vào việc giảm phát thải khí nhà kính trong ngành dệt may, với những số liệu cụ thể từ báo cáo của Hiệp hội Dệt may Việt Nam (VITAS) và Cơ quan Phát triển Quốc tế Hoa Kỳ (USAID) cho thấy ngành này phát thải khoảng 2,5 triệu tấn CO2 mỗi năm, chiếm 10% nhu cầu năng lượng của toàn ngành công nghiệp. Chính phủ cam kết thực hiện các mục tiêu giảm phát thải theo các hiệp định quốc tế, đặc biệt là Thỏa thuận Paris và mục tiêu Net Zero vào năm 2050. Để đạt được các mục tiêu này, Chính phủ đã ban hành Luật Bảo vệ Môi trường 2020, quy định rõ ràng về việc giảm thiểu phát thải khí nhà kính và khuyến khích sử dụng công nghệ sạch trong sản xuất [Nguồn: Luật Bảo vệ Môi trường 2020]. Ngoài ra, Quyết địn",
+      "llm_coherence": 8,
+      "llm_factuality": 9,
+      "human_coherence": 8,
+      "human_factuality": 9,
+      "notes": ""
+    },
+    {
+      "question_id": 14,
+      "question": "Theo số liệu của Tổng cục Thống kê và VITAS năm 2023, kim ngạch xuất khẩu dệt may Việt Nam đạt khoảng bao nhiêu tỷ USD? Thị trường EU chiếm bao nhiêu % trong tổng kim ngạch xuất khẩu này?",
+      "response_preview": "[GOVERNMENT AGENT]\nTheo số liệu từ Tổng cục Thống kê và Hiệp hội Dệt may Việt Nam (VITAS) năm 2023, kim ngạch xuất khẩu dệt may của Việt Nam đạt khoảng 39 tỷ USD, trong đó thị trường EU chiếm khoảng 15% tổng kim ngạch xuất khẩu này. \n\nChính phủ Việt Nam cam kết thực hiện các mục tiêu phát triển bền vững và bảo vệ môi trường thông qua việc áp dụng các chính sách phù hợp với các cam kết quốc tế như \n...\n[EXPERT SUMMARY]\n### Phân Tích Cuộc Tranh Luận Chính Sách Giữa Chính Phủ và Doanh Nghiệp Trong Ngành Dệt May Việt Nam\n\n#### 1. Tóm tắt lập trường Chính phủ\nTrong ba vòng tranh luận, Chính phủ Việt Nam đã thể hiện rõ cam kết đối với phát triển bền vững và bảo vệ môi trường. Theo số liệu từ Tổng cục Thống kê và Hiệp hội Dệt may Việt Nam (VITAS) năm 2023, kim ngạch xuất khẩu dệt may của Việt Nam đạt khoảng 39 tỷ USD, trong đó thị trường EU chiếm khoảng 15% tổng kim ngạch xuất khẩu này. Chính phủ đã nhấn mạnh rằng việc áp dụng các chính sách như thuế carbon là cần thiết để giảm thiểu phát thải khí nhà kính, đồng thời duy trì sự ổn định kinh tế cho ngành xuất khẩu chủ lực [Nguồn: Luật Bảo vệ Môi trường 2020]. Chính phủ cũng đã đề xuất một lộ trình dài hạn nhằm phát triển các mô hình sản xuất xanh và bền vững, v",
+      "llm_coherence": 8,
+      "llm_factuality": 9,
+      "human_coherence": 8,
+      "human_factuality": 9,
+      "notes": ""
+    },
+    {
+      "question_id": 15,
+      "question": "Theo cơ cấu sản xuất của ngành dệt may Việt Nam, tỷ lệ doanh nghiệp làm gia công (CMT - Cut, Make, Trim) so với sản xuất FOB (Free On Board) là bao nhiêu? Mô hình nào chiếm ưu thế và điều này ảnh hưởng thế nào đến khả năng kiểm soát carbon footprint?",
+      "response_preview": "[GOVERNMENT AGENT]\nTrong ngành dệt may Việt Nam, tỷ lệ doanh nghiệp thực hiện gia công (CMT) so với sản xuất FOB vẫn chiếm ưu thế, với khoảng 70-80% doanh nghiệp hoạt động theo mô hình gia công. Điều này tạo ra thách thức trong việc kiểm soát carbon footprint, do các doanh nghiệp gia công thường không kiểm soát được toàn bộ chuỗi cung ứng và quy trình sản xuất, dẫn đến khó khăn trong việc thực hiệ\n...\n[EXPERT SUMMARY]\n### Tóm tắt lập trường Chính phủ\n\nTrong ba vòng tranh luận, Chính phủ Việt Nam khẳng định rằng tỷ lệ doanh nghiệp gia công (CMT) trong ngành dệt may vẫn chiếm ưu thế, khoảng 70-80%. Điều này tạo ra thách thức trong việc kiểm soát carbon footprint do các doanh nghiệp gia công thường không kiểm soát được toàn bộ chuỗi cung ứng. Chính phủ nhấn mạnh rằng việc chuyển đổi sang mô hình sản xuất FOB sẽ giúp các doanh nghiệp kiểm soát tốt hơn quy trình sản xuất và phát thải. Chính phủ đã cam kết thực hiện các chính sách hỗ trợ, bao gồm việc xây dựng khung pháp lý rõ ràng và hỗ trợ công nghệ cho các doanh nghiệp nhằm nâng cao khả năng kiểm soát phát thải carbon [Nguồn: Luật Bảo vệ Môi trường 2020; Nghị định 08/2022/NĐ-CP].\n\n### Tóm tắt lập trường Doanh nghiệp\n\nTrong khi đó, lập trường của doanh nghi",
+      "llm_coherence": 8,
+      "llm_factuality": 9,
+      "human_coherence": 8,
+      "human_factuality": 8,
+      "notes": ""
+    },
+    {
+      "question_id": 16,
+      "question": "Ngành dệt may VN chủ yếu sử dụng nguồn điện từ than (chiếm ~60% hệ số phát thải điện lưới VN). Nếu chuyển sang mua điện tái tạo (solar, wind) có thể giảm được bao nhiêu % phát thải? Chi phí điện tăng thêm bao nhiêu?",
+      "response_preview": "[GOVERNMENT AGENT]\nChính phủ Việt Nam khẳng định rằng việc chuyển đổi từ nguồn điện than sang năng lượng tái tạo là một bước đi cần thiết để giảm phát thải khí nhà kính, đặc biệt trong ngành dệt may, nơi mà điện từ than chiếm khoảng 60% tổng phát thải điện lưới. Theo nghiên cứu, việc áp dụng năng lượng mặt trời và gió có thể giảm tới 30-40% lượng phát thải CO2 từ ngành này, đồng thời hỗ trợ đạt đư\n...\n[EXPERT SUMMARY]\n### Tóm tắt lập trường Chính phủ\n\nTrong ba vòng tranh luận, Chính phủ Việt Nam đã khẳng định sự cần thiết của việc chuyển đổi từ nguồn điện than sang năng lượng tái tạo nhằm giảm phát thải khí nhà kính trong ngành dệt may. Ở vòng đầu tiên, Chính phủ nhấn mạnh rằng việc áp dụng năng lượng mặt trời và gió có thể giảm tới 30-40% lượng phát thải CO2, đồng thời hỗ trợ đạt được các cam kết quốc tế về giảm phát thải theo Thỏa thuận Paris và hướng tới mục tiêu Net Zero vào năm 2050 [Nguồn: Quyết định 888/QĐ-TTg]. Tuy nhiên, Chính phủ cũng thừa nhận rằng chi phí đầu tư ban đầu cho cơ sở hạ tầng năng lượng tái tạo có thể tăng từ 10-20%, nhưng lợi ích lâu dài về môi trường và sức khỏe cộng đồng sẽ bù đắp cho chi phí này [Nguồn: Luật Bảo vệ Môi trường 2020]. Trong vòng thứ hai, Chính phủ đã nhấn mạnh ",
+      "llm_coherence": 8,
+      "llm_factuality": 9,
+      "human_coherence": 7,
+      "human_factuality": 9,
+      "notes": ""
+    },
+    {
+      "question_id": 17,
+      "question": "Trong 294 doanh nghiệp dệt may phải kiểm kê GHG, khoảng 60% là SME với doanh thu dưới 200 tỷ VNĐ/năm. Chi phí kiểm kê lần đầu khoảng 150-250 triệu VNĐ. Tỷ lệ chi phí này trên doanh thu là bao nhiêu? Điều này có tạo rào cản cho SME không?",
+      "response_preview": "[GOVERNMENT AGENT]\nChính phủ Việt Nam nhận thức rõ rằng việc kiểm kê khí nhà kính (GHG) là một yêu cầu thiết yếu nhằm thực hiện các cam kết quốc tế, đặc biệt là theo Hiệp định Paris và mục tiêu Net Zero 2050. Trong bối cảnh 294 doanh nghiệp dệt may, trong đó 60% là doanh nghiệp vừa và nhỏ (SME) với doanh thu dưới 200 tỷ VNĐ/năm, chi phí kiểm kê lần đầu từ 150-250 triệu VNĐ có thể tạo ra rào cản đá\n...\n[EXPERT SUMMARY]\n### Tóm tắt lập trường Chính phủ\n\n**Vòng 1:** Chính phủ Việt Nam khẳng định tầm quan trọng của việc kiểm kê khí nhà kính (GHG) trong bối cảnh thực hiện các cam kết quốc tế, đặc biệt là Hiệp định Paris và mục tiêu Net Zero 2050. Với 294 doanh nghiệp dệt may, trong đó 60% là SME có doanh thu dưới 200 tỷ VNĐ/năm, chi phí kiểm kê từ 150-250 triệu VNĐ có thể tạo ra rào cản đáng kể, chiếm khoảng 0.075-0.125% doanh thu [Nguồn: Luật Bảo vệ Môi trường 2020]. Chính phủ cam kết xây dựng cơ chế hỗ trợ tài chính và kỹ thuật cho SME để đảm bảo tuân thủ mà không gặp khó khăn tài chính quá lớn.\n\n**Vòng 2:** Chính phủ tiếp tục nhấn mạnh rằng các cơ chế hỗ trợ tài chính và kỹ thuật đã được xác định trong Nghị định 06/2022/NĐ-CP sẽ giúp giảm bớt gánh nặng chi phí cho SME. Hơn nữa, việc kiểm kê GHG không chỉ ",
+      "llm_coherence": 8,
+      "llm_factuality": 9,
+      "human_coherence": 8,
+      "human_factuality": 9,
+      "notes": ""
+    },
+    {
+      "question_id": 18,
+      "question": "Ngành dệt may VN chủ yếu làm gia công (CMT - Cut, Make, Trim) với giá trị gia tăng thấp (15-20%). Nếu phải gánh chi phí carbon, khả năng chuyển chi phí sang buyer như thế nào? Có khác biệt gì giữa mô hình CMT và FOB?",
+      "response_preview": "[GOVERNMENT AGENT]\nTrong bối cảnh ngành dệt may Việt Nam chủ yếu hoạt động theo mô hình gia công (CMT) với giá trị gia tăng thấp, việc áp dụng chi phí carbon có thể tạo ra những thách thức lớn cho các doanh nghiệp. Đầu tiên, theo Luật Bảo vệ Môi trường 2020, việc thực hiện các biện pháp giảm phát thải khí nhà kính là bắt buộc nhằm đảm bảo phát triển bền vững và bảo vệ môi trường [Nguồn: Luật Bảo v\n...\n[EXPERT SUMMARY]\n### Tóm tắt lập trường Chính phủ\n\nTrong ba vòng tranh luận, lập trường của Chính phủ Việt Nam thể hiện rõ ràng sự cam kết trong việc thực hiện các chính sách bảo vệ môi trường và giảm phát thải khí nhà kính. Ở vòng đầu tiên, Chính phủ nhấn mạnh rằng việc áp dụng chi phí carbon là cần thiết để đảm bảo phát triển bền vững, theo quy định của Luật Bảo vệ Môi trường 2020 [Nguồn: Luật Bảo vệ Môi trường 2020]. Chính phủ cũng chỉ ra rằng mô hình FOB có khả năng chuyển giao chi phí carbon hiệu quả hơn so với mô hình CMT, nơi giá trị gia tăng thấp có thể cản trở khả năng này. \n\nỞ vòng thứ hai, Chính phủ tiếp tục khẳng định rằng việc chuyển đổi công nghệ sạch là một phần trong cam kết của Việt Nam theo Quyết định 888/QĐ-TTg, đồng thời nhấn mạnh rằng các chính sách hỗ trợ sẽ được triển khai để giúp do",
+      "llm_coherence": 8,
+      "llm_factuality": 9,
+      "human_coherence": 8,
+      "human_factuality": 9,
+      "notes": ""
+    },
+    {
+      "question_id": 19,
+      "question": "Theo báo cáo 'Resource Efficiency and Cleaner Production in the Garment Sector' của UNIDO (2019), việc áp dụng công nghệ nhuộm tiết kiệm nước (water-saving dyeing technology) có thể giảm lượng nước tiêu thụ bao nhiêu % và giảm phát thải CO2 bao nhiêu % so với phương pháp nhuộm truyền thống?",
+      "response_preview": "[GOVERNMENT AGENT]\nChính phủ Việt Nam khẳng định cam kết mạnh mẽ trong việc thúc đẩy áp dụng công nghệ nhuộm tiết kiệm nước trong ngành dệt may, với mục tiêu giảm thiểu tác động môi trường. Theo báo cáo của UNIDO (2019), công nghệ này có thể giảm lượng nước tiêu thụ tới 30% và giảm phát thải CO2 lên đến 50% so với phương pháp nhuộm truyền thống. Điều này phù hợp với các quy định tại Luật Bảo vệ Mô\n...\n[EXPERT SUMMARY]\n**1. Tóm tắt lập trường Chính phủ:**\n\nTrong ba vòng tranh luận, Chính phủ Việt Nam đã thể hiện một lập trường nhất quán về việc thúc đẩy áp dụng công nghệ nhuộm tiết kiệm nước trong ngành dệt may. Ở vòng đầu tiên, Chính phủ nhấn mạnh cam kết mạnh mẽ trong việc giảm thiểu tác động môi trường, với số liệu từ báo cáo của UNIDO (2019) cho thấy công nghệ này có thể giảm lượng nước tiêu thụ tới 30% và giảm phát thải CO2 lên đến 50% so với phương pháp truyền thống. Chính phủ cũng khẳng định rằng các quy định trong Luật Bảo vệ Môi trường 2020 yêu cầu áp dụng công nghệ sạch và tiết kiệm tài nguyên [Nguồn: Luật Bảo vệ Môi trường 2020].\n\nỞ vòng thứ hai, Chính phủ đã phản bác các lập luận từ phía doanh nghiệp về việc giảm phát thải CO2, khẳng định rằng công nghệ nhuộm tiết kiệm nước thực sự có thể giả",
+      "llm_coherence": 8,
+      "llm_factuality": 7,
+      "human_coherence": 8,
+      "human_factuality": 7,
+      "notes": ""
+    },
+    {
+      "question_id": 20,
+      "question": "Một nhà máy dệt nhuộm ở Việt Nam tiêu thụ 500.000 kWh điện/tháng, trong đó 60% dùng cho hệ thống boiler và sấy. Nếu đầu tư 5 tỷ VNĐ để nâng cấp lên boiler hiệu suất cao và lắp hệ thống thu hồi nhiệt thải, có thể tiết kiệm 25% năng lượng. Hãy phân tích: (1) Giảm được bao nhiêu tấn CO2/năm? (2) Thời gian hoàn vốn trong các kịch bản khác nhau của thuế carbon?",
+      "response_preview": "[GOVERNMENT AGENT]\nChính phủ Việt Nam khẳng định cam kết mạnh mẽ trong việc giảm phát thải khí nhà kính, phù hợp với các nghĩa vụ quốc tế như Thỏa thuận Paris và mục tiêu Net Zero vào năm 2050. Đầu tư vào nâng cấp hệ thống boiler và lắp đặt hệ thống thu hồi nhiệt thải tại nhà máy dệt nhuộm không chỉ giúp tiết kiệm năng lượng mà còn góp phần giảm phát thải CO2. Cụ thể, với mức tiêu thụ 500.000 kWh/\n...\n[EXPERT SUMMARY]\n### Tóm tắt lập trường Chính phủ\n\n**Vòng 1:** Chính phủ Việt Nam khẳng định cam kết mạnh mẽ trong việc giảm phát thải khí nhà kính, phù hợp với các nghĩa vụ quốc tế như Thỏa thuận Paris và mục tiêu Net Zero vào năm 2050. Đầu tư vào nâng cấp hệ thống boiler và lắp đặt hệ thống thu hồi nhiệt thải tại nhà máy dệt nhuộm không chỉ giúp tiết kiệm năng lượng mà còn góp phần giảm phát thải CO2. Cụ thể, với mức tiêu thụ 500.000 kWh/tháng, việc tiết kiệm 25% năng lượng tương đương với 150.000 kWh/tháng, dẫn đến giảm khoảng 90 tấn CO2/năm, dựa trên hệ số phát thải 0.6 tấn CO2 cho mỗi MWh điện tiêu thụ [Nguồn: Quyết định 01/2022/QĐ-TTg]. Chính phủ cũng nhấn mạnh rằng thuế carbon sẽ tạo động lực cho doanh nghiệp đầu tư vào công nghệ sạch.\n\n**Vòng 2:** Chính phủ tiếp tục khẳng định rằng thời gian hoàn v",
+      "llm_coherence": 8,
+      "llm_factuality": 7,
+      "human_coherence": 8,
+      "human_factuality": 7,
+      "notes": ""
+    },
+    {
+      "question_id": 21,
+      "question": "Một công ty dệt may có 3 nhà máy ở miền Bắc, miền Trung và miền Nam, mỗi nhà máy phát thải 10.000 tấn CO2/năm. Công ty có ngân sách đầu tư xanh 50 tỷ VNĐ và cần quyết định giữa 3 phương án: (A) Lắp hệ thống solar rooftop 5 MW cho cả 3 nhà máy (15 tỷ mỗi nhà máy), (B) Nâng cấp toàn bộ hệ thống nhuộm tiết kiệm nước cho 1 nhà máy (50 tỷ), (C) Đầu tư máy móc hiệu suất cao cho cả 3 nhà máy (16-17 tỷ mỗi nhà máy). Phương án nào mang lại hiệu quả giảm phát thải cao nhất trên mỗi đồng đầu tư? Xếp hạng theo cost-effectiveness (VNĐ/tấn CO2 giảm).",
+      "response_preview": "[GOVERNMENT AGENT]\nTrong bối cảnh Việt Nam cam kết đạt mục tiêu phát thải ròng bằng 0 vào năm 2050 theo Thỏa thuận Paris và Quyết định 01/QĐ-TTg, việc lựa chọn phương án đầu tư cho công ty dệt may cần được xem xét kỹ lưỡng về hiệu quả giảm phát thải trên mỗi đồng đầu tư. \n\nPhương án (B) nâng cấp hệ thống nhuộm tiết kiệm nước cho một nhà máy, mặc dù tiêu tốn toàn bộ ngân sách 50 tỷ VNĐ, có khả năng\n...\n[EXPERT SUMMARY]\n### Phân Tích Cuộc Tranh Luận Chính Sách Giữa Chính Phủ và Doanh Nghiệp\n\n#### 1. Tóm Tắt Lập Trường Chính Phủ\nTrong ba vòng tranh luận, lập trường của Chính phủ thể hiện rõ ràng cam kết về việc giảm phát thải khí nhà kính và thúc đẩy công nghệ xanh. Ở vòng đầu tiên, Chính phủ nhấn mạnh rằng phương án nâng cấp hệ thống nhuộm tiết kiệm nước (phương án B) là lựa chọn tối ưu, mặc dù tiêu tốn toàn bộ ngân sách 50 tỷ VNĐ. Lập luận này dựa trên khả năng giảm phát thải cao và tuân thủ các quy định môi trường hiện hành [Nguồn: Quyết định 01/QĐ-TTg]. Vòng hai chứng minh rằng Chính phủ khuyến khích đầu tư vào công nghệ xanh như hệ thống solar rooftop (phương án A) để đạt được mục tiêu phát thải ròng bằng 0 vào năm 2050. Chính phủ cũng cam kết hỗ trợ các doanh nghiệp nhỏ và vừa (SME) thông qua các chí",
+      "llm_coherence": 8,
+      "llm_factuality": 9,
+      "human_coherence": 8,
+      "human_factuality": 9,
+      "notes": ""
+    },
+    {
+      "question_id": 22,
+      "question": "Chính phủ Việt Nam đang cân nhắc chính sách bắt buộc các nhà máy dệt nhuộm đạt chuẩn hiệu suất năng lượng tối thiểu (MEPS) cho boiler và máy nhuộm từ 2027. DN không đạt chuẩn phải: (A) Nâng cấp thiết bị trong 2 năm với vay ưu đãi 4%/năm, hoặc (B) Chịu phí phạt tăng dần 5-10-15% chi phí năng lượng nếu không nâng cấp. Phương án nào hiệu quả hơn?",
+      "response_preview": "[GOVERNMENT AGENT]\nTrong bối cảnh Chính phủ Việt Nam đang hướng tới mục tiêu phát thải ròng bằng \"0\" vào năm 2050, việc áp dụng tiêu chuẩn hiệu suất năng lượng tối thiểu (MEPS) cho các nhà máy dệt nhuộm từ năm 2027 là một bước đi cần thiết nhằm giảm thiểu tác động môi trường và nâng cao hiệu quả sử dụng năng lượng. \n\nThứ nhất, việc yêu cầu các nhà máy nâng cấp thiết bị sẽ thúc đẩy đổi mới công ngh\n...\n[EXPERT SUMMARY]\n### Tóm tắt lập trường Chính phủ\n\nTrong ba vòng tranh luận, Chính phủ Việt Nam đã nhấn mạnh tầm quan trọng của việc áp dụng tiêu chuẩn hiệu suất năng lượng tối thiểu (MEPS) cho các nhà máy dệt nhuộm từ năm 2027. Lập trường của Chính phủ tập trung vào ba điểm chính:\n\n1. **Mục tiêu phát thải ròng bằng \"0\"**: Chính phủ khẳng định rằng việc áp dụng MEPS là cần thiết để giảm thiểu tác động môi trường và nâng cao hiệu quả sử dụng năng lượng, phù hợp với cam kết của Việt Nam trong Hiệp định Paris về biến đổi khí hậu [Nguồn: Quyết định 888/QĐ-TTg].\n\n2. **Động lực cải cách công nghệ**: Chính phủ cho rằng yêu cầu nâng cấp thiết bị sẽ thúc đẩy đổi mới công nghệ, giúp giảm tiêu thụ năng lượng và khí thải carbon. Chính sách phạt tăng dần cho các doanh nghiệp không đạt chuẩn được xem là động lực mạnh mẽ",
+      "llm_coherence": 8,
+      "llm_factuality": 7,
+      "human_coherence": 7,
+      "human_factuality": 7,
+      "notes": ""
+    },
+    {
+      "question_id": 23,
+      "question": "Một tập đoàn dệt may lớn ở Việt Nam có 5 nhà máy, tổng phát thải 50.000 tấn CO2/năm. Họ có ngân sách đầu tư xanh 100 tỷ VNĐ và phải lựa chọn giữa: (A) Đầu tư tập trung vào 1-2 nhà máy để đạt net-zero (100% năng lượng tái tạo + carbon offset), tạo 'lighthouse factories' làm mẫu, hay (B) Phân bổ đều cho cả 5 nhà máy để giảm 20-30% phát thải mỗi nhà máy, đảm bảo công bằng và giảm rủi ro? Chiến lược nào tối ưu về mặt môi trường, kinh tế và chiến lược?",
+      "response_preview": "[GOVERNMENT AGENT]\nTrong bối cảnh Việt Nam cam kết đạt mục tiêu Net Zero vào năm 2050 theo Thỏa thuận Paris, Chính phủ khuyến khích các doanh nghiệp, đặc biệt là trong ngành dệt may, thực hiện các biện pháp giảm phát thải khí nhà kính một cách hiệu quả và bền vững. Chiến lược đầu tư vào 1-2 nhà máy để đạt được net-zero sẽ tạo ra các \"nhà máy mẫu\" (lighthouse factories), từ đó tạo động lực cho các \n...\n[EXPERT SUMMARY]\n### Tóm tắt lập trường Chính phủ\n\n**Vòng 1:** Chính phủ Việt Nam khuyến khích các doanh nghiệp, đặc biệt trong ngành dệt may, thực hiện các biện pháp giảm phát thải khí nhà kính nhằm đạt được mục tiêu Net Zero vào năm 2050 theo Thỏa thuận Paris. Lập luận chính là việc đầu tư vào 1-2 nhà máy để đạt net-zero sẽ tạo ra các \"nhà máy mẫu\", từ đó thúc đẩy các nhà máy khác áp dụng công nghệ xanh. Điều này phù hợp với quy định tại Nghị định 06/2022/NĐ-CP, yêu cầu các cơ sở sản xuất phải thực hiện các biện pháp bảo vệ môi trường [Nguồn: Nghị định 06/2022/NĐ-CP].\n\n**Vòng 2:** Chính phủ phản biện rằng việc đầu tư tập trung không chỉ tối ưu hóa nguồn lực tài chính mà còn tạo ra mô hình kinh doanh bền vững, phù hợp với các cam kết quốc tế. Việc này sẽ khuyến khích chuyển giao công nghệ và phát triển nă",
+      "llm_coherence": 8,
+      "llm_factuality": 7,
+      "human_coherence": 8,
+      "human_factuality": 7,
+      "notes": ""
+    },
+    {
+      "question_id": 24,
+      "question": "Theo chương trình Vietnam Improvement Program của IFC từ năm 2019, tổng nguồn vốn đã huy động để hỗ trợ ngành dệt may Việt Nam chuyển đổi xanh là bao nhiêu? Chương trình này đã giúp tiết kiệm bao nhiêu điện năng và giảm bao nhiêu tấn CO2 mỗi năm?",
+      "response_preview": "[GOVERNMENT AGENT]\nChính phủ Việt Nam cam kết thúc đẩy chuyển đổi xanh trong ngành dệt may thông qua chương trình Vietnam Improvement Program của IFC, với tổng nguồn vốn huy động lên tới 20 triệu USD. Chương trình này không chỉ giúp tiết kiệm khoảng 20 triệu kWh điện năng mỗi năm mà còn giảm phát thải khoảng 50.000 tấn CO2, góp phần quan trọng vào mục tiêu giảm phát thải khí nhà kính theo cam kết \n...\n[EXPERT SUMMARY]\n### Tóm tắt lập trường Chính phủ\n\nTrong ba vòng tranh luận, Chính phủ Việt Nam khẳng định cam kết mạnh mẽ đối với việc thúc đẩy chuyển đổi xanh trong ngành dệt may thông qua chương trình Vietnam Improvement Program của IFC. Tổng nguồn vốn huy động cho chương trình này đạt 20 triệu USD, với mục tiêu tiết kiệm khoảng 20 triệu kWh điện năng và giảm phát thải khoảng 50.000 tấn CO2 mỗi năm [Nguồn: Quyết định 888/QĐ-TTg]. Chính phủ nhấn mạnh rằng các nỗ lực này không chỉ góp phần vào mục tiêu giảm phát thải khí nhà kính theo Hiệp định Paris mà còn được hỗ trợ bởi các quy định trong Luật Bảo vệ Môi trường 2020, yêu cầu các ngành công nghiệp thực hiện các biện pháp bảo vệ môi trường [Nguồn: Luật Bảo vệ Môi trường 2020]. Chính phủ cam kết xây dựng khung pháp lý và chính sách hỗ trợ để đảm bảo sự ch",
+      "llm_coherence": 8,
+      "llm_factuality": 7,
+      "human_coherence": 7,
+      "human_factuality": 7,
+      "notes": ""
+    },
+    {
+      "question_id": 25,
+      "question": "Một đề tài nghiên cứu phát triển hệ thống tranh luận đa-agent để mô phỏng 5 kịch bản chính sách thuế carbon khác nhau (thuế suất 10-50 USD/tấn CO2) cho 50 doanh nghiệp dệt may Việt Nam. Chi phí nghiên cứu 3 tỷ VNĐ/2 năm. Nếu không có hệ thống này, mỗi DN phải thuê tư vấn 200 triệu VNĐ để phân tích tác động CBAM và lập lộ trình giảm phát thải. Hệ thống giúp: (1) Giảm 70% chi phí tư vấn, (2) Rút ngắn thời gian ra quyết định từ 6 tháng xuống 2 tuần, (3) Cung cấp bằng chứng khoa học giúp Chính phủ thiết kế chính sách phù hợp, tiết kiệm 500 tỷ VNĐ chi phí điều chỉnh chính sách sai. Tính tổng lợi ích kinh tế-xã hội và tỷ lệ chi phí/lợi ích (BCR) của đề tài?",
+      "response_preview": "[GOVERNMENT AGENT]\nTrong bối cảnh Việt Nam đang nỗ lực thực hiện các cam kết quốc tế về biến đổi khí hậu, việc phát triển hệ thống tranh luận đa-agent nhằm mô phỏng các kịch bản chính sách thuế carbon cho ngành dệt may là một bước đi cần thiết. Đầu tiên, hệ thống này sẽ giúp giảm 70% chi phí tư vấn cho mỗi doanh nghiệp, từ 200 triệu VNĐ xuống còn 60 triệu VNĐ, qua đó tạo điều kiện cho các doanh ng\n...\n[EXPERT SUMMARY]\n### Tóm tắt lập trường Chính phủ\n\nTrong ba vòng tranh luận, Chính phủ đã nhấn mạnh tầm quan trọng của việc phát triển hệ thống tranh luận đa-agent nhằm mô phỏng các kịch bản chính sách thuế carbon cho ngành dệt may. Vòng đầu tiên, Chính phủ lập luận rằng hệ thống này sẽ giúp giảm 70% chi phí tư vấn cho mỗi doanh nghiệp, từ 200 triệu VNĐ xuống còn 60 triệu VNĐ, đồng thời nâng cao khả năng tiếp cận thông tin cho các doanh nghiệp, phù hợp với quy định tại Điều 14 của Luật Bảo vệ Môi trường 2020 [Nguồn: Luật Bảo vệ Môi trường 2020]. Chính phủ cũng cho rằng việc rút ngắn thời gian ra quyết định từ 6 tháng xuống 2 tuần sẽ cải thiện hiệu quả quản lý nhà nước, phù hợp với Nghị định 45/2022/NĐ-CP [Nguồn: Nghị định 45/2022/NĐ-CP]. Cuối cùng, việc cung cấp bằng chứng khoa học sẽ tiết kiệm 500 tỷ VNĐ ",
+      "llm_coherence": 8,
+      "llm_factuality": 9,
+      "human_coherence": 8,
+      "human_factuality": 9,
+      "notes": ""
+    },
+    {
+      "question_id": 26,
+      "question": "Quỹ Khí hậu Xanh (Green Climate Fund - GCF) và các cơ chế tài trợ quốc tế khác (ADB, World Bank, JICA) cung cấp vốn ưu đãi cho dự án giảm phát thải ở VN. Tuy nhiên, quy trình xin vốn phức tạp (2-3 năm), yêu cầu co-financing 30-50%. DN dệt may nên: (A) Tập trung vào nguồn vốn nội địa (ngân hàng, leasing) dù lãi suất cao hơn nhưng nhanh, hay (B) Đầu tư effort vào xin vốn quốc tế dù chậm nhưng điều kiện tốt hơn?",
+      "response_preview": "[GOVERNMENT AGENT]\nTrong bối cảnh Việt Nam đang nỗ lực giảm phát thải khí nhà kính và thực hiện các cam kết quốc tế về biến đổi khí hậu, việc lựa chọn nguồn vốn cho ngành dệt may là vấn đề quan trọng. Chính phủ khuyến khích doanh nghiệp dệt may đầu tư vào các nguồn vốn quốc tế như Quỹ Khí hậu Xanh (GCF) và các tổ chức tài chính quốc tế khác, mặc dù quy trình xin vốn có thể kéo dài từ 2-3 năm. Lý d\n...\n[EXPERT SUMMARY]\n### Tóm tắt lập trường Chính phủ\n\nTrong ba vòng tranh luận, Chính phủ Việt Nam đã thể hiện lập trường rõ ràng về việc khuyến khích doanh nghiệp dệt may tiếp cận nguồn vốn quốc tế, đặc biệt là từ Quỹ Khí hậu Xanh (GCF) và các tổ chức tài chính quốc tế khác. Ở vòng đầu tiên, Chính phủ nhấn mạnh rằng nguồn vốn quốc tế thường đi kèm với các điều kiện tài chính ưu đãi, giúp giảm gánh nặng tài chính cho doanh nghiệp và hỗ trợ thực hiện các dự án bền vững theo quy định của Luật Bảo vệ Môi trường 2020 [Nguồn: Luật Bảo vệ Môi trường 2020]. Đồng thời, việc huy động vốn từ các tổ chức quốc tế còn giúp doanh nghiệp tiếp cận công nghệ tiên tiến và nâng cao năng lực quản lý môi trường, phù hợp với các cam kết quốc tế mà Việt Nam đã ký kết, như Thỏa thuận Paris [Nguồn: Quyết định 888/QĐ-TTg].\n\nỞ vòng thứ",
+      "llm_coherence": 8,
+      "llm_factuality": 9,
+      "human_coherence": 8,
+      "human_factuality": 9,
+      "notes": ""
+    },
+    {
+      "question_id": 27,
+      "question": "Chính phủ VN đang cân nhắc 3 chính sách hỗ trợ DN dệt may giảm phát thải: (A) Trợ cấp trực tiếp 30% chi phí đầu tư vào công nghệ xanh (grant), (B) Miễn thuế thu nhập doanh nghiệp 2 năm cho dự án giảm >20% phát thải, (C) Cung cấp technical assistance miễn phí (đào tạo, tư vấn, MRV). Với ngân sách nhà nước hạn chế (1.000 tỷ VNĐ), nên ưu tiên chính sách nào? Phân tích effectiveness, efficiency, và equity.",
+      "response_preview": "[GOVERNMENT AGENT]\nTrong bối cảnh Chính phủ Việt Nam đang cân nhắc các chính sách hỗ trợ doanh nghiệp dệt may giảm phát thải, lập trường của Chính phủ nghiêng về việc ưu tiên chính sách cung cấp hỗ trợ kỹ thuật miễn phí (C). Chính sách này không chỉ nâng cao năng lực cho doanh nghiệp thông qua đào tạo và tư vấn mà còn đảm bảo tính bền vững trong việc thực hiện các cam kết quốc tế về giảm phát thải\n...\n[EXPERT SUMMARY]\n### Tóm tắt lập trường Chính phủ\n\nTrong ba vòng tranh luận, lập trường của Chính phủ Việt Nam đã nhấn mạnh sự ưu tiên cho chính sách cung cấp hỗ trợ kỹ thuật miễn phí (C). Trong vòng đầu tiên, Chính phủ lập luận rằng chính sách này không chỉ nâng cao năng lực cho doanh nghiệp thông qua đào tạo và tư vấn mà còn đảm bảo tính bền vững trong việc thực hiện các cam kết quốc tế về giảm phát thải, như Nghị định thư Paris mà Việt Nam đã ký kết [Nguồn: Quyết định 888/QĐ-TTg]. Hỗ trợ kỹ thuật được coi là một giải pháp hiệu quả trong bối cảnh ngân sách nhà nước hạn chế, với khả năng tạo ra hiệu ứng lan tỏa lớn hơn so với các chính sách trợ cấp trực tiếp hay miễn thuế [Nguồn: Nghị định 08/2022/NĐ-CP].\n\nTrong vòng thứ hai, Chính phủ tiếp tục nhấn mạnh rằng việc xây dựng khung pháp lý vững chắc cho chuy",
+      "llm_coherence": 8,
+      "llm_factuality": 9,
+      "human_coherence": 8,
+      "human_factuality": 9,
+      "notes": ""
+    },
+    {
+      "question_id": 28,
+      "question": "Việt Nam có thể huy động vốn cho chuyển đổi xanh ngành dệt may qua: (A) Carbon tax nội địa (10-30 USD/tấn CO2) với revenue recycling để hỗ trợ DN, (B) Phát hành Green bonds chính phủ (20.000 tỷ VNĐ) để cho vay ưu đãi, hay (C) Bắt buộc DN lớn tự tài trợ (mandatory green capex 5% revenue/năm). Mỗi cơ chế có trade-offs về hiệu quả, công bằng, và khả thi chính trị. Phương án nào tối ưu?",
+      "response_preview": "[GOVERNMENT AGENT]\nChính phủ Việt Nam xác định rằng việc huy động vốn cho chuyển đổi xanh trong ngành dệt may có thể được thực hiện hiệu quả thông qua các cơ chế tài chính như thuế carbon nội địa và phát hành trái phiếu xanh. Đầu tiên, việc áp dụng thuế carbon từ 10-30 USD/tấn CO2 không chỉ tạo ra nguồn thu cho ngân sách mà còn khuyến khích các doanh nghiệp giảm phát thải khí nhà kính, phù hợp với\n...\n[EXPERT SUMMARY]\n### Tóm tắt lập trường Chính phủ\n\nTrong ba vòng tranh luận, Chính phủ Việt Nam đã nhấn mạnh tầm quan trọng của việc huy động vốn cho chuyển đổi xanh trong ngành dệt may thông qua hai cơ chế chính: thuế carbon nội địa và phát hành trái phiếu xanh. Ở vòng đầu tiên, Chính phủ lập luận rằng việc áp dụng thuế carbon từ 10-30 USD/tấn CO2 không chỉ tạo ra nguồn thu cho ngân sách mà còn khuyến khích doanh nghiệp giảm phát thải khí nhà kính, phù hợp với các cam kết quốc tế [Nguồn: Luật Bảo vệ Môi trường 2020]. Đồng thời, phát hành trái phiếu xanh trị giá 20.000 tỷ VNĐ sẽ cung cấp nguồn vốn ưu đãi cho các dự án bền vững, thúc đẩy sự phát triển của thị trường tài chính xanh [Nguồn: Nghị định 45/2022/NĐ-CP].\n\nỞ vòng thứ hai, Chính phủ khẳng định rằng các cơ chế tài chính này sẽ được thiết kế để hỗ trợ",
+      "llm_coherence": 8,
+      "llm_factuality": 9,
+      "human_coherence": 8,
+      "human_factuality": 9,
+      "notes": ""
+    },
+    {
+      "question_id": 29,
+      "question": "Nếu CBAM mở rộng sang dệt may và các chính sách carbon của VN được thực thi nghiêm, dự báo 10-15% doanh nghiệp dệt may (khoảng 600-900 DN nhỏ) có thể phải đóng cửa do không đủ năng lực tuân thủ, ảnh hưởng 150.000-220.000 lao động. Chính phủ nên: (A) Ưu tiên bảo vệ việc làm bằng cách nới lỏng/trì hoãn chính sách carbon, hay (B) Thúc đẩy chuyển đổi xanh kể cả khi có chi phí xã hội ngắn hạn, đầu tư vào just transition (đào tạo lại, hỗ trợ chuyển đổi)?",
+      "response_preview": "[GOVERNMENT AGENT]\nChính phủ Việt Nam khẳng định rằng việc thúc đẩy chuyển đổi xanh là ưu tiên hàng đầu, mặc dù có thể dẫn đến chi phí xã hội ngắn hạn. Đầu tiên, việc thực hiện các chính sách carbon, bao gồm cả thuế carbon, là cần thiết để đạt được các cam kết quốc tế như Thỏa thuận Paris và mục tiêu Net Zero 2050, nhằm bảo vệ môi trường và phát triển bền vững [Nguồn: Luật Bảo vệ Môi trường 2020].\n...\n[EXPERT SUMMARY]\n### Tóm tắt lập trường Chính phủ\n\n**Vòng 1:** Chính phủ Việt Nam khẳng định rằng việc thúc đẩy chuyển đổi xanh là ưu tiên hàng đầu, mặc dù có thể dẫn đến chi phí xã hội ngắn hạn. Việc thực hiện các chính sách carbon, bao gồm thuế carbon, là cần thiết để đạt được các cam kết quốc tế như Thỏa thuận Paris và mục tiêu Net Zero 2050, nhằm bảo vệ môi trường và phát triển bền vững [Nguồn: Luật Bảo vệ Môi trường 2020]. Chính phủ cũng nhấn mạnh rằng việc áp dụng các tiêu chuẩn môi trường nghiêm ngặt sẽ nâng cao năng lực cạnh tranh của ngành dệt may và tạo động lực cho doanh nghiệp đầu tư vào công nghệ sạch [Nguồn: Nghị định 08/2022/NĐ-CP].\n\n**Vòng 2:** Chính phủ phản bác lập luận của doanh nghiệp về việc đóng cửa doanh nghiệp nhỏ và ảnh hưởng đến việc làm. Họ cho rằng việc áp dụng tiêu chuẩn môi tr",
+      "llm_coherence": 8,
+      "llm_factuality": 7,
+      "human_coherence": 7,
+      "human_factuality": 7,
+      "notes": ""
+    },
+    {
+      "question_id": 30,
+      "question": "Các nước phát triển (EU, Mỹ) áp dụng CBAM và yêu cầu carbon footprint có thể được xem là 'chủ nghĩa bảo hộ xanh' (green protectionism), tạo rào cản thương mại cho các nước đang phát triển như VN. Việt Nam nên: (A) Phản đối và kêu gọi miễn trừ/delay cho developing countries tại WTO/UNFCCC, hay (B) Chấp nhận 'luật chơi mới', nhanh chóng thích nghi để không bị bỏ lại phía sau?",
+      "response_preview": "[GOVERNMENT AGENT]\nChính phủ Việt Nam nhận thức rõ rằng việc áp dụng cơ chế điều chỉnh biên giới carbon (CBAM) bởi các nước phát triển có thể tạo ra thách thức cho các nền kinh tế đang phát triển, bao gồm Việt Nam. Tuy nhiên, thay vì phản đối, Việt Nam nên chấp nhận \"luật chơi mới\" và nhanh chóng thích nghi để đảm bảo không bị bỏ lại phía sau trong bối cảnh toàn cầu hóa và chuyển đổi sang nền kinh\n...\n[EXPERT SUMMARY]\n### Tóm tắt lập trường Chính phủ\n\n**Vòng 1:** Chính phủ Việt Nam đã nhận thức được thách thức mà cơ chế điều chỉnh biên giới carbon (CBAM) từ các nước phát triển đặt ra cho nền kinh tế đang phát triển, bao gồm ngành dệt may. Tuy nhiên, thay vì phản đối, Chính phủ khuyến khích việc chấp nhận \"luật chơi mới\" và nhanh chóng thích nghi để không bị bỏ lại phía sau trong bối cảnh toàn cầu hóa. Chính phủ nhấn mạnh rằng việc tuân thủ các yêu cầu về carbon footprint là cần thiết để nâng cao năng lực cạnh tranh và đáp ứng các cam kết quốc tế như Thỏa thuận Paris [Nguồn: Quyết định 888/QĐ-TTg].\n\n**Vòng 2:** Chính phủ tiếp tục lập luận rằng phát triển khung pháp lý cho các cơ chế carbon pricing là cần thiết để đạt được mục tiêu phát thải ròng bằng 0 vào năm 2050. Chính phủ cũng nhấn mạnh rằng việc tăn",
+      "llm_coherence": 8,
+      "llm_factuality": 7,
+      "human_coherence": 8,
+      "human_factuality": 7,
+      "notes": ""
+    }
+  ]
+}

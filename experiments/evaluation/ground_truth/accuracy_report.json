@@ -1,0 +1,82 @@
+{
+  "legal_semantic_tagging": {
+    "n_labeled": 100,
+    "clause_type": {
+      "accuracy": 0.52,
+      "correct": 52,
+      "per_class": {
+        "general": {
+          "tp": 23,
+          "fp": 30,
+          "fn": 2
+        },
+        "responsibility": {
+          "tp": 1,
+          "fp": 0,
+          "fn": 7
+        },
+        "procedure": {
+          "tp": 3,
+          "fp": 0,
+          "fn": 13
+        },
+        "obligation": {
+          "tp": 20,
+          "fp": 6,
+          "fn": 8
+        },
+        "definition": {
+          "tp": 1,
+          "fp": 0,
+          "fn": 4
+        },
+        "condition": {
+          "tp": 0,
+          "fp": 7,
+          "fn": 5
+        },
+        "sanction": {
+          "tp": 1,
+          "fp": 1,
+          "fn": 8
+        },
+        "permission": {
+          "tp": 3,
+          "fp": 4,
+          "fn": 1
+        }
+      }
+    },
+    "subjects": {
+      "precision": 0.445,
+      "recall": 0.4633,
+      "f1": 0.4408
+    },
+    "domains": {
+      "precision": 0.6848,
+      "recall": 0.705,
+      "f1": 0.6847
+    },
+    "overall_f1": 0.5485
+  },
+  "business_semantic_tagging": {
+    "n_labeled": 93,
+    "stance": {
+      "accuracy": 0.914,
+      "correct": 85,
+      "n": 93
+    },
+    "focus": {
+      "precision": 0.9191,
+      "recall": 0.8939,
+      "f1": 0.8901,
+      "n": 90
+    },
+    "cbam_relevance": {
+      "accuracy": 0.9892,
+      "correct": 92,
+      "n": 93
+    },
+    "overall_f1": 0.9311
+  }
+}
