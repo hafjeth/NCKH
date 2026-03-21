@@ -1,10 +1,8 @@
 """
-LLM Judge - OPTIMIZED VERSION (FIXED & STABLE)
-============================================
-
-- Compatible with OpenAI SDK >= 1.0 (Responses API)
-- Safe prompt formatting (NO KeyError)
-- Deterministic, research-grade evaluation
+LLM Judge
+=========
+FIX: client.responses.create() → client.chat.completions.create()
+FIX: response.output_text      → response.choices[0].message.content
 """
 
 import os
@@ -19,11 +17,11 @@ from pathlib import Path
 from dotenv import load_dotenv
 from openai import OpenAI, OpenAIError
 
-# =====================================================================
-# ENV
-# =====================================================================
-project_root = Path(__file__).resolve().parent.parent.parent
+from experiments.evaluation.judges.base_judge import BaseJudge  # FIX: inherit
+
+project_root = Path(__file__).resolve().parent.parent.parent.parent
 load_dotenv(project_root / ".env")
+
 
 # =====================================================================
 # CONFIG
@@ -32,43 +30,38 @@ load_dotenv(project_root / ".env")
 class EvaluationConfig:
     model: str = "gpt-4o-mini"
     temperature: float = 0.0
-
     max_retries: int = 3
     retry_delay: float = 3.0
     max_conversation_chars: int = 8000
-
     enable_cache: bool = True
     cache_dir: str = "cache/llm_judge"
 
 
 # =====================================================================
-# PROMPT (ESCAPED – SAFE FOR .format)
+# PROMPT
 # =====================================================================
 PROMPT_TEMPLATE = """
 You are an independent academic evaluator assessing the quality of a
 stakeholder-based policy debate on carbon tax implementation
-in Vietnam’s textile industry.
+in Vietnam's textile industry.
 
 The debate involves:
 - Government representatives
 - Business representatives
 
 You are NOT a participant in the debate.
-You are evaluating it from an external, neutral perspective.
-
 Assign integer scores from 1 to 10.
 
 STRICT:
 - Output ONLY valid JSON
-- No markdown
-- No explanation outside JSON
+- No markdown, no explanation outside JSON
 
 Format:
-{
+{{
   "coherence": <int>,
   "factuality": <int>,
   "explanation": "<max 3 sentences>"
-}
+}}
 
 Conversation:
 <<<
@@ -91,25 +84,18 @@ class EvaluationCache:
         path = self.dir / f"{self._key(text, model, temp)}.json"
         if not path.exists():
             return None
-
         data = json.loads(path.read_text(encoding="utf-8"))
         ts = datetime.datetime.fromisoformat(data["timestamp"])
-
         if (datetime.datetime.now() - ts).days < 7:
             return data["scores"]
-
         return None
 
     def set(self, text, model, temp, scores):
         path = self.dir / f"{self._key(text, model, temp)}.json"
         path.write_text(
             json.dumps(
-                {
-                    "timestamp": datetime.datetime.now().isoformat(),
-                    "scores": scores,
-                },
-                ensure_ascii=False,
-                indent=2,
+                {"timestamp": datetime.datetime.now().isoformat(), "scores": scores},
+                ensure_ascii=False, indent=2,
             ),
             encoding="utf-8",
         )
@@ -143,15 +129,13 @@ def validate(scores: Dict) -> Dict:
     for key in ("coherence", "factuality"):
         if not isinstance(scores.get(key), int) or not 1 <= scores[key] <= 10:
             raise ValueError(f"Invalid score for {key}")
-
     if not isinstance(scores.get("explanation"), str) or not scores["explanation"].strip():
         raise ValueError("Missing or invalid explanation")
-
     return scores
 
 
 # =====================================================================
-# CORE
+# CORE  (FIXED API CALL)
 # =====================================================================
 def evaluate_conversation(
     conversation_log: str,
@@ -161,15 +145,14 @@ def evaluate_conversation(
 
     config = config or EvaluationConfig()
     client = client or get_openai_client()
-    cache = EvaluationCache(config.cache_dir)
-
-    start_time = time.time()
+    cache  = EvaluationCache(config.cache_dir)
+    start  = time.time()
 
     if config.enable_cache:
         cached = cache.get(conversation_log, config.model, config.temperature)
         if cached:
-            cached["_cache_hit"] = True
-            cached["_elapsed_time"] = time.time() - start_time
+            cached["_cache_hit"]    = True
+            cached["_elapsed_time"] = time.time() - start
             return cached
 
     conversation_log = truncate(conversation_log, config.max_conversation_chars)
@@ -179,17 +162,24 @@ def evaluate_conversation(
 
     for attempt in range(config.max_retries):
         try:
-            response = client.responses.create(
+            # FIX: correct OpenAI Chat Completions API
+            response = client.chat.completions.create(
                 model=config.model,
-                input=prompt,
+                messages=[
+                    {"role": "system", "content": "You are a neutral academic evaluator. Output only valid JSON."},
+                    {"role": "user",   "content": prompt}
+                ],
+                temperature=config.temperature,
+                max_tokens=400,
             )
 
-            raw_text = response.output_text
-            scores = validate(extract_json(raw_text))
+            # FIX: correct response access
+            raw_text = response.choices[0].message.content.strip()
+            scores   = validate(extract_json(raw_text))
 
-            scores["_cache_hit"] = False
-            scores["_attempts"] = attempt + 1
-            scores["_elapsed_time"] = time.time() - start_time
+            scores["_cache_hit"]    = False
+            scores["_attempts"]     = attempt + 1
+            scores["_elapsed_time"] = time.time() - start
 
             if config.enable_cache:
                 cache.set(conversation_log, config.model, config.temperature, scores)
@@ -204,6 +194,40 @@ def evaluate_conversation(
 
 
 # =====================================================================
+# LLMJudge class (for use with Evaluator)
+# =====================================================================
+class LLMJudge(BaseJudge):
+    """Wrapper class for use with experiments/evaluation/evaluator.py"""
+    
+
+
+    def __init__(self, config: Optional[EvaluationConfig] = None):
+        super().__init__(name="LLMJudge (GPT-4o-mini)")
+        self.config = config or EvaluationConfig()
+        self.client = get_openai_client()
+
+    def judge(self, input_data: Dict) -> Dict:
+        """
+        Accept debate output dict, convert to conversation log, evaluate.
+        """
+        # Build conversation log from debate history
+        if isinstance(input_data, dict):
+            history = input_data.get("debate_history", [])
+            if history:
+                log = "\n".join(
+                    f"{h.get('agent', 'Agent')}: {h.get('content', '')}"
+                    for h in history
+                )
+            else:
+                # fallback: stringify the whole dict
+                log = str(input_data)
+        else:
+            log = str(input_data)
+
+        return evaluate_conversation(log, self.config, self.client)
+
+
+# =====================================================================
 # DEBUG
 # =====================================================================
 if __name__ == "__main__":
@@ -212,5 +236,4 @@ if __name__ == "__main__":
     Agent (Business): It increases cost pressure on textile exporters.
     Agent (Expert): Transitional subsidies may mitigate short-term impacts.
     """
-
     print(evaluate_conversation(dummy))

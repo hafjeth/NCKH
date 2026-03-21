@@ -6,9 +6,8 @@ import logging
 logging.basicConfig(level=logging.INFO)
 
 # ================= CONFIG =================
-NORMALIZED_DIR = Path("data/processed/normalized_text")
-OUTPUT_DIR = Path("data/processed/business_paragraphs")
-
+NORMALIZED_DIR = Path("data/processed/normalized")
+OUTPUT_DIR     = Path("data/processed/chunks/business_paragraphs")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 MIN_PARAGRAPH_LENGTH = 50

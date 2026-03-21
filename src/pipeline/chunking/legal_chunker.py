@@ -3,8 +3,8 @@ import re
 import json
 
 # ================== PATH CONFIG ==================
-SRC_DIR = Path("data/processed/normalized_text")
-OUT_DIR = Path("data/processed/legal_chunks")
+SRC_DIR = Path("data/processed/normalized")
+OUT_DIR = Path("data/processed/chunks/legal_chunks")
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 LAW_NAME = "Nghị định 08/2022/NĐ-CP"

@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-03-21T09:51:30.639750",
+  "scores": {
+    "coherence": 8,
+    "factuality": 9,
+    "explanation": "Both parties present coherent arguments that are internally consistent and well-structured. The Government emphasizes the long-term benefits of compliance, while the Business Agent effectively highlights the immediate financial challenges faced by SMEs. The factual basis of their claims is supported by relevant regulations and industry context.",
+    "_cache_hit": false,
+    "_attempts": 1,
+    "_elapsed_time": 2.3661816120147705
+  }
+}

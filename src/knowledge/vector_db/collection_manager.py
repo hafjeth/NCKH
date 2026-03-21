@@ -1,4 +1,9 @@
-from chromadb_client import ChromaDBClient
+"""
+collection_manager.py
+=====================
+FIX: from chromadb_client import → from src.knowledge.vector_db.chroma_client import
+"""
+from src.knowledge.vector_db.chroma_client import ChromaDBClient
 
 client = ChromaDBClient(
     host="localhost",
@@ -8,6 +13,5 @@ client = ChromaDBClient(
 )
 
 collection = client.get_or_create_collection("carbon_policy_textile_vn")
-
 count = collection.count()
 print(f"🔢 Total documents in collection: {count}")

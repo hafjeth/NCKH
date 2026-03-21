@@ -5,16 +5,31 @@ from collections import Counter
 import math
 
 # =======================
-# CitationCounter (SAFE)
+# CitationCounter (FIXED — regex-based, no external dependency)
 # =======================
-try:
-    from src.knowledge.personas import CitationCounter
-except Exception:
-    class CitationCounter:
-        def count_citations(self, text): return 0
-        def extract_citations(self, text): return []
-        def has_source_section(self, text): return (False, 0)
-        def get_citation_density(self, text): return 0.0
+class CitationCounter:
+    # Matches: [Nguồn: ...], [Source: ...], (Nguồn: ...), Nguồn: ...
+    CITATION_PATTERN = re.compile(
+        r'(?:\[Nguồn:[^\]]+\]|\[Source:[^\]]+\]|\(Nguồn:[^)]+\)|Nguồn:\s*[^,;\n]+)',
+        re.IGNORECASE | re.UNICODE
+    )
+
+    def count_citations(self, text: str) -> int:
+        return len(self.CITATION_PATTERN.findall(text or ''))
+
+    def extract_citations(self, text: str):
+        return self.CITATION_PATTERN.findall(text or '')
+
+    def has_source_section(self, text: str):
+        found = self.CITATION_PATTERN.findall(text or '')
+        return (len(found) > 0, len(found))
+
+    def get_citation_density(self, text: str) -> float:
+        if not text:
+            return 0.0
+        words = len(re.findall(r'\b\w+\b', text))
+        citations = self.count_citations(text)
+        return round(citations / max(words, 1) * 1000, 4)
 
 # =======================
 # Embedding (OPTIONAL)
@@ -134,4 +149,17 @@ class MetricsCalculator:
             "avg_agent_length": round(np.mean(agent_lens), 2),
             "length_change_pct": round((np.mean(agent_lens) - base_len) / base_len * 100, 2),
             "diversity": self.diversity_score(agents)
+        }
+
+    def compute(self, judgment: dict) -> dict:
+        """
+        FIX: Adapter method for Evaluator.evaluate().
+        Receives judgment dict from LLMJudge, returns aggregated metrics.
+        """
+        text = judgment.get("explanation", "") or str(judgment)
+        return {
+            "word_count":     self.count_words(text),
+            "citation_count": self.count_citations(text),
+            "coherence":      judgment.get("coherence", 0),
+            "factuality":     judgment.get("factuality", 0),
         }

@@ -10,7 +10,7 @@ from typing import List, Dict, Optional
 import logging
 
 from openai import OpenAI
-from config.settings import Config
+from src.core.config import Config
 from src.knowledge.retrieval.retriever import KnowledgeRetriever
 from src.core.fallback_manager import get_fallback_manager
 

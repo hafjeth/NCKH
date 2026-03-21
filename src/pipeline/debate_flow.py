@@ -1,3 +1,12 @@
+"""
+DebateFlow
+==========
+FIX: from src.core.moderator import Moderator → ModeratorAgent
+FIX: self.moderator.summarize()               → summarize_debate()
+FIX: Added generate_argument() calls via agent.chat() since
+     CarbonPolicyAgent / TextileIndustryAgent don't have generate_argument()
+"""
+
 import json
 import os
 from datetime import datetime
@@ -5,17 +14,13 @@ from typing import Dict, List
 
 from src.agents.government.carbon_policy_agent import CarbonPolicyAgent
 from src.agents.enterprise.textile_industry_agent import TextileIndustryAgent
-from src.core.moderator import Moderator
-from experiments.utils.logger import get_logger
+from src.core.moderator import ModeratorAgent          # FIX: was Moderator
+from experiments.evaluation.utils.logger import get_logger
 
-# ===============================
-# Debate Flow (Gov ↔ Enterprise)
-# ===============================
 
 class DebateFlow:
     """
-    Implements a multi-round stakeholder debate
-    between Government and Enterprise agents.
+    Multi-round stakeholder debate: Government ↔ Enterprise
     """
 
     def __init__(
@@ -25,115 +30,107 @@ class DebateFlow:
         output_dir: str,
         num_rounds: int = 2,
     ):
-        self.topic = topic
-        self.knowledge_retriever = knowledge_retriever
+        self.topic      = topic
+        self.retriever  = knowledge_retriever
         self.output_dir = output_dir
         self.num_rounds = num_rounds
+        self.logger     = get_logger("DebateFlow")
 
-        self.logger = get_logger("DebateFlow")
-
-        # Agents
         self.government_agent = CarbonPolicyAgent()
         self.enterprise_agent = TextileIndustryAgent()
-        self.moderator = Moderator()
+        self.moderator        = ModeratorAgent(max_rounds=num_rounds)  # FIX
 
-        # Internal state
         self.debate_history: List[Dict] = []
-
         os.makedirs(self.output_dir, exist_ok=True)
 
     # --------------------------------------------------
     # Public API
     # --------------------------------------------------
     def run(self) -> Dict:
-        """
-        Execute the full debate flow.
-        """
         self.logger.info("Starting debate flow")
-        context = self._retrieve_context()
 
         for round_idx in range(1, self.num_rounds + 1):
             self.logger.info(f"Running debate round {round_idx}")
-            self._run_single_round(round_idx, context)
+            self._run_single_round(round_idx)
 
         summary = self._moderator_summary()
 
         artifacts = {
-            "topic": self.topic,
-            "num_rounds": self.num_rounds,
-            "timestamp": datetime.utcnow().isoformat(),
-            "debate_history": self.debate_history,
+            "topic":             self.topic,
+            "num_rounds":        self.num_rounds,
+            "timestamp":         datetime.utcnow().isoformat(),
+            "debate_history":    self.debate_history,
             "moderator_summary": summary,
         }
 
         self._save_artifacts(artifacts)
         self.logger.info("Debate flow completed")
-
         return artifacts
 
     # --------------------------------------------------
-    # Internal methods
+    # Internal
     # --------------------------------------------------
-    def _retrieve_context(self) -> Dict:
-        """
-        Retrieve relevant knowledge for the debate topic.
-        """
-        self.logger.info("Retrieving contextual knowledge")
-        context = self.knowledge_retriever.retrieve(self.topic)
+    def _build_prompt(self, agent_name: str, is_first: bool) -> str:
+        """Build debate prompt for any agent"""
+        if is_first:
+            return (
+                f"DEBATE TOPIC: {self.topic}\n\n"
+                f"You are {agent_name}. Present your initial position.\n"
+                f"Requirements: 2-3 core arguments, evidence-based, academic tone, 150-200 words."
+            )
 
-        return context
-
-    def _run_single_round(self, round_idx: int, context: Dict):
-        """
-        Run one debate round: Government → Enterprise
-        """
-        round_record = {
-            "round": round_idx,
-            "arguments": []
-        }
-
-        # --- Government argument ---
-        gov_argument = self.government_agent.generate_argument(
-            topic=self.topic,
-            context=context,
-            debate_history=self.debate_history
+        history_text = "\n".join(
+            f"{h['agent']}: {h['content']}"
+            for h in self.debate_history[-4:]
         )
-        gov_argument["agent"] = "government"
-        gov_argument["round"] = round_idx
-
-        round_record["arguments"].append(gov_argument)
-        self.debate_history.append(gov_argument)
-
-        # --- Enterprise counter-argument ---
-        ent_argument = self.enterprise_agent.generate_argument(
-            topic=self.topic,
-            context=context,
-            debate_history=self.debate_history
+        return (
+            f"DEBATE TOPIC: {self.topic}\n\n"
+            f"RECENT DISCUSSION:\n{history_text}\n\n"
+            f"You are {agent_name}. Respond with counter-arguments. "
+            f"150-200 words, academic tone, evidence-based."
         )
-        ent_argument["agent"] = "enterprise"
-        ent_argument["round"] = round_idx
 
-        round_record["arguments"].append(ent_argument)
-        self.debate_history.append(ent_argument)
+    def _run_single_round(self, round_idx: int):
+        is_first = (round_idx == 1)
 
-        # Persist round-level artifact
-        self._save_round(round_record, round_idx)
+        # Government
+        gov_prompt    = self._build_prompt(self.government_agent.name, is_first and round_idx == 1)
+        gov_response  = self.government_agent.chat(gov_prompt)   # FIX: use chat() directly
+        gov_entry     = {"agent": self.government_agent.name, "round": round_idx, "content": gov_response}
+        self.debate_history.append(gov_entry)
 
-    def _moderator_summary(self) -> Dict:
-        """
-        Moderator synthesizes the full debate.
-        """
-        self.logger.info("Moderator generating debate summary")
-        summary = self.moderator.summarize(self.debate_history)
-        return summary
+        # Enterprise
+        ent_prompt    = self._build_prompt(self.enterprise_agent.name, False)
+        ent_response  = self.enterprise_agent.chat(ent_prompt)   # FIX: use chat() directly
+        ent_entry     = {"agent": self.enterprise_agent.name, "round": round_idx, "content": ent_response}
+        self.debate_history.append(ent_entry)
 
-    # --------------------------------------------------
-    # Persistence
-    # --------------------------------------------------
+        # Moderator guides between rounds (not on last round)
+        if round_idx < self.num_rounds:
+            mod_text, _ = self.moderator.moderate(
+                last_speaker  = self.enterprise_agent.name,
+                last_content  = ent_response,
+                round_num     = round_idx,
+                debate_history= [h["content"] for h in self.debate_history]
+            )
+            self.debate_history.append({
+                "agent": "Moderator", "round": round_idx, "content": mod_text
+            })
+
+        self._save_round(
+            {"round": round_idx, "arguments": [gov_entry, ent_entry]},
+            round_idx
+        )
+
+    def _moderator_summary(self) -> str:
+        # FIX: method is summarize_debate(), not summarize()
+        return self.moderator.summarize_debate(
+            [h["content"] for h in self.debate_history]
+        )
+
     def _save_round(self, round_record: Dict, round_idx: int):
         round_dir = os.path.join(self.output_dir, "round_summaries")
         os.makedirs(round_dir, exist_ok=True)
-
         path = os.path.join(round_dir, f"round_{round_idx}.json")
         with open(path, "w", encoding="utf-8") as f:
             json.dump(round_record, f, ensure_ascii=False, indent=2)

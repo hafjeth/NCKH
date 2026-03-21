@@ -28,9 +28,14 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "state_agency",
+        "organization"
+      ],
+      "human_domains": [
+        "emission"
+      ],
       "notes": ""
     },
     {
@@ -48,9 +53,15 @@
       "auto_domains": [
         "air"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "procedure",
+      "human_subjects": [
+        "state_agency",
+        "producer",
+        "importer"
+      ],
+      "human_domains": [
+        "air"
+      ],
       "notes": ""
     },
     {
@@ -67,9 +78,13 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "obligation",
+      "human_subjects": [
+        "unspecified"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -86,9 +101,14 @@
       "auto_domains": [
         "emission"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "state_agency",
+        "enterprise"
+      ],
+      "human_domains": [
+        "emission"
+      ],
       "notes": ""
     },
     {
@@ -107,9 +127,15 @@
       "auto_domains": [
         "waste"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "obligation",
+      "human_subjects": [
+        "state_agency",
+        "organization",
+        "individual"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -129,9 +155,15 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "obligation",
+      "human_subjects": [
+        "state_agency",
+        "enterprise",
+        "individual"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -148,9 +180,14 @@
       "auto_domains": [
         "waste"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "obligation",
+      "human_subjects": [
+        "state_agency",
+        "enterprise"
+      ],
+      "human_domains": [
+        "waste"
+      ],
       "notes": ""
     },
     {
@@ -167,9 +204,13 @@
       "auto_domains": [
         "air"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "unspecified"
+      ],
+      "human_domains": [
+        "air"
+      ],
       "notes": ""
     },
     {
@@ -186,9 +227,13 @@
       "auto_domains": [
         "emission"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "unspecified"
+      ],
+      "human_domains": [
+        "emission"
+      ],
       "notes": ""
     },
     {
@@ -205,9 +250,14 @@
       "auto_domains": [
         "emission"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "condition",
+      "human_subjects": [
+        "state_agency",
+        "enterprise"
+      ],
+      "human_domains": [
+        "emission"
+      ],
       "notes": ""
     },
     {
@@ -224,9 +274,13 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "state_agency"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -243,9 +297,13 @@
       "auto_domains": [
         "emission"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "unspecified"
+      ],
+      "human_domains": [
+        "emission"
+      ],
       "notes": ""
     },
     {
@@ -262,9 +320,13 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "producer"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -281,9 +343,13 @@
       "auto_domains": [
         "waste"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "responsibility",
+      "human_subjects": [
+        "state_agency"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -300,9 +366,14 @@
       "auto_domains": [
         "plastic"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "state_agency",
+        "enterprise"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -319,9 +390,13 @@
       "auto_domains": [
         "air"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "sanction",
+      "human_subjects": [
+        "unspecified"
+      ],
+      "human_domains": [
+        "air"
+      ],
       "notes": ""
     },
     {
@@ -339,9 +414,15 @@
         "water",
         "waste"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "obligation",
+      "human_subjects": [
+        "state_agency"
+      ],
+      "human_domains": [
+        "water",
+        "air",
+        "waste"
+      ],
       "notes": ""
     },
     {
@@ -361,9 +442,15 @@
       "auto_domains": [
         "waste"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "sanction",
+      "human_subjects": [
+        "state_agency",
+        "enterprise",
+        "individual"
+      ],
+      "human_domains": [
+        "waste"
+      ],
       "notes": ""
     },
     {
@@ -380,9 +467,13 @@
       "auto_domains": [
         "emission"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "state_agency"
+      ],
+      "human_domains": [
+        "emission"
+      ],
       "notes": ""
     },
     {
@@ -399,9 +490,14 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "obligation",
+      "human_subjects": [
+        "state_agency",
+        "enterprise"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -419,9 +515,14 @@
       "auto_domains": [
         "waste"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "obligation",
+      "human_subjects": [
+        "state_agency",
+        "individual"
+      ],
+      "human_domains": [
+        "waste"
+      ],
       "notes": ""
     },
     {
@@ -438,9 +539,13 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "sanction",
+      "human_subjects": [
+        "unspecified"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -457,9 +562,13 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "unspecified"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -479,9 +588,15 @@
         "air",
         "emission"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "obligation",
+      "human_subjects": [
+        "state_agency",
+        "organization",
+        "individual"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -498,9 +613,13 @@
       "auto_domains": [
         "plastic"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "enterprise"
+      ],
+      "human_domains": [
+        "plastic"
+      ],
       "notes": ""
     },
     {
@@ -518,9 +637,14 @@
         "air",
         "waste"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "condition",
+      "human_subjects": [
+        "state_agency",
+        "enterprise"
+      ],
+      "human_domains": [
+        "air"
+      ],
       "notes": ""
     },
     {
@@ -537,9 +661,14 @@
       "auto_domains": [
         "waste"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "state_agency",
+        "enterprise"
+      ],
+      "human_domains": [
+        "waste"
+      ],
       "notes": ""
     },
     {
@@ -558,9 +687,14 @@
       "auto_domains": [
         "waste"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "sanction",
+      "human_subjects": [
+        "state_agency",
+        "enterprise"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -577,9 +711,13 @@
       "auto_domains": [
         "EIA"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "unspecified"
+      ],
+      "human_domains": [
+        "EIA"
+      ],
       "notes": ""
     },
     {
@@ -597,9 +735,13 @@
         "water",
         "waste"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "sanction",
+      "human_subjects": [
+        "unspecified"
+      ],
+      "human_domains": [
+        "water"
+      ],
       "notes": ""
     },
     {
@@ -616,9 +758,13 @@
       "auto_domains": [
         "waste"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "permission",
+      "human_subjects": [
+        "enterprise"
+      ],
+      "human_domains": [
+        "waste"
+      ],
       "notes": ""
     },
     {
@@ -637,9 +783,15 @@
       "auto_domains": [
         "waste"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "condition",
+      "human_subjects": [
+        "state_agency",
+        "enterprise",
+        "individual"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -658,9 +810,14 @@
       "auto_domains": [
         "plastic"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "state_agency",
+        "enterprise"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -677,9 +834,13 @@
       "auto_domains": [
         "water"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "sanction",
+      "human_subjects": [
+        "unspecified"
+      ],
+      "human_domains": [
+        "water"
+      ],
       "notes": ""
     },
     {
@@ -697,9 +858,14 @@
         "air",
         "emission"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "obligation",
+      "human_subjects": [
+        "unspecified"
+      ],
+      "human_domains": [
+        "emission",
+        "air"
+      ],
       "notes": ""
     },
     {
@@ -716,9 +882,13 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "condition",
+      "human_subjects": [
+        "unspecified"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -735,9 +905,13 @@
       "auto_domains": [
         "emission"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "state_agency"
+      ],
+      "human_domains": [
+        "emission"
+      ],
       "notes": ""
     },
     {
@@ -754,9 +928,13 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "condition",
+      "human_subjects": [
+        "state_agency"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -774,9 +952,13 @@
         "air",
         "waste"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "sanction",
+      "human_subjects": [
+        "unspecified"
+      ],
+      "human_domains": [
+        "air"
+      ],
       "notes": ""
     },
     {
@@ -795,9 +977,14 @@
         "waste",
         "recycling"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "obligation",
+      "human_subjects": [
+        "state_agency",
+        "organization"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -814,9 +1001,13 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "state_agency"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -834,9 +1025,14 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "state_agency",
+        "enterprise"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -858,9 +1054,13 @@
         "emission",
         "recycling"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "obligation",
+      "human_subjects": [
+        "state_agency"
+      ],
+      "human_domains": [
+        "emission"
+      ],
       "notes": ""
     },
     {
@@ -877,9 +1077,13 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "procedure",
+      "human_subjects": [
+        "state_agency"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -896,9 +1100,13 @@
       "auto_domains": [
         "emission"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "permission",
+      "human_subjects": [
+        "unspecified"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -915,9 +1123,13 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "state_agency"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -934,9 +1146,13 @@
       "auto_domains": [
         "emission"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "producer"
+      ],
+      "human_domains": [
+        "emission"
+      ],
       "notes": ""
     },
     {
@@ -953,9 +1169,13 @@
       "auto_domains": [
         "waste"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "responsibility",
+      "human_subjects": [
+        "state_agency"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -972,9 +1192,13 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "state_agency"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -991,9 +1215,14 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "state_agency",
+        "enterprise"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1010,9 +1239,13 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "permission",
+      "human_subjects": [
+        "unspecified"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1029,9 +1262,13 @@
       "auto_domains": [
         "waste"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "obligation",
+      "human_subjects": [
+        "state_agency"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1051,9 +1288,14 @@
         "waste",
         "plastic"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "obligation",
+      "human_subjects": [
+        "unspecified"
+      ],
+      "human_domains": [
+        "waste",
+        "plastic"
+      ],
       "notes": ""
     },
     {
@@ -1071,9 +1313,14 @@
       "auto_domains": [
         "waste"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "sanction",
+      "human_subjects": [
+        "state_agency",
+        "importer"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1090,9 +1337,13 @@
       "auto_domains": [
         "plastic"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "enterprise"
+      ],
+      "human_domains": [
+        "plastic"
+      ],
       "notes": ""
     },
     {
@@ -1109,9 +1360,13 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "definition",
+      "human_subjects": [
+        "producer"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1128,9 +1383,13 @@
       "auto_domains": [
         "EIA"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "state_agency"
+      ],
+      "human_domains": [
+        "EIA"
+      ],
       "notes": ""
     },
     {
@@ -1147,9 +1406,13 @@
       "auto_domains": [
         "waste"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "obligation",
+      "human_subjects": [
+        "state_agency"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1166,9 +1429,14 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "state_agency",
+        "enterprise"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1185,9 +1453,14 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "obligation",
+      "human_subjects": [
+        "state_agency",
+        "enterprise"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1205,9 +1478,14 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "definition",
+      "human_subjects": [
+        "state_agency",
+        "enterprise"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1225,9 +1503,14 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "definition",
+      "human_subjects": [
+        "state_agency",
+        "enterprise"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1244,9 +1527,13 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "unspecified"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1263,9 +1550,13 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "enterprise"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1282,9 +1573,14 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "procedure",
+      "human_subjects": [
+        "state_agency",
+        "enterprise"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1301,9 +1597,13 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "obligation",
+      "human_subjects": [
+        "unspecified"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1322,9 +1622,15 @@
       "auto_domains": [
         "emission"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "procedure",
+      "human_subjects": [
+        "state_agency",
+        "organization",
+        "individual"
+      ],
+      "human_domains": [
+        "emission"
+      ],
       "notes": ""
     },
     {
@@ -1341,9 +1647,14 @@
       "auto_domains": [
         "emission"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "procedure",
+      "human_subjects": [
+        "state_agency",
+        "enterprise"
+      ],
+      "human_domains": [
+        "emission"
+      ],
       "notes": ""
     },
     {
@@ -1360,9 +1671,13 @@
       "auto_domains": [
         "emission"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "unspecified"
+      ],
+      "human_domains": [
+        "emission"
+      ],
       "notes": ""
     },
     {
@@ -1379,9 +1694,14 @@
       "auto_domains": [
         "waste"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "state_agency",
+        "enterprise"
+      ],
+      "human_domains": [
+        "waste"
+      ],
       "notes": ""
     },
     {
@@ -1398,9 +1718,13 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "state_agency"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1417,9 +1741,13 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "procedure",
+      "human_subjects": [
+        "organization"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1436,9 +1764,14 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "state_agency",
+        "enterprise"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1455,9 +1788,13 @@
       "auto_domains": [
         "waste"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "sanction",
+      "human_subjects": [
+        "unspecified"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1476,9 +1813,13 @@
         "waste",
         "emission"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "obligation",
+      "human_subjects": [
+        "unspecified"
+      ],
+      "human_domains": [
+        "air"
+      ],
       "notes": ""
     },
     {
@@ -1495,9 +1836,13 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "state_agency"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1515,9 +1860,15 @@
       "auto_domains": [
         "water"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "permission",
+      "human_subjects": [
+        "state_agency",
+        "organization",
+        "producer"
+      ],
+      "human_domains": [
+        "water"
+      ],
       "notes": ""
     },
     {
@@ -1537,9 +1888,14 @@
         "waste",
         "recycling"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "state_agency",
+        "organization"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1556,9 +1912,13 @@
       "auto_domains": [
         "waste"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "individual"
+      ],
+      "human_domains": [
+        "water"
+      ],
       "notes": ""
     },
     {
@@ -1575,9 +1935,13 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "unspecified"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1594,9 +1958,14 @@
       "auto_domains": [
         "waste"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "state_agency"
+      ],
+      "human_domains": [
+        "emission",
+        "waste"
+      ],
       "notes": ""
     },
     {
@@ -1615,9 +1984,14 @@
         "air",
         "waste"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "obligation",
+      "human_subjects": [
+        "state_agency",
+        "organization"
+      ],
+      "human_domains": [
+        "air"
+      ],
       "notes": ""
     },
     {
@@ -1634,9 +2008,13 @@
       "auto_domains": [
         "EIA"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "unspecified"
+      ],
+      "human_domains": [
+        "EIA"
+      ],
       "notes": ""
     },
     {
@@ -1653,9 +2031,13 @@
       "auto_domains": [
         "emission"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "state_agency"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1674,9 +2056,15 @@
       "auto_domains": [
         "waste"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "condition",
+      "human_subjects": [
+        "state_agency",
+        "enterprise",
+        "individual"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1693,9 +2081,13 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "procedure",
+      "human_subjects": [
+        "state_agency"
+      ],
+      "human_domains": [
+        "emission"
+      ],
       "notes": ""
     },
     {
@@ -1715,9 +2107,13 @@
         "water",
         "waste"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "obligation",
+      "human_subjects": [
+        "state_agency"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1735,9 +2131,13 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "state_agency"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1755,9 +2155,13 @@
       "auto_domains": [
         "environmental_permit"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "permission",
+      "human_subjects": [
+        "state_agency"
+      ],
+      "human_domains": [
+        "environmental_permit"
+      ],
       "notes": ""
     },
     {
@@ -1774,9 +2178,13 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "enterprise"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1793,9 +2201,13 @@
       "auto_domains": [
         "waste"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "obligation",
+      "human_subjects": [
+        "state_agency"
+      ],
+      "human_domains": [
+        "waste"
+      ],
       "notes": ""
     },
     {
@@ -1812,9 +2224,13 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "unspecified"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1831,9 +2247,13 @@
       "auto_domains": [
         "waste"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "sanction",
+      "human_subjects": [
+        "producer"
+      ],
+      "human_domains": [
+        "waste"
+      ],
       "notes": ""
     },
     {
@@ -1850,9 +2270,13 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "state_agency"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1869,9 +2293,13 @@
       "auto_domains": [
         "general_environment"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "procedure",
+      "human_subjects": [
+        "state_agency"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1888,9 +2316,14 @@
       "auto_domains": [
         "emission"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "state_agency",
+        "enterprise"
+      ],
+      "human_domains": [
+        "emission"
+      ],
       "notes": ""
     },
     {
@@ -1908,9 +2341,15 @@
       "auto_domains": [
         "waste"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "definition",
+      "human_subjects": [
+        "state_agency",
+        "enterprise",
+        "individual"
+      ],
+      "human_domains": [
+        "waste"
+      ],
       "notes": ""
     },
     {
@@ -1927,9 +2366,14 @@
       "auto_domains": [
         "plastic"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "state_agency",
+        "enterprise"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1947,9 +2391,13 @@
         "waste",
         "recycling"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "obligation",
+      "human_subjects": [
+        "producer"
+      ],
+      "human_domains": [
+        "general_environment"
+      ],
       "notes": ""
     },
     {
@@ -1967,9 +2415,13 @@
       "auto_domains": [
         "emission"
       ],
-      "human_clause_type": "",
-      "human_subjects": [],
-      "human_domains": [],
+      "human_clause_type": "general",
+      "human_subjects": [
+        "state_agency"
+      ],
+      "human_domains": [
+        "emission"
+      ],
       "notes": ""
     }
   ],
@@ -1986,9 +2438,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2004,9 +2458,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": true,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": true,
       "notes": ""
     },
     {
@@ -2022,9 +2478,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "cost"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2041,9 +2499,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": true,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "opportunity"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2060,9 +2520,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": true,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "competitiveness"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2075,9 +2537,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "opportunity"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2094,9 +2558,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "competitiveness"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2112,9 +2578,11 @@
         "risk"
       ],
       "auto_cbam_relevance": true,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": true,
       "notes": ""
     },
     {
@@ -2130,9 +2598,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": true,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "competitiveness"
+      ],
+      "human_cbam_relevance": true,
       "notes": ""
     },
     {
@@ -2146,9 +2616,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2165,9 +2637,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": true,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2180,9 +2654,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "neutral",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2197,9 +2673,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2212,9 +2690,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2229,9 +2709,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2245,9 +2727,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2260,9 +2744,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2277,9 +2763,12 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "cost",
+        "competitiveness"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2294,9 +2783,11 @@
         "risk"
       ],
       "auto_cbam_relevance": true,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": true,
       "notes": ""
     },
     {
@@ -2312,9 +2803,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2330,9 +2823,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2347,9 +2842,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2364,9 +2861,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2382,9 +2881,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "competitiveness"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2397,9 +2898,11 @@
         "cost"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "cost"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2416,9 +2919,12 @@
         "opportunity"
       ],
       "auto_cbam_relevance": true,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "competitiveness",
+        "opportunity"
+      ],
+      "human_cbam_relevance": true,
       "notes": ""
     },
     {
@@ -2433,9 +2939,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2446,9 +2954,11 @@
       "auto_stance": "support",
       "auto_focus": [],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2462,9 +2972,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2480,9 +2992,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "competitiveness"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2499,9 +3013,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2518,9 +3034,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": true,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2535,9 +3053,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2552,9 +3072,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "competitiveness"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2571,9 +3093,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": true,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": true,
       "notes": ""
     },
     {
@@ -2587,9 +3111,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2605,9 +3131,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "competitiveness"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2623,9 +3151,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2642,9 +3172,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": true,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "competitiveness"
+      ],
+      "human_cbam_relevance": true,
       "notes": ""
     },
     {
@@ -2659,9 +3191,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2678,9 +3212,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": true,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": true,
       "notes": ""
     },
     {
@@ -2697,9 +3233,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": true,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2716,9 +3254,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": true,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": true,
       "notes": ""
     },
     {
@@ -2733,9 +3273,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2748,9 +3290,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2766,9 +3310,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2783,9 +3329,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2799,9 +3347,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2818,9 +3368,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2837,9 +3389,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2854,9 +3408,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2872,9 +3428,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2888,9 +3446,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2907,9 +3467,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2923,9 +3485,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2940,9 +3504,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2959,9 +3525,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2976,9 +3544,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "opportunity"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -2995,9 +3565,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -3014,9 +3586,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -3031,9 +3605,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "competitiveness"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -3048,9 +3624,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -3067,9 +3645,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": true,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "risk"
+      ],
+      "human_cbam_relevance": true,
       "notes": ""
     },
     {
@@ -3084,9 +3664,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "competitiveness"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -3103,9 +3685,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "cost"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -3122,9 +3706,12 @@
         "opportunity"
       ],
       "auto_cbam_relevance": true,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "compliance",
+        "competitiveness"
+      ],
+      "human_cbam_relevance": true,
       "notes": ""
     },
     {
@@ -3137,9 +3724,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -3153,9 +3742,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -3170,9 +3761,12 @@
         "opportunity"
       ],
       "auto_cbam_relevance": true,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "neutral",
+      "human_focus": [
+        "competitiveness",
+        "opportunity"
+      ],
+      "human_cbam_relevance": true,
       "notes": ""
     },
     {
@@ -3188,9 +3782,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": true,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": true,
       "notes": ""
     },
     {
@@ -3206,9 +3802,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "cost"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -3225,9 +3823,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": true,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": true,
       "notes": ""
     },
     {
@@ -3243,9 +3843,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "cost"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -3262,9 +3864,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -3281,9 +3885,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": true,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": true,
       "notes": ""
     },
     {
@@ -3298,9 +3904,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -3311,9 +3919,11 @@
       "auto_stance": "support",
       "auto_focus": [],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "cost"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -3327,9 +3937,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -3346,9 +3958,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": true,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": true,
       "notes": ""
     },
     {
@@ -3365,9 +3979,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": true,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": true,
       "notes": ""
     },
     {
@@ -3378,9 +3994,11 @@
       "auto_stance": "support",
       "auto_focus": [],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -3397,9 +4015,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "competitiveness"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -3416,9 +4036,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": true,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -3434,9 +4056,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "competitiveness"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -3453,9 +4077,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -3468,9 +4094,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -3481,9 +4109,11 @@
       "auto_stance": "support",
       "auto_focus": [],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -3498,9 +4128,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -3517,9 +4149,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -3536,9 +4170,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": true,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "concern",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": true,
       "notes": ""
     },
     {
@@ -3554,9 +4190,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -3573,9 +4211,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": false,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": false,
       "notes": ""
     },
     {
@@ -3592,9 +4232,11 @@
         "opportunity"
       ],
       "auto_cbam_relevance": true,
-      "human_stance": "",
-      "human_focus": [],
-      "human_cbam_relevance": null,
+      "human_stance": "support",
+      "human_focus": [
+        "compliance"
+      ],
+      "human_cbam_relevance": true,
       "notes": ""
     }
   ]

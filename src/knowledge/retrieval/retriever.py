@@ -2,37 +2,62 @@
 Retrieval System
 =====================================
 Semantic + Agent-aware Retrieval for RAG
+
+FIX 1: HttpClient → PersistentClient
+FIX 2: metadata key 'agent' → 'subjects'
+FIX 3: subjects values mapped correctly per agent type
 """
 
 import logging
+from pathlib import Path
 from typing import List, Dict, Optional
 
 import chromadb
-from chromadb.config import Settings
 
 logger = logging.getLogger(__name__)
+
+_DEFAULT_PERSIST_DIR = str(
+    Path(__file__).resolve().parent.parent.parent.parent
+    / "data" / "vector_stores" / "chroma"
+)
+
+# FIX: Map agent type → list of matching 'subjects' values in ChromaDB
+AGENT_SUBJECTS_MAP = {
+    "government": [
+        "state_agency",
+        "state_agency,enterprise",
+        "state_agency,individual",
+        "state_agency,organization",
+        "state_agency,individual,household",
+        "state_agency,organization,individual",
+        "state_agency,enterprise,organization,producer,importer",
+    ],
+    "business": [
+        "enterprise",
+        "state_agency,enterprise",
+        "state_agency,enterprise,organization,producer,importer",
+        "organization,individual,household,importer",
+    ],
+    "expert": None,  # No filter — retrieve from all documents
+}
 
 
 class KnowledgeRetriever:
     """
     Wrapper cho ChromaDB retrieval
-    Có hỗ trợ agent + semantic hint
     """
 
     def __init__(
         self,
-        host: str = "localhost",
-        port: int = 8000,
+        persist_dir: str = _DEFAULT_PERSIST_DIR,
         collection_name: str = "carbon_policy_textile_vn"
     ):
-        self.client = chromadb.HttpClient(
-            host=host,
-            port=port,
-            settings=Settings(anonymized_telemetry=False)
-        )
+        self.client = chromadb.PersistentClient(path=persist_dir)
         self.collection = self.client.get_or_create_collection(
             name=collection_name
         )
+        logger.info(f"✅ ChromaDB connected: {persist_dir}")
+        logger.info(f"   Collection: {collection_name} | Docs: {self.collection.count()}")
 
     # ======================================================
     # MAIN RETRIEVAL
@@ -44,99 +69,52 @@ class KnowledgeRetriever:
         k: int = 5,
         semantic_hint: Optional[Dict] = None
     ) -> List[Dict]:
-        """
-        Retrieve documents với filter thông minh
 
-        Args:
-            query: câu hỏi
-            agent: government | business | expert
-            k: số chunk cần lấy
-            semantic_hint: {
-                "focus": [...],
-                "stance": "...",
-                "cbam_relevance": bool
-            }
-        """
+        # FIX: Build filter using correct subjects values
+        where = self._build_filter(agent)
 
-        # ----------------------------
-        # STEP 1: build WHERE filter
-        # ----------------------------
-        base_filter = {"agent": agent}
-
-        # thử full semantic filter trước
-        where = dict(base_filter)
-
-        if semantic_hint:
-            where = self._extend_where(where, semantic_hint)
-
-        # ----------------------------
-        # STEP 2: query with fallback
-        # ----------------------------
         results = self._query_with_fallback(
             query=query,
             where=where,
-            base_filter=base_filter,
             k=k
         )
 
         return self._format_results(results)
 
     # ======================================================
-    # INTERNAL METHODS
+    # FILTER BUILDER
     # ======================================================
-    def _extend_where(self, where: Dict, semantic_hint: Dict) -> Dict:
+    def _build_filter(self, agent: str) -> Optional[Dict]:
         """
-        Gộp semantic hint vào where clause
+        Build ChromaDB WHERE filter based on agent type.
+        Uses $in operator with known subjects values.
         """
-        extended = dict(where)
+        subjects_list = AGENT_SUBJECTS_MAP.get(agent.lower())
 
-        if semantic_hint.get("focus"):
-            extended["focus"] = {
-                "$in": semantic_hint["focus"]
-            }
+        if not subjects_list:
+            return None  # expert or unknown → no filter
 
-        if semantic_hint.get("stance"):
-            extended["stance"] = semantic_hint["stance"]
+        return {"subjects": {"$in": subjects_list}}
 
-        if semantic_hint.get("cbam_relevance") is True:
-            extended["cbam_relevance"] = True
-
-        return extended
-
+    # ======================================================
+    # QUERY WITH FALLBACK
+    # ======================================================
     def _query_with_fallback(
         self,
         query: str,
-        where: Dict,
-        base_filter: Dict,
+        where: Optional[Dict],
         k: int
     ):
-        """
-        Thử truy vấn từ chặt → lỏng
-        """
+        # 1️⃣ Try with filter
+        if where:
+            results = self._query(query, where, k)
+            if self._has_results(results):
+                logger.info(f"🔎 Retrieval: filter matched")
+                return results
+            logger.warning(f"⚠️ Filter returned no results, falling back to no filter")
 
-        # 1️⃣ Full filter
-        results = self._query(query, where, k)
-        if self._has_results(results):
-            logger.info("🔎 Retrieval: full semantic filter")
-            return results
-
-        # 2️⃣ Remove stance
-        relaxed = dict(where)
-        relaxed.pop("stance", None)
-        results = self._query(query, relaxed, k)
-        if self._has_results(results):
-            logger.info("🔎 Retrieval: relaxed stance")
-            return results
-
-        # 3️⃣ Remove focus
-        relaxed = dict(base_filter)
-        results = self._query(query, relaxed, k)
-        if self._has_results(results):
-            logger.info("🔎 Retrieval: agent-only filter")
-            return results
-
-        # 4️⃣ Absolute fallback: no filter
-        logger.warning("⚠️ Retrieval fallback: no filter")
+        # 2️⃣ Fallback: no filter
+        logger.info("🔎 Retrieval: no filter (fallback)")
         return self._query(query, None, k)
 
     def _query(self, query: str, where: Optional[Dict], k: int):
@@ -151,9 +129,6 @@ class KnowledgeRetriever:
         return bool(docs and docs[0])
 
     def _format_results(self, results) -> List[Dict]:
-        """
-        Chuẩn hóa output cho Agent
-        """
         documents = results.get("documents", [[]])[0]
         metadatas = results.get("metadatas", [[]])[0]
 
@@ -167,7 +142,7 @@ class KnowledgeRetriever:
         return formatted
 
     # ======================================================
-    # STATS (OPTIONAL – dùng cho logging / debug)
+    # STATS
     # ======================================================
     def get_collection_stats(self) -> Dict:
         return {

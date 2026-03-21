@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-03-21T09:55:14.140145",
+  "scores": {
+    "coherence": 8,
+    "factuality": 7,
+    "explanation": "The arguments presented by both the Government and Business representatives are coherent and logically structured, addressing the implications of the CBAM on Vietnam's textile industry. However, the factual accuracy is slightly compromised due to the Business Agent's assertion of direct carbon taxes, which contradicts the Government's position. Overall, both sides demonstrate a clear understanding of the issues at hand, though the factual discrepancies affect the overall reliability of the debate.",
+    "_cache_hit": false,
+    "_attempts": 1,
+    "_elapsed_time": 3.113334894180298
+  }
+}

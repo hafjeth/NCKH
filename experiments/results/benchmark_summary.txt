@@ -1,0 +1,37 @@
+
+MULTI-AGENT DEBATE SYSTEM – BENCHMARK SUMMARY
+============================================
+
+Generated: 2026-03-21 13:00:48.050124
+
+DATASET
+- Total runs     : 30
+- Successful runs: 30 (100.0%)
+
+MULTI-AGENT PERFORMANCE
+- Word count        : 2888.0 ± 80.2
+- Citations         : 17.7 ± 1.9
+- Diversity score   : 0.675
+- Coherence (Judge) : 7.97/10
+- Factuality (Judge): 8.70/10
+- Avg exec time     : 170.0s
+
+BASELINE COMPARISON
+- Word count improvement: +495.6%
+- Citation improvement  : +831.7%
+- Time overhead         : +1748.8%
+
+KEY FINDINGS
+- Coherence ↔ Factuality correlation: 0.642
+- Multi-agent system shows high argumentative diversity
+
+TIER 3 POLICY SYNTHESIS
+- Coverage          : 30/30 câu hỏi (100.0%)
+- Avg policy options: 2.0 lựa chọn / câu hỏi
+- Risk distribution : {'high': np.int64(18), 'medium': np.int64(10), nan: np.int64(2)}
+- Top recommendation: OPT-1
+
+CONCLUSION
+- Multi-agent debate improves depth, citation usage, and argumentative diversity
+- Quality scores (LLM Judge) indicate coherent and factually grounded responses
+- Tier 3 Policy Synthesis produces structured 5-module policy output per question

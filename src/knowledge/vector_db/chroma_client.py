@@ -1,5 +1,5 @@
 ﻿"""
-ChromaDB HTTP Client Wrapper (V2 API – Multi-tenant)
+ChromaDB HTTP Client Wrapper (V2 API � Multi-tenant)
 - Compatible with ChromaDB Docker server
 - Auto-embedding using SentenceTransformers
 - Research-grade: timeout, validation, retrieval metadata
@@ -24,7 +24,7 @@ class ChromaDBClient:
         port: int = 8000,
         tenant: str = "default_tenant",
         database: str = "default_database",
-        embedding_model: str = "sentence-transformers/all-MiniLM-L6-v2",
+        embedding_model: str = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
     ):
         self.host = host
         self.port = port
@@ -32,7 +32,7 @@ class ChromaDBClient:
         self.database = database
         self.base_url = f"http://{host}:{port}/api/v2"
 
-        logger.info(f"🔹 Loading embedding model: {embedding_model}")
+        logger.info(f"?? Loading embedding model: {embedding_model}")
         self.embedder = SentenceTransformer(embedding_model)
 
         self._verify_connection()
@@ -41,10 +41,10 @@ class ChromaDBClient:
         try:
             r = requests.get(f"{self.base_url}/heartbeat", timeout=5)
             r.raise_for_status()
-            logger.info(f"✅ Connected to ChromaDB ({self.host}:{self.port})")
+            logger.info(f"? Connected to ChromaDB ({self.host}:{self.port})")
             logger.info(f"   Tenant={self.tenant} | DB={self.database}")
         except Exception as e:
-            raise ConnectionError(f"❌ Cannot connect to ChromaDB: {e}")
+            raise ConnectionError(f"? Cannot connect to ChromaDB: {e}")
 
     def list_collections(self) -> List[Dict]:
         try:
@@ -90,7 +90,7 @@ class ChromaCollection:
             r.raise_for_status()
             self.collection_id = r.json()["id"]
 
-            logger.info(f"✅ Collection ready: {self.name} ({self.collection_id})")
+            logger.info(f"? Collection ready: {self.name} ({self.collection_id})")
         except Exception as e:
             raise RuntimeError(f"Create/get collection failed: {e}")
 
@@ -109,7 +109,7 @@ class ChromaCollection:
 
         try:
             if embeddings is None:
-                logger.info(f"🔹 Embedding {len(documents)} documents")
+                logger.info(f"?? Embedding {len(documents)} documents")
                 embeddings = self.embedder.encode(documents).tolist()
 
             payload = {
@@ -126,7 +126,7 @@ class ChromaCollection:
             r = requests.post(url, json=payload, timeout=30)
             r.raise_for_status()
 
-            logger.info(f"✅ Added {len(documents)} documents")
+            logger.info(f"? Added {len(documents)} documents")
 
         except Exception as e:
             raise RuntimeError(f"Add documents failed: {e}")
@@ -140,7 +140,7 @@ class ChromaCollection:
         query_embeddings: Optional[List[List[float]]] = None,
         n_results: int = 5,
         where: Optional[Dict] = None,
-        similarity_threshold: float = 0.75,
+        similarity_threshold: float = 0.45,
         adaptive: bool = True,
         min_results: int = 2,
         max_results: int = 7,
@@ -189,7 +189,7 @@ class ChromaCollection:
             similarities = []
 
             for i, dist in enumerate(raw["distances"][qi]):
-                # ChromaDB cosine distance ∈ [0, 2]
+                # ChromaDB cosine distance ? [0, 2]
                 # similarity = 1 - (distance / 2)
                 sim = 1 - dist / 2
 

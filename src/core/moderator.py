@@ -3,29 +3,19 @@ ModeratorAgent
 =====================================
 Neutral moderator for multi-agent policy debate
 
-Methodological role:
-- Facilitate debate between stakeholder agents ONLY
-  (Government <-> Business)
-- Maintain academic neutrality
-- Summarize and conclude debate rounds
-- NO policy advocacy
-- NO expert synthesis
+FIX: Replaced client.responses.create() → client.chat.completions.create()
+FIX: Replaced response.output_text     → response.choices[0].message.content
+FIX: Import path for Config
 """
 
 from typing import List, Tuple
 from openai import OpenAI
-from config.settings import Config
+from config.settings import Config   # giữ nguyên vì settings.py nằm ở config/
 
 
 class ModeratorAgent:
     """
     Neutral Moderator Agent for academic policy debate
-
-    Characteristics:
-    - Does NOT take policy positions
-    - Does NOT add new knowledge
-    - Does NOT act as Expert or Stakeholder
-    - Controls debate flow and produces neutral summaries
     """
 
     def __init__(self, name: str = "Moderator", max_rounds: int = 3):
@@ -50,7 +40,6 @@ STRICT RULES:
 
         self.client = OpenAI(api_key=Config.OPENAI_API_KEY)
         self.model = "gpt-4o-mini"
-
         self.history = []
 
     # ======================================================
@@ -58,16 +47,14 @@ STRICT RULES:
     # ======================================================
     def _next_speaker(self, last_speaker: str) -> str:
         last = last_speaker.lower()
-
         if "government" in last or "chính phủ" in last:
             return "Business"
         if "business" in last or "doanh nghiệp" in last:
             return "Government"
-
         return "Government"
 
     # ======================================================
-    # CORE MODERATION
+    # CORE MODERATION  (FIXED API CALL)
     # ======================================================
     def moderate(
         self,
@@ -76,24 +63,16 @@ STRICT RULES:
         round_num: int,
         debate_history: List[str] = None
     ) -> Tuple[str, bool]:
-        """
-        Moderate one debate turn
-
-        Returns:
-            moderator_text, should_end
-        """
 
         debate_history = debate_history or []
         recent_context = "\n".join(debate_history[-3:])
-
         is_final = round_num >= self.max_rounds
 
         if is_final:
             prompt = f"""
 STAGE: FINAL ROUND ({round_num}/{self.max_rounds})
 
-LAST SPEAKER:
-{last_speaker}
+LAST SPEAKER: {last_speaker}
 
 STATEMENT:
 \"\"\"{last_content}\"\"\"
@@ -104,24 +83,19 @@ RECENT CONTEXT:
 TASK:
 1. Neutral summary of Government arguments
 2. Neutral summary of Business arguments
-3. Identify:
-   - Main points of agreement
-   - Main points of disagreement
+3. Identify main points of agreement and disagreement
 
 End strictly with:
 === END OF DEBATE ===
 
-Length: 150–200 words
-Academic, neutral tone
+Length: 150–200 words. Academic, neutral tone.
 """
         else:
             next_speaker = self._next_speaker(last_speaker)
-
             prompt = f"""
 STAGE: ROUND {round_num}/{self.max_rounds}
 
-LAST SPEAKER:
-{last_speaker}
+LAST SPEAKER: {last_speaker}
 
 STATEMENT:
 \"\"\"{last_content}\"\"\"
@@ -137,17 +111,19 @@ End with: "Invite {next_speaker} to respond."
 """
 
         try:
-            response = self.client.responses.create(
+            # FIX: Sử dụng đúng OpenAI Chat Completions API
+            response = self.client.chat.completions.create(
                 model=self.model,
-                input=[
+                messages=[
                     {"role": "system", "content": self.system_role},
-                    {"role": "user", "content": prompt}
+                    {"role": "user",   "content": prompt}
                 ],
                 temperature=0.3,
-                max_output_tokens=700
+                max_tokens=700
             )
 
-            text = response.output_text.strip()
+            # FIX: Đọc response đúng cách
+            text = response.choices[0].message.content.strip()
             should_end = "=== END OF DEBATE ===" in text
 
             self.history.append({
@@ -162,13 +138,9 @@ End with: "Invite {next_speaker} to respond."
             return f"[Moderator Error] {str(e)}", False
 
     # ======================================================
-    # FINAL SUMMARY (OPTIONAL – FOR REPORT)
+    # FINAL SUMMARY  (FIXED API CALL)
     # ======================================================
     def summarize_debate(self, full_history: List[str]) -> str:
-        """
-        Academic summary of entire debate
-        (Stakeholders only – NO expert synthesis)
-        """
 
         history_text = "\n\n".join(full_history)
 
@@ -188,17 +160,19 @@ Length: 200–300 words
 """
 
         try:
-            response = self.client.responses.create(
+            # FIX: Sử dụng đúng OpenAI Chat Completions API
+            response = self.client.chat.completions.create(
                 model=self.model,
-                input=[
+                messages=[
                     {"role": "system", "content": self.system_role},
-                    {"role": "user", "content": prompt}
+                    {"role": "user",   "content": prompt}
                 ],
                 temperature=0.3,
-                max_output_tokens=900
+                max_tokens=900
             )
 
-            return response.output_text.strip()
+            # FIX: Đọc response đúng cách
+            return response.choices[0].message.content.strip()
 
         except Exception as e:
             return f"[Summary Error] {str(e)}"
