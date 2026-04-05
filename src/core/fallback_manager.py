@@ -2,6 +2,12 @@
 Fallback Manager for LLM Calls
 ===============================
 Quản lý retry, fallback models, và error handling
+
+THAY ĐỔI SO VỚI BẢN TRƯỚC:
+  [FIX-14] Tăng backoff time (2 → 2^(attempt+1), tối đa 30s)
+           Bản cũ: wait_time = 2 ** attempt (2, 4, 8s)
+           Bản mới: wait_time = min(30, 2 ** (attempt + 1)) (4, 8, 16, 30s)
+  [FIX-14] Giảm max_retries mặc định từ 3 → 2
 """
 
 import time
@@ -86,7 +92,7 @@ class FallbackManager:
         messages: List[Dict[str, str]],
         temperature: float,
         max_tokens: int,
-        max_retries: int = 3,
+        max_retries: int = 2,  # [FIX-14] Giảm từ 3 → 2
         use_cache: bool = True
     ) -> Dict[str, Any]:
         """
@@ -148,7 +154,8 @@ class FallbackManager:
                     last_error = e
                     logger.warning(f"⚠️ Failed with {model_info['model']}: {e}")
                     
-                    wait_time = 2 ** attempt
+                    # [FIX-14] Exponential backoff với max 30 giây
+                    wait_time = min(30, 2 ** (attempt + 1))  # 4, 8, 16, 30s
                     logger.info(f"⏳ Waiting {wait_time}s before retry...")
                     time.sleep(wait_time)
             

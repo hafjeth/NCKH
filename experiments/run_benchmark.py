@@ -8,7 +8,14 @@ THAY ĐỔI SO VỚI BẢN CŨ:
   2. Lưu tier3_output vào intermediate JSON và full JSON
   3. CSV có thêm 3 cột Tier 3 flat (policy_options_count, overall_risk, recommended_option)
   4. --single mode in preview Tier 3 ra console
-  5. N_ROUNDS = 3 (đủ để Tier 3 có ngữ cảnh tốt)
+  5. N_ROUNDS đọc từ Config.BENCHMARK_ROUNDS (không hardcode)
+
+FIXES SO VỚI BẢN LỖI:
+  [FIX-1] save_csv(): sửa indentation sai khiến tier3_recommended_option không được gán
+  [FIX-2] save_csv(): sửa rows.append(row) nằm ngoài vòng lặp for → chỉ lưu 1 row cuối
+  [FIX-3] diversity_score: tính trên toàn bộ các vòng debate thay vì chỉ 2 agent đầu
+  [FIX-4] N_ROUNDS: đọc từ Config thay vì hardcode = 3
+  [FIX-5] run_full_benchmark(): thêm progress tracking và error summary cuối
 """
 
 import sys
@@ -26,6 +33,13 @@ if str(PROJECT_ROOT) not in sys.path:
 from src.core.debate_manager import DebateManager
 from experiments.evaluation.judges.llm_judge import evaluate_conversation
 
+# [FIX-4] Đọc N_ROUNDS từ Config thay vì hardcode
+try:
+    from config.settings import Config
+    N_ROUNDS = Config.BENCHMARK_ROUNDS
+except Exception:
+    N_ROUNDS = 3  # fallback an toàn
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
@@ -35,11 +49,15 @@ logger = logging.getLogger(__name__)
 OUTPUT_DIR = PROJECT_ROOT / "experiments" / "results"
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-N_ROUNDS = 3
 
+# ══════════════════════════════════════════════════════════════
+# LOAD QUESTIONS
+# ══════════════════════════════════════════════════════════════
 
-def load_questions(lang="vi"):
-    question_file = PROJECT_ROOT / "experiments" / "benchmarks" / f"questions_{lang}.json"
+def load_questions(lang: str = "vi") -> list:
+    question_file = (
+        PROJECT_ROOT / "experiments" / "benchmarks" / f"questions_{lang}.json"
+    )
     if not question_file.exists():
         logger.error(f"Missing question file: {question_file}")
         return []
@@ -47,14 +65,17 @@ def load_questions(lang="vi"):
         return json.load(f).get("questions", [])
 
 
-def run_single_debate(question_text: str, question_id: int):
+# ══════════════════════════════════════════════════════════════
+# SINGLE DEBATE
+# ══════════════════════════════════════════════════════════════
+
+def run_single_debate(question_text: str, question_id: int) -> dict:
     logger.info(f"Running debate for question {question_id}")
     start_time = time.time()
 
     try:
         manager = DebateManager()
 
-        # ── THAY ĐỔI: unpack 3 giá trị (thêm tier3_output) ──────────────────
         expert_text, history, tier3_output = manager.run_debate(
             topic=question_text,
             max_rounds=N_ROUNDS,
@@ -70,20 +91,15 @@ def run_single_debate(question_text: str, question_id: int):
         logger.info(f"Evaluating conversation for Q{question_id}")
         evaluation = evaluate_conversation(conversation_log)
 
-        word_count      = len(conversation_log.split())
+        word_count = len(conversation_log.split())
         total_citations = (
-            conversation_log.count("[Nguồn:") +
-            conversation_log.count("[Source:")
+            conversation_log.count("[Nguồn:")
+            + conversation_log.count("[Source:")
         )
 
-        agent_texts = [h["content"] for h in history if h["agent"] != "Moderator"]
-        all_words   = [set(t.lower().split()) for t in agent_texts]
-        if len(all_words) >= 2:
-            inter = all_words[0] & all_words[1]
-            union = all_words[0] | all_words[1]
-            diversity_score = round(1 - len(inter) / max(len(union), 1), 4)
-        else:
-            diversity_score = 0.0
+        # [FIX-3] Tính diversity_score trên TẤT CẢ các turn của agent
+        # (không chỉ 2 agent đầu tiên)
+        diversity_score = _compute_diversity(history)
 
         # Lấy final_summary từ Moderator turn cuối
         final_summary = ""
@@ -106,7 +122,6 @@ def run_single_debate(question_text: str, question_id: int):
             "factuality":      evaluation.get("factuality", 0),
             "time_seconds":    round(elapsed, 2),
             "timestamp":       datetime.datetime.now().isoformat(),
-            # ── NEW: Tier 3 output ──────────────────────────────────────────
             "tier3_output":    tier3_output,
         }
 
@@ -121,10 +136,52 @@ def run_single_debate(question_text: str, question_id: int):
         }
 
 
-def save_csv(results: list, path: Path):
-    """Lưu CSV flat — bao gồm 3 cột Tier 3 summary"""
-    success_results = [r for r in results if r["status"] == "success"]
+# ══════════════════════════════════════════════════════════════
+# DIVERSITY SCORE  [FIX-3]
+# ══════════════════════════════════════════════════════════════
+
+def _compute_diversity(history: list) -> float:
+    """
+    Tính diversity_score dựa trên TẤT CẢ các turn của Government Agent
+    và Enterprise Agent qua toàn bộ các vòng — không chỉ vòng đầu.
+
+    Trả về: 1 - (Jaccard similarity trung bình giữa gov và biz)
+    Giá trị càng cao = ngôn ngữ càng khác nhau = tranh luận càng đa dạng.
+    """
+    gov_words = set()
+    biz_words = set()
+
+    for turn in history:
+        agent = turn.get("agent", "")
+        words = set(turn.get("content", "").lower().split())
+        if "Government" in agent:
+            gov_words |= words
+        elif "Enterprise" in agent or "Business" in agent:
+            biz_words |= words
+
+    if not gov_words or not biz_words:
+        return 0.0
+
+    intersection = gov_words & biz_words
+    union = gov_words | biz_words
+    jaccard = len(intersection) / max(len(union), 1)
+    return round(1 - jaccard, 4)
+
+
+# ══════════════════════════════════════════════════════════════
+# SAVE CSV  [FIX-1] [FIX-2]
+# ══════════════════════════════════════════════════════════════
+
+def save_csv(results: list, path: Path) -> None:
+    """
+    Lưu CSV flat — bao gồm 3 cột Tier 3 summary.
+
+    [FIX-1] tier3_recommended_option được gán đúng ngoài if block
+    [FIX-2] rows.append(row) nằm đúng trong vòng lặp for
+    """
+    success_results = [r for r in results if r.get("status") == "success"]
     if not success_results:
+        logger.warning("save_csv: Không có kết quả thành công để lưu.")
         return
 
     fieldnames = [
@@ -138,70 +195,103 @@ def save_csv(results: list, path: Path):
     ]
 
     rows = []
-    for r in success_results:
-        t3  = r.get("tier3_output", {})
+
+    for r in success_results:                           # [FIX-2] rows.append ở đây
+        t3  = r.get("tier3_output", {}) or {}
         row = {k: r.get(k, "") for k in fieldnames if k in r}
         row["status"]    = r.get("status", "")
         row["timestamp"] = r.get("timestamp", "")
 
+        # Tier 3 — policy options count
         opts = t3.get("policy_options", {}).get("options", [])
+        if not isinstance(opts, list):
+            opts = []
         row["tier3_policy_options_count"] = len(opts)
 
-        impact = t3.get("impact_analysis", {})
+        # Tier 3 — overall risk
+        impact = t3.get("impact_analysis", {}) or {}
         row["tier3_overall_risk"] = impact.get("overall_risk", "")
 
-        rec = t3.get("decision_support", {}).get("recommended_option", {})
-    if isinstance(rec, list):
-        rec = rec[0] if rec else {}
-        row["tier3_recommended_option"] = rec.get("option_id", "")
+        # [FIX-1] Gán recommended_option NGOÀI if block
+        rec = t3.get("decision_support", {}).get("recommended_option", {}) or {}
+        if isinstance(rec, list):
+            rec = rec[0] if rec else {}
+        row["tier3_recommended_option"] = rec.get("option_id", "")  # luôn được gán
 
-        rows.append(row)
+        rows.append(row)                                # [FIX-2] nằm đúng trong for loop
 
     with open(path, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore")
         writer.writeheader()
         writer.writerows(rows)
 
-    logger.info(f"CSV saved → {path}")
+    logger.info(f"CSV saved → {path}  ({len(rows)} rows)")
 
 
-def _print_tier3_preview(t3: dict):
+# ══════════════════════════════════════════════════════════════
+# TIER 3 PREVIEW
+# ══════════════════════════════════════════════════════════════
+
+def _print_tier3_preview(t3: dict) -> None:
     """In Tier 3 preview ra console sau mỗi câu hỏi."""
+    if not t3:
+        print("  [Tier 3] Không có output.")
+        return
+
     print("\n" + "─" * 55)
     print("  TIER 3 PREVIEW")
     print("─" * 55)
 
     opts = t3.get("policy_options", {}).get("options", [])
+    if not isinstance(opts, list):
+        opts = []
     print(f"  Policy Options ({len(opts)}):")
     for o in opts:
-        print(f"    [{o.get('id','?')}] {o.get('title','')} "
-              f"— feasibility: {o.get('feasibility','?')}")
+        print(
+            f"    [{o.get('id', '?')}] {o.get('title', '')} "
+            f"— feasibility: {o.get('feasibility', '?')}"
+        )
 
-    impact = t3.get("impact_analysis", {})
+    impact = t3.get("impact_analysis", {}) or {}
     print(f"  Overall Risk  : {impact.get('overall_risk', 'N/A')}")
 
-    rec = t3.get("decision_support", {}).get("recommended_option", {})
+    rec = t3.get("decision_support", {}).get("recommended_option", {}) or {}
     if isinstance(rec, list):
         rec = rec[0] if rec else {}
     rationale = rec.get("rationale", "")[:90]
-    print(f"  Recommended   : {rec.get('option_id','?')} — {rationale}...")
+    print(f"  Recommended   : {rec.get('option_id', '?')} — {rationale}...")
 
     gaps = t3.get("evidence", {}).get("evidence_gaps", [])
     if gaps:
         print(f"  Evidence Gaps : {gaps[0]}")
+
+    # Hiển thị lỗi tier3 nếu có
+    for section in ["policy_options", "pros_cons", "impact_analysis", "evidence"]:
+        sec = t3.get(section, {})
+        if isinstance(sec, dict) and "_error" in sec:
+            print(f"  ⚠️  {section}: {sec['_error']}")
+
     print("─" * 55 + "\n")
 
 
-def run_full_benchmark(lang="vi"):
+# ══════════════════════════════════════════════════════════════
+# FULL BENCHMARK  [FIX-5]
+# ══════════════════════════════════════════════════════════════
+
+def run_full_benchmark(lang: str = "vi") -> None:
     questions = load_questions(lang)
     if not questions:
         return
 
-    results = []
+    results      = []
+    failed_ids   = []
+    total        = len(questions)
+
+    logger.info(f"Bắt đầu benchmark: {total} câu hỏi | {N_ROUNDS} vòng/câu")
 
     for i, q in enumerate(questions, 1):
         logger.info("=" * 60)
-        logger.info(f"Question {i}/{len(questions)}: {q.get('question','')[:60]}...")
+        logger.info(f"Question {i}/{total}: {q.get('question', '')[:60]}...")
         logger.info("=" * 60)
 
         result = run_single_debate(
@@ -210,20 +300,28 @@ def run_full_benchmark(lang="vi"):
         )
         results.append(result)
 
-        # Lưu intermediate JSON (bao gồm tier3_output đầy đủ)
-        with open(OUTPUT_DIR / f"intermediate_{i}.json", "w", encoding="utf-8") as f:
+        if result["status"] == "error":
+            failed_ids.append(result["question_id"])
+
+        # Lưu intermediate JSON ngay sau mỗi câu (an toàn khi crash giữa chừng)
+        intermediate_path = OUTPUT_DIR / f"intermediate_{i}.json"
+        with open(intermediate_path, "w", encoding="utf-8") as f:
             json.dump(result, f, ensure_ascii=False, indent=2)
 
         if result["status"] == "success":
             _print_tier3_preview(result.get("tier3_output", {}))
 
-    # Full JSON
+    # ── Full JSON ────────────────────────────────────────────────────────────
+    n_success = sum(r["status"] == "success" for r in results)
+    n_failed  = sum(r["status"] == "error"   for r in results)
+
     output = {
         "metadata": {
             "timestamp":       datetime.datetime.now().isoformat(),
-            "total_questions": len(questions),
-            "successful":      sum(r["status"] == "success" for r in results),
-            "failed":          sum(r["status"] == "error"   for r in results),
+            "total_questions": total,
+            "successful":      n_success,
+            "failed":          n_failed,
+            "failed_ids":      failed_ids,   # thêm để dễ debug
             "language":        lang,
             "rounds":          N_ROUNDS,
             "tier3_enabled":   True,
@@ -239,11 +337,19 @@ def run_full_benchmark(lang="vi"):
     csv_path = OUTPUT_DIR / "multiagent_results.csv"
     save_csv(results, csv_path)
 
-    logger.info(
-        f"\n✅ Benchmark completed: "
-        f"{output['metadata']['successful']}/{len(questions)} successful"
-    )
+    # [FIX-5] In summary cuối rõ ràng hơn
+    logger.info("\n" + "=" * 60)
+    logger.info(f" Benchmark hoàn thành")
+    logger.info(f"   Thành công : {n_success}/{total}")
+    logger.info(f"   Thất bại   : {n_failed}/{total}")
+    if failed_ids:
+        logger.info(f"   ID lỗi     : {failed_ids}")
+    logger.info("=" * 60)
 
+
+# ══════════════════════════════════════════════════════════════
+# ENTRY POINT
+# ══════════════════════════════════════════════════════════════
 
 if __name__ == "__main__":
     import argparse
@@ -265,7 +371,9 @@ if __name__ == "__main__":
             logger.info(f"Saved → {out}")
             if res["status"] == "success":
                 _print_tier3_preview(res.get("tier3_output", {}))
+            else:
+                logger.error(f"Debate failed: {res.get('error')}")
         else:
-            logger.error("Question not found")
+            logger.error(f"Question ID {args.single} không tìm thấy.")
     else:
         run_full_benchmark(args.lang)

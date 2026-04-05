@@ -10,7 +10,8 @@ env/
 ENV/
 
 # Data
-data/raw/
+data/*
+!data/raw/
 data/intermediate/
 data/processed/
 data/vector_stores/
@@ -42,3 +43,24 @@ Thumbs.db
 
 # Docker
 docker-compose.override.yml
+# Cache files (quan trọng!)
+cache/
+*.pkl
+*.json
+
+# Experiment results (chỉ nên commit CSV, không commit JSON kết quả)
+experiments/results/*.json
+!experiments/results/multiagent_results.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

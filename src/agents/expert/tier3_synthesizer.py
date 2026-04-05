@@ -11,8 +11,17 @@ Nhận kết quả Tier 2 → tổng hợp 5 module có cấu trúc:
   4. evidence          — Bằng chứng & trích dẫn tổng hợp
   5. decision_support  — Hỗ trợ ra quyết định
 
-Import trong debate_manager.py:
-    from src.agents.expert.tier3_synthesizer import Tier3Synthesizer
+FIXES SO VỚI BẢN CŨ:
+  [FIX-1] _max_tokens tăng từ 1500 → 3000
+          Bản cũ: JSON phức tạp bị cắt giữa chừng → parse lỗi →
+          báo "_error": "Connection error" (tên lỗi gây hiểu nhầm)
+  [FIX-2] _call(): sửa error message rõ hơn — phân biệt
+          "_error_type" (JSONDecodeError / truncation / network) vs "_error" (message)
+  [FIX-3] _max_tokens đọc từ Config.MAX_TOKENS nếu có, fallback 3000
+  [FIX-4] _gen_policy_options(): inject citations từ debate_history vào prompt
+          Bản cũ: LLM không biết nguồn nào hợp lệ → OPT-2, OPT-3 có citations: []
+          Bản mới: truyền danh sách citations đã dùng → LLM gán đúng cho từng option
+  [FIX-5] _build_context(): tăng chars/turn từ 500 → 800 để giữ đủ citation context
 """
 
 import re
@@ -20,7 +29,7 @@ import json
 import logging
 from typing import List, Dict, Optional
 
-from config.settings import Config          # cấu trúc thực tế của project NCKH
+from config.settings import Config
 
 logger = logging.getLogger(__name__)
 
@@ -30,7 +39,7 @@ Nguyên tắc:
 - Trung lập, học thuật, có cơ sở bằng chứng
 - Không bịa thêm thông tin ngoài cuộc tranh luận
 - Phản ánh đầy đủ cả quan điểm Chính phủ lẫn Doanh nghiệp
-- Trích dẫn inline [Nguồn: ...] khi có thể
+- Trích dẫn inline [Nguồn: ...] khi có thể — CHỈ dùng nguồn đã xuất hiện trong tranh luận
 - Trả lời CHỈ bằng JSON hợp lệ, không có markdown fence, không có text ngoài JSON"""
 
 
@@ -45,9 +54,12 @@ class Tier3Synthesizer:
         self._provider    = Config.API_PROVIDER
         self._model       = Config.MODEL_NAME
         self._temperature = 0.2
-        self._max_tokens  = 1500
 
-    # ── Lazy client init (hỗ trợ cả OpenAI và Anthropic) ─────────────────────
+        # [FIX-3] Đọc từ Config nếu có, fallback 3000
+        _cfg_max = getattr(Config, "MAX_TOKENS", None)
+        self._max_tokens = max(_cfg_max, 3000) if _cfg_max else 3000
+
+    # ── Lazy client init ──────────────────────────────────────────────────────
     def _get_client(self):
         if self._client is not None:
             return self._client
@@ -84,10 +96,13 @@ class Tier3Synthesizer:
         logger.info("[Tier3] Bắt đầu Policy Synthesis...")
         ctx = self._build_context(expert_text, final_summary, debate_history)
 
-        policy_options   = self._gen_policy_options(topic, ctx)
+        # [FIX-4] Extract citations trước, truyền vào _gen_policy_options
+        citations_used = self._extract_citations(debate_history)
+
+        policy_options   = self._gen_policy_options(topic, ctx, citations_used)
         pros_cons        = self._gen_pros_cons(topic, ctx, policy_options)
         impact_analysis  = self._gen_impact_analysis(topic, ctx)
-        evidence         = self._gen_evidence(topic, ctx, debate_history)
+        evidence         = self._gen_evidence(topic, ctx, debate_history, citations_used)
         decision_support = self._gen_decision_support(
             topic, ctx, policy_options, impact_analysis
         )
@@ -104,14 +119,40 @@ class Tier3Synthesizer:
         }
 
     # ── Module 1 ──────────────────────────────────────────────────────────────
-    def _gen_policy_options(self, topic: str, ctx: str) -> Dict:
+    def _gen_policy_options(
+        self, topic: str, ctx: str, citations_used: List[str]
+    ) -> Dict:
+        """
+        [FIX-4] Nhận citations_used từ debate_history và inject vào prompt.
+        Bản cũ: LLM không biết nguồn nào hợp lệ → sinh citations: [] cho nhiều options.
+        Bản mới: LLM được cung cấp danh sách nguồn đã dùng → gán đúng cho từng option.
+        """
+        if citations_used:
+            citations_block = "\n".join(f"  - {c}" for c in citations_used)
+            citation_instruction = f"""CITATIONS ĐÃ ĐƯỢC SỬ DỤNG TRONG TRANH LUẬN:
+{citations_block}
+
+QUY TẮC GÁN CITATIONS CHO TỪNG OPTION:
+- Mỗi option phải có ÍT NHẤT 1 citation nếu citations_used không rỗng
+- Nguồn liên quan đến carbon pricing, môi trường, pháp lý → gán cho OPT liên quan
+  đến xây dựng chính sách / cơ chế carbon
+- Nguồn liên quan đến SME, doanh nghiệp, chi phí → gán cho OPT liên quan đến
+  hỗ trợ doanh nghiệp / chờ đợi
+- Nếu một nguồn liên quan đến nhiều option → gán cho tất cả option đó
+- CHỈ để [] nếu option hoàn toàn không liên quan đến bất kỳ nguồn nào"""
+        else:
+            citation_instruction = "CITATIONS: Chưa có citations cụ thể trong tranh luận."
+
         prompt = f"""CHỦ ĐỀ: {topic}
 
 NGỮ CẢNH TRANH LUẬN:
 {ctx}
 
+{citation_instruction}
+
 NHIỆM VỤ — MODULE 1: POLICY OPTIONS
 Dựa trên cuộc tranh luận, xác định 3–4 lựa chọn chính sách khả thi.
+Gán citations theo QUY TẮC GÁN bên trên — cố gắng không để option nào có citations: [].
 
 Trả về JSON:
 {{
@@ -197,24 +238,35 @@ Trả về JSON:
         topic: str,
         ctx: str,
         debate_history: Optional[List[dict]],
+        citations_used: Optional[List[str]] = None,
     ) -> Dict:
-        citations: List[str] = []
-        if debate_history:
-            for turn in debate_history:
-                found = re.findall(r'\[Nguồn:[^\]]+\]', turn.get("content", ""))
-                citations.extend(found)
-        unique = list(dict.fromkeys(citations))
+        # [FIX-4] Dùng citations_used đã extract sẵn nếu có, tránh extract lại
+        unique = citations_used if citations_used is not None else self._extract_citations(debate_history)
+
+        sources_clean = []
+        for c in unique:
+            # Bỏ "[Nguồn: " prefix và "]" suffix để lấy tên thuần
+            m = re.search(r'\[Nguồn:\s*(.+?)\]', c)
+            if m:
+                sources_clean.append(m.group(1).strip())
+
+        sources_list = "\n".join(f"  - {s}" for s in sources_clean) if sources_clean else "  (xem trong ngữ cảnh)"
 
         prompt = f"""CHỦ ĐỀ: {topic}
 
 NGỮ CẢNH TRANH LUẬN:
 {ctx}
 
-CITATIONS ĐÃ SỬ DỤNG:
-{chr(10).join(unique) if unique else "(xem trong ngữ cảnh)"}
+NGUỒN HỢP LỆ (chỉ dùng các nguồn này — KHÔNG thêm nguồn khác):
+{sources_list}
 
 NHIỆM VỤ — MODULE 4: EVIDENCE
 Tổng hợp bằng chứng và trích dẫn được dùng trong tranh luận.
+
+QUAN TRỌNG:
+- Trường "source" trong key_facts CHỈ được dùng tên từ danh sách NGUỒN HỢP LỆ bên trên
+- KHÔNG dùng tên file kỹ thuật (vd: bioconf_xxx, sagegrace_xxx)
+- Nếu không biết nguồn chính xác → để "source": "tranh luận"
 
 Trả về JSON:
 {{
@@ -228,7 +280,7 @@ Trả về JSON:
   "key_facts": [
     {{
       "fact": "Sự kiện / số liệu quan trọng",
-      "source": "Nguồn",
+      "source": "Tên từ NGUỒN HỢP LỆ hoặc 'tranh luận'",
       "contested": false
     }}
   ],
@@ -302,14 +354,33 @@ Trả về JSON:
                 if h.get("agent") in ("Government Agent", "Enterprise Agent")
             ]
             turns_text = "\n\n".join(
-                f"[{h['agent']} - Round {h.get('round','?')}]\n{h['content'][:500]}"
+                # [FIX-5] Tăng chars/turn: 500 → 800 để giữ đủ citation context
+                f"[{h['agent']} - Round {h.get('round','?')}]\n{h['content'][:800]}"
                 for h in key_turns[-6:]
             )
             if turns_text:
                 parts.append(f"=== KEY DEBATE TURNS ===\n{turns_text}")
         return "\n\n".join(parts)
 
+    def _extract_citations(self, debate_history: Optional[List[dict]]) -> List[str]:
+        """
+        [FIX-4] Helper tách riêng để tái sử dụng.
+        Extract tất cả [Nguồn: ...] từ debate_history, dedup, giữ thứ tự xuất hiện.
+        """
+        citations: List[str] = []
+        if debate_history:
+            for turn in debate_history:
+                found = re.findall(r'\[Nguồn:[^\]]+\]', turn.get("content", ""))
+                citations.extend(found)
+        return list(dict.fromkeys(citations))  # dedup giữ thứ tự
+
     def _call(self, prompt: str, fallback_key: str) -> Dict:
+        """
+        Gọi LLM và parse JSON.
+
+        [FIX-1] max_tokens tăng lên 3000 — tránh JSON bị cắt giữa chừng
+        [FIX-2] Error message rõ hơn: phân biệt loại lỗi (_error_type)
+        """
         try:
             client = self._get_client()
 
@@ -338,8 +409,16 @@ Trả về JSON:
             return self._parse_json(raw, fallback_key)
 
         except Exception as e:
-            logger.error(f"[Tier3] LLM call failed ({fallback_key}): {e}")
-            return {fallback_key: [], "_error": str(e)}
+            error_type = type(e).__name__
+            error_msg  = str(e)
+            logger.error(
+                f"[Tier3] LLM call failed ({fallback_key}): [{error_type}] {error_msg}"
+            )
+            return {
+                fallback_key:  [],
+                "_error":      error_msg,
+                "_error_type": error_type,
+            }
 
     @staticmethod
     def _parse_json(raw: str, fallback_key: str) -> Dict:

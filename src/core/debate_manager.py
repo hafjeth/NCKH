@@ -1,20 +1,23 @@
 """
 debate_manager.py
 =================
-ĐẶT FILE NÀY TẠI: src/core/debate_manager.py  (thay file cũ)
+ĐẶT FILE NÀY TẠI: src/core/debate_manager.py
 
-THAY ĐỔI SO VỚI BẢN CŨ:
-  1. Import Tier3Synthesizer từ đúng path: src/agents/expert/tier3_synthesizer
-  2. Import Config từ đúng path: config.settings
-  3. DebateManager.__init__() khởi tạo self.tier3
-  4. run_debate() reset self.debate_history mỗi câu hỏi (tránh dữ liệu chồng lấp)
-  5. run_debate() trả về Tuple[str, List[dict], Dict] — thêm tier3_output
+FIXES SO VỚI BẢN TRƯỚC:
+  [FIX-5a] CITATION_RULE đơn giản hóa — không còn hardcode danh sách nguồn cứng
+           Tên nguồn hợp lệ lấy từ RAG (50+ tài liệu) thay vì whitelist cứng 5-6 nguồn
+  [FIX-5b] expert_synthesis() thêm CITATION_RULE vào prompt
+  [FIX-5c] _prompt_round3(): thêm anchor lập trường cho từng agent
+  [FIX-10] CITATION_RULE_WITH_EXAMPLES: thêm ví dụ cụ thể để LLM dễ hiểu
+  [FIX-11] expert_synthesis(): đưa CITATION_RULE lên ĐẦU prompt
+  [FIX-12] _validate_citations(): post-processing kiểm tra citations hợp lệ
 """
 
+import re
 import sys
 import logging
 from pathlib import Path
-from typing import List, Tuple, Optional, Dict
+from typing import List, Tuple, Optional, Dict, Set
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 if str(PROJECT_ROOT) not in sys.path:
@@ -24,16 +27,60 @@ from src.core.base_agent import BaseAgent
 from src.core.moderator import ModeratorAgent
 from src.core.personas import AGENT_PERSONAS
 from src.knowledge.retrieval.retriever import KnowledgeRetriever
-from src.agents.expert.tier3_synthesizer import Tier3Synthesizer   # NEW
+from src.agents.expert.tier3_synthesizer import Tier3Synthesizer
 
 logger = logging.getLogger(__name__)
 
+# [FIX-10] CITATION_RULE với ví dụ cụ thể
+CITATION_RULE_WITH_EXAMPLES = """
+CITATION RULES (BẮT BUỘC — VI PHẠM = PHẢN HỒI KHÔNG HỢP LỆ):
+
+📌 ĐÚNG — Các dạng citation hợp lệ:
+  • [Nguồn: Quyết định 232 QĐ-TTg]
+  • [Nguồn: Nghị định 06/2022/NĐ-CP]
+  • [Nguồn: Luật Bảo vệ Môi trường 2020]
+  • [Nguồn: Báo cáo IFC World Bank]
+  • [Nguồn: Nghị định 45/2022/NĐ-CP]
+
+❌ SAI — Các dạng citation KHÔNG được phép (tuyệt đối tránh):
+  • "theo thực tiễn quốc tế..."
+  • "theo nghiên cứu cho thấy..."
+  • "theo các chuyên gia..."
+  • "theo thông tin từ..."
+  • "theo báo cáo gần đây..."
+  • [Nguồn: không rõ]
+  • [Nguồn: theo một nghiên cứu]
+
+📋 NGUYÊN TẮC CỐT LÕI:
+  1. CHỈ cite nguồn có trong TÀI LIỆU THAM KHẢO được cung cấp trong prompt này
+  2. Format bắt buộc: [Nguồn: <tên nguồn chính xác như trong TÀI LIỆU THAM KHẢO>]
+  3. Trước khi cite: nội dung bạn trình bày phải XUẤT HIỆN TRONG ĐOẠN VĂN của tài liệu đó
+  4. Tối thiểu 2 citations/lượt nếu tài liệu có nội dung liên quan
+  5. Nếu không có tài liệu phù hợp → trình bày bình thường, KHÔNG cần cite
+
+⚠️ QUY TẮC VÀNG:
+  - CÓ nguồn hợp lệ trong TÀI LIỆU THAM KHẢO → cite [Nguồn: Tên cụ thể]
+  - KHÔNG có nguồn hợp lệ → KHÔNG cite, KHÔNG dùng bất kỳ cụm giả nguồn nào
+"""
+
+# CITATION_RULE ngắn gọn cho các agent khác (giữ nguyên)
 CITATION_RULE = """
-CITATION RULES (BẮT BUỘC):
-- Mỗi lập luận tham chiếu văn bản pháp lý PHẢI có trích dẫn inline
-- Format: [Nguồn: <tên văn bản>]
-- Ví dụ: [Nguồn: Nghị định 06/2022/NĐ-CP], [Nguồn: Quyết định 888/QĐ-TTg]
-- Tối thiểu 2 citations mỗi lượt phát biểu
+CITATION RULES (BẮT BUỘC — VI PHẠM = PHẢN HỒI KHÔNG HỢP LỆ):
+
+NGUYÊN TẮC CỐT LÕI:
+- CHỈ cite nguồn có trong TÀI LIỆU THAM KHẢO được cung cấp trong prompt này
+- Format bắt buộc: [Nguồn: <tên nguồn chính xác như trong TÀI LIỆU THAM KHẢO>]
+- Trước khi cite [Nguồn: X]: kiểm tra nội dung bạn trình bày có XUẤT HIỆN
+  TRONG ĐOẠN VĂN của TÀI LIỆU X không — nếu KHÔNG thì KHÔNG cite
+- Tối thiểu 2 citations/lượt nếu tài liệu có nội dung liên quan
+- Nếu không có tài liệu phù hợp: trình bày bình thường, không cần cite
+
+NGHIÊM CẤM:
+- Tự bịa tên nguồn không có trong TÀI LIỆU THAM KHẢO
+- Gán nội dung của tài liệu này vào tên tài liệu khác
+- Dùng bất kỳ cụm giả nguồn nào như 'theo thực tiễn quốc tế',
+  'theo nghiên cứu quốc tế', 'theo các chuyên gia', v.v.
+- Cite chung chung không rõ tên tài liệu cụ thể
 """
 
 
@@ -46,7 +93,7 @@ class DebateManager:
         self.expert_agent:     Optional[BaseAgent] = None
         self.moderator:        Optional[ModeratorAgent] = None
         self.retriever  = KnowledgeRetriever()
-        self.tier3      = Tier3Synthesizer()               # NEW
+        self.tier3      = Tier3Synthesizer()
 
     def setup_agents(self):
         def build_agent(key):
@@ -73,10 +120,11 @@ POLICY PRIORITIES:\n{fmt(persona['policy_priorities'])}
 CONSTRAINTS:\n{fmt(persona['constraints_and_challenges'])}
 REASONING STYLE: {persona['reasoning_style']}
 {persona['response_guidelines']}
-CITATION REQUIREMENT: Khi tham chiếu văn bản pháp lý PHẢI dùng [Nguồn: tên văn bản]. Tối thiểu 2 citations/lượt.
+CITATION REQUIREMENT: Khi tham chiếu tài liệu PHẢI dùng [Nguồn: tên tài liệu
+chính xác từ TÀI LIỆU THAM KHẢO được cung cấp]. Tối thiểu 2 citations/lượt.
 """.strip()
 
-    # ── Round prompts (giữ nguyên từ bản gốc) ────────────────────────────────
+    # ── Round prompts ─────────────────────────────────────────────────────────
 
     def _prompt_round1(self, agent_name: str, topic: str) -> str:
         if "Government" in agent_name:
@@ -120,35 +168,149 @@ Giọng văn học thuật | 150–200 từ
             f"[{h['agent'].upper()} - Vòng {h['round']}]\n{h['content']}"
             for h in recent_history[-6:] if h.get("agent") != "Moderator"
         )
+
+        if "Government" in agent_name:
+            your_role    = "Chính phủ"
+            core_stance  = "chính sách, pháp lý, cam kết quốc tế, lợi ích quốc gia dài hạn"
+            voice_anchor = (
+                "Ngôn ngữ của bạn mang tính CHÍNH SÁCH — dùng các từ như "
+                "'lộ trình', 'quy định', 'cam kết', 'thị trường carbon', 'NDC'."
+            )
+        else:
+            your_role    = "Doanh nghiệp"
+            core_stance  = "chi phí tuân thủ, năng lực SMEs, tác động kinh doanh thực tế"
+            voice_anchor = (
+                "Ngôn ngữ của bạn mang tính DOANH NGHIỆP — dùng các từ như "
+                "'chi phí', 'lợi nhuận', 'năng lực', 'đầu tư', 'SMEs', 'cạnh tranh'."
+            )
+
         return f"""VÒNG 3 — BẢO VỆ LẬP LUẬN CUỐI CÙNG
 CHỦ ĐỀ: {topic}
 LỊCH SỬ TRANH LUẬN:\n{history_text}
-Bạn là {agent_name}.
+Bạn là {agent_name} — đại diện {your_role}.
+
 NHIỆM VỤ:
-1. Thừa nhận ngắn gọn điểm hợp lý của đối phương (1 câu)
-2. Bảo vệ lập trường cốt lõi với lý lẽ mạnh nhất
+1. Thừa nhận ngắn gọn điểm hợp lý của đối phương (1 câu) — nếu thực sự hợp lý
+2. Bảo vệ lập trường cốt lõi của {your_role} về: {core_stance}
 3. Đề xuất 1 điểm có thể đồng thuận giữa hai bên
 4. Kết luận lập trường cuối cùng rõ ràng
+
+⚠️ GIỮ BẢN SẮC: {voice_anchor}
+KHÔNG dùng lại câu chữ hoặc cấu trúc câu của đối phương, dù quan điểm có thể gần nhau.
+Đồng thuận thực chất là bình thường — nhưng phải thể hiện qua góc nhìn của {your_role}.
+
 Giọng văn học thuật | 150–200 từ
 {CITATION_RULE}"""
 
-    # ── Expert synthesis (giữ nguyên từ bản gốc) ─────────────────────────────
+    # ── Expert synthesis ──────────────────────────────────────────────────────
+    # [FIX-11] Đưa CITATION_RULE lên ĐẦU prompt
+    # [FIX-12] Thêm post-processing validation
+
+    def _extract_valid_sources_from_history(self) -> Set[str]:
+        """
+        [FIX-12] Trích xuất tất cả nguồn hợp lệ từ debate history.
+        Dùng để validate citations của Expert.
+        """
+        valid_sources = set()
+        pattern = r'\[Nguồn:([^\]]+)\]'
+        
+        for turn in self.debate_history:
+            content = turn.get("content", "")
+            matches = re.findall(pattern, content)
+            for match in matches:
+                # Clean tên nguồn
+                source = match.strip()
+                # Bỏ đuôi file nếu có
+                source = re.sub(r'\.(txt|pdf|docx|doc)$', '', source, flags=re.IGNORECASE)
+                valid_sources.add(source)
+        
+        return valid_sources
+
+    def _validate_citations(self, response: str, valid_sources: Set[str]) -> str:
+        """
+        [FIX-12] Post-processing: kiểm tra và loại bỏ citations không hợp lệ.
+        """
+        # Tìm tất cả citations trong response
+        citation_pattern = r'\[Nguồn:([^\]]+)\]'
+        matches = re.findall(citation_pattern, response)
+        
+        invalid_citations = []
+        for match in matches:
+            source = match.strip()
+            # Kiểm tra xem nguồn có trong danh sách hợp lệ không
+            is_valid = False
+            for valid in valid_sources:
+                if source == valid or source in valid or valid in source:
+                    is_valid = True
+                    break
+            if not is_valid:
+                invalid_citations.append(f"[Nguồn:{match}]")
+        
+        # Loại bỏ citations không hợp lệ
+        for invalid in invalid_citations:
+            response = response.replace(invalid, "")
+            logger.warning(f"⚠️ Removed invalid citation: {invalid}")
+        
+        # Dọn dẹp khoảng trắng thừa
+        response = re.sub(r'\s+', ' ', response)
+        response = response.strip()
+        
+        return response
 
     def expert_synthesis(self, topic: str) -> str:
-        gov_views = [h["content"] for h in self.debate_history if h["agent"] == "Government Agent"]
-        biz_views = [h["content"] for h in self.debate_history if h["agent"] == "Enterprise Agent"]
-        prompt = f"""Bạn là CHUYÊN GIA PHÂN TÍCH CHÍNH SÁCH ĐỘC LẬP.
+        """
+        [FIX-5b] Thêm CITATION_RULE vào prompt expert_synthesis.
+        [FIX-11] Đưa CITATION_RULE lên ĐẦU prompt.
+        [FIX-12] Thêm post-processing validation.
+        """
+        gov_views = [h["content"] for h in self.debate_history
+                     if h["agent"] == "Government Agent"]
+        biz_views = [h["content"] for h in self.debate_history
+                     if h["agent"] == "Enterprise Agent"]
+        
+        # [FIX-11] Lấy valid sources từ history để validate sau
+        valid_sources = self._extract_valid_sources_from_history()
+        sources_list = "\n".join(f"  - {s}" for s in sorted(valid_sources)[:20]) if valid_sources else "  (chưa có citations nào trong debate)"
+
+        # [FIX-11] Đặt CITATION_RULE_WITH_EXAMPLES lên ĐẦU prompt
+        prompt = f"""{CITATION_RULE_WITH_EXAMPLES}
+
+📚 CÁC NGUỒN HỢP LỆ ĐÃ XUẤT HIỆN TRONG TRANH LUẬN (CHỈ ĐƯỢC DÙNG CÁC NGUỒN NÀY):
+{sources_list}
+
+Bạn là CHUYÊN GIA PHÂN TÍCH CHÍNH SÁCH ĐỘC LẬP.
+
 NHIỆM VỤ — Phân tích toàn bộ cuộc tranh luận 3 vòng:
 1. TÓM TẮT lập trường Chính phủ (qua 3 vòng)
 2. TÓM TẮT lập trường Doanh nghiệp (qua 3 vòng)
 3. SO SÁNH hai quan điểm
 4. XÁC ĐỊNH: trade-offs | điểm đồng thuận | bất đồng cốt lõi | tiến triển qua 3 vòng
-NGUYÊN TẮC: KHÔNG đề xuất chính sách mới | KHÔNG đứng về phía nào
+
+NGUYÊN TẮC PHÂN TÍCH:
+- KHÔNG đề xuất chính sách mới
+- KHÔNG đứng về phía nào
+- CHỈ phân tích những gì đã được lập luận trong debate
+- KHI CITE: CHỈ dùng các nguồn trong danh sách 📚 bên trên
+
 CHỦ ĐỀ: {topic}
-LẬP LUẬN CHÍNH PHỦ:\n{chr(10).join(f'Vòng {i+1}: {v}' for i,v in enumerate(gov_views))}
-LẬP LUẬN DOANH NGHIỆP:\n{chr(10).join(f'Vòng {i+1}: {v}' for i,v in enumerate(biz_views))}
-ĐẦU RA: 300–400 từ | Tối thiểu 3 trích dẫn [Nguồn: ...]"""
-        return self.expert_agent.chat(prompt)
+
+LẬP LUẬN CHÍNH PHỦ:
+{chr(10).join(f'Vòng {i+1}: {v}' for i, v in enumerate(gov_views))}
+
+LẬP LUẬN DOANH NGHIỆP:
+{chr(10).join(f'Vòng {i+1}: {v}' for i, v in enumerate(biz_views))}
+
+ĐẦU RA: 300–400 từ
+"""
+
+        # Gọi LLM
+        response = self.expert_agent.chat(prompt)
+        
+        # [FIX-12] Post-processing: validate citations
+        if valid_sources:
+            response = self._validate_citations(response, valid_sources)
+        
+        return response
 
     # ── MAIN: run_debate ──────────────────────────────────────────────────────
 
@@ -163,7 +325,7 @@ LẬP LUẬN DOANH NGHIỆP:\n{chr(10).join(f'Vòng {i+1}: {v}' for i,v in enume
         Returns:
             expert_text    (str)   — Expert Council output (Tier 2)
             debate_history (list)  — Lịch sử toàn bộ Tier 2
-            tier3_output   (dict)  — 5 module Policy Synthesis (Tier 3)  ← NEW
+            tier3_output   (dict)  — 5 module Policy Synthesis (Tier 3)
         """
         if not all([self.government_agent, self.business_agent,
                     self.expert_agent, self.moderator]):

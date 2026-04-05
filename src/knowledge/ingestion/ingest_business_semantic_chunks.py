@@ -1,0 +1,137 @@
+"""
+ingest_business_semantic_chunks.py
+====================================
+ĐẶT FILE NÀY TẠI: src/knowledge/ingestion/ingest_business_semantic_chunks.py
+
+Nạp business/research semantic chunks vào ChromaDB với multilingual embedding.
+Business chunks = báo cáo WWF, IFC, CBAM, nghiên cứu học thuật, v.v.
+
+[FIX-5] Dùng paraphrase-multilingual-mpnet-base-v2 thay default embedding
+        → hỗ trợ song ngữ Anh-Việt, dim=768
+        → PHẢI dùng cùng model với ingest_legal để vector space nhất quán
+"""
+
+import json
+import logging
+import chromadb
+from chromadb.utils.embedding_functions import SentenceTransformerEmbeddingFunction
+from pathlib import Path
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s"
+)
+
+# ================= CONFIG =================
+BUSINESS_DIR    = Path("data/processed/chunks/business_semantic")
+COLLECTION_NAME = "carbon_policy_textile_vn"
+BATCH_SIZE      = 32
+EMBEDDING_MODEL = "paraphrase-multilingual-MiniLM-L12-v2"
+
+# ================= MAIN =================
+def main():
+    client = chromadb.HttpClient(host="localhost", port=8000)
+    print(f" ChromaDB connected — heartbeat: {client.heartbeat()}")
+
+    # [FIX-5] Multilingual embedding function — PHẢI cùng model với legal
+    embedding_fn = SentenceTransformerEmbeddingFunction(
+        model_name=EMBEDDING_MODEL
+    )
+    logging.info(f" Embedding model: {EMBEDDING_MODEL}")
+
+    collection = client.get_or_create_collection(
+        name=COLLECTION_NAME,
+        embedding_function=embedding_fn,
+        metadata={
+            "domain":          "carbon_policy",
+            "country":         "Vietnam",
+            "sector":          "textile_garment",
+            "chunk_level":     "paragraph",
+            "embedding_model": EMBEDDING_MODEL,
+        }
+    )
+    logging.info(f" Collection '{COLLECTION_NAME}' ready")
+
+    existing     = collection.get(include=[])
+    existing_ids = set(existing["ids"])
+    logging.info(f" Existing documents in collection: {len(existing_ids)}")
+
+    business_files = sorted(BUSINESS_DIR.glob("*_paragraphs.json"))
+    logging.info(f" Found {len(business_files)} business files in {BUSINESS_DIR}")
+
+    if not business_files:
+        logging.error(f" No files found in {BUSINESS_DIR}. Check path.")
+        return
+
+    documents, metadatas, ids = [], [], []
+    doc_counter  = 0
+    skip_counter = 0
+
+    for file in business_files:
+        data        = json.loads(file.read_text(encoding="utf-8"))
+        source_file = data.get("source_file", file.stem)
+
+        # Business chunks có thể dùng key "paragraphs" hoặc "chunks"
+        chunks = data.get("paragraphs", data.get("chunks", []))
+
+        for i, chunk in enumerate(chunks):
+            if isinstance(chunk, str):
+                text       = chunk.strip()
+                meta_extra = {}
+            elif isinstance(chunk, dict):
+                text       = chunk.get("text", chunk.get("content", "")).strip()
+                meta_extra = {
+                    "section": str(chunk.get("section", "")),
+                    "page":    str(chunk.get("page", "")),
+                }
+            else:
+                continue
+
+            if not text:
+                continue
+
+            doc_counter += 1
+            chunk_id = f"biz_{source_file[:40]}_{i}_{doc_counter}"
+
+            if chunk_id in existing_ids:
+                skip_counter += 1
+                continue
+
+            documents.append(text)
+            metadatas.append({
+                "source_file": source_file,
+                "agent":       "business",
+                "law":         "",
+                "article":     "",
+                "clause":      "",
+                "clause_type": "paragraph",
+                "domains":     "business,research",
+                "subjects":    "enterprise",
+                **meta_extra,
+            })
+            ids.append(chunk_id)
+
+    total = len(documents)
+    logging.info(f"New business chunks to ingest: {total} (skipped: {skip_counter})")
+
+    if total == 0:
+        logging.warning("No new chunks to add.")
+        return
+
+    for i in range(0, total, BATCH_SIZE):
+        collection.add(
+            documents=documents[i:i+BATCH_SIZE],
+            metadatas=metadatas[i:i+BATCH_SIZE],
+            ids=ids[i:i+BATCH_SIZE]
+        )
+        logging.info(
+            f"Batch {i//BATCH_SIZE + 1} ingested "
+            f"({min(i+BATCH_SIZE, total)}/{total})"
+        )
+
+    logging.info("Business ingestion completed successfully")
+    logging.info(f"Total in collection now: {collection.count()}")
+
+
+if __name__ == "__main__":
+    main()
